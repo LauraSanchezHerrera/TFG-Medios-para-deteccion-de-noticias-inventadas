@@ -1,0 +1,178 @@
+Estudio de la noticia EL MUNDO-599
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-600 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-599 es el mismo artÌculo que la noticia EL MUNDO-600
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+        - https://www.elmundo.es/pais-vasco/2021/11/25/619f7a30fdddffcead8b4578.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/24
+        - 2021/11/25
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-600'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-600'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-599': {'EL MUNDO-600'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-600
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-584 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-600 es el mismo artÌculo que la noticia EL MUNDO-584
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 9 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/11/24
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-599 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-600 es el mismo artÌculo que la noticia EL MUNDO-599
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/25/619f7a30fdddffcead8b4578.html
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/25
+        - 2021/11/24
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-602 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-600 es el mismo artÌculo que la noticia EL MUNDO-602
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/23/619cdd3a21efa0b35e8b4585.html
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/23
+        - 2021/11/24
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-599', 'EL MUNDO-602'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-599': {'EL MUNDO-600'}, 'EL MUNDO-600': {'EL MUNDO-599', 'EL MUNDO-602'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-602'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-599', 'EL MUNDO-602', 'EL MUNDO-600'}
+
+Estudio de la noticia EL MUNDO-602
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-600 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-602 es el mismo artÌculo que la noticia EL MUNDO-600
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+        - https://www.elmundo.es/pais-vasco/2021/11/23/619cdd3a21efa0b35e8b4585.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/24
+        - 2021/11/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-600'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-599': {'EL MUNDO-600'}, 'EL MUNDO-600': {'EL MUNDO-599', 'EL MUNDO-602'}, 'EL MUNDO-602': {'EL MUNDO-600'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-599', 'EL MUNDO-602', 'EL MUNDO-600'}
+{'EL MUNDO-599': {'EL MUNDO-600'}, 'EL MUNDO-600': {'EL MUNDO-599', 'EL MUNDO-602'}, 'EL MUNDO-602': {'EL MUNDO-600'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-599
+1: EL MUNDO-600
+2: EL MUNDO-602
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.7373868  1.        ]
+ [0.78609626 0.         0.74604496]
+ [1.         0.79495472 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-599 -> EL MUNDO-600: 0.7373868046571799. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-599 para aÒadirla a la noticia EL MUNDO-600 :394
+         EL MUNDO-600 -> EL MUNDO-599: 0.786096256684492. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-599 para aÒadirla a la noticia EL MUNDO-600 :388
+
+         EL MUNDO-600 -> EL MUNDO-599: 0.786096256684492. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-600 para aÒadirla a la noticia EL MUNDO-599 :388
+         EL MUNDO-599 -> EL MUNDO-600: 0.7373868046571799. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-600 para aÒadirla a la noticia EL MUNDO-599 :394
+
+         EL MUNDO-600 -> EL MUNDO-602: 0.746044962531224. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-600 para aÒadirla a la noticia EL MUNDO-602 :293
+         EL MUNDO-602 -> EL MUNDO-600: 0.794954721862872. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-600 para aÒadirla a la noticia EL MUNDO-602 :305
+
+         EL MUNDO-602 -> EL MUNDO-600: 0.794954721862872. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-602 para aÒadirla a la noticia EL MUNDO-600 :305
+         EL MUNDO-600 -> EL MUNDO-602: 0.746044962531224. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-602 para aÒadirla a la noticia EL MUNDO-600 :293
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-599 
+TÌtulo: 
+Urkullu: "Yo no he criticado al juez Luis Garrido" | PaÌs Vasco
+Fecha: 
+2021-11-25T12:15:37Z
+Autor: JOSEAN IZARRA
+Contenido: El lehendakari I√±igo Urkullu ha ofrecido hoy las primeras explicaciones del giro de 180 grados dado por el Gobierno vasco al decidir ahora recurrir ante el Tribunal Supremo la negativa de los jueces vascos a permitir el uso del pasaporte Covid en Euskadi. Urkullu es ahora partidario de que el Alto Tribunal "unifique" criterios jur√≠dicos diferentes en los jueces auton√≥micos tras negarse durante meses a utilizar esta v√≠a para no "judicializar" las medidas contra la pandemia. Urkullu, que arremeti√≥ el 15 de septiembre contra el presidente de la Sala de lo Contencioso-Administrativo Luis Garrido, lo niega ahora. "Yo no he criticado al juez Garrido, yo he criticado decisiones del Tribunal Superior de Justicia del Pa√≠s Vasco y no voy a entrar en pol√©micas personales", ha afirmado al incorporarse al pleno del Parlamento Vasco.El lehendakari Urkullu ha realizado unas breves declaraciones ante los medios en la entrada de la C√°mara para intentar explicar por qu√© el Gobierno vasco ha dado un giro de 180 grados en su estrategia jur√≠dica y ahora s√≠ est√° dispuesto a acudir al Tribunal Supremo frente a decisiones adoptadas por el Tribunal Superior de Justicia del Pa√≠s Vasco (TSJPV). Una pirueta que Urkullu y su consejera Gotzone Sagardui han protagonizado en apenas 24 horas y que ahora justifican porque ni en la Comisi√≥n de Sanidad celebrado en la tarde del martes ni en el Consejo Interterritorial se aceptaron las propuestas de imponer la obligatoriedad de las mascarillas en toda Espa√±a o la regulaci√≥n del uso del pasaporte Covid-19.Urkullu ha reconocido que el cambio de criterio se llev√≥ a cabo en la ma√±ana de ayer mi√©rcoles despu√©s de la Comisi√≥n de Salud del martes y antes del Consejo Interterritorial celebrado en la tarde de ayer. "A veces hay que reconsiderar las decisiones", ha asumido Urkullu ante los medios. El lehendakari en sus explicaciones ha confundido ambos √≥rganos de participaci√≥n de las comunidades aut√≥nomas y el Gobierno central que se ha utilizado como modelo de la "cogobernanza" utilizada por de presidente S√°nchez durante la pandemia. El lehendakari conf√≠a en una resoluci√≥n favorable del Supremo para activar la utilizaci√≥n del pasaporte Covid en el acceso a restaurantes de m√°s de 50 comensales y en locales nocturnos tras un dictamen contrario de la sala de lo Contencioso Administrativo del TSJPV que cont√≥ con un voto particular en contra del magistrado Luis Garrido. El juez fue puesto en la picota p√∫blica por haber formado parte de los tribunales que han abortado la aplicaci√≥n de varias medidas restrictivas impulsadas por el Gobierno vasco como el cierre de locales de hosteler√≠a en los municipios con alta incidencia del Covid-19. Urkullu realiz√≥ una referencia expl√≠cita sobre el magistrado Garrido sin mencionarle expresamente durante un acto p√∫blico en la Universidad de Deusto el pasado mes de septiembre al cuestionar el papel de jueces que "menosprecian a la ciencia", en relaci√≥n a unas declaraciones en una tertulia radiof√≥nica de Garrido sobre la formaci√≥n universitaria de los epidemi√≥logos. El magistrado pidi√≥ disculpas p√∫blicas el 15 de febrero pero eso no evit√≥ que cargos institucionales del PNV como Urkullu y portavoces nacionalistas le se√±alaran directamente por los fallos dictados por diferentes tribunales del TSJPV. El lehendakari Urkullu ha constatado, adem√°s, que no se ha puesto en contacto con Pedro S√°nchez para reclamarle que dicte una norma que obligue al uso de las mascarillas tambi√©n en exteriores, una recomendaci√≥n que Urkullu se aplica a rajatabla. Enfadado con el presidente tras su √∫ltima presencia en Euskadi, Urkullu ha evitado llamar a La Moncloa o, en su defecto, enviarle otra carta aunque s√≠ les traslad√≥ sus propuestas tanto a la vicepresidenta Nadia Calvi√±o y al delegado del Gobierno Denis Itxaso durante el encuentro que mantuvieron el lunes durante la visita a Euskadi de Felipe VI al participar en un foro de directivos de grandes empresas europeas organizado por el presidente de Iberdrola Ignacio S√°nchez Gal√°n.
+
+
+EL MUNDO-600 
+TÌtulo: 
+Urkullu da la razÛn a Mendia y reclama al Supremo utilizar el pasaporte Covid 24 horas despuÈs de descartarlo | PaÌs Vasco
+Fecha: 
+2021-11-24T22:25:44Z
+Autor: JOSEAN IZARRA
+Contenido: El lehendakari I√±igo Urkullu ha protagonizado una inesperada pirueta pol√≠tica y tras a√±o y medio neg√°ndose a "judicializar" la lucha contra la pandemia cambia de criterio y reclama al Tribunal Supremo que le permita activar el pasaporte Covid que le rechazaron los jueces vascos. La presentaci√≥n del recurso ante el Alto Tribunal dividi√≥ al Gobierno de PNV y PSE-EE ya que la vicelehendakari Idoia Mendia y el nuevo l√≠der del PSE-EE Eneko Andueza defendieron ayer la conveniencia de reclamar la intervenci√≥n del Supremo.El Gobierno vasco ha anunciado esta tarde el recurso ante el Supremo cuando apenas hab√≠an pasado 24 horas desde que la consejera Gotzone Sagardui descartara esta iniciativa judicial. Sagardui repiti√≥ la consigna ordenada por Urkullu y, en teor√≠a, fue reiterada de nuevo tras la reuni√≥n del consejo de gobierno celebrado ayer en Vitoria. Pero ni Urkullu ni Sagardui han dado hoy la cara para explicar la rectificaci√≥n de un criterio que el lehendakari hab√≠a mantenido sin inmutarse dentro de un liderazgo institucional que comienza a tambalearse en esta ola "de los no vacunados" que incrementa exponencialmente los contagios en Euskadi.Porque el liderazgo institucional ostentado durante la emergencia sanitaria fue compartido con otros responsables institucionales del PNV como los tres diputados generales y el presidente de Eudel y alcalde de Vitoria Gorka Urtaran que tras el pasado 7 de octubre anunciaron la convocatoria de todo tipo de festejo tradicional en una sorprendente carrera por ser el primero en llenar las calles de personas y tenderetes.Mes y medio despu√©s, el Gobierno vasco se prepara para declarar de nuevo la emergencia sanitaria si se llegan a ocupar 50 camas en las Unidades de Cuidados Intensivos (UCIs) cuando seg√∫n los √∫ltimos datos ofrecidos ayer martes ascend√≠a ya a 31. La nota de prensa ofrecida por el Ejecutivo de Urkullu no actualiza los datos que se incorporar√°n a la documentaci√≥n que se remiti√≥ al Tribunal Superior de Justicia y resume en un p√°rrafo hueco las razones para hacer ahora todo lo contrario a lo que se defendi√≥ durante toda la pandemia."Pese al rechazo del TSJPV y la negativa del Gobierno espa√±ol a modificar la ley para fijar un criterio com√∫n sobre la aplicaci√≥n de este documento y ante la no adopci√≥n ayer de nuevas medidas por parte del Consejo Interterritorial de Salud, el Gobierno vasco va a agotar las posibilidades para establecer el certificado covid, ya que lo considera una medida que contribuye a la contenci√≥n de la transmisi√≥n del virus", reza el escrito oficial.El Gobierno vasco pretend√≠a haber contado con el visto bueno de los jueces vascos para utilizar el pasaporte Covid en el acceso a restaurantes y locales de ocio nocturno pero la Sala de lo Contencioso-Administrativo lo rechaz√≥ en un dictamen no compartido por el juez Luis Garrido que emiti√≥ un voto particular. Urkullu pretend√≠a que los locales de ocio nocturno y los due√±os de restaurantes con m√°s de 50 comensales exijan a todos sus clientes mayores de 12 a√±os que muestren la documentaci√≥n que acredita haber sido vacunados o pasaporte Covid para acceder a su interior.
+
+
+EL MUNDO-602 
+TÌtulo: 
+Urkullu, enfadado con Pedro S·nchez, le exige que obligue a llevar siempre la mascarilla e imponga el pasaporte Covid | PaÌs Vasco
+Fecha: 
+2021-11-23T12:25:30Z
+Autor: JOSEAN IZARRA
+Contenido: El lehendakari I√±igo Urkullu reclama que sea el presidente del Gobierno Pedro S√°nchez quien act√∫e para frenar el incremento de los contagios y ordene la utilizaci√≥n obligatoria en todo momento de la mascarilla, exija el uso del pasaporte Covid-19 para el acceso a lugares p√∫blicos y acelere tanto la tercera dosis como la vacunaci√≥n pedi√°trica. Urkullu, enfadado con los desplantes de S√°nchez, recibi√≥ ayer un duro varapalo por los jueces vascos que han rechazado la aplicaci√≥n del pasaporte Covid-19 en Euskadi ante la documentaci√≥n jur√≠dica presentada por el Gobierno vasco.El lehendakari I√±igo Urkullu mira directamente hacia Madrid mientras el coronavirus se desboca en Euskadi pese a que el 90% de los ciudadanos vascos mayores de 12 a√±os ya han recibido las dos dosis de vacunaci√≥n. El incremento de los contagios se ha disparado en una semana y la tasa de incidencia ya se sit√∫a en los 321,5 casos cuando hace una semana se situaban en 181,8 casos. S√≥lo en los √∫ltimas 24 horas se han registrado 785 casos, 176 enfermos ya est√°n hospitalizados y 31 contagiados m√°s se encuentran en las Unidades de Cuidados Intensivos (UCIs).Urkullu, adem√°s, ha impuesto en el Gobierno vasco que no se recurra el dictamen del Superior de Justicia vasco ante el Supremo que ha desestimado la utilizaci√≥n del pasaporte Covid-19 en Euskadi en funci√≥n de la documentaci√≥n presentada por el Departamento de Salud para solicitarla. La vicelehendakari socialista Idoia Mendia y el nuevo secretario general del PSE-EE Eneko Andueza s√≠ que han defendido la presentaci√≥n de ese recurso ante el Supremo pero, en minor√≠a en el Ejecutivo vasco, aceptan sin rechistar no hacerlo.El incremento de los contagios de produce cuando las relaciones entre Urkullu y S√°nchez no pasan por su mejor momento. El lehendakari manifest√≥ el pasado domingo su contrariedad por la visita de S√°nchez a Euskadi que, en principio, se limitaba a participar en el IX congreso del PSE-EE que certific√≥ la elecci√≥n de Eneko Andueza como secretario general. Pero S√°nchez incluy√≥ a √∫ltima hora una visita en domingo a la planta de Biolan Health sin que en el Gobierno vasco se conociera esta visita. Urkullu, como ha explicado hoy el portavoz Bingen Zupiria, le hab√≠a solicitado por carta a S√°nchez que el Gobierno de Espa√±a tendr√≠a que hacer una declaraci√≥n sobre el bombardeo de Gernika durante la Guerra Civil sin haber obtenido, de momento, respuesta.
+
+

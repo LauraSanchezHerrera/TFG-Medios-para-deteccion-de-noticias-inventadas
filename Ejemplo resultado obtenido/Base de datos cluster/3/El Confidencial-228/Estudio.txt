@@ -1,0 +1,228 @@
+Estudio de la noticia El Confidencial-228
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-230 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-228 es el mismo art�culo que la noticia El Confidencial-230
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-08/abierto-espana-golf-jon-rahm-wil-besseling-clasificacion_3304046/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-10/abierto-madrid-resultados-rafa-cabrera-bello-jon-rahm_3304448/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/10/08
+        - 2021/10/10
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia El Confidencial-229 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-228 es el mismo art�culo que la noticia El Confidencial-229
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-10/abierto-madrid-resultados-rafa-cabrera-bello-jon-rahm_3304448/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/09
+        - 2021/10/10
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-230', 'El Confidencial-229'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias El Confidencial-230 y El Confidencial-229:
+     No son la misma noticia.
+
+ - Comparo las noticias El Confidencial-229 y El Confidencial-230:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'El Confidencial-230', 'El Confidencial-229'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'El Confidencial-228': {'El Confidencial-230', 'El Confidencial-229'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-230
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-228 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-230 es el mismo art�culo que la noticia El Confidencial-228
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-10/abierto-madrid-resultados-rafa-cabrera-bello-jon-rahm_3304448/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-08/abierto-espana-golf-jon-rahm-wil-besseling-clasificacion_3304046/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/10/10
+        - 2021/10/08
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-229 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-230 es el mismo art�culo que la noticia El Confidencial-229
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-08/abierto-espana-golf-jon-rahm-wil-besseling-clasificacion_3304046/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/09
+        - 2021/10/08
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-228', 'El Confidencial-229'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-228': {'El Confidencial-230', 'El Confidencial-229'}, 'El Confidencial-230': {'El Confidencial-228', 'El Confidencial-229'}}
+
+Estudio de la noticia El Confidencial-229
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-228 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-229 es el mismo art�culo que la noticia El Confidencial-228
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-10/abierto-madrid-resultados-rafa-cabrera-bello-jon-rahm_3304448/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/10
+        - 2021/10/09
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-230 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-229 es el mismo art�culo que la noticia El Confidencial-230
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-08/abierto-espana-golf-jon-rahm-wil-besseling-clasificacion_3304046/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/08
+        - 2021/10/09
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-229 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-229 es el mismo art�culo que la noticia El Confidencial-229
+     Se trata de la misma noticia: 
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+        - https://www.elconfidencial.com/deportes/golf/2021-10-09/abierto-espana-rafa-cabrera-bello-jon-rahm-golf_3304311/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/10/09
+        - 2021/10/09
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 2 noticias similares:
+{'El Confidencial-228', 'El Confidencial-230'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-228': {'El Confidencial-230', 'El Confidencial-229'}, 'El Confidencial-230': {'El Confidencial-228', 'El Confidencial-229'}, 'El Confidencial-229': {'El Confidencial-228', 'El Confidencial-230'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-228', 'El Confidencial-230', 'El Confidencial-229'}
+{'El Confidencial-228': {'El Confidencial-230', 'El Confidencial-229'}, 'El Confidencial-230': {'El Confidencial-228', 'El Confidencial-229'}, 'El Confidencial-229': {'El Confidencial-228', 'El Confidencial-230'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-228
+1: El Confidencial-230
+2: El Confidencial-229
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.77730323 0.74549427]
+ [0.7602657  0.         0.74931731]
+ [0.71437198 0.7235474  0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-228 -> El Confidencial-230: 0.7773032336790726. Cantidad de informaci�n extra�da de la noticia El Confidencial-228 para a�adirla a la noticia El Confidencial-230 :353
+         El Confidencial-230 -> El Confidencial-228: 0.7602657004830918. Cantidad de informaci�n extra�da de la noticia El Confidencial-228 para a�adirla a la noticia El Confidencial-230 :385
+
+         El Confidencial-228 -> El Confidencial-229: 0.7454942654287274. Cantidad de informaci�n extra�da de la noticia El Confidencial-228 para a�adirla a la noticia El Confidencial-229 :454
+         El Confidencial-229 -> El Confidencial-228: 0.7143719806763285. Cantidad de informaci�n extra�da de la noticia El Confidencial-228 para a�adirla a la noticia El Confidencial-229 :461
+
+         El Confidencial-230 -> El Confidencial-228: 0.7602657004830918. Cantidad de informaci�n extra�da de la noticia El Confidencial-230 para a�adirla a la noticia El Confidencial-228 :385
+         El Confidencial-228 -> El Confidencial-230: 0.7773032336790726. Cantidad de informaci�n extra�da de la noticia El Confidencial-230 para a�adirla a la noticia El Confidencial-228 :353
+
+         El Confidencial-230 -> El Confidencial-229: 0.7493173129437466. Cantidad de informaci�n extra�da de la noticia El Confidencial-230 para a�adirla a la noticia El Confidencial-229 :447
+         El Confidencial-229 -> El Confidencial-230: 0.7235474006116208. Cantidad de informaci�n extra�da de la noticia El Confidencial-230 para a�adirla a la noticia El Confidencial-229 :440
+
+         El Confidencial-229 -> El Confidencial-228: 0.7143719806763285. Cantidad de informaci�n extra�da de la noticia El Confidencial-229 para a�adirla a la noticia El Confidencial-228 :461
+         El Confidencial-228 -> El Confidencial-229: 0.7454942654287274. Cantidad de informaci�n extra�da de la noticia El Confidencial-229 para a�adirla a la noticia El Confidencial-228 :454
+
+         El Confidencial-229 -> El Confidencial-230: 0.7235474006116208. Cantidad de informaci�n extra�da de la noticia El Confidencial-229 para a�adirla a la noticia El Confidencial-230 :440
+         El Confidencial-230 -> El Confidencial-229: 0.7493173129437466. Cantidad de informaci�n extra�da de la noticia El Confidencial-229 para a�adirla a la noticia El Confidencial-230 :447
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-228 
+T�tulo: 
+Golf: Rafa Cabrera Bello conquista el Abierto de Madrid ante la frustraci�n de Jon Rahm
+Fecha: 
+2021-10-10T18:55:00+02:00
+Autor: EFE
+Contenido:   El golfista canario Rafa Cabrera Bello, que recientemente perdió la tarjeta PGA, sacó a relucir su mejor versión de juego en el Abierto de España disputado en el Club de Campo de Madrid y se llevó el triunfo en un torneo en el que el gran favorito, Jon Rahm, se quedó muy lejos de la victoria y se marchó "frustrado". Lastrado por el mal resultado de la tercera jornada, en el que se quedó a seis golpes del liderato, el de Barrika, tuvo que apelar a una épica que no dio ni un solo atisbo de convertirse en realidad el último día y que le impidió cumplir el sueño que tenía de igualar a Severiano Ballesteros como triple ganador del campeonato.
+
+Como ya ocurrió en el Abierto de Irlanda hace dos años, cuando Rahm remontó seis golpes a Cabrera Bello en la jornada final, el golfista vasco se encomendó a esos recuerdos para tratar de hacer la machada, aunque pronto sus ilusiones se desvanecieron. En el hoyo 2 realizó un 'bogey' y en el siete otro. "Me voy frustrado", confesó después. Fue entonces cuando la victoria realmente pasó a ser cosa de dos, del barcelonés Adrián Arnaus y el canario Rafa Cabrera Bello. Ambos protagonizaron un bonito duelo que se tuvo que resolver en un hoyo de desempate en el que el canario estuvo más acertado, en parte también a su oficio como veterano.          Doce millones de dólares y una decepción: el año en el que Jon Rahm se hizo mayor    Pedro Cifuentes    Hasta ese desempate, fueron alternándose ventajas mínimas en una jornada en la que Cabrera Bello comenzó con dudas debido a un 'doble bogey'. Después cuatro 'birdies' y un hoyo final en el que salvó una bola de partido debido a un fallo de Arnaus cuando tenía la victoria a tiro. El barcelonés jugó muy seguro todo el día salvo en el momento clave, en el que dos errores le dejaron con la miel en los labios. Arnaus, que acarició su primer título como profesional, completó una jornada con dos 'eagles', dos 'birdies' y dos 'bogey'. Un registro que le permitió acabar con 67 golpes (-4) y, sobre todo, muy buenas sensaciones en su continuo crecimiento jugador.
+
+La otra cara de la moneda fue la de Cabrera Bello, subcampeón en 2019 y que ahora, dos años después, aprovechó su oportunidad tras su brillante tercera jornada para coronarse campeón. El golfista canario, profesional desde 2005, escribió su nombre con letras de oro en el Abierto de España, un título que se une en su palmarés a otros tres del Circuito Europeo (Open de Austria en 2009, Omega Dubai Dessert Classic en 2012 y Open de Escocia en 2017), así como su contribución a la victoria del equipo europeo en la Copa Eurasia de 2018.
+
+Otro de los golfistas españoles más destacados fue el joven amateur David Puig, que, a sus 19 años, firmó 70 golpes (-1) en la última jornada, en la que incluso realizó un 'eagle', y cerró su participación en el Abierto de España con 274 golpes (-10). Un día más, el buen tiempo acompañó al seguimiento de los golfistas, sobre todo de los españoles, que fueron los que más aplausos se llevaron por parte de los más de diez mil aficionados que acudieron al Club de Campo Villa de Madrid y que agotaron las entradas disponibles. Entre los que acudieron a presenciar la final estuvo Gareth Bale, jugador galés del Real Madrid y reconocido aficionado al golf.  
+
+
+El Confidencial-230 
+T�tulo: 
+Golf: A Jon Rahm le sale un rival 'inesperado': Besseling se cuela en la fiesta del espa�ol
+Fecha: 
+2021-10-08T20:01:00+02:00
+Autor: EFE
+Contenido:   Jon Rahm, número uno del mundo, concluyó la segunda jornada del Abierto de España que se disputa en el Club de Campo Villa de Madrid con 67 golpes (-4), un registro que le hizo subir un puesto para situarse segundo de la clasificación que lidera el neerlandés Wil Besseling. Besseling cerró la segunda jornada con 65 golpes (-6), una cifra que, unida a los 64 (-7) del primer día, le hacen ser, por el momento, el mejor.
+
+El neerlandés se apoyó en sus seis 'birdies' para concluir una jornada ideal en la que desbancó de la primera posición al inglés Ross McGowan, que en el primer día sacó a relucir su mejor juego para presentar una tarjeta de 61 golpes (-10) que no pudo mantener en su segunda aparición con 70 (-1). Aún así, McGowan, que realizó un 'bogey' en el hoyo 3 y un 'doble bogey' en el 6, se quedó tercero sostenido por la inercia que traía de la jornada precedente.    Todas las miradas volvieron a estar puestas, de nuevo, en el golfista vasco Jon Rahm, que realizó un 'eagle' en el hoyo 14, al igual que el primer día, pero que empeoró su resultado por un 'bogey' en el 16. Aún así, el golfista de Barrika volvió a dejar detalles de su calidad con su estrategia en el último hoyo, en el que primero realizó un lanzamiento que dejó la bola al filo de la trasera del marcador electrónico para, después, acercarla con otro lanzamiento preciso que le permitió realizar un 'birdie' en el mismo punto dónde el día anterior hizo 'bogey'.         Así será el mayor campo de golf urbano de España: sostenible y a 15 minutos de Madrid    EC Brands    Rahm, encuadrado en su grupo con el austríaco Bernd Wiesberger y con el francés Víctor Pérez, fue el jugador más vitoreado por el público español, que siguió cada paso dado por el césped del Club de Campo. La complicidad con el público es total y cada gesto suyo fue correspondido con aplausos o con un silencio total si la mirada era más de reprobación hacía los laterales.
+
+En esta edición, Rahm aspira a repetir los triunfos de 2018 y 2019 para igualar con tres títulos al legendario Severiano Ballesteros, que consiguió subir a lo más alto del podium en 1981, 1985 y 1995. Al tercer puesto ascendió otro español, Adrián Arnaus, cuarto en Madrid en 2019 y que presentó su candidatura al podium con 64 golpes (-7) en la segunda jornada, mejorando en tres los 67 (-4) del primer día y quedándose con -11.
+
+Del apoyo de la afición española también se beneficiaron el canario Rafa Cabrera Bello y el catalán Pablo Larrazábal, que completaron una buena jornada para situarse entre los diez primeros con un registro de -10 y -9, respectivamente. El 'efecto' por ver al golfista de Barrika se volvió a notar en esta segunda jornada, en la que se agotaron las diez mil entradas disponibles que marca como límite el European Tour.   Ese lleno total se notó en puestos de restauración repletos de gente y el aparcamiento del Club de Campo de nuevo completo. El buen tiempo también acompañó al seguimiento de los golfistas, sobre todo los españoles. La buena temperatura y el sol brillaron en el cielo de Madrid y fueron la estampa perfecta para que los aficionados al golf disfrutasen con el juego de los participantes, especialmente en los hoyos 8, 9 y 18, que fueron los más concurridos.  
+
+
+El Confidencial-229 
+T�tulo: 
+Golf: Cabrera Bello da una lecci�n en el Abierto de Espa�a en el hundimiento de Rahm
+Fecha: 
+2021-10-09T19:39:00+02:00
+Autor: EFE
+Contenido:   El golfista canario Rafa Cabrera Bello se está reencontrando con su mejor nivel en el Abierto de España que se disputa en el Club de Campo Villa de Madrid y, a falta de la última jornada para concluir el torneo, enfila como líder hacia una victoria que se le complica a Jon Rahm, que no tuvo su mejor día y está a seis golpes de su compatriota. Cabrera Bello, que recientemente perdió la tarjeta PGA Tour, va de menos a más en Madrid. En la primera jornada realizó seis 'birdies' y un 'bogey' y finalizó con 67 golpes (-4). En la segunda mejoró esos números y concluyó con 65 golpes (-6) y seis 'birdies' para firmar un total de 132 (-10).
+
+Con esas buenas sensaciones se presentó en la tercera jornada, en la que todo le salió bien. Con mucha confianza en su juego y arropado por la afición española, el golfista canario concluyó con siete 'birdies' y una tarjeta de 64 golpes (-7), que unida a la de los dos días anteriores le permite afrontar la última jornada con -17 y dos de ventaja sobre el francés Julien Guerrier. El jugador canario, profesional desde 2005, fue segundo en Madrid en 2019 y ahora, dos años después, sueña con subir a lo más alto del podium y brindar su triunfo a una afición que no le dejó de aplaudir este sábado desde el primer hoyo.          A Jon Rahm le sale un rival 'inesperado': Besseling se cuela en la fiesta del español    EFE    "Espero un día duro porque muchos jugadores van a salir con opciones aunque me veo con confianza. Me voy a centrar en lo mío, como vengo haciendo, y si juego bien tendré opciones de ganar", dijo Cabrera Bello, al término de la tercera jornada. Otro español que también ha presentado su candidatura a la victoria, o por lo menos al podium, es Adrián Arnaus, cuarto en Madrid en 2019. En la primera jornada realizó 67 golpes (-4) y en la segunda su rendimiento mejoró hasta el punto que contabilizó 64 golpes (-7), igual que la pasada semana en el Old Course de Saint Andrews, superando el corte cómodamente con -11.   En el tercer día de competición realizó cinco 'birdies' y esa buena progresión solo se vio frenada por un 'bogey' en el hoyo 12. "Me veo bastante bien. Estoy un poco abrumado por la situación pero estoy en una posición bonita en un Abierto de España que además es especial y tengo que aprovechar la oportunidad", confesó.           Jon Rahm, durante su participación en la tercera jornada del Abierto de España. (EFE)    El que no tuvo un buen día fue el gran favorito, Jon Rahm, número uno del mundo, que redujo drásticamente sus opciones de repetir las victorias de 2018 y 2019. El golfista vasco, que inició la jornada como segundo clasificado, quedó encuadrado para su grupo de partido con su compatriota Adrián Arnaus y el holandés Wil Besseling, que pasó en esta tercera jornada de líder a octavo con una tarjeta de +1 golpes.   En el hoyo 3, Rahm realizó un 'bogey' y en el cinco un 'doble bogey'. De esos dos fallos no se recompuso, pese a anotarse dos 'birdies' en el 7 y 9. En el 12 y 13 volvió a cometer dos fallos con sendos 'bogey' que le sacaron mentalmente de la partida aunque acabó con un 'birdie', el cuarto de la tarde, en el mismo sitió donde lo realizó la jornada precedente.
+
+Su desesperación quedó patente cuando, al término del hoyo 13, en el que hizo un 'bogey', sacó públicamente su frustración dando un golpe de rabia al suelo con su palo. A falta de la última jornada para acabar el Abierto de España, Jon Rahm es decimoquinto con un registro de 192 golpes (-11), a seis de Rafa Cabrera Bello. Por tercer día consecutivo, el buen tiempo acompañó al seguimiento de los golfistas, sobre todo de los españoles, que fueron los que más aplausos se llevaron. Diez mil personas acudieron al Club de Campo y volvieron a dotar de color a un campeonato que llega a su última jornada con varios aspirantes al triunfo.  
+
+

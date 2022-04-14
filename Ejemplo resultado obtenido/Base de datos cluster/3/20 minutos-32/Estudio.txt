@@ -1,0 +1,162 @@
+Estudio de la noticia 20 minutos-32
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia 20 minutos-33 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-32 es el mismo artículo que la noticia 20 minutos-33
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4916183/0/nuevo-proyecto-carlota-corredera-salvame/
+        - https://www.20minutos.es/noticia/4915538/0/la-tajante-reaccion-de-rocio-flores-al-conocer-el-inminente-estreno-de-en-el-nombre-de-rocio/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Tienen 1 días de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+La noticia es similar a la noticia 20 minutos-36 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-32 es el mismo artículo que la noticia 20 minutos-36
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4916353/0/antonio-david-flores-olga-moreno-reconciliados-super-enamorados/
+        - https://www.20minutos.es/noticia/4915538/0/la-tajante-reaccion-de-rocio-flores-al-conocer-el-inminente-estreno-de-en-el-nombre-de-rocio/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Tienen 1 días de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'20 minutos-33', '20 minutos-36'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artículo.
+
+Comprobando si es el caso...
+ - Comparo las noticias 20 minutos-33 y 20 minutos-36:
+     No son la misma noticia.
+
+ - Comparo las noticias 20 minutos-36 y 20 minutos-33:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'20 minutos-33', '20 minutos-36'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'20 minutos-32': {'20 minutos-33', '20 minutos-36'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia 20 minutos-33
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia 20 minutos-32 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-33 es el mismo artículo que la noticia 20 minutos-32
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4915538/0/la-tajante-reaccion-de-rocio-flores-al-conocer-el-inminente-estreno-de-en-el-nombre-de-rocio/
+        - https://www.20minutos.es/noticia/4916183/0/nuevo-proyecto-carlota-corredera-salvame/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Tienen 1 días de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+Comprobando si el mismo artículo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'20 minutos-32'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'20 minutos-32': {'20 minutos-33', '20 minutos-36'}, '20 minutos-33': {'20 minutos-32'}}
+
+Estudio de la noticia 20 minutos-36
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia 20 minutos-32 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-36 es el mismo artículo que la noticia 20 minutos-32
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4915538/0/la-tajante-reaccion-de-rocio-flores-al-conocer-el-inminente-estreno-de-en-el-nombre-de-rocio/
+        - https://www.20minutos.es/noticia/4916353/0/antonio-david-flores-olga-moreno-reconciliados-super-enamorados/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Tienen 1 días de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+Comprobando si el mismo artículo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'20 minutos-32'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'20 minutos-32': {'20 minutos-33', '20 minutos-36'}, '20 minutos-33': {'20 minutos-32'}, '20 minutos-36': {'20 minutos-32'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'20 minutos-33', '20 minutos-32', '20 minutos-36'}
+{'20 minutos-32': {'20 minutos-33', '20 minutos-36'}, '20 minutos-33': {'20 minutos-32'}, '20 minutos-36': {'20 minutos-32'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relación número noticia cluster - noticia***********
+
+0: 20 minutos-33
+1: 20 minutos-32
+2: 20 minutos-36
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.77154583 0.84498834]
+ [0.7891492  0.         0.8006993 ]
+ [0.84340321 0.76341128 0.        ]]
+
+***********Cantidad de información de una noticia a otra***********
+
+         20 minutos-33 -> 20 minutos-32: 0.771545827633379. Cantidad de información extraída de la noticia 20 minutos-33 para añadirla a la noticia 20 minutos-32 :155
+         20 minutos-32 -> 20 minutos-33: 0.7891491985203453. Cantidad de información extraída de la noticia 20 minutos-33 para añadirla a la noticia 20 minutos-32 :159
+
+         20 minutos-32 -> 20 minutos-33: 0.7891491985203453. Cantidad de información extraída de la noticia 20 minutos-32 para añadirla a la noticia 20 minutos-33 :159
+         20 minutos-33 -> 20 minutos-32: 0.771545827633379. Cantidad de información extraída de la noticia 20 minutos-32 para añadirla a la noticia 20 minutos-33 :155
+
+         20 minutos-32 -> 20 minutos-36: 0.8006993006993007. Cantidad de información extraída de la noticia 20 minutos-32 para añadirla a la noticia 20 minutos-36 :159
+         20 minutos-36 -> 20 minutos-32: 0.7634112792297112. Cantidad de información extraída de la noticia 20 minutos-32 para añadirla a la noticia 20 minutos-36 :160
+
+         20 minutos-36 -> 20 minutos-32: 0.7634112792297112. Cantidad de información extraída de la noticia 20 minutos-36 para añadirla a la noticia 20 minutos-32 :160
+         20 minutos-32 -> 20 minutos-36: 0.8006993006993007. Cantidad de información extraída de la noticia 20 minutos-36 para añadirla a la noticia 20 minutos-32 :159
+
+
+***********      Información de las noticias     ***********
+
+20 minutos-33 
+Título: 
+El nuevo proyecto de Carlota Corredera lejos de 'Sálvame'
+Fecha: 
+2021-12-04T14:38:42+01:00
+Autor: 20minutos
+Contenido: La presentadora Carlota Corredera es uno de los rostros m\u00e1s conocidos de Telecinco gracias a programas como S\u00e1lvame o la serie documental Roc\u00edo, contar la verdad para seguir viva, un espacio que empez\u00f3 conduciendo Jorge Javier V\u00e1zquez, pero que no tard\u00f3 en coger las riendas. La periodista gallega se ha convertido, adem\u00e1s, en imagen de la lucha contra la violencia machista e incluso ha recibido un galard\u00f3n en reconocimiento a su trabajo por parte de&nbsp;la Delegaci\u00f3n del Gobierno de Madrid. M\u00e1s all\u00e1 de estos proyectos en Telecinco, la presentadora se ha embarcado en una nueva aventura creando, junto a su marido, el c\u00e1mara&nbsp;Carlos de la Maza, su propia&nbsp;productora audiovisual.&nbsp; Seg\u00fan informa El Confidencial Digital, esta empresa, Alalba Audiovisual SL, fue creada el pasado mes de septiembre y en ella figuran como administradores solidarios Carlota Corredera y Carlos de la Maza. Esta sociedad, que cuenta con un&nbsp;capital social de 22.000 euros, naci\u00f3 con el objetivo de realizar \\u0022operaciones de c\u00e1maras de cine, televisi\u00f3n y v\u00eddeo\\u0022. Corredera, hasta ahora una de las presentadoras estrella de la productora La F\u00e1brica de la Tele, habr\u00eda ubicado su nueva empresa en el municipio madrile\u00f1o de Pozuelo de Alarc\u00f3n, en la misma direcci\u00f3n donde se encuentra la vivienda que la presentadora comparte con el c\u00e1mara, a quien conoci\u00f3 en S\u00e1lvame, y la hija que ambos tienen en com\u00fan.\
+
+
+20 minutos-32 
+Título: 
+La desafiante reacción de Rocío Flores al conocer el inminente estreno de 'En el nombre de Rocío'
+Fecha: 
+2021-12-03T17:35:44+01:00
+Autor: 20minutos
+Contenido: Carlota Corredera anunci\u00f3 en S\u00e1lvame que En el nombre de Roc\u00edo, la segunda parte de Roc\u00edo, contar la verdad para seguir viva, podr\u00eda estrenarse muy pronto. Y mientras&nbsp;Roc\u00edo Carrasco&nbsp;celebra la noticia con ilusi\u00f3n, su hija,&nbsp;Roc\u00edo Flores, prefiere no saber nada. La hija de Roc\u00edo Jurado atendi\u00f3 a lo medios de comunicaci\u00f3n este jueves, pocas horas despu\u00e9s de que Corredera diera el anuncio, y desvel\u00f3 que tiene \\u0022muchas\\u0022 ganas de que la segunda parte de su docuserie aterrice en Telecinco. No obstante, y como suele ocurrir,&nbsp;Roc\u00edo Flores&nbsp;no comparte la misma actitud que su progenitora. As\u00ed lo ha demostrado este viernes tras ser preguntada por los reporteros de Europa press.\\u0022No tengo miedo a nada. Y curiosidad tampoco. No tengo nada m\u00e1s que decir\\u0022, ha respondido la joven, que tambi\u00e9n se ha negado a hablar sobre la separaci\u00f3n de Antonio David Flores y Olga Moreno. \\u0022Les ten\u00e9is que preguntar a ellos\\u0022, ha zanjado. Estas declaraciones llegan despu\u00e9s de que la conductora de S\u00e1lvame advirtiera que, tras el estreno de En el nombre de Roc\u00edo, iban a suceder \\u0022cosas grandiosas\\u0022. En este proyecto,&nbsp;Roc\u00edo Carrasco hablar\u00e1 esta vez de la relaci\u00f3n que mantiene con su familia, un tema sobre el que romper\u00e1 su silencio despu\u00e9s de a\u00f1os.\
+
+
+20 minutos-36 
+Título: 
+Antonio David Flores y Olga Moreno están "reconciliados y súper enamorados"
+Fecha: 
+2021-12-04T19:43:36+01:00
+Autor: 20minutos
+Contenido: La ruptura anunciada entre Antonio David Flores y Olga Moreno podr\u00eda tener los d\u00edas contados. Aunque ninguno de los dos se ha manifestado al respecto, cada vez son m\u00e1s los rumores de una reconciliaci\u00f3n a la vista, y en este caso ha sido Carlos Alba, compa\u00f1ero de Moreno en Supervivientes, quien ha contado c\u00f3mo est\u00e1 la relaci\u00f3n entre ambos. \\u0022Yo los veo s\u00faper enamorados, est\u00e1n s\u00faper enamorados\\u0022, se ha referido Alba, gran amigo de Olga Moreno tras su participaci\u00f3n en el reality. En este sentido, el exconcursante sostiene que \\u0022si hay algo de separaci\u00f3n, volver\u00e1n\\u0022 a estar juntos, porque \\u0022se nota, se siente, son muchos a\u00f1os de convivencia\\u0022, ha asegurado. Asimismo, Carlos Alba ha asegurado que la pareja volver\u00e1 a dejarse ver junta muy pronto. \\u0022Yo lo doy por hecho, est\u00e1n todos muy unidos, con Roc\u00edo (Flores)... Eso no se puede ir de un d\u00eda para otro\\u0022, ha defendido. En todo caso, el exconcursante de Supervivientes sostiene que \\u0022lo importante es que ellos se reconcilien, que yo creo que est\u00e1n m\u00e1s que reconciliados, y yo me alegro por ellos\\u0022, ha concluido. Fue el mismo Antonio David quien, a finales de octubre, sali\u00f3 en p\u00fablico ante las c\u00e1maras para confirmar su separaci\u00f3n de Olga Moreno y acusar a S\u00e1lvame de haber destruido su matrimonio con su campa\u00f1a medi\u00e1tica.&nbsp;Desde entonces, la pareja no ha vuelto a aparecer junta en ning\u00fan acto p\u00fablico. En la manifestaci\u00f3n convocada en M\u00e1laga por la denominada 'marea azul' en apoyo a la familia Flores-Moreno por el supuesto acoso medi\u00e1tico, Antonio David y Olga Moreno decidieron acudir, pero por separado.&nbsp;\
+
+

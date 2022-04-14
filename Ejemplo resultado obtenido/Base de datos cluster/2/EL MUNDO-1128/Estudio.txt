@@ -1,0 +1,103 @@
+Estudio de la noticia EL MUNDO-1128
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-221 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1128 es el mismo art�culo que la noticia El Confidencial-221
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/ciclismo/2021-09-30/alejandro-valverde-regresa-lesion-victoria-sicilia_3299027/
+        - https://www.elmundo.es/deportes/ciclismo/2021/09/30/6155bdcefc6c833d208b45bd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/09/30
+        - 2021/09/30
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-221'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-221'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1128': {'El Confidencial-221'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-221
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1128 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-221 es el mismo art�culo que la noticia EL MUNDO-1128
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/ciclismo/2021/09/30/6155bdcefc6c833d208b45bd.html
+        - https://www.elconfidencial.com/deportes/ciclismo/2021-09-30/alejandro-valverde-regresa-lesion-victoria-sicilia_3299027/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/09/30
+        - 2021/09/30
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1128'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1128': {'El Confidencial-221'}, 'El Confidencial-221': {'EL MUNDO-1128'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-221', 'EL MUNDO-1128'}
+{'EL MUNDO-1128': {'El Confidencial-221'}, 'El Confidencial-221': {'EL MUNDO-1128'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-221
+1: EL MUNDO-1128
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75086505]
+ [0.78291815 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-221 -> EL MUNDO-1128: 0.7508650519031141. Cantidad de informaci�n extra�da de la noticia El Confidencial-221 para a�adirla a la noticia EL MUNDO-1128 :348
+         EL MUNDO-1128 -> El Confidencial-221: 0.7829181494661922. Cantidad de informaci�n extra�da de la noticia El Confidencial-221 para a�adirla a la noticia EL MUNDO-1128 :354
+
+         EL MUNDO-1128 -> El Confidencial-221: 0.7829181494661922. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1128 para a�adirla a la noticia El Confidencial-221 :354
+         El Confidencial-221 -> EL MUNDO-1128: 0.7508650519031141. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1128 para a�adirla a la noticia El Confidencial-221 :348
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-221 
+T�tulo: 
+Alejandro Valverde regresa de su lesi�n con victoria y ca�da en Sicilia
+Fecha: 
+2021-09-30T16:06:00+02:00
+Autor: EFE
+Contenido:   El español Alejandro Valverde (Movistar), con caída incluida tras atravesar la línea de meta, volvió a dar una lección de ciclismo adjudicándose con un ataque cerca de la línea la tercera etapa del Giro de Sicilia disputada entre Termini Imerese y Caronia, de 180 kilómetros, en la que además se enfundó el maillot de líder.
+Caída sin consecuencias, pero susto tremendo de Valverde, quien a sus 41 años volvió a demostrar el ciclismo que tiene en las piernas, logrando con autoridad la tercera victoria del año, la 130 de su trayectoria profesional.   😓 @alejanvalverde ha caído poco después de la meta tras su triunfo en la 3ª etapa de 🇮🇹 #IlGiroDiSicilia, al pasar por encima de un cubrecables.🗣️ "Un final inesperado... Vamos a ver qué tal dormimos y a ver cómo afrontamos la jornada de mañana". pic.twitter.com/I6XgYmvu4b— Movistar Team (@Movistar_Team) September 30, 2021   Valverde, quien se rompió la clavícula en la pasada Vuelta a España, se ha recuperado a la perfección, como demostró alzando los brazos en Sicilia, atacando como en sus mejores momentos en el momento decisivo. Ganó con un tiempo de 4h.42.29, por delante del Alesandro Covi (UAE Emirates) y del colombiano Jhonatan Restrepo (Androni). "Estoy muy contento con la victoria, pero prefiero no ganar y no caerme. Parece que cuando empiezas con las caídas no sabes cuando van a venir. Es cierto que hoy salimos para ganar la etapa y lo hemos conseguido. A ver cómo duermo y mañana a resistir para ver si puedo llevarme la carrera", dijo Valverde en meta, aún con el susto en el cuerpo tras una fea caída.   El ciclista murciano, campeón del Mundo en 2018, se puso al frente de la general con 7 segundos sobre Covi y 9 respecto a Restrepo a falta de una sola jornada para el final de la prueba siciliana. Una etapa complicada con 5 subidas y un final en alto que acumulaba 3.330 metros de desnivel. Movistar salió a jugar con la carta de Valverde y acertó de pleno. El equipo español controló perfectamente en los últimos 50 kms. La subida a Caronia (3,6km al 5,6 por ciento) conducía a meta. Fue el punto clave y decisivo. El ritmo de Movistar controlando al frente para Valverde redujo el grupo a unos 30 corredores. Rojas hizo la primera selección y Villella la segunda, con apenas 15 corredores por el triunfo.         Alejandro Valverde abandona la Vuelta tras una peligrosa caída por debajo de un guardarraíl    El Confidencial    Ataco McNulty (UAE Emirates), y luego Antonio Nibali, con su hermano Vincenzo con el sueño de ganar en casa, pero Movistar tenía clara la estrategia. En el momento marcado, a unos 250 metros de meta, tensó Valverde, se adelantó unos metros y llegó celebrando su tercer éxito de la temporada, tras el G.P Indurain y una etapa del Dauphiné.   Luego, el susto. Valverde traspasó la meta, en una curva miró hacia atrás y cayó de manera espectacular. Por suerte, se levantó y no sufrió daños mayores. Un regreso feliz, aunque accidentado. Mañana se disputa la cuarta y última etapa entre Sant'Agata di Militello Mascali 180 km.  
+
+
+EL MUNDO-1128 
+T�tulo: 
+Alejandro Valverde vuelve a lo grande: victoria, liderato y ca�da en Sicilia | Ciclismo
+Fecha: 
+2021-09-30T14:41:55Z
+Autor: LUCAS S�EZ-BRAVO
+Contenido: En el puerto del Collao, en pleno ataque, Alejandro Valverde se fue al suelo de mala manera, esquivando el guardarraíl por muy poco. Era la séptima etapa de la Vuelta a España, la que pretendía vestir de épica y la que le mandó para casa con una clavícula rota. A sus 41 años, cualquiera pudo intuir un final que él mismo despejó pronto. Con hechos (entrenando en el rodillo apenas unos días después) y con palabras (prometiendo un último baile en 2022).Era un 20 de agosto. Adiós a la temporada, dictaba la lógica. Al Mundial, a Roubaix... Pero el murciano hace tiempo que desafía a todos los elementos. Esta semana, en el Giro de Sicilia, se volvió a subir a la bici en competición. Sólo ha tardado tres etapas en ganar. Lo hizo en Caronia, un final en alto hecho a su medida. Algo menos de cuatro kilómetros con una pendiente media del 6%, después de una etapa con varias rampas, en la que pronto el Movistar intuyó que tendría oportunidad. Trabajó el equipo español y ya Valverde avisó en la primera bonificación, entrando el primero y apuntando al liderato que tenía hasta este miércoles el colombiano Molano, ganador de los dos sprints anteriores. Primero puso en fila al pequeño pelotón Marc Soler, después Juan José Rojas apretó en las primeras rampas y Einer Rubio continuó su trabajo hasta los ataques. Antonio Nibali (el hermano de Vicenzo), McNulty (ganador en Sicilia en 2019 y uno de los favoritos)... Fue Davide Villella el que atajó esas emboscadas y el propio Valverde el que inició el sprint, con el poderío de antaño, sin dejar resquicio a que nadie ni siquiera pusiera en duda su triunfo. Entró por delante de Alessandro Covi y de Jhonatan Restrepo, a los que aventaja en siete y nueve segundos respectivamente en la general. Es la victoria número 130 en la carrera del Bala, la tercera del curso tras el Gran Premio Miguel Indurain y la sexta etapa del Dauphiné. La que alivia la preocupante sequía del ciclismo nacional. Un triunfo que tardará en olvidar el murciano, el día que se cumplían exactamente tres años de su arcoíris en el Mundial de Innsbruck, también por la absurda caída que tuvo nada más cruzar la meta, cuando un bache le pilló mirando hacia detrás. Magullado en su codo izquierdo, aunque aparentemente sin nada graves. "Un final inesperado... "Mala fortuna por esa caída con los cables, pero creo que sin consecuencias. Vamos a ver qué tal dormimos y a ver cómo afrontamos la jornada de mañana", afirmó después, ya pensando en defender el liderato en la cuarta y última etapa del Giro de Sicilia.
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-925
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-926 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-925 es el mismo art�culo que la noticia EL MUNDO-926
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/27/61793daffdddff65498b45b9.html
+        - https://www.elmundo.es/economia/vivienda/2021/11/03/6182bf85fc6c83db468b460c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/03
+        - 2021/11/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-926'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-926'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-925': {'EL MUNDO-926'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-926
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-925 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-926 es el mismo art�culo que la noticia EL MUNDO-925
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/11/03/6182bf85fc6c83db468b460c.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/27/61793daffdddff65498b45b9.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/03
+        - 2021/11/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-925'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-925': {'EL MUNDO-926'}, 'EL MUNDO-926': {'EL MUNDO-925'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-925', 'EL MUNDO-926'}
+{'EL MUNDO-925': {'EL MUNDO-926'}, 'EL MUNDO-926': {'EL MUNDO-925'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-925
+1: EL MUNDO-926
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.7331434 ]
+ [0.73288382 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-925 -> EL MUNDO-926: 0.7331433998100665. Cantidad de informaci�n extra�da de la noticia EL MUNDO-925 para a�adirla a la noticia EL MUNDO-926 :550
+         EL MUNDO-926 -> EL MUNDO-925: 0.7328838174273858. Cantidad de informaci�n extra�da de la noticia EL MUNDO-925 para a�adirla a la noticia EL MUNDO-926 :503
+
+         EL MUNDO-926 -> EL MUNDO-925: 0.7328838174273858. Cantidad de informaci�n extra�da de la noticia EL MUNDO-926 para a�adirla a la noticia EL MUNDO-925 :503
+         EL MUNDO-925 -> EL MUNDO-926: 0.7331433998100665. Cantidad de informaci�n extra�da de la noticia EL MUNDO-926 para a�adirla a la noticia EL MUNDO-925 :550
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-925 
+T�tulo: 
+El Constitucional salva a los alcaldes de tener que devolver millones de euros del impuesto de plusval�a | Vivienda
+Fecha: 
+2021-11-03T17:53:04Z
+Autor: MAR�A HERN�NDEZ
+Contenido: Los ayuntamientos españoles se han quedado, por el momento, sin su segunda fuente principal de ingresos después de que el Tribunal Constitucional haya publicado este miércoles la sentencia por la que anula el llamado impuesto de plusvalía municipal (Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana). Sin embargo, el mismo fallo salva a los consistorios ante el esperable aluvión de reclamaciones que podría costar millones de euros a las arcas municipales teniendo en cuenta que cada año ingresan por este tributo alrededor de 2.500 millones de euros.La sentencia trata de evitar esta situación al acotar muy estrechamente los casos en los que los contribuyentes podrán reclamar la devolución del tributo a partir de ahora. El texto anula la fórmula de cálculo del gravamen pero establece que "no pueden considerarse situaciones susceptibles de ser revisadas con fundamento en esta sentencia aquellas obligaciones tributarias devengadas por este impuesto, que a la fecha de dictarse la misma -26 de octubre- hayan sido decididas definitivamente mediante sentencia con fuerza de cosa juzgada o mediante resolución administrativa firme".En este sentido, el tribunal aclara que tendrán también la consideración de "situaciones consolidadas" las liquidaciones provisionales o definitivas de la plusvalía que no hayan sido impugnadas a la fecha de dictarse sentencia.Por tanto, podrán reclamar todas las liquidaciones y autoliquidaciones que se hayan reclamado y no hayan tenido respuesta (esto quiere decir que no son firmes). Además, aquellas liquidaciones y autoliquidaciones que se liquiden desde el 26 de octubre hasta que haya un nuevo método de cálculo son nulas de pleno derecho, por lo que hasta que no tengan un nuevo método para calcular el impuesto no deben liquidarlo.Por el contrario, no se podrán reclamar las liquidaciones o autoliquidaciones que no se haya reclamadoantes de la sentencia ni aquellas sentencias o resoluciones administrativas firmes, es decir, sentencias y resoluciones administrativas que no se hayan recurrido en su momento. Desde el equipo legal de Reclamador.es destacan la "desigualdad" que la resolución genera entre los contribuyentes, "pues deja fuera a cientos de miles de contribuyentes en la devolución de lo que en su día pagaron por este impuesto". El magistrado Cándido Conde-Pumpido Tourón también se refiere a este aspecto en el voto particular que establece en el fallo, según el cual la sentencia provoca una desigualdad entre los contribuyentes puesto que no se van a ver favorecidos los que pagaron el impuesto sin presentar reclamación ni rectificación de autoliquidación alguna, atendiendo a la situación de confianza legítima que generaron los anteriores pronunciamientos del Tribunal en los que declaró que el impuesto era conforme con la Constitución en su configuración actual. Precisamente esa desigualdad y la ausencia de retroactividad de la sentencia ha generado bastante disconformidad en organizaciones como Asufin (Asociación de Usuarios Financieros), donde han comenzado a estudiar las posibles vías de reclamación de las autoliquidaciones efectuadas en los últimos cuatro años "dado que hay herramientas jurídicas dentro de la normativa fiscal que permiten reabrir el caso".Según sus primeras conclusiones, la normativa fiscal permite presentar una rectificación de la autoliquidación o una declaración complementaria para subsanar errores en perjuicio de la Hacienda Pública. "De esta manera, se abriría un nuevo procedimiento de reclamación que la Administración estará obligada a responder y, esperamos, lo haga en beneficio del contribuyente que no reclamó", apuntan desde la organización. "No nos parece de recibo que el Tribunal Constitucional premie a los que sistemáticamente recurren el pago de impuestos y castigue a aquellos ciudadanos que confían en que la Administración está cobrando correctamente" declara Patricia Suárez, presidenta de Asufin. En todo caso, los efectos de la sentencia son inmediatos y en cuanto se publique en el BOE (Boletín Oficial del Estado), no se podrá cobrar la plusvalía en ninguna operación de compraventa de inmuebles.Respecto a la no retroactividad que incorpora la sentencia del TC, creen que "podría ser tumbada por Europa, como ya sucedió con el fallo del Supremo relativo a la cláusula suelo". 
+
+
+EL MUNDO-926 
+T�tulo: 
+Impuesto de plusval�a: el contribuyente s�lo podr� pedir su devoluci�n si lo impugn� antes de la anulaci�n | Vivienda
+Fecha: 
+2021-11-03T12:37:46Z
+Autor: MAR�A HERN�NDEZ
+Contenido: El Tribunal Constitucional ha publicado este miércoles la esperada sentencia sobre su decisión de anular el impuesto de plusvalía municipal por el que los ayuntamientos españoles ingresaban casi 2.500 millones de euros cada año. Considera que el método de cálculo de la base imponible es inconstitucional y la decisión ha generado un sinfín de dudas e interrogantes entre los contribuyentes. Tratamos de aclarar algunas claves:El impuesto de plusvalía es una tasa de titularidad municipal que se aplica en todos los casos de traspaso de un inmueble a otra persona, ya sea una venta, una herencia o una donación. Hay que pagarlo en 30 días, salvo en las herencias que el plazo de pago es de seis meses y se fija de manera automática multiplicando el valor catastral del suelo de cada casa por unos coeficientes que establece cada consistorio en función de los años de tenencia de ese inmueble. Es decir, de los años que la hayas tenido en tu poder si eres la parte vendedora, porque en el caso de una venta es la parte vendedora quien lo abona.No. El impuesto no podrá exigirse a las transmisiones que se hayan realizado a partir de la decisión del TC y hasta que se establezca un nuevo método de cálculo.Según la sentencia del Tribunal Constitucional, "no pueden considerarse situaciones susceptibles de ser revisadas aquellas obligaciones tributarias devengadas por este impuesto que, a la fecha de dictarse la misma [26 de octubre de 2021], hayan sido decididas definitivamente mediante sentencia con fuerza de cosa juzgada o mediante resolución administrativa firme".Por tanto, sólo podrán reclamar aquellos contribuyentes que antes de dictarse el fallo tuvieran ya abierto un recurso. Tampoco hay opciones para todas las liquidaciones y autoliquidaciones que hasta la fecha no hayan sido impugnadas y cuya rectificación no se haya solicitado. El fallo no tiene efectos retroactivos con lo que se cierra la puerta a las reclamaciones masivas.Tal y como especifica Carlos de la Sierra, abogado experto en derecho fiscal de Reclamador.es, "esto se traduce en que todos aquellos contribuyentes que no hubieran presentado ya un recurso, no lo podrán hacer ahora y, por tanto, no podrán recuperar lo pagado por el impuesto de plusvalía municipal, si bien del borrador de la sentencia también se deduce que el Tribunal no cierra la puerta a usar otras vías de reclamación, como viene siendo la habitual hasta ahora: cuando hay pérdidas en la transmisión del terreno urbano".La sentencia tiene efectos inmediatos, con lo cual ya no cabe posibilidad de que haya que pagar el impuesto tal y como estaba configurado hasta ahora. Es decir, en estos momentos los ayuntamientos no pueden cobrar este tributo a sus ciudadanos por ninguna de las operaciones a las que afecta.Carlos de la Sierra abunda aún más esta casuística. "En los casos en los que se transmita el terreno urbano desde la declaración de inconstitucionalidad hasta la reforma de la Ley de las Haciendas Locales, los contribuyentes se librarán de tener que abonar el impuesto", apunta.Es una de las grandes incógnitas y también uno de los mayores focos de críticas hacia la Agencia Tributaria. El Ministerio de Hacienda y Función Pública que dirige María Jesús Montero reaccionó poco después de conocer la posición del TC y aseguró que "ultima un borrador legal para ofrecer seguridad jurídica a contribuyentes y certidumbre a los ayuntamientos".Desde Reclamador.es, Carlos de la Sierra explica que el tiempo "fundamentalmente va a depender del sistema que escojan para realizar el nuevo cálculo del impuesto de plusvalía. La solución más sencilla y rápida sería la comparación de los valores catastrales en el momento de adquisición del terreno con dichos valores en el momento de transmisión. No obstante, esperemos que no sea esta la solución que adopte el legislador ya que el Tribunal Supremo alertó en 2019 que dichos valores acostumbran a desligarse de los precios reales de mercado".En su opinión, "lo más correcto sería utilizar un método de comparación que tuviera en cuenta los precios reales de mercado, aunque dicho método es costoso y tardaría en elaborarse".Desde la Asociación de Usuarios Financieros (Asufin) apuntan que ahora la pelota está en el tejado de Hacienda, "que deberá establecer el nuevo sistema de cálculo" y afectará a los contribuyentes en función de lo que plantee y de cómo lo plantee, "por ejemplo, tendrá que determinar si tiene efectos retroactivos o no".Han tenido 4 años para hacerlo y no han preparado nada. Han estado cobrando este tiempo de manera injusta, incluso en casos de dación en pago.
+
+

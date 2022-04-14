@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-694
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-756 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-694 es el mismo art�culo que la noticia EL MUNDO-756
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/20/6198d0aefdddffd0518b45c0.html
+        - https://www.elmundo.es/andalucia/2021/11/20/6198ec05e4d4d87f598b45dd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/20
+        - 2021/11/20
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-756'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-756'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-694': {'EL MUNDO-756'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-756
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-694 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-756 es el mismo art�culo que la noticia EL MUNDO-694
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/20/6198ec05e4d4d87f598b45dd.html
+        - https://www.elmundo.es/andalucia/2021/11/20/6198d0aefdddffd0518b45c0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/20
+        - 2021/11/20
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-694'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-694': {'EL MUNDO-756'}, 'EL MUNDO-756': {'EL MUNDO-694'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-694', 'EL MUNDO-756'}
+{'EL MUNDO-694': {'EL MUNDO-756'}, 'EL MUNDO-756': {'EL MUNDO-694'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-694
+1: EL MUNDO-756
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.69587256]
+ [0.68790731 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-694 -> EL MUNDO-756: 0.6958725561187545. Cantidad de informaci�n extra�da de la noticia EL MUNDO-694 para a�adirla a la noticia EL MUNDO-756 :408
+         EL MUNDO-756 -> EL MUNDO-694: 0.6879073135409124. Cantidad de informaci�n extra�da de la noticia EL MUNDO-694 para a�adirla a la noticia EL MUNDO-756 :419
+
+         EL MUNDO-756 -> EL MUNDO-694: 0.6879073135409124. Cantidad de informaci�n extra�da de la noticia EL MUNDO-756 para a�adirla a la noticia EL MUNDO-694 :419
+         EL MUNDO-694 -> EL MUNDO-756: 0.6958725561187545. Cantidad de informaci�n extra�da de la noticia EL MUNDO-756 para a�adirla a la noticia EL MUNDO-694 :408
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-694 
+T�tulo: 
+Garc�a Egea proclama que el PP est� "fuerte y unido" en torno a Juanma Moreno | Andaluc�a
+Fecha: 
+2021-11-20T12:58:41Z
+Autor: SILVIA MORENO
+Contenido: El secretario general del PP, Teodoro García Egea, ha dado este sábado por superadas las diferencias entre las direcciones nacional y andaluza de su formación y ha proclamado que el partido está "fuerte y unido" en torno a Juanma Moreno.Moreno será reelegido este sábado como presidente del PP andaluz en el congreso que se celebra durante el fin de semana en Granada. Se trata del primer cónclave de los populares andaluces que se desarrolla con el partido gobernando en la Junta de Andalucía, tras casi cuatro décadas de gobiernos sucesivos del PSOE.Por ello, García Egea ha subrayado el "hito histórico" logrado en Andalucía, cuando el PP comenzó a gobernar tras las elecciones autonómicas de diciembre de 2018, en la que los populares pactaron con Ciudadanos y Vox para lograr que Moreno fuera investido como presidente del Ejecutivo andaluz.Juanma Moreno, "tú has convertido a la Andalucía de los ERE en la Andalucía del empleo", ha proclamado el 'número 2' del PP durante su intervención en el congreso de los populares andaluces, haciendo referencia al caso de corrupción de los ERE que supuso la condena de una veintena de ex altos cargos de los gobiernos andaluces socialistas, entre ellos los ex presidentes Manuel Chaves y José Antonio Griñán. Esta sentencia de la Audiencia de Sevilla está recurrida ante el Tribunal Supremo.Con este mensaje de García Egea en el congreso, parecen quedar atrás las serias discrepancias que hubo entre la dirección nacional del PP de Pablo Casado y el PP andaluz de Juanma Moreno durante la celebración de los congresos provinciales.También parecen superadas las diferencias y los roces en torno a la celebración de las elecciones andaluzas, que inicialmente la dirección nacional del PP pretendía que se adelantaran, en contra del criterio del presidente de la Junta. Juanma Moreno "es libre y siempre ha sido libre y no tenemos que venir de fuera a decirle lo que tiene que hacer" sobre cuándo convocar las elecciones en la comunidad, ha proclamado García Egea, respondiendo también así a Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid.En la inauguración del congreso del PP-A este viernes, Ayuso ha aconsejado a Moreno que "vuele libre" y tome sus "propias decisiones" porque su trayectoria demuestra que "siempre" ha antepuesto "los intereses de Andalucía" a los suyos propios. Además, "solo se desgasta quien se comporta como una marioneta, quien no es valiente y quien no tiene las ideas claras sin un rumbo fijo".A su llegada al congreso del PP-A, García Egea ha explicado que Moreno y el PP "saben muy bien" que lo primero es el interés de Andalucía y de sus ciudadanos, "incluso por encima de los intereses del propio partido". Y así lo ha hecho Moreno, que ha situado "los intereses de Andalucía por encima" de los de su partido, ha remarcado. García Egea ha evitado responder a la información publicada por EL MUNDO sobre la estrategia de una parte de la formación contra la dirección nacional.
+
+
+EL MUNDO-756 
+T�tulo: 
+Juanma Moreno responde a Ayuso que "siempre ha sido libre" y Garc�a Egea, que "ninguno de fuera tiene que venir a decirle" lo que debe hacer | Andaluc�a
+Fecha: 
+2021-11-20T11:50:46Z
+Autor: SILVIA MORENO
+Contenido: "Siempre he sido libre y siempre seré libre", ha respondido este sábado el presidente del PP andaluz y de la Junta de Andalucía, Juanma Moreno, al consejo que le ha dado la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, para que "vuele libre", tome sus "propias decisiones" y convoque las elecciones andaluzas cuando él considere oportuno. Y en esa idea de libertad se ha reafirmado el secretario general del PP, Teodoro García Egea, a su llegada al 16 Congreso del PP andaluz: "Moreno es libre y siempre ha sido libre" y ninguno tenemos que venir "de fuera a decirle lo que tiene que hacer, porque él sabe muy bien que por encima de todo, están los intereses de los andaluces y de Andalucía".La segunda jornada del congreso del PP andaluz que se está celebrando en Granada durante este fin de semana ha arrancado con los ecos de la aplaudida intervención de Ayuso en la jornada inaugural de este viernes.En ella, Ayuso advirtió a Moreno que "solo se desgasta quien se comporta como una marioneta, quien no es valiente y quien no tiene las ideas claras sin un rumbo fijo".Al ser cuestionado por las palabras de Ayuso, Moreno ha subrayado que él siempre será "libre" y se ha mostrado satisfecho con la "ilusión, el cariño y el respaldo" que nota, así como "el calor de los afiliados".Tras las palabras de Ayuso a Moreno, un sector del PP miró a la dirección nacional del partido que lidera Pablo Casado, ya que considera que han mostrado cierta urgencia para que Moreno adelante la fecha de las elecciones andaluzas.Sin embargo, Casado "siempre" ha traslado a Juanma Moreno su apoyo para que convoque las elecciones cuando él considere oportuno, según ha subrayado el vicesecretario de Comunicación del PP y diputado nacional por Málaga, Pablo Montesinos."Es su decisión y la dirección nacional siempre estará a su lado. Esa es la posición del presidente y ninguna más. La decisión de convocar elecciones es de Moreno y nosotros le respaldamos", ha remarcado Montesinos en el cónclave de los populares andaluces.El Gobierno de Moreno lleva meses diciendo que su intención es agotar la legislatura y que las elecciones autonómicas se celebren cuando tocan, a final del año 2022, para poder así trabajar en la recuperación económica con los fondos europeos que llegarán a Andalucía.Un instrumento para ello son los presupuestos de la Junta para 2022 que, de momento, no cuentan con los apoyos suficientes para ser aprobados en el Parlamento andaluz la semana próxima.El Gobierno de Moreno ha desvinculado la convocatoria de las elecciones de la aprobación o no de los presupuestos, pero es consciente de que el Parlamento debe aprobar diversa normativa. Si no es así, habrá un bloqueo a la acción del Ejecutivo que se verá en un "callejón sin salida" -como admitió recientemente Moreno- y tendrá que valorar si convoca o no los comicios, una potestad el presidente de la Junta.
+
+

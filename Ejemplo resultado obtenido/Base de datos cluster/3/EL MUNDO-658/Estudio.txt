@@ -1,0 +1,272 @@
+Estudio de la noticia EL MUNDO-658
+
+Pertenece a la carpeta de dependencias: 4
+
+La noticia es similar a la noticia EL MUNDO-680 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-658 es el mismo artÌculo que la noticia EL MUNDO-680
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2021/11/23
+        - 2021/11/30
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-752 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-658 es el mismo artÌculo que la noticia EL MUNDO-752
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/30
+        - 2021/11/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-704 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-658 es el mismo artÌculo que la noticia EL MUNDO-704
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/30
+        - 2021/11/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-719 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-658 es el mismo artÌculo que la noticia EL MUNDO-719
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2021/11/23
+        - 2021/11/30
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-680', 'EL MUNDO-719'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-680 y EL MUNDO-719:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-719 y EL MUNDO-680:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'EL MUNDO-680'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-658': {'EL MUNDO-680'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-680
+
+Pertenece a la carpeta de dependencias: 4
+
+La noticia es similar a la noticia EL MUNDO-752 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-680 es el mismo artÌculo que la noticia EL MUNDO-752
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2021/11/30
+        - 2021/11/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-658 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-680 es el mismo artÌculo que la noticia EL MUNDO-658
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2021/11/30
+        - 2021/11/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-719 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-680 es el mismo artÌculo que la noticia EL MUNDO-719
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/23
+        - 2021/11/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-704 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-680 es el mismo artÌculo que la noticia EL MUNDO-704
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/30/61a62b10fdddffb7938b45a0.html
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2021/11/30
+        - 2021/11/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-692 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-680 es el mismo artÌculo que la noticia EL MUNDO-692
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/20/61992ee1fdddff5caf8b45b9.html
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/20
+        - 2021/11/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-658', 'EL MUNDO-692'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-658': {'EL MUNDO-680'}, 'EL MUNDO-680': {'EL MUNDO-658', 'EL MUNDO-692'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-692'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-680', 'EL MUNDO-658', 'EL MUNDO-692'}
+
+Estudio de la noticia EL MUNDO-692
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-680 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-692 es el mismo artÌculo que la noticia EL MUNDO-680
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+        - https://www.elmundo.es/andalucia/2021/11/20/61992ee1fdddff5caf8b45b9.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/23
+        - 2021/11/20
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-719 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-692 es el mismo artÌculo que la noticia EL MUNDO-719
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/23/619cf2bafdddff65358b45d4.html
+        - https://www.elmundo.es/andalucia/2021/11/20/61992ee1fdddff5caf8b45b9.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/23
+        - 2021/11/20
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 0 noticias similares:
+set()
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-658': {'EL MUNDO-680'}, 'EL MUNDO-680': {'EL MUNDO-658', 'EL MUNDO-692'}, 'EL MUNDO-692': set()}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-680', 'EL MUNDO-658', 'EL MUNDO-692'}
+{'EL MUNDO-658': {'EL MUNDO-680'}, 'EL MUNDO-680': {'EL MUNDO-658', 'EL MUNDO-692'}, 'EL MUNDO-692': set()}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-680
+1: EL MUNDO-658
+2: EL MUNDO-692
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.7812709  0.81050091]
+ [0.71922767 0.         0.7923959 ]
+ [0.75864843 0.78604963 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-680 -> EL MUNDO-658: 0.7812709030100334. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-680 para aÒadirla a la noticia EL MUNDO-658 :315
+         EL MUNDO-658 -> EL MUNDO-680: 0.7192276749798874. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-680 para aÒadirla a la noticia EL MUNDO-658 :337
+
+         EL MUNDO-680 -> EL MUNDO-692: 0.8105009052504526. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-680 para aÒadirla a la noticia EL MUNDO-692 :302
+         EL MUNDO-692 -> EL MUNDO-680: 0.7586484312148029. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-680 para aÒadirla a la noticia EL MUNDO-692 :288
+
+         EL MUNDO-658 -> EL MUNDO-680: 0.7192276749798874. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-658 para aÒadirla a la noticia EL MUNDO-680 :337
+         EL MUNDO-680 -> EL MUNDO-658: 0.7812709030100334. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-658 para aÒadirla a la noticia EL MUNDO-680 :315
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-680 
+TÌtulo: 
+AndalucÌa estudia exigir un pasaporte Covid para entrar en hospitales, residencias y eventos culturales y deportivos | AndalucÌa
+Fecha: 
+2021-11-23T13:55:16Z
+Autor: SILVIA MORENO
+Contenido: La evoluci√≥n "preocupante, pero no alarmante" de la incidencia del coronavirus en Andaluc√≠a ha hecho que el Gobierno andaluz se est√© planteando exigir un pasaporte Covid de vacunaci√≥n para poder acceder a los hospitales, residencias de mayores, eventos culturales y deportivos y en los establecimientos de ocio nocturno.As√≠ lo ha explicado este martes el consejero de Salud, Jes√∫s Aguirre, tras el Consejero de Gobierno. Ser√° este viernes cuando la propuesta sea trasladada al comit√© de expertos que se reunir√° en Sevilla para analizar la evoluci√≥n de la pandemia y las medidas que se van a tomar para frenarla.La implantaci√≥n del pasaporte Covid ser√≠a de forma progresiva y se ir√≠a exigiendo en funci√≥n de la evoluci√≥n de la enfermedad. La Junta pretende obtener este viernes el visto bueno de su comit√© de expertos para empezar a exigirlo cuando sea necesario. Aguirre ha puntualizado que ser√°n los expertos los que decidan "qu√© l√≠nea y por d√≥nde empezamos". Lo que m√°s preocupa con los recintos cerrados.En cuanto a la autorizaci√≥n que debe dar el Tribunal Superior de Justicia de Andaluc√≠a (TSJA) sobre el pasaporte Covid, el consejero Aguirre espera que ahora s√≠ d√© el visto bueno porque m√°s del 90% de la poblaci√≥n diana est√° ya vacunada. El pasado agosto, el TSJA tumb√≥ el pasaporte Covid de la Junta para el ocio nocturno, pero en ese momento no era tan elevado el n√∫mero de vacunados, ha se√±alado Aguirre. "Pedimos al Gobierno de Espa√±a herramientas jur√≠dicas que contribuyan a unificar criterios en todo el pa√≠s. No podemos depender de la decisi√≥n de los distintos tribunales superiores de para la implantaci√≥n o no del certificado", ha dicho Aguirre.De momento, Andaluc√≠a es la segunda comunidad con menor incidencia acumulada, solo detr√°s de Extremadura, con un √≠ndice de 73,26 casos por cada 100.000 habitantes, muy por debajo de la media nacional de 132 y de otras comunidades como Navarra o el Pa√≠s Vasco.Sin embargo, en los √∫ltimos d√≠as se ha observado una tendencia "ascendente" dentro del nivel de riesgo "bajo-muy bajo" que hay en la comunidad andaluza, pero con la bajada de las temperaturas aumentar√°n los casos de gripe com√∫n y otras patolog√≠as, ha detallado el consejero.No se esperan restricciones de aforos ni horarios, ya que el consejero ha recordado que Andaluc√≠a sigue en nivel cero de alerta y los niveles de incidencia est√°n todav√≠a muy alejados de los picos de las olas anteriores. 
+
+
+EL MUNDO-658 
+TÌtulo: 
+Suben los contagios de Covid y la alerta se sit˙a en nivel medio, pero la presiÛn hospitalaria se mantiene baja en AndalucÌa | AndalucÌa
+Fecha: 
+2021-11-30T18:03:16Z
+Autor: SILVIA MORENO
+Contenido: Suben los contagios de coronavirus en Andaluc√≠a y el nivel de alerta se sit√∫a en la franja media, pero la presi√≥n hospitalaria se mantiene baja. Es la radiograf√≠a que este martes muestra la pandemia en la comunidad andaluza, seg√∫n los datos difundidos por la Consejer√≠a de Salud y Familias, que dirige Jes√∫s Aguirre.Este martes se han notificado 915 nuevos contagios de coronavirus en las √∫ltimas 24 horas, lo que eleva la tasa de incidencia acumulada a 105,1 casos por cada 100.000 habitantes en los √∫ltimos 14 d√≠as en Andaluc√≠a. Las provincias en las que se han detectado m√°s contagios son M√°laga (248) y Sevilla (213).Andaluc√≠a est√° entre las comunidades con menos incidencia de Covid. Este lunes, la media nacional era de 199 casos por cada 100.000 habitantes, casi el doble que la tasa andaluza. Pa√≠s Vasco y Arag√≥n son las regiones con mayores √≠ndices de coronavirus. La incidencia acumulada de Euskadi es de 446 y en Arag√≥n, de 348.Pese al incremento de los nuevos contagios en la comunidad andaluza, los hospitales no muestran los elevados √≠ndices de ocupaci√≥n que s√≠ se registraron en las olas anteriores de la pandemia. Es as√≠ por el efecto de la vacuna, ya que el 91% de la poblaci√≥n diana est√° inmunizada contra el Covid, como ha destacado este martes el consejero de la Presidencia y portavoz del Gobierno andaluz, El√≠as Bendodo.La elevada tasa de vacunaci√≥n de Andaluc√≠a y el resto de Espa√±a contrasta con la registrada en otros pa√≠ses de Europa. En Gran Breta√±a, Alemania y Francia el √≠ndice de vacunados no llega al 70%, en Italia, roza el 70% y en Austria, el 66%, como ha recordado Bendodo.En los hospitales andaluces, hay actualmente 280 pacientes confirmados con Covid-19, de los que 57 se encuentran en UCI. M√°laga y Sevilla son tambi√©n las provincias andaluzas con m√°s enfermos graves. La primera cuenta con 83 hospitalizaciones, de las que 22 son en la UCI; y Sevilla mantiene hospitalizados a 50 enfermos, de los que 7 est√°n en la UCI.La tasa de ocupaci√≥n hospitalaria con enfermos de Covid es en Andaluc√≠a la m√°s baja del pa√≠s, con 3,59 casos por cada 100.000 habitantes, menos de la mitad que la media nacional del 7,97%, seg√∫n las cifras del Ministerio de Sanidad.Con estos datos, el Gobierno andaluz afirma que Andaluc√≠a est√° preparada para afrontar la sexta ola de la pandemia y hace un llamamiento al 8% de los andaluces mayores de 12 a√±os que todav√≠a no se han vacunado porque "son ellos los que acaban en las UCI" de los hospitales en caso de enfermar, ha advertido Bendodo.En cualquier caso, en los √∫ltimos diez d√≠as se ha acelerado la vacunaci√≥n de los andaluces que todav√≠a no hab√≠an recibido ninguna dosis, con 20.000 personas. "Es un aumento importante, pero insuficiente. Hay que llegar al 100% de la vacunaci√≥n", ha apostillado el portavoz del Gobierno andaluz.Para tratar de mantener los contagios a raya, el Ejecutivo andaluz pretende implantar el pasaporte Covid en el que conste la vacunaci√≥n para poder acceder a hospitales y residencias de mayores. Este martes ha pedido el aval judicial para implantar esta medida al Tribunal Superior de Justicia de Andaluc√≠a (TSJA), en concreto a la Sala de lo Contencioso-Administrativo con sede en Granada.
+
+
+EL MUNDO-692 
+TÌtulo: 
+AndalucÌa tambiÈn se plantea el pasaporte Covid, pero de forma "progresiva" | AndalucÌa
+Fecha: 
+2021-11-20T18:23:59Z
+Autor: CHEMA RODRÕGUEZ
+Contenido: La sexta ola del Covid-19 es todav√≠a un nubarr√≥n en Andaluc√≠a, amenazante y cada vez m√°s oscuro, pero lejos de las cifras alarmantes de otras comunidades, como Navarra o Pa√≠s Vasco. La incidencia, seg√∫n los √∫ltimos datos facilitados este s√°bado por la Consejer√≠a de Salud y Familias, se sit√∫a en la regi√≥n en los 65,67 casos por cada 100.000 habitantes, casi la mitad de los 111 que ha alcanzado de media en Espa√±a y de los m√°s de 300 casos de Navarra o los 247 que se registraban hoy en el Pa√≠s Vasco.Sin embargo, el Gobierno andaluz ya est√° barajando seguir los pasos de otras regiones y emplear el llamado pasaporte Covid -el certificado europeo de vacunaci√≥n o de haber superado la enfermedad- para atajar los contagios al alza.Lo ha dicho este s√°bado el presidente de la Junta, Juanma Moreno, en Granada, donde se celebra el congreso regional del PP andaluz, y donde ha explicado que se est√° estudiando la imposici√≥n "progresiva" de la obligatoriedad del pasaporte Covid para acceder a determinados recintos y actividades. El objetivo, seg√∫n ha dicho, ser√≠a "motivar a quienes no se han vacunado".Pa√≠s Vasco, Navarra o Galicia ya han solicitado o aplican esta medida como freno a los contagios y Andaluc√≠a, cuyo comit√© de expertos se re√∫ne precisamente esta semana, seguir√≠a los pasos de estas comunidades, aunque, precis√≥ Moreno, en Andaluc√≠a "ahora mismo no hay un riesgo excesivo".Sin embargo, los datos de las √∫ltimas semanas evidencian c√≥mo el ritmo de nuevos contagios se est√° acelerando y no s√≥lo no deja de crecer, sino que lo hace cada d√≠a a una mayor velocidad.En la √∫ltima jornada contabilizada por la Consejer√≠a de Salud, el n√∫mero de nuevos casos de Covid-19 asciende a 741, con 16 nuevos hospitalizados, una cifra que supone el doble de los contagios que se registraban hace solamente catorce d√≠as.El 6 de noviembre, la cifra de nuevos positivos por SARS-CoV-2 era de 363 y en estas dos semanas, con la excepci√≥n de un par de d√≠as en los que baj√≥ de los 300 casos, los contagios no han dejado de aumentar. Del 9 al 10 de noviembre crecieron en m√°s de un centenar y se situaron en el entorno de los 400, hasta que este pasado mi√©rcoles ya rebasaron el medio millar. El jueves ya superaron los 700.La incidencia, por su parte, no ha crecido al mismo ritmo pero s√≠ que ha experimentado un incremento notable, de m√°s de un 80% en estos catorce d√≠as, pasando de los 36,29 casos por 100.000 habitantes el d√≠a 6 a los 65,67 de este s√°bado. Extender la vacunaci√≥n es el gran objetivo del Gobierno andaluz aunque Andaluc√≠a, como destac√≥ Moreno, figura a la cabeza de Espa√±a en cuanto a vacunaci√≥n juvenil por debajo de los 30 a√±os. "Pero la pandemia no ha acabado", ha advertido Moreno, que ha recordado que lejos de desaparecer, se est√° recrudeciendo en pa√≠ses del entorno, por lo que ha pedido a la juventud prudencia, cumplimiento de las medidas sanitarias y vacunaci√≥n.Actualmente, el 65% de los hospitalizados por covid en Andaluc√≠a son personas no vacunadas, seg√∫n Moreno, que ha ha insistido en la necesidad de la vacunaci√≥n.Andaluc√≠a registra este s√°bado una subida de dos hospitalizados por Covid-19 respecto a la jornada anterior para situarse en un total de 206, lo que supone un aumento de 26 en la comparativa intersemanal, mientras que los pacientes ingresados en una Unidad de Cuidados Intensivos (UCI) se han mantenido sin cambios en 40, seis m√°s que la semana pasada.
+
+

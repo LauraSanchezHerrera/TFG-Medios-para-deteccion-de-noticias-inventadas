@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-1269
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1270 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1269 es el mismo art�culo que la noticia EL MUNDO-1270
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/motor/2021/11/17/619520d9fdddffa16c8b4575.html
+        - https://www.elmundo.es/motor/2021/11/18/6196228421efa086328b45d2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/11/17
+        - 2021/11/18
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-1270'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-1270'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1269': {'EL MUNDO-1270'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-1270
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1269 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1270 es el mismo art�culo que la noticia EL MUNDO-1269
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/motor/2021/11/18/6196228421efa086328b45d2.html
+        - https://www.elmundo.es/motor/2021/11/17/619520d9fdddffa16c8b4575.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/11/18
+        - 2021/11/17
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1269'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1269': {'EL MUNDO-1270'}, 'EL MUNDO-1270': {'EL MUNDO-1269'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-1269', 'EL MUNDO-1270'}
+{'EL MUNDO-1269': {'EL MUNDO-1270'}, 'EL MUNDO-1270': {'EL MUNDO-1269'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-1269
+1: EL MUNDO-1270
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.64646947]
+ [0.69825132 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-1269 -> EL MUNDO-1270: 0.646469465648855. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1269 para a�adirla a la noticia EL MUNDO-1270 :729
+         EL MUNDO-1270 -> EL MUNDO-1269: 0.6982513216754779. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1269 para a�adirla a la noticia EL MUNDO-1270 :730
+
+         EL MUNDO-1270 -> EL MUNDO-1269: 0.6982513216754779. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1270 para a�adirla a la noticia EL MUNDO-1269 :730
+         EL MUNDO-1269 -> EL MUNDO-1270: 0.646469465648855. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1270 para a�adirla a la noticia EL MUNDO-1269 :729
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-1269 
+T�tulo: 
+Habr� un m�nimo obligatorio de clases para presentarse al te�rico del carn� de conducir | Motor
+Fecha: 
+2021-11-18T10:22:53Z
+Autor: F. LLAMAS
+Contenido: El debate sobre la reforma de la Ley de Tráfico en el Senado se ha zanjado con sorpresa: el Pleno celebrado ayer abre la puerta a que se fijen un mínimo de clases para los aspirantes al teórico del carné. «Para la obtención de un permiso o licencia de conducción se podrán establecer cursos de concienciación y sensibilización, que podrán impartirse también online si se asegura la interacción a través de un aula virtual. Su contenido y forma se determinará de forma reglamentaria [por la DGT], previa consulta a los expertos de seguridad vial, así como a las asociaciones de víctimas», señala la disposición adicional tercera que se aprobó ayer.Actualmente, cualquier aspirante a sacarse el teórico puede presentarse al examen por libre, sin haber pisado una autoescuela. También es posible en la prueba práctica, aunque el proceso es tan complejo, engorroso y caro -tendríamos que aportar el vehículo adaptado nosotros- que no merece la pena.La idea de las clases que ahora propone el Senado, y que tendrán que pagar los alumnos, no es nueva. En 2018, Tráfico propuso que, para sacarse el carné, fuese obligatorio un curso presencial de formación de ocho horas. Pero terminó retirando el proyecto en 2020 después de que la Comisión Nacional de los Mercados y la Competencia (CNMC) concluyera que, al ser presencial, iba en contra de los intereses de las autoescuelas digitales sin una razón para ello. No era un informe vinculante, «pero sí demoledor» y la DGT decidió abandonar un proyecto en el que creían y habían «metido muchas horas. Los accidentes de tráfico no son virtuales», se lamentó su director, Pere Navarro.La objeción de la CNMC queda ahora obviada una vez que se permita que la formación la impartan también los centros online a través de una interacción virtual entre el profesor y los alumnos para entender, por ejemplo, los efectos del alcohol en la conducción.De ahí que la medida sea leída como una victoria por los centros físicos, representados por la CNAE, y por los que operan sólo en internet y que engloba la plataforma PAD. Los primeros se aseguran que no valdrán «los contenidos enlatados». Los segundos dicen que se reconoce «la validez del modelo de formación digital» tal y como venían haciendo ya en la parte teórica. Aunque sí han visto como el Senado echaba atrás la decisión del Congreso de permitirles operar en todo el país con un solo centro físico. Ahora, necesitarán uno en cada provincia donde quieran dar clases, elevando sus costes.El Pleno del Senado también aprobó la polémica supresión de la norma que, hasta ahora, permite superar en 20 km/h el margen en carreteraconvencional cuando se adelanta, tal y como defendían el Gobierno y la DGT.El Congreso votó en contra de la propuesta hace mes y medio, pero el Senado rectificó ayer a la Cámara Baja. Este fue el punto de mayor fricción de un Pleno un poco bronco. Tanto el portavoz del PP, Carlos Yécora, como la de Vox, Yolanda Marelo, asociaron la eliminación de los 20 km/h extras a un nuevo intento del Gobierno de recaudar y prohibir sin que ningún informe técnico avale la necesidad de eliminar ese margen extra.Los portavoces del PSOE, Paloma Hernández y Raúl Díaz, argumentaron que, por ejemplo, la Fundación para la Seguridad Vial Fesvial aconseja la prohibición. Explicaron que esa norma se hizo en los 70, cuando se priorizaba el uso del automóvil y que es anacrónica. Tanto que no existe en ningún otro país de la UE.Los socialistas espetaron a Yécora que si sus expertos «eran de Forocoches», ya que el primero le había dejado caer que esperaba que los que amparan la prohibición «no sean como los que aconsejaron al doctor Fernando Simón durante la pandemia» del coronavirus el año pasado.Ambas posturas se justifican en un mismo fin: reducir el riesgo de accidentes, choques frontales y muertes en carreteras secundarias, las más problemáticas. ¿Ir más rápido en un adelantamiento aporta mayor seguridad que quedarse esperando detrás del coche más lento? Obviamente, no, aunque un informe de un profesor de la Universidad de Zaragoza (ver gráfico) considera que la medida puede ser contraproducente.Además, la DGT no oculta que eliminando ese margen de 20 km/h, se evitan miles de recursos por los excesos de velocidad detectados por los radares de tramo. El automovilista no podrá argumentar que, si superó la velocidad media máxima, fue porque realizó varios adelantamientos.Mientras, los defensores de la poca prisa abogan por un sinfín de obras para que las carreteras convencionales se conviertan en unos años en vías de tres carriles, dos en una dirección y otro en la opuesta. Pero no hay informe económico de la cantidad de millones de euros que costaría esa infraestructura.Y estos cambios ¿desde cuándo serán operativos? Ahora se devuelve el proyecto al Congreso -que difícilmente tocará una coma- antes de entrar en el BOE. Desde esa fecha, habrá que contar seis meses.
+
+
+EL MUNDO-1270 
+T�tulo: 
+El Senado suprime el margen de 20 km/h para adelantar en la nueva Ley de Tr�fico | Motor
+Fecha: 
+2021-11-17T15:38:26Z
+Autor: FERNANDO LLAMAS
+Contenido: El pleno del Senado ha aprobado este miércoles el dictamen de la Ley de Tráfico elaborado por la comisión de Interior de la cámara alta. Por lo tanto, se aprobó la polémica supresión del apartado que permite hasta ahora adelantar superando en 20 km el margen establecido en la carretera, tal y como defendía el Gobierno y la Dirección General de Tráfico DGT). El Congreso de los Diputados la había mantenido por un voto y el Senado rectifica a la cámara legislativa. Por lo tanto, adelantar a 81 km/h en una vía limitada a 80km a un coche que circula a 75 km/h acarreará sanción cuando entre en vigor la nueva Ley, una vez que vuelva al Congreso y sea aprobada.La enmienda presentada por el PSOE para conseguir la eliminación del apartado 4 del articulo 21 relativo a ese margen de velocidad ha terminado en el Proyecto de Ley, que ha recibido 153 votos a favor, dos en contra y 96 abstenciones, entre ellas, las del PP, Ciudadanos y Vox.El Senado también ha llevado la contraria al Congreso al priorizar la formación presencial en las autoescuelas, algo en lo que coincidieron casi todos los grupos atendiendo al mantenimiento de los puestos de trabajo y una eventual mejora de la seguridad vial dada la que suponen mejor formación. Presentes y atentos en la tribuna de invitados, aplaudían los representantes de la confederación de autoescuelas CNAE, que han salido contentos del hemiciclo.Se ha eliminado el apartado que indicaba que "la enseñanza de la conducción relativa a los conocimientos teóricos necesarios para la obtención del permiso de conducir, podrá efectuarse a distancia", que había sido incorporado en el Congreso. En una disposición adicional pactada por los grupos que ha votado a favor del Proyecto de Ley se establecía la posibilidad de promover cursos de concienciación y sensibilización a través de un aula virtual que asegure la interacción entre docentes y alumnos.Menos discusión han causado las ya conocidas medidas de "actualización" de infracciones, siempre al alza: de tres a seis puntos por utilizar el móvil con la mano, y los cuatro por el uso indebido del cinturón de seguridad, los sistemas de protección infantil y casco en el caso de los motoristas. A través de una enmienda transaccional acordada por los grupos que han negociado con el PSOE ha salido adelante el aumento de cuatro a seis puntos de detracción por arrojar a la vía objetos que puedan provocar incendios o accidentes a otros usuarios de la vía pública. No respetar la distancia de seguridad de un metro y medio al adelantar ciclistas también está sancionado con la retirada de seis puntos.La enmienda del PP para que entre en la Ley la prohibición de que los menores que usen vehículos de movilidad personal (VMP) puedan conducir si han ingerido la más mínima cantidad de alcohol. El consenso era amplio en la inclusión de apartados para prohibir y sancionar a los usuarios de estos vehículos que circulen por las aceras para proteger "al usuario más vulnerable en las vías públicas, el peatón".El punto de mayor fricción, como ocurrió en el Congreso, ha sido la eliminación del margen para adelantar, al que tanto el portavoz del PP, Carlos Yécora, como la de Vox, Yolanda Marelo, que han tildado la Ley en general y este asunto en particular como un intento del Gobierno de recaudar y prohibir sin que ningún informe técnico avale la necesidad de eliminar ese límite en los adelantamientos.Los portavoces del PSOE, tanto Paloma Hernández como Raúl Díaz, han argumentado que los expertos de la Fundación para la Seguridad Vial Fesvial aconsejan la prohibición. Explicaron una vez más que esa norma se hizo en los años 70 cuando se priorizaba el uso del automóvil y que es anacrónica. Tanto que no existe, dijeron, en ningún otro país de la Unión Europea.Ambas posturas se justifican para un mismo fin: reducir el riesgo de accidentes, choques frontales y muertes en carretera. ¿Ir más rápido en un adelantamiento aporta mayor seguridad que quedarse esperando tranquilamente detrás del coche más lento? Esa es una de las cuestiones, que los defensores de la 'tranquilidad' resolverían con un sinfín de obras para que las carreteras convencionales se conviertan en vías de tres carriles, dos en una dirección y otro en la apuesta. Pero no hay informe económico de la cantidad de millones de euros que costaría esa infraestructura.
+
+

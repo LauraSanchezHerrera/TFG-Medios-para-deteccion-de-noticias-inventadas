@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-269
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-318 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-269 es el mismo art�culo que la noticia EL MUNDO-318
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/01/61a6861bfc6c8386588b458f.html
+        - https://www.elmundo.es/madrid/2021/12/03/61aa0633fc6c830b1e8b458f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-318'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-318'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-269': {'EL MUNDO-318'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-318
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-269 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-318 es el mismo art�culo que la noticia EL MUNDO-269
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/03/61aa0633fc6c830b1e8b458f.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a6861bfc6c8386588b458f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-269'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-269': {'EL MUNDO-318'}, 'EL MUNDO-318': {'EL MUNDO-269'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-318', 'EL MUNDO-269'}
+{'EL MUNDO-269': {'EL MUNDO-318'}, 'EL MUNDO-318': {'EL MUNDO-269'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-318
+1: EL MUNDO-269
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.72440945]
+ [0.74479167 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-318 -> EL MUNDO-269: 0.7244094488188977. Cantidad de informaci�n extra�da de la noticia EL MUNDO-318 para a�adirla a la noticia EL MUNDO-269 :443
+         EL MUNDO-269 -> EL MUNDO-318: 0.7447916666666666. Cantidad de informaci�n extra�da de la noticia EL MUNDO-318 para a�adirla a la noticia EL MUNDO-269 :429
+
+         EL MUNDO-269 -> EL MUNDO-318: 0.7447916666666666. Cantidad de informaci�n extra�da de la noticia EL MUNDO-269 para a�adirla a la noticia EL MUNDO-318 :429
+         EL MUNDO-318 -> EL MUNDO-269: 0.7244094488188977. Cantidad de informaci�n extra�da de la noticia EL MUNDO-269 para a�adirla a la noticia EL MUNDO-318 :443
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-318 
+T�tulo: 
+Almeida a Ortega Smith: "Usted hace matonismo pol�tico" | Madrid
+Fecha: 
+2021-12-01T01:10:38Z
+Autor: EL MUNDO
+Contenido: El alcalde de Madrid, José Luis Martínez-Almeida, ha acusado este martes al portavoz del Grupo Municipal Vox, Javier Ortega Smith, de estar haciendo «un ejercicio de matonismo político en el cual está secuestrando a todos los ciudadanos de Madrid en aras de su interés personal y particular». Las fuertes declaraciones llegaron durante el tenso pleno del Ayuntamiento, donde el líder de Vox aseguró que su formación no apoyaría los presupuestos municipales, según recoge Servimedia. El mismo día que Ayuso y Rocío Monasterio, PP y Vox, celebraban las cuentas firmadas juntos, en el Palacio de Cibeles los mismos partidos exhibían sus diferencias. Precisamente, Almeida celebró la posición de Vox en la Comunidad de Madrid: «Haciendo un ejercicio de responsabilidad, porque el año que viene es decisivo en la recuperación económica», recordando que PP y Vox «se han tenido que sentar a negociar» para llegar a algunos acuerdos. Desde la alcaldía, muestran su asombro ante la cerrada postura de Vox. «No entiendo qué problema tiene en sentarse a negociar los presupuestos», le espetó Almeida al líder de la formación verde, antes de enfrentar su discurso en Madrid con el del Congreso de los Diputados. «Que Ortega Smith diga en el Congreso 'que los nacionalistas chantajean, que nos hacen a todos rehenes de sus votos', cuando lo que está haciendo con sus cuatro votos en el Ayuntamiento, negándose a sentarse con el equipo de Gobierno, es un ejercicio de matonismo político en el cual lo único que busca es su propio interés particular».Almeida criticó que Ortega Smith diga que el Gobierno municipal «ha traicionado sus compromisos, que él no puede apoyarlo, que él no puede ser cómplice». En este sentido, el alcalde lamentó que el portavoz de Vox «sea capaz de decirle a los madrileños que este Gobierno es la continuidad de Gobierno de Carmena o que este es un Gobierno comunista». Por tanto, le pidió: «Que recapacite, que piense en los madrileños y que no pasa nada por sentarse a negociar. No le digo que haga como Monasterio y tenga la capacidad de llegar a un acuerdo, le digo sencillamente que se siente a negociar los presupuestos y si no lo hace que asuma las consecuencias y le diga a los madrileños por qué no se sienta a negociar», apostilló.Desde Cibeles, el equipo del alcalde recordaba tras el pleno que sin presupuestos, al contrario que en la Comunidad, donde se puede gobernar con las cuentas prorrogadas, la gestión del Ayuntamiento sería muy complicada. También subrayan que sin la gran ley municipal aprobada quedarían sin asignar muchas partidas sociales como las correspondientes a la Cruz Roja o a entidades religiosas como Caritas. «¿Eso quiere Vox?», se preguntan en Cibeles. La coordinadora de Ciudadanos en Madrid y vicealcaldesa de la capital, Begoña Villacís, también cargó contra Vox, acusando al partido de Santiago Abascal de «generar inestabilidad allá por donde pasa» así como de llevar a cabo «política de la peor». «No le he escuchado si le parece bien o mal las unidades integrales de distrito, las escuelas infantiles, sobre el gasto social... las subvenciones que van a decaer... No sé si somos todos conscientes de que Vox no habla de Madrid, solo hace política de la peor», señaló ante la prensa. En el Pleno, el portavoz de Vox, Javier Ortega Smith, ha replicado que en Vox no renuncian a representar a sus votantes ni les van a «traicionar», como sí ve que ha hecho el PP, por ejemplo, con Madrid 360, «que es dar la vuelta para llegar al mismo punto de Madrid Central», y que no cuenten con ellos para aprobar las cuentas.
+
+
+EL MUNDO-269 
+T�tulo: 
+Almeida estalla contra Roc�o Monasterio: "No voy a aguantar que se mienta sobre conversaciones privadas" | Madrid
+Fecha: 
+2021-12-03T16:15:42Z
+Autor: MARTA BELVER
+Contenido: Las relaciones entre el alcalde de Madrid y Vox no pasan por su mejor momento desde hace semanas, pero la crispación ha alcanzado este viernes un nuevo pico. "Puedo aguantar muchas cosas, pero no voy a aguantar que se mienta sobre conversaciones privadas", ha asegurado visiblemente molesto José Luis Martínez-Almeida.El regidor respondía así a un tuit de la portavoz del partido de Santiago Abascal en la Asamblea regional, Rocío Monasterio, sobre una supuesta charla que habían mantenido ambos sobre la negociación de los Presupuestos del Ayuntamiento de la capital. Según ha advertido el primer edil en declaraciones a la prensa, si la diputada autonómica no rectifica pedirá al "testigo" de ese breve encuentro que cuente "lo que verdaderamente se habló" o, en su defecto, lo desvelará él mismo.En el tuit que ha desencadenado la polémica, Monasterio afirma literalmente: "Hoy le he recordado a Almeida que para conseguir un acuerdo con Vox como el de la Comunidad debe alejarse de los comunistas de Carmena y de las políticas de izquierda como Madrid Central, que prometió revertir. Que cumpla su palabra, se aleje de la izquierda y contará con nosotros"."Yo no voy a decir lo que hablamos, porque a lo mejor Rocío Monasterio no queda tan bien, pero sí digo que el tuit de Rocío Monasterio es falso (...). No acostumbro a desvelar conversaciones privadas, pero lo que no puedo permitir es que en Twitter se mienta de manera impune como ha hecho Rocío Monasterio, con la que por cierto tengo una buena relación, por lo que me sorprende más lo que fue capaz de escribir", ha esgrimido el alcalde.Según Almeida "ni de lejos" el contenido del tuit se ajusta a la conversación que mantuvieron: "Lo que estoy diciendo es que no todo vale en política y que rectifique. Y que diga que efectivamente se equivocó, no pasa nada, y que lo que puso ayer en Twitter no se corresponde con la realidad".Este desencuentro se produce en el marco de la infructuosa negociación con Vox para la aprobación de los Presupuestos del Ayuntamiento de Madrid de 2022. El portavoz de la formación que hasta ahora había sostenido al Gobierno de coalición de PP y Ciudadanos, Javier Ortega Smith, se negó a apoyar las cuentas porque no va «traicionar» a sus votantes como sí ve que ha hecho Almeida con Madrid 360, «que es dar la vuelta para llegar al mismo punto de Madrid Central», y para cuya aprobación obtuvo el apoyo de los cuatro ediles carmenistas escindidos de Más Madrid.El alcalde, a su vez, acusó a Ortega Smith de estar haciendo "un ejercicio de matonismo político en el cual está secuestrando a todos los ciudadanos de Madrid en aras de su interés personal y particular", informa Servimedia. No obstante le tendió la mano para que "recapacite", "piense en los madrileños" y señaló "que no pasa nada por sentarse a negociar".La distancia entre el PP y Vox en el Ayuntamiento contrasta con la sintonía en la Comunidad, donde acaban de suscribir un acuerdo para aprobar los primeros Presupuestos de Isabel Díaz Ayuso. "Manténgase en la defensa de la libertad, frene a la izquierda y tendrá nuestro apoyo", se comprometió públicamente este jueves Monasterio ante la presidenta regional, una frase similar a la que luego puso en el tuit sobre Almeida que ha levantado esta nueva polvareda.
+
+

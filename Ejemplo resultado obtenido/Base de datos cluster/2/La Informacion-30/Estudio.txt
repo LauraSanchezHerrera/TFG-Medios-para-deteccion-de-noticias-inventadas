@@ -1,0 +1,102 @@
+Estudio de la noticia La Informacion-30
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia La Informacion-32 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia La Informacion-30 es el mismo artÌculo que la noticia La Informacion-32
+     Se trata de noticias distintas: 
+        - https://www.lainformacion.com/vivienda-inmobiliario/vecino-perro-ladra-que-hacer-ruidos/2854743/
+        - https://www.lainformacion.com/vivienda-inmobiliario/que-es-aceptar-herencia-beneficio-inventario/2854846/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'La Informacion-32'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'La Informacion-32'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'La Informacion-30': {'La Informacion-32'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia La Informacion-32
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia La Informacion-30 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia La Informacion-32 es el mismo artÌculo que la noticia La Informacion-30
+     Se trata de noticias distintas: 
+        - https://www.lainformacion.com/vivienda-inmobiliario/que-es-aceptar-herencia-beneficio-inventario/2854846/
+        - https://www.lainformacion.com/vivienda-inmobiliario/vecino-perro-ladra-que-hacer-ruidos/2854743/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'La Informacion-30'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'La Informacion-30': {'La Informacion-32'}, 'La Informacion-32': {'La Informacion-30'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'La Informacion-30', 'La Informacion-32'}
+{'La Informacion-30': {'La Informacion-32'}, 'La Informacion-32': {'La Informacion-30'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: La Informacion-30
+1: La Informacion-32
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.74165457]
+ [0.77139208 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         La Informacion-30 -> La Informacion-32: 0.7416545718432511. Cantidad de informaciÛn extraÌda de la noticia La Informacion-30 para aÒadirla a la noticia La Informacion-32 :166
+         La Informacion-32 -> La Informacion-30: 0.7713920817369093. Cantidad de informaciÛn extraÌda de la noticia La Informacion-30 para aÒadirla a la noticia La Informacion-32 :167
+
+         La Informacion-32 -> La Informacion-30: 0.7713920817369093. Cantidad de informaciÛn extraÌda de la noticia La Informacion-32 para aÒadirla a la noticia La Informacion-30 :167
+         La Informacion-30 -> La Informacion-32: 0.7416545718432511. Cantidad de informaciÛn extraÌda de la noticia La Informacion-32 para aÒadirla a la noticia La Informacion-30 :166
+
+
+***********      InformaciÛn de las noticias     ***********
+
+La Informacion-30 
+TÌtulo: 
+QuÈ supone y quÈ implica aceptar una herencia a beneficio de inventario
+Fecha: 
+2021-12-04T04:30:00+01:00
+Autor: ITZIAR ECHEANDIA / ROSA ALEVITO
+Contenido: El C√≥digo Civil dispone que este se produce en favor del heredero el efecto de "no quedar obligado a pagar las deudas y dem√°s cargas de la herencia sino hasta donde alcancen los bienes de la misma".El art√≠culo 1023 del C√≥digo Civil dispone que el beneficio de inventario produce en favor del heredero el efecto de "no quedar obligado a pagar las deudas y dem√°s cargas de la herencia sino hasta donde alcancen los bienes de la misma". En consecuencia, el heredero solo tendr√° que pagar a los acreedores del causante con el patrimonio de este y hasta donde alcance, no confundi√©ndose con el patrimonio del heredero.Para ello, con car√°cter previo a la aceptaci√≥n de la herencia, debe realizarse un inventario detallado tanto de los bienes de la herencia como de las deudas, para pagar estas √∫ltimas con lo que hay en la herencia. Solo si hay un sobrante, se repartir√° entre los herederos.La manifestaci√≥n de aceptar la herencia a beneficio de inventario deber√° hacerla el heredero ante notario o, en su caso, ante el juez que sea competente ‚Äìen supuestos en que las deudas del causante estuvieran ya judicializadas-. Los plazos para hacer dicha manifestaci√≥n son perentorios, as√≠ que es importante hacerlo dentro del tiempo que la ley dispone al efecto, que se establece en los art√≠culos 1014 y 1015 del C√≥digo Civil, distinguiendo si el heredero en cuesti√≥n, tiene o no en su poder los bienes de la herencia o parte de ellos. Nuestra sugerencia es que consulten el asunto cuanto antes con un abogado, porque si no se respetan dichos plazos, no ser√° posible esta modalidad de aceptaci√≥n de herencia.*La respuesta ha sido elaborada por el despacho de abogados Echeandia & Alevito: www.echeandia-alevito.com
+
+
+La Informacion-32 
+TÌtulo: 
+Mi vecino tiene un perro que no para de ladrar: øquÈ puedo hacer con los ruidos?
+Fecha: 
+2021-12-03T04:30:00+01:00
+Autor: ITZIAR ECHEANDIA / ROSA ALEVITO
+Contenido: La Ley de Propiedad Horizontal contempla la llamada "acci√≥n de cesaci√≥n", cuyo fin es obligar al propietario u ocupante de la vivienda o local a que cese en la actividad que resulte prohibida.La Ley de Propiedad Horizontal contempla la llamada "acci√≥n de cesaci√≥n", cuyo fin es obligar al propietario u ocupante de la vivienda o local a que cese en la actividad que resulte prohibida, da√±ina o molesta para el resto de los vecinos. Los pasos a seguir son los siguientes:El Presidente de la comunidad debe requerir a los due√±os del animal para que tome las medidas que resulten necesarias para que cesen las molestias en un plazo concreto. Este requerimiento deber√° incluir el apercibimiento de que la Comunidad iniciar√° las acciones judiciales procedentes, caso de no ser atendido.Si el asunto no se resuelve favorablemente, la comunidad podr√° instar la correspondiente demanda judicial de acci√≥n de cesaci√≥n, para lo que precisar√° del correspondiente Acuerdo adoptado en Junta en tal sentido.El juez valorar√° la situaci√≥n y analizar√° las pruebas. Nuestro consejo es que, si creen que este ser√° inevitablemente el camino a seguir, intenten ir obteniendo pruebas que posteriormente sirvan para acreditar la realidad del problema: denuncias a la Polic√≠a Local, declaraciones de vecinos, etc.¬†*La respuesta ha sido elaborada por el despacho de abogados Echeandia & Alevito: www.echeandia-alevito.com
+
+

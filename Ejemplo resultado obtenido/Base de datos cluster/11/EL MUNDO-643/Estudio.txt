@@ -1,0 +1,1083 @@
+Estudio de la noticia EL MUNDO-643
+
+Pertenece a la carpeta de dependencias: 5
+
+La noticia es similar a la noticia EL MUNDO-501 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-501
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 177 dÌas de diferencia: 
+        - 2021/06/10
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-622 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-622
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/16/619397bae4d4d8587c8b45c8.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 18 dÌas de diferencia: 
+        - 2021/11/16
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-41 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-41
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-459 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-459
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2020/12/13/5fd4fc00fdddffed558b4673.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 356 dÌas de diferencia: 
+        - 2020/12/13
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-745 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-745
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-533 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-533
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-408 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-643 es el mismo artÌculo que la noticia EL MUNDO-408
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-533', 'EL MUNDO-408'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-533 y EL MUNDO-408:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-408 y EL MUNDO-533:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'EL MUNDO-533'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-533
+
+Pertenece a la carpeta de dependencias: 5
+
+La noticia es similar a la noticia EL MUNDO-501 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-501
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 175 dÌas de diferencia: 
+        - 2021/06/10
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-493 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-493
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/07/12/60ec29edfdddff9a858b461e.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 143 dÌas de diferencia: 
+        - 2021/07/12
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-41 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-41
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-301 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-301
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-745 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-745
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-408 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-408
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-643 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-533 es el mismo artÌculo que la noticia EL MUNDO-643
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-301', 'EL MUNDO-643'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-301'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-533', 'EL MUNDO-643', 'EL MUNDO-301'}
+
+Estudio de la noticia EL MUNDO-301
+
+Pertenece a la carpeta de dependencias: 4
+
+La noticia es similar a la noticia EL MUNDO-296 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-301 es el mismo artÌculo que la noticia EL MUNDO-296
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-459 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-301 es el mismo artÌculo que la noticia EL MUNDO-459
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2020/12/13/5fd4fc00fdddffed558b4673.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 354 dÌas de diferencia: 
+        - 2020/12/13
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-633 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-301 es el mismo artÌculo que la noticia EL MUNDO-633
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/09/618a5d67fdddff90758b45da.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 23 dÌas de diferencia: 
+        - 2021/11/09
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-533 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-301 es el mismo artÌculo que la noticia EL MUNDO-533
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-408 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-301 es el mismo artÌculo que la noticia EL MUNDO-408
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-296'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-296'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-533', 'EL MUNDO-301', 'EL MUNDO-643', 'EL MUNDO-296'}
+
+Estudio de la noticia EL MUNDO-296
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-272 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-296 es el mismo artÌculo que la noticia EL MUNDO-272
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/04/61aaa84f21efa045188b45b5.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-501 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-296 es el mismo artÌculo que la noticia EL MUNDO-501
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 175 dÌas de diferencia: 
+        - 2021/06/10
+        - 2021/12/02
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-296 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-316 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-296 es el mismo artÌculo que la noticia EL MUNDO-316
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-301 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-296 es el mismo artÌculo que la noticia EL MUNDO-301
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8b415fdddff20338b45da.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 4 noticias similares:
+{'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}}
+
+Tras el estudio se han encontrado 3 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-296', 'EL MUNDO-301', 'EL MUNDO-533', 'EL MUNDO-643'}
+
+Estudio de la noticia EL MUNDO-272
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-296 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-272 es el mismo artÌculo que la noticia EL MUNDO-296
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+        - https://www.elmundo.es/madrid/2021/12/04/61aaa84f21efa045188b45b5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-296'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}}
+
+Estudio de la noticia EL MUNDO-393
+
+Pertenece a la carpeta de dependencias: 6
+
+La noticia es similar a la noticia EL MUNDO-473 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-473
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/17/616c09b8e4d4d8b14e8b457b.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 48 dÌas de diferencia: 
+        - 2021/10/17
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-472 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-472
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 37 dÌas de diferencia: 
+        - 2021/10/28
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-482 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-482
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/09/13/613f9cf2fc6c83e2518b4674.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 82 dÌas de diferencia: 
+        - 2021/09/13
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-296 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-296
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-289 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-289
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/03/61a90fdbe4d4d808798b4579.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-541 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-541
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-417 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-417
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-495 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-495
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/07/06/60e3ed08fdddff76768b45ce.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 151 dÌas de diferencia: 
+        - 2021/07/06
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-399 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-393 es el mismo artÌculo que la noticia EL MUNDO-399
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/03/61a9f0ecfdddff0c868b45d3.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 5 noticias similares:
+{'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}}
+
+Estudio de la noticia EL MUNDO-316
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-296 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-296
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-289 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-289
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/03/61a90fdbe4d4d808798b4579.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-541 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-541
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-417 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-417
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-399 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-399
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/03/61a9f0ecfdddff0c868b45d3.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-455 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-316 es el mismo artÌculo que la noticia EL MUNDO-455
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2020/12/14/5fd6598dfdddffa6b38b4571.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7665a21efa01a748b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 352 dÌas de diferencia: 
+        - 2020/12/14
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 5 noticias similares:
+{'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}}
+
+Tras el estudio se han encontrado 4 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-301', 'EL MUNDO-533', 'EL MUNDO-399', 'EL MUNDO-643'}
+
+Estudio de la noticia EL MUNDO-289
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-473 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-289 es el mismo artÌculo que la noticia EL MUNDO-473
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/17/616c09b8e4d4d8b14e8b457b.html
+        - https://www.elmundo.es/madrid/2021/12/03/61a90fdbe4d4d808798b4579.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 47 dÌas de diferencia: 
+        - 2021/10/17
+        - 2021/12/03
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-289 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/madrid/2021/12/03/61a90fdbe4d4d808798b4579.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-393'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-289': {'EL MUNDO-393'}}
+
+Estudio de la noticia EL MUNDO-541
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-541 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-482 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-541 es el mismo artÌculo que la noticia EL MUNDO-482
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/09/13/613f9cf2fc6c83e2518b4674.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 79 dÌas de diferencia: 
+        - 2021/09/13
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-417 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-541 es el mismo artÌculo que la noticia EL MUNDO-417
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-347 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-541 es el mismo artÌculo que la noticia EL MUNDO-347
+     Se trata de noticias distintas: 
+        - http://www.elmundo.es/elmundo/2013/07/18/castillayleon/1374162008.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-393'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-289': {'EL MUNDO-393'}, 'EL MUNDO-541': {'EL MUNDO-393'}}
+
+Estudio de la noticia EL MUNDO-417
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-347 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-417 es el mismo artÌculo que la noticia EL MUNDO-347
+     Se trata de noticias distintas: 
+        - http://www.elmundo.es/elmundo/2013/07/18/castillayleon/1374162008.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-417 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-482 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-417 es el mismo artÌculo que la noticia EL MUNDO-482
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/09/13/613f9cf2fc6c83e2518b4674.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 79 dÌas de diferencia: 
+        - 2021/09/13
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-541 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-417 es el mismo artÌculo que la noticia EL MUNDO-541
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/01/61a7511121efa029488b458a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-393'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-289': {'EL MUNDO-393'}, 'EL MUNDO-541': {'EL MUNDO-393'}, 'EL MUNDO-417': {'EL MUNDO-393'}}
+
+Estudio de la noticia EL MUNDO-399
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-399 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/03/61a9f0ecfdddff0c868b45d3.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-393'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-289': {'EL MUNDO-393'}, 'EL MUNDO-541': {'EL MUNDO-393'}, 'EL MUNDO-417': {'EL MUNDO-393'}, 'EL MUNDO-399': {'EL MUNDO-393'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 10 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-301', 'EL MUNDO-533', 'EL MUNDO-399', 'EL MUNDO-643'}
+{'EL MUNDO-643': {'EL MUNDO-533'}, 'EL MUNDO-533': {'EL MUNDO-643', 'EL MUNDO-301'}, 'EL MUNDO-301': {'EL MUNDO-296'}, 'EL MUNDO-296': {'EL MUNDO-272', 'EL MUNDO-393', 'EL MUNDO-316', 'EL MUNDO-301'}, 'EL MUNDO-272': {'EL MUNDO-296'}, 'EL MUNDO-393': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-316': {'EL MUNDO-296', 'EL MUNDO-289', 'EL MUNDO-541', 'EL MUNDO-417', 'EL MUNDO-399'}, 'EL MUNDO-289': {'EL MUNDO-393'}, 'EL MUNDO-541': {'EL MUNDO-393'}, 'EL MUNDO-417': {'EL MUNDO-393'}, 'EL MUNDO-399': {'EL MUNDO-393'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-272
+1: EL MUNDO-393
+2: EL MUNDO-316
+3: EL MUNDO-296
+4: EL MUNDO-289
+5: EL MUNDO-541
+6: EL MUNDO-417
+7: EL MUNDO-301
+8: EL MUNDO-533
+9: EL MUNDO-399
+10: EL MUNDO-643
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.80974478 0.77493606 0.76462585 0.80708661 0.84088717
+  0.84088717 0.8        0.81358189 0.8020595  0.79402985]
+ [0.80116279 0.         0.79028133 0.76326531 0.76246719 0.79459981
+  0.79459981 0.78023256 0.77629827 0.76315789 0.7641791 ]
+ [0.79534884 0.7972028  0.         0.74829932 0.81364829 0.85438766
+  0.85438766 0.79186047 0.78295606 0.8375286  0.79253731]
+ [0.79883721 0.8030303  0.76349614 0.         0.81364829 0.83510125
+  0.83510125 0.75813953 0.78961385 0.83066362 0.78358209]
+ [0.83023256 0.79137529 0.8277635  0.79616963 0.         0.82160077
+  0.82160077 0.80930233 0.82689747 0.82036613 0.79253731]
+ [0.80116279 0.76340326 0.8033419  0.76607387 0.76121372 0.
+  0.02217936 0.80581395 0.75499334 0.81121281 0.77014925]
+ [0.80116279 0.76340326 0.8033419  0.76607387 0.76121372 0.01839303
+  0.         0.80581395 0.75499334 0.81121281 0.77014925]
+ [0.80697674 0.7972028  0.7840617  0.72093023 0.79683377 0.83349468
+  0.83349468 0.         0.76564581 0.80091533 0.7761194 ]
+ [0.83488372 0.8030303  0.80848329 0.78932969 0.83377309 0.81219748
+  0.81219748 0.78621495 0.         0.82723112 0.73731343]
+ [0.78255814 0.75990676 0.82005141 0.79343365 0.79287599 0.84511133
+  0.84511133 0.7885514  0.79518072 0.         0.80447761]
+ [0.84186047 0.82400932 0.82904884 0.8002736  0.82189974 0.84704743
+  0.84704743 0.8317757  0.77376171 0.85057471 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-272 -> EL MUNDO-296: 0.7646258503401361. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-272 para aÒadirla a la noticia EL MUNDO-296 :161
+         EL MUNDO-296 -> EL MUNDO-272: 0.7988372093023256. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-272 para aÒadirla a la noticia EL MUNDO-296 :161
+
+         EL MUNDO-393 -> EL MUNDO-296: 0.763265306122449. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-296 :162
+         EL MUNDO-296 -> EL MUNDO-393: 0.803030303030303. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-296 :157
+
+         EL MUNDO-393 -> EL MUNDO-289: 0.7624671916010499. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-289 :169
+         EL MUNDO-289 -> EL MUNDO-393: 0.7913752913752914. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-289 :167
+
+         EL MUNDO-393 -> EL MUNDO-541: 0.7945998071359691. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-541 :201
+         EL MUNDO-541 -> EL MUNDO-393: 0.7634032634032634. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-541 :191
+
+         EL MUNDO-393 -> EL MUNDO-417: 0.7945998071359691. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-417 :201
+         EL MUNDO-417 -> EL MUNDO-393: 0.7634032634032634. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-417 :191
+
+         EL MUNDO-393 -> EL MUNDO-399: 0.7631578947368421. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-399 :195
+         EL MUNDO-399 -> EL MUNDO-393: 0.7599067599067599. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-393 para aÒadirla a la noticia EL MUNDO-399 :194
+
+         EL MUNDO-316 -> EL MUNDO-296: 0.7482993197278912. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-296 :173
+         EL MUNDO-296 -> EL MUNDO-316: 0.7634961439588689. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-296 :172
+
+         EL MUNDO-316 -> EL MUNDO-289: 0.8136482939632546. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-289 :130
+         EL MUNDO-289 -> EL MUNDO-316: 0.8277634961439588. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-289 :122
+
+         EL MUNDO-316 -> EL MUNDO-541: 0.8543876567020251. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-541 :139
+         EL MUNDO-541 -> EL MUNDO-316: 0.8033419023136247. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-541 :141
+
+         EL MUNDO-316 -> EL MUNDO-417: 0.8543876567020251. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-417 :139
+         EL MUNDO-417 -> EL MUNDO-316: 0.8033419023136247. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-417 :141
+
+         EL MUNDO-316 -> EL MUNDO-399: 0.8375286041189931. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-399 :130
+         EL MUNDO-399 -> EL MUNDO-316: 0.8200514138817481. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-316 para aÒadirla a la noticia EL MUNDO-399 :128
+
+         EL MUNDO-296 -> EL MUNDO-272: 0.7988372093023256. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-272 :161
+         EL MUNDO-272 -> EL MUNDO-296: 0.7646258503401361. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-272 :161
+
+         EL MUNDO-296 -> EL MUNDO-393: 0.803030303030303. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-393 :157
+         EL MUNDO-393 -> EL MUNDO-296: 0.763265306122449. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-393 :162
+
+         EL MUNDO-296 -> EL MUNDO-316: 0.7634961439588689. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-316 :172
+         EL MUNDO-316 -> EL MUNDO-296: 0.7482993197278912. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-316 :173
+
+         EL MUNDO-296 -> EL MUNDO-301: 0.7581395348837209. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-301 :196
+         EL MUNDO-301 -> EL MUNDO-296: 0.7209302325581395. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-296 para aÒadirla a la noticia EL MUNDO-301 :192
+
+         EL MUNDO-289 -> EL MUNDO-393: 0.7913752913752914. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-289 para aÒadirla a la noticia EL MUNDO-393 :167
+         EL MUNDO-393 -> EL MUNDO-289: 0.7624671916010499. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-289 para aÒadirla a la noticia EL MUNDO-393 :169
+
+         EL MUNDO-541 -> EL MUNDO-393: 0.7634032634032634. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-541 para aÒadirla a la noticia EL MUNDO-393 :191
+         EL MUNDO-393 -> EL MUNDO-541: 0.7945998071359691. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-541 para aÒadirla a la noticia EL MUNDO-393 :201
+
+         EL MUNDO-417 -> EL MUNDO-393: 0.7634032634032634. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-417 para aÒadirla a la noticia EL MUNDO-393 :191
+         EL MUNDO-393 -> EL MUNDO-417: 0.7945998071359691. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-417 para aÒadirla a la noticia EL MUNDO-393 :201
+
+         EL MUNDO-301 -> EL MUNDO-296: 0.7209302325581395. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-301 para aÒadirla a la noticia EL MUNDO-296 :192
+         EL MUNDO-296 -> EL MUNDO-301: 0.7581395348837209. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-301 para aÒadirla a la noticia EL MUNDO-296 :196
+
+         EL MUNDO-533 -> EL MUNDO-643: 0.7373134328358208. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-533 para aÒadirla a la noticia EL MUNDO-643 :164
+         EL MUNDO-643 -> EL MUNDO-533: 0.7737617135207496. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-533 para aÒadirla a la noticia EL MUNDO-643 :157
+
+         EL MUNDO-533 -> EL MUNDO-301: 0.7862149532710281. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-533 para aÒadirla a la noticia EL MUNDO-301 :171
+         EL MUNDO-301 -> EL MUNDO-533: 0.7656458055925432. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-533 para aÒadirla a la noticia EL MUNDO-301 :164
+
+         EL MUNDO-399 -> EL MUNDO-393: 0.7599067599067599. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-399 para aÒadirla a la noticia EL MUNDO-393 :194
+         EL MUNDO-393 -> EL MUNDO-399: 0.7631578947368421. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-399 para aÒadirla a la noticia EL MUNDO-393 :195
+
+         EL MUNDO-643 -> EL MUNDO-533: 0.7737617135207496. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-643 para aÒadirla a la noticia EL MUNDO-533 :157
+         EL MUNDO-533 -> EL MUNDO-643: 0.7373134328358208. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-643 para aÒadirla a la noticia EL MUNDO-533 :164
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-272 
+TÌtulo: 
+Ingresa en prisiÛn por robar a ancianas con el 'mataleÛn' en Villaverde y nada m·s salir de la c·rcel vuelve a ser detenido por el mismo delito | Madrid
+Fecha: 
+2021-12-03T23:42:11Z
+Autor: EFE
+Contenido: La Polic√≠a Nacional ha vuelto a detener este jueves al hombre magrebr√≠ que asfixiaba a ancianas para robarlas en Villaverde Alto ya que al salir de prisi√≥n asalt√≥ a otra mujer y rob√≥ en una farmacia del mismo distrito. Se trata de un espa√±ol de 40 a√±os que ingres√≥ en la c√°rcel a mediados de noviembre pero sali√≥ a la semana del recinto penitenciario, han informado a EFE fuentes policiales. Una vez fuera de la prisi√≥n volvi√≥ a delinquir y ahora los agentes le imputan tres delitos m√°s. Se investiga si est√° relacionado con m√°s hechos delictivos. Al parecer, seg√∫n la Polic√≠a, rob√≥ en una farmacia, atrac√≥ a una mujer de 59 a√±os por el m√©todo del matale√≥n y tambi√©n hizo compras en comercios con una tarjeta de cr√©dito que no era suya. Por todo ello los agentes volvieron a establecer un dispositivo para localizarlo y este jueves consiguieron su arresto. A mediados de noviembre los agentes de la Comisar√≠a de Usera-Villaverde ya le detuvieron por cometer en octubre cinco robos violentos a anciana de entre 74 y 82 a√±os. Es un conocido delincuente del distrito de Villaverde Alto, ya que cuenta con 32 antecedentes por hechos similares contra personas y propiedades. Segu√≠a a las ancianas por la calle y cuando entraban en el portal las sorprend√≠a por la espalda y les propinaba alg√∫n golpe para que cayeran al suelo, momento en el que sustra√≠a sus pertenencias y luego hu√≠a del lugar. La mayor√≠a de las mujeres asaltadas necesitaron asistencia sanitaria y una de ellas sufri√≥ una fractura de cadera como consecuencia de una de estas ca√≠das.
+
+
+EL MUNDO-393 
+TÌtulo: 
+Una mujer de 30 aÒos muere apuÒalada presuntamente por su pareja en Valencia | Comunidad Valenciana
+Fecha: 
+2021-12-04T12:31:22Z
+Autor: EUROPA PRESS
+Contenido: Una mujer de 30 a√±os ha fallecido tras ser apu√±alada presuntamente por su pareja, un hombre de 35 a√±os, en una vivienda de la calle Conde Altea en Valencia, seg√∫n han confirmado a Europa Press fuentes de la investigaci√≥n.Los hechos han ocurrido en un inmueble del barrio valenciano de l'Eixample, donde los agentes han encontrado este s√°bado el cuerpo sin vida de la mujer, nacida en el a√±o 1991. La Polic√≠a Nacional ha detenido a la pareja de la v√≠ctima, un hombre nacido en el a√±o 1986, como presunto autor de los hechos.Este s√°bado, sobre las 12.00 horas, se ha procedido al levantamiento del cad√°ver, tras la autorizaci√≥n judicial. El suceso se investiga como un caso de violencia de g√©nero, han indicado las mismas fuentes.Seg√∫n ha avanzado el diario Levante-EMV, el presunto autor fue encontrado herido leve a las 9.00 horas de este viernes, cuando trataba de escapar del edificio por el deslunado, por los trabajadores de un restaurante contiguo al portal de la vivienda. El individuo les asegur√≥ que hab√≠a intentado entrar a robar a la finca y que se hab√≠a ca√≠do. Los empleados alertaron entonces a la Polic√≠a Nacional, cuyos agentes arrestaron al hombre por robo con fuerza y lo llevaron a un hospital. Tras tomarle declaraci√≥n, fue puesto en libertad, aunque permaneci√≥ ingresado en el centro hospitalario. Este s√°bado, la madre de la v√≠ctima, despu√©s de que su hermana denunciase la desaparici√≥n, acudi√≥ al piso de su hija, donde la encontr√≥ acuchillada. La Polic√≠a Nacional acudi√≥ entonces de nuevo al hospital donde permanec√≠a ingresado el hombre, pareja de la v√≠ctima, que ha sido detenido por un presunto delito de asesinato.
+
+
+EL MUNDO-316 
+TÌtulo: 
+Detenidas dos mujeres por robar joyas y dinero en ChamberÌ | Madrid
+Fecha: 
+2021-12-01T12:17:10Z
+Autor: EUROPA PRESS
+Contenido: Agentes de la Polic√≠a Nacional han detenido a dos mujeres serbias como presuntas responsables de un delito contra el patrimonio cometido en el distrito madrile√±o de Chamber√≠, seg√∫n la Jefatura Superior de la Polic√≠a de Madrid.Varios vecinos alertaron al 091, ya que estaban viendo a dos personas intentando abrir las puertas de sus domicilios. R√°pidamente acudieron al lugar varios radiopatrullas y localizaron a estas dos mujeres en la entrada de una vivienda, ocultando entre sus ropas numerosas joyas, como pendientes, colgantes y broches, as√≠ como dinero en efectivo.Parte de este material lo llevaban oculto en el interior de calcetines. Adem√°s tambi√©n portaban dos pletinas de pl√°stico, habitualmente utilizadas para la apertura de puertas en la comisi√≥n de robos con fuerza en domicilios, as√≠ como unas tijeras. Los agentes se encuentran haciendo gestiones para poder determinar la procedencia de dichas joyas, por si pudieran estar relacionadas con otros hechos delictivos.El pasado mes de abril la Polic√≠a Nacional detuvo a 11 mujeres de nacionalidad croata de 20 a 30 a√±os como presuntas autoras de diversos robos en domicilios del barrio de Almagro en el mismo barrio del distrito madrile√±o de Chamber√≠. Las arrestadas formaban un grupo criminal itinerante que viajaba por varios pa√≠ses de Europa y que abr√≠an las casas empleando el m√©todo del resbal√≥n, deslizando una l√°mina de pl√°stico entre el marco de la puerta y el pestillo.
+
+
+EL MUNDO-296 
+TÌtulo: 
+Detenidas en MÛstoles dos mujeres jÛvenes por varios robos en la cafeterÌa de la Universidad Rey Juan Carlos | Madrid
+Fecha: 
+2021-12-02T13:18:54Z
+Autor: No tiene
+Contenido: La Polic√≠a Nacional ha detenido a dos mujeres sudamericanas como presuntas responsables de varios delitos de hurto cometidos en la cafeter√≠a del campus de M√≥stoles de la Universidad Rey Juan Carlos (URJC), aunque la investigaci√≥n contin√∫a abierta ya que no se descartan otras v√≠ctimas y m√°s implicados.La investigaci√≥n comenz√≥ a mediados del mes de noviembre, despu√©s de que la Comisar√≠a recibiera varias denuncias de estudiantes del campus universitario de M√≥stoles a quienes hab√≠an sustra√≠do varias pertenencias en la cafeter√≠a, seg√∫n la Jefatura Superior de Polic√≠a de Madrid en una nota.Los estudiantes manifestaban haber sido v√≠ctimas de diversos hurtos -mochilas con ordenadores y otras pertenencias- cometidos durante las comidas en la propia cafeter√≠a del campus o en otro establecimiento muy pr√≥ximo a la universidad, "siempre a la hora de la comida, aprovechando la gran afluencia de personas".Tras las indagaciones llevadas a cabo y gracias a la colaboraci√≥n del equipo de seguridad del centro universitario, el 22 de noviembre pasado los agentes procedieron a la localizaci√≥n y detenci√≥n de dos mujeres j√≥venes que se hac√≠an pasar como estudiantes como presuntas autoras de los delitos.A las dos mujeres detenidas, que ya han sido puestas a disposici√≥n judicial, se les imputa un total de cinco delitos de hurto, aunque la investigaci√≥n contin√∫a abierta, ya que no se descarta la existencia de otras v√≠ctimas.
+
+
+EL MUNDO-289 
+TÌtulo: 
+Un hombre muere al estrellarse con su patinete elÈctrico en AlcorcÛn | Madrid
+Fecha: 
+2021-12-03T00:52:32Z
+Autor: LUIS F. DUR¡N
+Contenido: Un hombre de 31 a√±os de edad, Manuel Alejandro J. V., falleci√≥ la madrugada del jueves en Alcorc√≥n tras estrellarse contra su patinete el√©ctrico en la avenida de Esteban M√°rquez de esta localidad a las 05.30 horas, seg√∫n confirm√≥ ayer la Polic√≠a Nacional que ha investigado el caso pese a tratarse de un accidente con un veh√≠culo de movilidad personal (MVP). Un trabajador de la empresa de limpieza de Alcorc√≥n Esmasa se encontr√≥ a la v√≠ctima en el suelo de madrugada junto a un patinete el√©ctrico. Eran las 04.30 horas. El empleado le pregunt√≥ que si se encontraba en buen estado. El hombre les contest√≥ que hab√≠a sufrido una ca√≠da del veh√≠culo y que estaba bien. Solo se notaba un dolor en el h√≠gado por lo que los trabajadores se marcharon dejando al hombre sentado en el suelo. Una hora despu√©s, en torno a las 05.30 horas, el veh√≠culo de limpieza municipal pas√≥ por el mismo lugar. Los trabajadores encontraron esta vez al hombre tumbado en el suelo. No se mov√≠a y avisaron a la Polic√≠a Nacional. Los agentes iniciaron las maniobras de resucitaci√≥n nada m√°s llegar. Los m√©dicos de una UVI del Summa acudieron al sitio y certificaron la muerte del hombre. La Polic√≠a Nacional concluy√≥ ayer que el hombre muri√≥ por un accidente en su patinete sin que estuviera implicado ning√∫n veh√≠culo y dio ayer por cerrada la investigaci√≥n tras recibir el informe de la autopsia efectuada en el Instituto de Medicina Legal. 
+
+
+EL MUNDO-541 
+TÌtulo: 
+La Guardia Civil investiga la muerte de una pareja en una vivienda de Llucena | CastellÛn
+Fecha: 
+2021-12-01T11:26:30Z
+Autor: C. A. D.
+Contenido: La Guardia Civil investiga la muerte de dos personas, un hombre y una mujer de alrededor de 50 a√±os, en una vivienda de Llucena (Castell√≥n), que fueron encontradas ya sin vida durante la noche de este martes al mi√©rcoles.Seg√∫n han informado fuentes de la Benem√©rita, la investigaci√≥n de los hechos la ha tomado el equipo territorial de Polic√≠a Judicial de Vinar√≤s tras recibir una alerta sobre las 22.30 horas de este martes.La Guardia Civil no avanza ninguna hip√≥tesis sobre las posibles causas y est√° a la espera de la autopsia.El Centro de Informaci√≥n y Coordinaci√≥n de Urgencias, CICU, explicaba este mi√©rcoles por la ma√±ana que los servicios sanitarios de urgencias no llegaron a desplazarse ya que el m√©dico de Atenci√≥n Primaria que estaba de urgencias en Llucena confirm√≥ el fallecimiento.Tampoco el Consorcio Provincial de Bomberos de Castell√≥n acudi√≥ a la vivienda, al no haberse producido ning√∫n incendio, seg√∫n indican desde la entidad.Seg√∫n indica el alcalde de la localidad, David Monferrer, el hermano y la hermana del hombre, alertados al no haber visto a la pareja en todo el d√≠a, se acercaron a la casa a √∫ltima hora del martes y encontraron a la pareja ya sin vida, en la cama, sin signos de violencia. Avisaron a la Guardia Civil y a los sanitarios de urgencias del pueblo, quienes acudieron junto al propio alcalde a la vivienda.El hombre, natural de Llucena, ten√≠a 52 a√±os. Ella era algo m√°s joven y no ten√≠an hijos. El primer edil de Llucena indica que el Ayuntamiento ha declarado dos d√≠as de luto oficial.Aunque las v√≠ctimas ten√≠an un brasero de le√±a en el dormitorio, ser√° la autopsia la que acabe determinando las causas de las muertes.De confirmarse el fallecimiento por la mala combusti√≥n de la estufa, ser√≠an ya cinco las personas que han perdido la vida en menos de una semana en la Comunidad Valenciana a causa de estufas en mal estado. Los fallecidos del pasado s√°bado en Catarroja, eran dos hombres y una mujer de una misma familia.
+
+
+EL MUNDO-417 
+TÌtulo: 
+La Guardia Civil investiga la muerte de una pareja en una vivienda de Llucena | CastellÛn
+Fecha: 
+2021-12-01T11:26:30Z
+Autor: C. A. D.
+Contenido: La Guardia Civil investiga la muerte de dos personas, un hombre y una mujer de alrededor de 50 a√±os, en una vivienda de Llucena (Castell√≥n), que fueron encontradas ya sin vida durante la noche de este martes al mi√©rcoles.Seg√∫n han informado fuentes de la Benem√©rita, la investigaci√≥n de los hechos la ha tomado el equipo territorial de Polic√≠a Judicial de Vinar√≤s tras recibir una alerta sobre las 22.30 horas de este martes.La Guardia Civil no avanza ninguna hip√≥tesis sobre las posibles causas y est√° a la espera de la autopsia.El Centro de Informaci√≥n y Coordinaci√≥n de Urgencias, CICU, explicaba este mi√©rcoles por la ma√±ana que los servicios sanitarios de urgencias no llegaron a desplazarse ya que el m√©dico de Atenci√≥n Primaria que estaba de urgencias en Llucena confirm√≥ el fallecimiento.Tampoco el Consorcio Provincial de Bomberos de Castell√≥n acudi√≥ a la vivienda, al no haberse producido ning√∫n incendio, seg√∫n indican desde la entidad.Seg√∫n indica el alcalde de la localidad, David Monferrer, el hermano y la hermana del hombre, alertados al no haber visto a la pareja en todo el d√≠a, se acercaron a la casa a √∫ltima hora del martes y encontraron a la pareja ya sin vida, en la cama, sin signos de violencia. Avisaron a la Guardia Civil y a los sanitarios de urgencias del pueblo, quienes acudieron junto al propio alcalde a la vivienda.El hombre, natural de Llucena, ten√≠a 52 a√±os. Ella era algo m√°s joven y no ten√≠an hijos. El primer edil de Llucena indica que el Ayuntamiento ha declarado dos d√≠as de luto oficial.Aunque las v√≠ctimas ten√≠an un brasero de le√±a en el dormitorio, ser√° la autopsia la que acabe determinando las causas de las muertes.De confirmarse el fallecimiento por la mala combusti√≥n de la estufa, ser√≠an ya cinco las personas que han perdido la vida en menos de una semana en la Comunidad Valenciana a causa de estufas en mal estado. Los fallecidos del pasado s√°bado en Catarroja, eran dos hombres y una mujer de una misma familia.
+
+
+EL MUNDO-301 
+TÌtulo: 
+Detenido un menor de 17 aÒos en AlcorcÛn por apuÒalar a otro joven | Madrid
+Fecha: 
+2021-12-02T12:00:33Z
+Autor: EFE
+Contenido: La Polic√≠a Nacional ha detenido en Alcorc√≥n (Madrid) a un menor de 17 a√±os de edad como presunto responsable de una agresi√≥n, con un objeto punzante en el pecho, a otro joven, quien tuvo que ser asistido en el Hospital Fundaci√≥n de Alcorc√≥n a consecuencia de las heridas. Los hechos sucedieron el 27 de noviembre pasado, sobre las 22.30 horas, en las inmediaciones del metro Puerta del Sur, cuando los agentes recibieron la llamada de un ciudadano que alertaba que un amigo suyo acababa de ser agredido por parte de un individuo con el que se hab√≠an cruzado en la v√≠a publica.Seg√∫n narr√≥ el joven, el individuo, "de forma sorpresiva e inesperada, sac√≥ de su ropa interior un objeto punzante y le asest√≥ dos pu√±aladas en el pecho".Inmediatamente varias dotaciones policiales se dirigieron al lugar comprobando como un var√≥n sangraba abundantemente y era atendido por el conserje de una urbanizaci√≥n pr√≥xima, seg√∫n ha se√±alado la Jefatura Superior de Polic√≠a de Madrid en una nota.El joven sufri√≥ varias heridas inciso-contusas en el hemitorax izquierdo de las que tuvo que ser asistido en el Hospital Universitario Fundaci√≥n de Alcorc√≥n.Los investigadores comenzaron las tareas de comprobaci√≥n y averiguaci√≥n de los hechos y, tras realizar diversas pesquisas policiales pudieron identificar y localizar al presunto autor de las pu√±aladas.Finalmente, el pasado lunes se estableci√≥ un dispositivo policial, que concluy√≥ con la detenci√≥n del responsable de las lesiones, un menor de 17 a√±os, de nacionalidad espa√±ola, quien pas√≥ a disposici√≥n de la Fiscal√≠a de Menores y ha ingresado en un centro de menores.
+
+
+EL MUNDO-533 
+TÌtulo: 
+El incendio de una vivienda de BenicarlÛ destapa una habitaciÛn con un centenar de plantas de marihuana | CastellÛn
+Fecha: 
+2021-12-02T14:39:57Z
+Autor: EUROPA PRESS
+Contenido:  La Guardia Civil ha detenido a un var√≥n de 49 a√±os como presunto autor de un delito contra la salud p√∫blica por el cultivo de 90 plantas de marihuana, seg√∫n ha informado el instituto armado en un comunicado. La investigaci√≥n comenz√≥ el d√≠a 29 de noviembre cuando se produjo un incendio en una vivienda de la localidad de Benicarl√≥ (Castell√≥n) en la que, tras ser extinguido, se pudo saber que una de las habitaciones de la vivienda estaba siendo utilizada como sala de floraci√≥n, la cual alojaba en su interior casi un centenar de plantas de marihuana. En esos momentos, la Guardia Civil determin√≥ la custodia permanente del domicilio y solicit√≥ mandamiento judicial para la entrada y registro de la vivienda. Posteriormente, se realiz√≥ la entrada en el domicilio, donde se hall√≥ un habit√°culo perfectamente dise√±ado para el cultivo 'indoor' de marihuana y donde se contabilizaron 90 plantas de marihuana enestado de crecimiento, as√≠ como diversos utensilios empleados para la floraci√≥n y mantenimiento de las plantas como l√°mparas al√≥genas, tubos de ventilaci√≥n y aparatos de aire acondicionado. Los guardias civiles realizaron diversas pesquisas con las que se pudo identificar y localizar al presunto autor de los hechos, que fue detenido este mi√©rcoles como presunto autor de un delito contra la salud p√∫blica. Las diligencias, junto con el detenido, han sido puestos a disposici√≥n de los Juzgados de Vinar√≤s.
+
+
+EL MUNDO-399 
+TÌtulo: 
+Investigan la agresiÛn de cinco menores a un niÒo de 14 aÒos que tuvo que refugiarse en un bar en Valencia | Comunidad Valenciana
+Fecha: 
+2021-12-03T10:26:56Z
+Autor: EUROPA PRESS
+Contenido: La Polic√≠a Nacional ha abierto una investigaci√≥n por la agresi√≥n a un ni√±o de 14 a√±os al que presuntamente cinco menores acorralaron, golpearon y persiguieron hasta que pudo refugiarse en un bar de Valencia.Seg√∫n han confirmado a Europa Press fuentes policiales, el incidente se remonta al d√≠a 29 de noviembre y surgi√≥ tras la sospecha de que la v√≠ctima pod√≠a estar saliendo con una chica que le gustaba a uno de los agresores. As√≠, ese d√≠a, uno de los presuntos agresores, compa√±ero del instituto de la v√≠ctima, se le acerc√≥ sobre las 14.30 horas y le pregunt√≥ si estaba saliendo con una chica. Este respondi√≥ que no y su compa√±ero, al no creerle, le indic√≥ que le estar√≠an esperando a la salida del colegio. Llegada la hora, una vez fuera, el compa√±ero esperaba junto a otros cuatro menores, de entre 14 y 15 a√±os, a la v√≠ctima en la puerta del instituto. En ese momento le cogieron, le apartaron y empezaron a pegarle. Un hombre que pasaba por all√≠ y observ√≥ los hechos recrimin√≥ a los menores su comportamiento y estos huyeron. La v√≠ctima, entonces, regres√≥ a su casa y por el camino le persiguieron dos de los presuntos agresores. As√≠, se meti√≥ en un bar a pedir ayuda y el due√±o llam√≥ tanto a su madre como a la Polic√≠a. La progenitora interpuso entonces una denuncia en comisar√≠a y los agentes investigan la presunta agresi√≥n. Por el momento ya hay varios agresores identificados. Tal y como ha adelantado este viernes Levante-EMV, la madre ya ha solicitado el traslado de centro escolar para su hijo, que permanece en casa hasta que se recupere. El menor, como consecuencia de la agresi√≥n, ha sufrido una rotura de t√≠mpano.
+
+
+EL MUNDO-643 
+TÌtulo: 
+Investigan a un conductor que circulaba a 295 km/h por la AP-7 en M·laga | EspaÒa
+Fecha: 
+2021-12-04T09:07:31Z
+Autor: EFE
+Contenido: La Guardia Civil investiga a un hombre de 29 a√±os que circulaba a 295 kil√≥metros por hora en la autov√≠a del Mediterr√°neo -AP7- en M√°laga y que realiz√≥ varias maniobras peligrosas, como adelantar por el arc√©n, mientras se grababa en v√≠deo para subirlo posteriormente a las redes sociales.Seg√∫n ha informado este s√°bado la Direcci√≥n General de la Guardia Civil, el conductor ha sido puesto a disposici√≥n judicial como presunto autor de un delito contra la seguridad vial. El conductor, de 29 a√±os, circulaba por la AP-7 de M√°laga a 295 kil√≥metros por hora y llev√≥ a cabo diversas maniobras que pusieron en riesgo la vida del resto de usuarios de la v√≠a, adelantando en zigzag a dos veh√≠culos y circulando por el arc√©n. En el interior del veh√≠culo viajaban, adem√°s, dos mujeres que intentaban que el conductor cesar√° en su actitud. El hombre grab√≥ su acci√≥n y la subi√≥ posteriormente a una popular red social, lo que dio inicio a las investigaciones por parte del subsector de Tr√°fico de la Guardia Civil en M√°laga. El conductor ha sido puesto a disposici√≥n del Juzgado de Instrucci√≥n de Guardia de Fuengirola (M√°laga) y se le considera autor de un delito contra la seguridad vial por conducci√≥n temeraria con manifiesto desprecio por la vida de los dem√°s.
+
+

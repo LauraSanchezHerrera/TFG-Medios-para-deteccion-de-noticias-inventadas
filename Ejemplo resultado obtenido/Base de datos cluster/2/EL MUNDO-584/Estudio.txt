@@ -1,0 +1,141 @@
+Estudio de la noticia EL MUNDO-584
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-589 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-584 es el mismo art�culo que la noticia EL MUNDO-589
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/12/02/61a913e821efa0ae7a8b4580.html
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-603 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-584 es el mismo art�culo que la noticia EL MUNDO-603
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/22/619b9d30fdddfff32f8b45a3.html
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 11 d�as de diferencia: 
+        - 2021/11/22
+        - 2021/12/03
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia EL MUNDO-618 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-584 es el mismo art�culo que la noticia EL MUNDO-618
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/17/6194c7b4fc6c83217a8b45d0.html
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 16 d�as de diferencia: 
+        - 2021/11/17
+        - 2021/12/03
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia EL MUNDO-600 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-584 es el mismo art�culo que la noticia EL MUNDO-600
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/24/619ebbc421efa080668b4602.html
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 9 d�as de diferencia: 
+        - 2021/11/24
+        - 2021/12/03
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-589'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-589'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-584': {'EL MUNDO-589'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-589
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-584 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-589 es el mismo art�culo que la noticia EL MUNDO-584
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/12/03/61aa574be4d4d8c26f8b45ae.html
+        - https://www.elmundo.es/pais-vasco/2021/12/02/61a913e821efa0ae7a8b4580.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-584'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-584': {'EL MUNDO-589'}, 'EL MUNDO-589': {'EL MUNDO-584'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-584', 'EL MUNDO-589'}
+{'EL MUNDO-584': {'EL MUNDO-589'}, 'EL MUNDO-589': {'EL MUNDO-584'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-584
+1: EL MUNDO-589
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.78728489]
+ [0.72890026 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-584 -> EL MUNDO-589: 0.7872848948374761. Cantidad de informaci�n extra�da de la noticia EL MUNDO-584 para a�adirla a la noticia EL MUNDO-589 :433
+         EL MUNDO-589 -> EL MUNDO-584: 0.7289002557544757. Cantidad de informaci�n extra�da de la noticia EL MUNDO-584 para a�adirla a la noticia EL MUNDO-589 :412
+
+         EL MUNDO-589 -> EL MUNDO-584: 0.7289002557544757. Cantidad de informaci�n extra�da de la noticia EL MUNDO-589 para a�adirla a la noticia EL MUNDO-584 :412
+         EL MUNDO-584 -> EL MUNDO-589: 0.7872848948374761. Cantidad de informaci�n extra�da de la noticia EL MUNDO-589 para a�adirla a la noticia EL MUNDO-584 :433
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-584 
+T�tulo: 
+El pasaporte Covid ser� ma�ana obligatorio en locales nocturnos y Urkullu quiere ampliarlo a hospitales, residencias y gimnasios | Pa�s Vasco
+Fecha: 
+2021-12-03T18:05:35Z
+Autor: JOSEAN IZARRA
+Contenido: Euskadi estrenará mañana sábado la obligación de presentar el pasaporte Covid para acceder a locales nocturnos y a los restaurantes con más de 50 comensales. Y serán los dueños de los locales los responsables tanto del control de los accesos como de los incumplimientos de esta obligación para acceder a sus establecimientos. La normativa vasca que entrará en vigor tras el visto bueno del Tribunal Supremo también contempla que la policía entre en estos locales para certificar que todos los clientes cuentan con el pasaporte Covid 19. El lehendakari Iñigo Urkullu pretende, además, ampliar su utilización en residencias, hospitales e, incluso, gimnasios.El País Vasco estrena en el sábado del puente de la Constitución el pasaporte Covid como documento imprescindible para acceder a discotecas, karaokes, salas de baile, bares musicales pero también en pubs y "bares especiales" a partir de las 10 de la noche. Los restaurantes con más de 50 comensales también tendrán que llevar a cabo el control de su clientela antes del acceso al local. La orden que activa este sistema que limita el acceso a las personas no vacunadas entrará mañana en vigor al ser publicada en el Boletín Oficial del País Vasco.Los dueños de los establecimientos tienen la obligación de llevar a cabo el control y de la gestión de la información obtenida en estos controles garantizando las disposiciones de la normativa de protección de datos. Además, los establecimientos afectados por esta norma tendrán que colocar carteles en el exterior comunicando la obligación del pasaporte Covid. En la información también se recordará que el uso de la mascarilla en el interior de cada local es obligatoria y sólo se permite su retirada en el momento de la ingesta de bebida y comida.La obligación del pasaporte Covid puede extenderse en los próximos días a otros ámbitos como hospitales, residencias y gimnasios, como ha adelantado el lehendakari Iñigo Urkullu antes de la reunión del consejo asesor del LABI integrados por consejeros de su Gobierno, los tres diputados generales y el alcalde de Vitoria y presidente de Eudel y el delegado del Gobierno Denis Itxaso. El consejo asesor seguirá sustentando sus decisiones en los informes del comité de expertos que ya no estará coordinado por Jonan Fernández y cuyas funciones las asume la consejera de Salud Gotzone Sagardui.Euskadi registra una tasa de incidencia media de 625 casos por 100.000 habitantes en 14 días con contagios disparados entre los menores de 12 años. La vacunación supera el 90% menos en la franja de edad de entre 20 y 39 años que se mantiene en una inmunización del 80% pese a los continuos llamamientos del Gobierno vasco para que acudan a vacunarse. La puesta en marcha del pasaporte Covid como filtro para acceder a locales de hostelería y de restauración pretende presionar también a este grupo de ciudadanos para que acudan a vacunarse.El lehendakari Urkullu ha adelantado la intención de solicitar al Tribunal Superior de Justicia del País Vasco autorización para extender a residencias, hospitales y gimnasios la obligación de mostrar el pasaporte Covid. Una autorización que se solicitará ya después del puente de la Constitución y que tendrá que ser analizada por la Sala de lo Contencioso-Administrativo que inicialmente rechazó la posibilidad de activar el pasaporte Covid en la hostelería. El Supremo, sin embargo, desestimó los argumentos de los jueces vascos y ha abierto la puerta a su utilización a partir de mañana en Euskadi.
+
+
+EL MUNDO-589 
+T�tulo: 
+Urkullu activa la emergencia sanitaria y el LABI ante una "nueva fase de la pandemia" tras fracasar las advertencias | Pa�s Vasco
+Fecha: 
+2021-12-02T19:47:00Z
+Autor: JOSEAN IZARRA
+Contenido: El lehendakari Urkullu ha activado esta misma tarde la declaración de emergencia sanitaria y el Plan de Protección Civil de Euskadi (LABI) para contrarrestar los efectos de una "nueva fase de la pandemia" que ha multiplicado por 10 la tasa de incidencia de los contagios en mes y medio y que ha elevado al "nivel crítico" la ocupación de las Unidades de Cuidados Intensivos. Urkullu reunirá mañana a los representantes institucionales para, ya en pleno macropuente de la Constitución, activar mecanismos de respuesta tras tres días marcados por la improvisación sobre cómo afrontar una sexta ola con más del 91% de los vascos vacunados.El lehendakari Urkullu ha firmado esta tarde el decreto que declara la emergencia sanitaria después de que el vicelehendakari Josu Erkoreka y la consejera Gotzone Sagardui dictaran sendas órdenes que activan los mecanismos excepcionales de lucha contra la pandemia tras fracasar las advertencias utilizadas durante las últimas semanas por el Gobierno vasco. Llamamientos a la responsabilidad individual que se diluían en las convocatorias de actos multitudinarios navideños por parte de los ayuntamientos, del abandono paulatino del uso de la mascarilla en interiores y de la celebración de encuentros familiares y de amigos sin elementos de protección.El Gobierno vasco anunció el 16 de noviembre que solicitaba al Tribunal Superior de Justicia del País Vasco la utilización del pasaporte Covid, recibió la respuesta negativa el 22 de noviembre, rechazó presentar recurso el 23 y se desdijo el 25 para anunciar que sí reclamaría la intervención del Supremo, criterio que había mantenido públicamente la vicelehendakari socialista Idoia Mendia.El Supremo informó el martes 30 que autorizaba la utilización del pasaporte Covid frente al criterio del TSJPV y Urkullu había anunciado que esperaría a conocer con detalle el contenido del dictamen judicial para declarar el estado de alarma, convocar el LABI y anunciar las nuevas medidas, incluida la del uso del certificado de estar vacunado. La decisión del lehendakari de aplicar en Euskadi su modelo de "gobernanza" ha retrasado hasta mañana la reunión del consejo asesor en el que participan los diputados generales, el alcalde de Vitoria y presidente de Eudel junto al delegado del Gobierno en Euskadi Denis Itxaso.A las puertas del puente de la Constitución, Urkullu tendrá la posibilidad de aplicar a partir del sábado la obligación de portar el pasaporte Covid para entrar en locales nocturnos y restaurantes de más de 50 comensales. El lehendakari pretende ampliar este requisito en otros ámbitos como residencias, hospitales y otros espacios públicos de riesgo pero tendrá que evaluar si el dictamen del Supremo le habilita para tomar estas medidas o sólo las que fueron detalladas en el recurso. Además, la ley antiCovid faculta a Urkullu para introducir limitaciones en el ámbito de la hostelería (horarios, aforos); medidas recurrentes en las olas anteriores.Según los últimos datos ofrecidos por Osakidetza, Euskadi ha alcanzado hoy una tasa de incidencia de la pandemia de 577,17 casos acumulados en 14 días por cada 100.000 habitantes, tras sumar entre el 25 de noviembre y el 1 de diciembre 7.692 nuevos positivos en Covid, 3.915 de ellos en los tres últimos días. En los hospitales vascos, los pacientes ingresados en planta han aumentado a 207 y los que permanecen en las UCI han subido a 55.Los contagios en Euskadi bajaron hasta los 55,63 casos de tasa de incidencia por 100.000 habitantes en 14 días el 13 de octubre pasado. Desde esa fecha, el incremento de los contagiados ha sido imparable, especialmente a partir de primeros de noviembre con un incremento diario del 7% de los positivos registrados. La presión hospitalaria también ha sufrido un incremento exponencial desde que el 11 de octubre cuando se registró una media de 10,7 ingresos diarios medios. En la última semana de noviembre la media de ingresos diarios se situó en 42,57.La consejera Sagardui subraya en la orden con la que ha solicitado la declaración del estado de emergencia que la situación de las UCIs ha alcanzado "un nivel considerado crítico" al doblarse de los 24 ingresados en estas unidades el 10 de noviembre a los 51 del día 29. "Dichos datos evidencian la necesidad de adoptar medidas extraordinarias y urgentes que ayuden a la contención reforzada", reclama Sagardui en la orden que ha activado la vuelta de Euskadi al estado de emergencia sanitaria.
+
+

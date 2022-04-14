@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-280
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-321 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-280 es el mismo art�culo que la noticia EL MUNDO-321
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/01/61a68e3b21efa0bb418b45d5.html
+        - https://www.elmundo.es/madrid/2021/12/03/61a9e0d421efa0dd428b459b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-321'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-321'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-280': {'EL MUNDO-321'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-321
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-280 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-321 es el mismo art�culo que la noticia EL MUNDO-280
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/03/61a9e0d421efa0dd428b459b.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a68e3b21efa0bb418b45d5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-280'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-280': {'EL MUNDO-321'}, 'EL MUNDO-321': {'EL MUNDO-280'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-280', 'EL MUNDO-321'}
+{'EL MUNDO-280': {'EL MUNDO-321'}, 'EL MUNDO-321': {'EL MUNDO-280'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-280
+1: EL MUNDO-321
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.71663727]
+ [0.74354561 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-280 -> EL MUNDO-321: 0.7166372721928278. Cantidad de informaci�n extra�da de la noticia EL MUNDO-280 para a�adirla a la noticia EL MUNDO-321 :470
+         EL MUNDO-321 -> EL MUNDO-280: 0.7435456110154905. Cantidad de informaci�n extra�da de la noticia EL MUNDO-280 para a�adirla a la noticia EL MUNDO-321 :435
+
+         EL MUNDO-321 -> EL MUNDO-280: 0.7435456110154905. Cantidad de informaci�n extra�da de la noticia EL MUNDO-321 para a�adirla a la noticia EL MUNDO-280 :435
+         EL MUNDO-280 -> EL MUNDO-321: 0.7166372721928278. Cantidad de informaci�n extra�da de la noticia EL MUNDO-321 para a�adirla a la noticia EL MUNDO-280 :470
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-280 
+T�tulo: 
+El temporal de viento de este viernes impide la apertura de la estaci�n de esqu� de Navacerrada | Madrid
+Fecha: 
+2021-12-03T09:18:16Z
+Autor: EUROPA PRESS
+Contenido: El temporal de viento ha impedido la apertura de la estación de esquí del Puerto de Navacerrada, según ha informado el portavoz de la estación, José Conesa.Así, ha explicado que durante esta jornada se han llegado a registrar rachas de más 75 kilómetros por hora y que la previsión es que el viento se vaya incrementado a medida que avance el día."Lamentablemente el día ha amanecido con un viento fuera de las medidas de seguridad. Nos encontramos a más de 75 kilómetros por hora, con lo cual va a ser imposible la apertura en el día de hoy", ha afirmado.El portavoz de la estación ha indicado que las previsiones meteorológicas para el puente de la Constitución pronostican que el viento "se mantenga" y que incluso se vaya incrementado, por lo que "no queda más remedio" que "ir día a día viendo qué posibilidades hay y si vamos a poder abrir".La concesionaria de la estación de esquí del Puerto de Navacerrada tenía previsto abrir este viernes las instalaciones en su horario habitual, a las 9 horas de la mañana y, siempre y cuando la meteorología lo permitiera", después de que el Tribunal Superior de Justicia de Castilla y León (TSJCyL), haya denegado la suspensión cautelar solicitada por la Abogacía del Estado, a instancias del Ministerio de Transición Ecológica, que pedía frenar la práctica del esquí.La estación cuenta actualmente con ocho kilómetros de nieve en las pistas situadas en la vertiente segoviana, que son las del Telégrafo, El Escaparate y El Bosque.La empresa concesionaria considera que el rechazo de las medidas cautelares solicitadas por el Gobierno no les afecta directamente, al no ser parte en el proceso iniciado por la Administración central para impedir cualquier actividad de esquí en Navacerrada, y entiende que "puede continuar con la actividad normal de explotación" siempre y cuando se den las condiciones necesarias.Conesa ha recordado que solicitaron una prórroga de dos años en la concesión y a día de hoy "ninguna administración se ha declarado competente para resolverlo". "Estamos esperando la resolución del Ministerio por agotar el procedimiento administrativo, ya que tienen de plazo hasta este viernes para contestar este tema", ha dicho.Así, ha hecho hincapié en que la postura de la empresa es de "muchísima prudencia" pues "no" quieren "echar las campanas al vuelo". "No queremos que ningún tipo de institución se moleste, ni que crean que estamos aquí retando a nadie. Nada más lejos de nuestra intención", ha concluido.En marzo el Organismo Autónomo Parques Nacionales comunicó a la Junta de Castilla y León que el permiso de actividad de esquí de tres pistas de dicha estación había expirado y que no tenía intención de prorrogarlo de nuevo, entre otras razones por la cada vez mayor falta de nieve a consecuencia del cambio climático, de modo que las estación debía desmantelar las instalaciones, incluido el telesilla y revertir los terrenos a su estado natural.La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, garantizó a la Junta de Castilla y León que le otorgará todo su "apoyo" para mantener abiertas las pistas de Navacerrada. "Esperemos que impere el sentido común. No tiene cabida, lógica alguna que Navacerrada tras tantos años se cierre por motivos políticos con todo el perjuicio que ello conlleva", lanzaba el pasado martes la líder madrileña.Fuentes del Ministerio han señalado que estará a lo que diga el juez en este asunto una vez que el Tribunal ha decidido tramitarlas por el procedimiento ordinario. No obstante, reiteran que los planteamientos del Organismo Autónomo Parques Nacionales y del Ministerio no han cambiado, siguen siendo los mismos, y está a la espera de que el procedimiento se desarrolle como la justicia estime conveniente.
+
+
+EL MUNDO-321 
+T�tulo: 
+El gran l�o de la estaci�n de Navacerrada: ahora recurre la Abogac�a del Estado | Madrid
+Fecha: 
+2021-12-01T00:42:00Z
+Autor: DANIEL SOMOLINOS
+Contenido: Continúa el laberinto judicial y de competencias en torno a la estación de esquí de Navacerrada, que se sitúa entre la Comunidad de Madrid y Castilla y León. Si este lunes el presidente de la Junta, Alfonso Fernández Mañueco, garantizaba que este emplazamiento continuaría prestando su actividad, ayer martes la Abogacía del Estado, a instancias de Parques Nacionales, presentaba un recurso contencioso-administrativo contra la Junta de Castilla y León por dejación de funciones al no atender un requerimiento para poner fin a la práctica del esquí en una parte de Navacerrada.Concretamente en tres pistas, Telégrafo, El Bosque y Escaparate, pertenecientes a la vertiente segoviana de la estación. Fue Parques Nacionales, dependiente del Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO), quien acordó este pasado marzo no renovar la concesión de estas instalaciones tras cumplirse su plazo de vigencia de 25 años. El área de Teresa Ribera no lo veía viable argumentando "el escenario actual de cambio climático, reduciéndose la nieve en un 25%, y una alta presión turística". Pese a ello, Mañueco se pronunció este lunes y afirmó que el cierre decretado por el Gobierno de Pedro Sánchez "ataca claramente el futuro económico de Navacerrada y de todo su entorno". Y agregó que el Ejecutivo central ha decidido que la Junta de Castilla y León "es la competente para declarar el cierre", por lo que ellos han considerado "que no hay ni razones políticas ni razones jurídicas para dicha clausura". Unas palabras que hicieron reaccionar con presteza a MITECO, quien avisó mediante un comunicado que la reanudación de la actividad en las pistas citadas supondría la vulneración de los derechos del propietario del monte, que es Parques Nacionales, advertencia formalizada en un recurso presentado ayer y admitido a trámite por el Tribunal Superior de Justicia de Castilla y León. La propia ministra Ribera se manifestó aclarando que se ha recurrido la decisión de Castilla y León de abrir las pistas de Navacerrada porque "incumple de manera muy clara los límites" de esa administración, que debió vigilar el cumplimiento de la orden de desmantelamiento. Su Ministerio acusó a Mañueco de realizar unas afirmaciones partiendo de "una premisa falsa" y confundiendo "deliberadamente el esquema de reparto de competencias". También salió al paso el vicepresidente de la Junta de Castilla y León, Francisco Igea, quien deslizó, también ayer, que estarán a lo que diga la justicia, que es quien debe dirimir las diferencias en la interpretación de la ley. Mientras todo este baile de declaraciones se sucede, la empresa que gestiona estas instalaciones deportivas, Puerto de Navacerrada Estación de Esquí, confía en que pronto escampe. De momento, y pese a tener todo preparado desde hace semanas para que la gente pudiera esquiar cuando las condiciones climatológicas lo permitan, van a ser "prudentes". "Estamos a expensas de que las circunstancias que nos rodean sean propicias", apuntó a este diario José Conesa, portavoz de la compañía. Por su parte, la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, garantizó ayer a Castilla y León que le otorgará todo su "apoyo" para mantener abiertas las pistas de Navacerrada. "Esperemos que impere el sentido común. No tiene cabida ni lógica que Navacerrada se cierre tras tantos años por motivos políticos con todo el perjuicio que ello conlleva", expuso Ayuso.
+
+

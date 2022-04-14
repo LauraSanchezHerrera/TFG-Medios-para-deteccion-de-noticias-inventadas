@@ -1,0 +1,297 @@
+Estudio de la noticia EL MUNDO-685
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-725 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-685 es el mismo artÌculo que la noticia EL MUNDO-725
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+        - https://www.elmundo.es/andalucia/2021/11/22/619b3efafdddffde038b4574.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/21
+        - 2021/11/22
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-722 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-685 es el mismo artÌculo que la noticia EL MUNDO-722
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/2021/11/22/619be6b3fdddff513e8b45e1.html
+        - https://www.elmundo.es/andalucia/2021/11/22/619b3efafdddffde038b4574.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/22
+        - 2021/11/22
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-689 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-685 es el mismo artÌculo que la noticia EL MUNDO-689
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+        - https://www.elmundo.es/andalucia/2021/11/22/619b3efafdddffde038b4574.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/21
+        - 2021/11/22
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-725', 'EL MUNDO-722', 'EL MUNDO-689'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-725 y EL MUNDO-722:
+     No son la misma noticia.
+
+ - Comparo las noticias EL MUNDO-725 y EL MUNDO-689:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-722 y EL MUNDO-725:
+     No son la misma noticia.
+
+ - Comparo las noticias EL MUNDO-722 y EL MUNDO-689:
+     No son la misma noticia.
+
+ - Comparo las noticias EL MUNDO-689 y EL MUNDO-725:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-689 y EL MUNDO-722:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'EL MUNDO-725', 'EL MUNDO-722'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-685': {'EL MUNDO-725', 'EL MUNDO-722'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-725
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-731 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-725 es el mismo artÌculo que la noticia EL MUNDO-731
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/2021/11/18/61969cc0fdddff7a808b45f0.html
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/18
+        - 2021/11/21
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-685 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-725 es el mismo artÌculo que la noticia EL MUNDO-685
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/22/619b3efafdddffde038b4574.html
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/22
+        - 2021/11/21
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-689 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-725 es el mismo artÌculo que la noticia EL MUNDO-689
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/21
+        - 2021/11/21
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 2 noticias similares:
+{'EL MUNDO-731', 'EL MUNDO-685'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-685': {'EL MUNDO-725', 'EL MUNDO-722'}, 'EL MUNDO-725': {'EL MUNDO-685', 'EL MUNDO-731'}}
+
+Estudio de la noticia EL MUNDO-722
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-731 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-722 es el mismo artÌculo que la noticia EL MUNDO-731
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/2021/11/18/61969cc0fdddff7a808b45f0.html
+        - https://www.elmundo.es/economia/2021/11/22/619be6b3fdddff513e8b45e1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 4 dÌas de diferencia: 
+        - 2021/11/18
+        - 2021/11/22
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-685 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-722 es el mismo artÌculo que la noticia EL MUNDO-685
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/22/619b3efafdddffde038b4574.html
+        - https://www.elmundo.es/economia/2021/11/22/619be6b3fdddff513e8b45e1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/22
+        - 2021/11/22
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-731', 'EL MUNDO-685'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-685': {'EL MUNDO-725', 'EL MUNDO-722'}, 'EL MUNDO-725': {'EL MUNDO-685', 'EL MUNDO-731'}, 'EL MUNDO-722': {'EL MUNDO-685', 'EL MUNDO-731'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-731'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-725', 'EL MUNDO-722', 'EL MUNDO-685', 'EL MUNDO-731'}
+
+Estudio de la noticia EL MUNDO-731
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-725 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-731 es el mismo artÌculo que la noticia EL MUNDO-725
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+        - https://www.elmundo.es/economia/2021/11/18/61969cc0fdddff7a808b45f0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/21
+        - 2021/11/18
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-689 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-731 es el mismo artÌculo que la noticia EL MUNDO-689
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/21/619a351dfdddff91a48b45a6.html
+        - https://www.elmundo.es/economia/2021/11/18/61969cc0fdddff7a808b45f0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/21
+        - 2021/11/18
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 0 noticias similares:
+set()
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-685': {'EL MUNDO-725', 'EL MUNDO-722'}, 'EL MUNDO-725': {'EL MUNDO-685', 'EL MUNDO-731'}, 'EL MUNDO-722': {'EL MUNDO-685', 'EL MUNDO-731'}, 'EL MUNDO-731': set()}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 3 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-685', 'EL MUNDO-725', 'EL MUNDO-722', 'EL MUNDO-731'}
+{'EL MUNDO-685': {'EL MUNDO-725', 'EL MUNDO-722'}, 'EL MUNDO-725': {'EL MUNDO-685', 'EL MUNDO-731'}, 'EL MUNDO-722': {'EL MUNDO-685', 'EL MUNDO-731'}, 'EL MUNDO-731': set()}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-685
+1: EL MUNDO-725
+2: EL MUNDO-722
+3: EL MUNDO-731
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.78045685 0.7625     0.8290208 ]
+ [0.78284182 0.         0.80397727 0.79096905]
+ [0.73659517 0.77035623 0.         0.82242516]
+ [0.79356568 0.73346056 0.80523918 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-685 -> EL MUNDO-725: 0.7804568527918782. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-685 para aÒadirla a la noticia EL MUNDO-725 :334
+         EL MUNDO-725 -> EL MUNDO-685: 0.7828418230563002. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-685 para aÒadirla a la noticia EL MUNDO-725 :312
+
+         EL MUNDO-685 -> EL MUNDO-722: 0.7625. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-685 para aÒadirla a la noticia EL MUNDO-722 :406
+         EL MUNDO-722 -> EL MUNDO-685: 0.7365951742627346. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-685 para aÒadirla a la noticia EL MUNDO-722 :381
+
+         EL MUNDO-725 -> EL MUNDO-685: 0.7828418230563002. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-725 para aÒadirla a la noticia EL MUNDO-685 :312
+         EL MUNDO-685 -> EL MUNDO-725: 0.7804568527918782. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-725 para aÒadirla a la noticia EL MUNDO-685 :334
+
+         EL MUNDO-725 -> EL MUNDO-731: 0.7909690512430239. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-725 para aÒadirla a la noticia EL MUNDO-731 :400
+         EL MUNDO-731 -> EL MUNDO-725: 0.7334605597964376. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-725 para aÒadirla a la noticia EL MUNDO-731 :407
+
+         EL MUNDO-722 -> EL MUNDO-685: 0.7365951742627346. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-722 para aÒadirla a la noticia EL MUNDO-685 :381
+         EL MUNDO-685 -> EL MUNDO-722: 0.7625. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-722 para aÒadirla a la noticia EL MUNDO-685 :406
+
+         EL MUNDO-722 -> EL MUNDO-731: 0.8224251648909183. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-722 para aÒadirla a la noticia EL MUNDO-731 :338
+         EL MUNDO-731 -> EL MUNDO-722: 0.8052391799544419. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-722 para aÒadirla a la noticia EL MUNDO-731 :330
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-685 
+TÌtulo: 
+Fallece un motorista en un accidente provocado por una retenciÛn de los piquetes informativos del metal | AndalucÌa
+Fecha: 
+2021-11-22T10:45:05Z
+Autor: ANDR…S MACHADO
+Contenido: Un motorista, trabajador del puerto de Algeciras, ha fallecido a primeras horas de la ma√±ana cuando ha colisionado con un cami√≥n portacontenedores que se encontraba retenido en el puente de acceso norte a al recinto portuario que estaba cortado por la actuaci√≥n de los piquetes informativos de la huelga del metal.Los hechos, seg√∫n han informado desde la Guardia Civil, se han producido a primeras horas de la ma√±ana. "A consecuencia de una retenci√≥n en el puente norte al puerto por la actuaci√≥n de un piquete informativo que cortaba la v√≠a, se ha producido un accidente de tr√°fico por alcance de una moto y un cami√≥n que se encontraba parado. A consecuencia del mismo ha fallecido el ocupante de la moto que era empleado del puerto". Esa es la informaci√≥n que ha facilitado la Benem√©rita.La jornada est√° siendo tensa e intensa en todo el arco de la Bah√≠a de Algeciras y especialmente en el recinto portuario. Ah√≠ se han mezclado las reivindicaciones de los empleados del metal con los paros, de dos horas, que est√°n llevando a cabo los trabajadores de APM Terminals que est√°n mostrando su disconformidad con el traslado de tareas de la compa√±√≠a a T√°nger. Los estibadores portuarios han mostrado su apoyo a ambos colectivos. La presencia de agentes de la Polic√≠a Nacional y Guardia Civil es notable en este punto de la comarca del Campo de Gibraltar.Asimismo, los accesos a las zonas industriales est√°n siendo complicados, en algunos casos imposibles, y las quejas de empresarios de la zona hostelera de Palmones o de La L√≠nea de la Concepci√≥n, son continuas ya que el conflicto del metal est√° perjudicando ya a numerosos sectores productivos.A las cinco de la tarde est√° convocada una manifestaci√≥n en Algeciras. Los sindicatos CCOO y UGT han hecho un llamamiento a la participaci√≥n de todos los trabajadores. El PSOE y dirigentes de Podemos ya han confirmado su apoyo a la misma e incluso en algunos casos, como el alcalde socialista de San Roque, Juan Carlos Ruiz Boix, tiene previsto asistir.La concentraci√≥n de protesta, que acabar√° en la sede de la patronal Femca se mantiene, de momento, pese al accidente y a la cita que, desde las 18:00 horas, tendr√° lugar en Sevilla en la que se reanudar√° la mesa de negociaci√≥n entre las partes en conflicto.La Polic√≠a y los manifestantes del sector del metal tambi√©n han protagonizado esta ma√±ana duros enfrentamientos en la barriada de Baz√°n de San Fernando (C√°diz).Los piquetes informativos han intentado cortar el tr√°fico en el puente de hierro, √∫nico acceso por carretera hasta el astillero de Navantia en San Fernando, pero se han encontrado con un enorme despliegue policial que intentaba garantizar el libre acceso de todos los trabajadores a su puesto de trabajo.Los manifestantes se han repartido por la barriada de Baz√°n y han aprovechado la apertura del despliegue policial para quemar contenedores y dejar barricadas incendiadas sobre el asfalto, lo que ha provocado que, por momentos, el tr√°fico s√≠ haya estado cortado.Estos altercados han provocado, seg√∫n fuentes sindicales, que varios autobuses que transportaban trabajadores a la factor√≠a hayan decidido no entrar en la carretera hacia la planta y regresar a los empleados a sus casas.
+
+
+EL MUNDO-725 
+TÌtulo: 
+El sector del metal inicia la segunda semana de huelga lejos del acuerdo con la patronal | AndalucÌa
+Fecha: 
+2021-11-21T12:11:54Z
+Autor: ANDR…S MACHADO
+Contenido: El conflicto del metal cumple ya una semana y encara la segunda con diversas iniciativas que escenifican, claramente, que las posturas entre la patronal (Femca) y los sindicatos (CCOO-UGT), siguen alejadas. Aunque el responsable de Fica UGT en el Campo de Gibraltar, Jos√© Manuel Rodr√≠guez Sacuedo, est√° convencido de que "finalmente habr√° un acuerdo" la realidad es que los contactos han sido m√≠nimos durante el fin de semana, si bien el di√°logo no est√° roto.El convenio colectivo y la subida salarial siguen siendo los argumentos que utilizan las dos partes para defender sus posiciones que, por ahora, no encuentran un punto intermedio. El convenio colectivo, de firmarse, se prolongar√≠a hasta 2023.Durante el fin de semana las reivindicaciones han seguido. En C√°diz capital hubo una gran manifestaci√≥n en la jornada del s√°bado y en Algeciras est√° convocada una para la tarde del lunes (17:00 horas). La misma partir√° desde el parque feria y finalizar√° en el edificio Nexus, sede de la patronal en la ciudad.Asimismo, los piquetes informativos se han dejado notar en centros de trabajo tan relevantes como Acerinox en Los Barrios. Cierto es que el tr√°fico en la principal arteria de comunicaci√≥n entre La L√≠nea y San Roque, ha sufrido menos retenciones que en jornadas laborables, pero tambi√©n se han producido quejas de trabajadores de otros √°mbitos que muestran su malestar por una situaci√≥n que les est√° perjudicando desde el pasado martes.Pese a las dos maratonianas jornadas de negociaciones llevadas a cabo en Sevilla, con la mediaci√≥n de la Junta de Andaluc√≠a, la realidad es que no hay visos de entendimiento, al menos en las pr√≥ximas horas. "En cuanto nos llamen para dialogar all√≠ estaremos", explica el dirigente sindical. "El objetivo es no perder poder adquisitivo".De cara a la concentraci√≥n de ma√±ana, Saucedo ha hecho un llamamiento a la participaci√≥n, no s√≥lo a los afectados, "sino al resto de trabajadores". Entiende el dirigente sindical que este conflicto es el primero de muchos que pueden llegar en las pr√≥ximas semanas.Adem√°s de los empleados del metal, en Algeciras, los trabajadores de la terminal de APM, en el puerto de Algeciras, ya est√°n efectuando paros de dos horas por lo que entienden es una deslocalizaci√≥n de las tareas que vienen realizando desde hace a√±os y que ahora, la empresa Maersk, pretende modificar en beneficio de T√°nger-Med, donde los costes son m√°s bajos. Todo ello repercutir√≠a, a medio plazo, en la competitividad del puerto m√°s importante del pa√≠s. Los estibadores han expresado su apoyo a los 200 empleados de la terminal que, en estos momentos, estar√≠an afectados.La realidad, tanto en el Campo de Gibraltar, como en la Bah√≠a de C√°diz, es que la semana se iniciar√°, nuevamente, con problemas para los trabajadores y empresas que quieren desarrollar su tarea diaria pero que se ver√°n afectados por las reivindicaciones de los metal√∫rgicos. Las grandes industrias del arco de la bah√≠a algecire√±a, en cualquier caso, han seguido funcionando, aunque, obviamente, a menor ritmo que en una jornada normal.
+
+
+EL MUNDO-722 
+TÌtulo: 
+El conflicto del metal busca una salida en Sevilla mientras en C·diz se viven momentos de gran tensiÛn | EconomÌa
+Fecha: 
+2021-11-22T18:57:55Z
+Autor: ANDR…S MACHADO
+Contenido: S√©ptimo d√≠a de huelga del metal en la provincia de C√°diz que tiene dos focos de atenci√≥n. Por un lado, la capital y su bah√≠a (Puerto Real-San Fernando) y por otro el √°rea del Campo de Gibraltar. Mientras en estos dos puntos de la geograf√≠a andaluza se mantienen los paros en las grandes industrias, en Sevilla, se ha retomado la mesa de negociaci√≥n entre la patronal, Femca, y los sindicatos mayoritarios, CCOO-UGT.Las jornadas de movilizaciones van pasando y la tensi√≥n aumenta en proporci√≥n al desgaste que ya se deja notar en las partes en conflicto. Los momentos m√°s complicados se vivieron en la zona m√°s cercana a la ciudad gaditana. Hubo actuaci√≥n de los antidisturbios en la barriada isle√±a de Baz√°n. Los sindicatos intentaban cortar el acceso a los astilleros de Navantia y la actuaci√≥n de los agentes provoc√≥ alg√∫n que otro enfrentamiento.En el √°rea industrial de la Bah√≠a de Algeciras se repiti√≥, un d√≠a m√°s, el corte de la CA-34 entre los municipios de San Roque y La L√≠neade la Concepci√≥n. Adem√°s, a primeras horas de la ma√±ana, en el puerto algecire√±o, se produjo un cuello de botella en el puente del Acceso Norte. Coincidieron las reivindicaciones de los empleados del metal con las de los trabajadores de APM Terminals que est√°n llevando a cabo paros de tres horas como protesta por el traslado de tareas que le competen, al puerto de T√°nger- Med. Los estibadores mostraron su apoyo y la presencia policial, que fue elevada, evit√≥ males mayores.No obstante, fue aqu√≠ donde hubo que lamentar un "fatal accidente" como expres√≥ el ministro del Interior, Fernando Grande Marlaska, en el que un joven de 20 a√±os perdi√≥ la vida. Se trataba de un trabajador del puerto que acud√≠a a su puesto cuando colision√≥ con uno de los camiones portacontenedores que estaba detenido en la carretera por la actuaci√≥n de los piquetes. De momento, se ha abierto una investigaci√≥n para esclarecer lo ocurrido y el alcalde de Algeciras, Jos√© Ignacio Landaluce (PP), en nombre de toda el Consistorio ha expresado su p√©same a familiares y amigos.Manifestaci√≥nPrecisamente la ciudad algecire√±a ha acogido, pese a la lluvia, una manifestaci√≥n a la que han acudido unas 2.000 personas, cuatro mil seg√∫n los sindicatos, que se ha desarrollado sin incidentes. La misma ha transcurrido desde el recinto ferial hasta el edificio Nexus, donde la patronal tiene una sede en la comarca campogibraltare√±a. Ma√±ana ser√° en C√°diz capital donde tenga lugar la protesta que se espera a√∫n m√°s multitudinaria.Trabajadores de otros sectores han respaldado la convocatoria que tambi√©n ha contado con la presencia, aunque intentaban pasar desapercibidos ante los medios de comunicaci√≥n, tanto de dirigentes del PSOE como de Adelante Andaluc√≠a.El responsable de UGT en la zona, √Ångel Serrano, ha aludido a que "quiz√°s los empresarios nos est√°n utilizando contra el gobierno ya que no parece casual que haya tantos conflictos abiertos". Y es que adem√°s del que ya cumple una semana, en espera de lo que ocurra en la reuni√≥n de Sevilla que algunas fuentes consideran ser√° definitiva, hay otros frentes laborales abiertos en el sector de la agricultura, los estudiantes o el transporte.Precisamente el ministro de Agricultura, Pesca y Alimentaci√≥n, Luis Planas, ha convocado a los agricultores a una reuni√≥n, que tendr√° lugar la pr√≥xima semana, para conocer sus demandas ante al anuncio, por parte de estos, de importantes movilizaciones en los pr√≥ximos d√≠as.
+
+
+EL MUNDO-731 
+TÌtulo: 
+Sindicatos y patronal del metal negocian un acuerdo que acabe con la huelga que arrancÛ el lunes | EconomÌa
+Fecha: 
+2021-11-18T18:48:56Z
+Autor: ANDR…S MACHADO
+Contenido: Cortes de carretera, neum√°ticos quemados, piquetes informativos que incluso han ocasionado da√±os a un conductor de cami√≥n, mucha seguridad y trabajadores cada vez m√°s enfadados.Ese es el escenario que se vive en casi la totalidad de la provincia de C√°diz desde que el pasado lunes arranc√≥ la huelga del sector del metal que emplea a unos 20.000 trabajadores en una de las zonas de Europa con mayor tasa de desempleo.El convenio colectivo y la subida salarial son los motivos por los que la patronal, Femca y los sindicatos, UGT-CCOO, est√°n enfrentados. Esta tarde se mantiene la segunda reuni√≥n en Sevilla con la mediaci√≥n de la Junta de Andaluc√≠a, para acabar, de una vez por todas, con los problemas que se est√°n derivando de un conflicto que est√° in crescendo.Las posturas siguen lejanas desde que el pasado mi√©rcoles comenzara una mesa de negociaci√≥n que, tras 12 horas, no obtuvo resultado alguno. En la jornada de hoy, con cierta relajaci√≥n en la actuaci√≥n de los piquetes y muchas medidas de seguridad, se retomaron las conversaciones, pero la entente cordial no llega.Los sindicatos tienen desplegados a sus delegados para volver a impedir la entrada a los centros de trabajo, salvo que durante la madrugada se alcance un acuerdo. Desde la patronal, el secretario, Jos√© Mu√±oz, se√±ala que "nosotros hemos cedido hasta en cuatro ocasiones en las reuniones privadas. Las empresas nos dicen que no podr√≠an soportar los cambios salariales que proponen ya que esto supondr√≠a el cierre o la quiebra de muchas de ellas".Por parte de los representantes laborales, Jos√© Manuel Rodr√≠guez Saucedo (UGT), se√±ala que "estamos siempre abiertos al di√°logo, pero la patronal no acepta ninguna de las propuestas que trasladamos. Ellos hablan del 5% de subida y nosotros pedimos el IPC que adem√°s no sabremos como estar√° en los pr√≥ximos a√±os".La realidad es que, mientras la reuni√≥n de Sevilla sigue sin concretarse en un acuerdo, tanto en la Bah√≠a de C√°diz como en la zona del Campo de Gibraltar las tres jornadas de paros han sido tensas y en algunos momentos incluso con incidentes que han provocado la detenci√≥n de una persona y varios heridos. Especialmente grave fue el incidente ocurrido con un camionero que intent√≥ acceder al polo qu√≠mico de San Roque. Varias piedras impactaron en su veh√≠culo y cuando abandon√≥ la cabina fue agredido con un palo, lo que le ocasion√≥ lesiones graves en la cabeza y fue trasladado al hospital Punta de Europa de Algeciras.Asimismo, la arteria principal del arco de la bah√≠a algecire√±a, la autov√≠a que conecta el puerto de Algeciras con La L√≠nea ha sufrido numerosas retenciones, sobre todo en los accesos a la zona industrial de Los Barrios y en la conexi√≥n entre el t√©rmino municipal sanroque√±o y Gibraltar. De hecho, el hospital del SAS en la localidad linense ha tenido que cambiar cirug√≠as, los camiones con la comida no llegaron a tiempo y en las √∫ltimas horas se habilit√≥ un camino alternativo.Los piquetes, tras las cr√≠ticas pol√≠ticas y las quejas recibidas por muchos ciudadanos, han optado por abrir el paso a los sanitarios o las personas que ten√≠an que acudir a una cita m√©dica. No obstante, trabajadores de otros sectores no han podido desarrollar su tarea con normalidad.Desde el colectivo empresarial de La L√≠nea, Adell, su portavoz Fran L√≥pez, ha indicado que si bien respetan las leg√≠timas reivindicaciones de los trabajadores "no es de recibo el perjuicio al que se est√° sometiendo a nuestra localidad o a los trabajadores transfronterizos que acuden a Gibraltar".Parad√≥jicamente, como ha denunciado el alcalde de la ciudad vecina del Pe√±√≥n, Juan Franco, "estamos siendo uno de los lugares m√°s afectados cuando en nuestro t√©rmino municipal no hay ninguna gran industria", por lo que ha expresado su disconformidad con la situaci√≥n. "Entiendo las protestas, pero no el modo en el que se est√° afectando a temas tan relevantes como la sanidad o el perjuicio que se est√° ocasionando a otros trabajadores".
+
+

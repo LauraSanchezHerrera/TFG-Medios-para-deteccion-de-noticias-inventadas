@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-945
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-951 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-945 es el mismo art�culo que la noticia EL MUNDO-951
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/07/615f10e1e4d4d852148b45a1.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/13/6166d3fffc6c8383618b4601.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/10/07
+        - 2021/10/13
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-951'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-951'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-945': {'EL MUNDO-951'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-951
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-945 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-951 es el mismo art�culo que la noticia EL MUNDO-945
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/13/6166d3fffc6c8383618b4601.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/07/615f10e1e4d4d852148b45a1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/10/13
+        - 2021/10/07
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-945'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-945': {'EL MUNDO-951'}, 'EL MUNDO-951': {'EL MUNDO-945'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-951', 'EL MUNDO-945'}
+{'EL MUNDO-945': {'EL MUNDO-951'}, 'EL MUNDO-951': {'EL MUNDO-945'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-951
+1: EL MUNDO-945
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.78753754]
+ [0.73641304 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-951 -> EL MUNDO-945: 0.7875375375375375. Cantidad de informaci�n extra�da de la noticia EL MUNDO-951 para a�adirla a la noticia EL MUNDO-945 :271
+         EL MUNDO-945 -> EL MUNDO-951: 0.7364130434782609. Cantidad de informaci�n extra�da de la noticia EL MUNDO-951 para a�adirla a la noticia EL MUNDO-945 :279
+
+         EL MUNDO-945 -> EL MUNDO-951: 0.7364130434782609. Cantidad de informaci�n extra�da de la noticia EL MUNDO-945 para a�adirla a la noticia EL MUNDO-951 :279
+         EL MUNDO-951 -> EL MUNDO-945: 0.7875375375375375. Cantidad de informaci�n extra�da de la noticia EL MUNDO-945 para a�adirla a la noticia EL MUNDO-951 :271
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-951 
+T�tulo: 
+Montero se enreda con el 'bono-vivienda' para los j�venes: no estar� limitado por el precio de los contratos | Vivienda
+Fecha: 
+2021-10-07T15:32:56Z
+Autor: M. HERN�NDEZ | D. VIA�A
+Contenido: Desde que el presidente del Gobierno, Pedro Sánchez, anunciase el pasado martes la creación de un bono-vivienda para ayudar a los jóvenes en el alquiler, se ha convertido en uno de los interrogantes que más interés suscita, incluso dentro de sus propias filas. Y la ministra de Hacienda, María Jesús Montero, lejos de aclararlo se ha enredado este jueves al intentar explicarlo. En la rueda de prensa tras el Consejo de Ministros, Montero ha asegurado que la ayuda se aplicaría a contratos de arrendamiento con un límite máximo de unos 600 euros. Sin embargo, fuentes de su propio departamento y del Ministerio de Transportes, Movilidad y Agenda Urbana han aclarado que el límite al que se refería es el de la ayuda al alquiler que contiene el Plan Estatal de la Vivienda 2022-2025, ampliable a 900 euros.Las mismas fuentes remiten a las palabras de Pedro Sánchez el pasado martes sobre las características del bono y aseguran que la medida está pendiente aún de un desarrollo reglamentario posterior para concretarlo. De acuerdo con lo avanzado por el presidente, el bono contempla una ayuda de 250 euros mensuales a jóvenes de entre 18 y 35 jóvenes cuyo nivel de renta anual sea inferior a 23.725 euros. Estaría vigente en los próximos dos años y para las familias vulnerables, ese bono se completará con más ayudas directas al alquiler de hasta el 40% del valor. Para aplicarlo, el Ejecutivo ha consignado una cantidad de 200 millones de euros en el proyecto de ley de los Presupuestos Generales del Estado para 2022. Son los únicos datos que se conocen hasta el momento de una medida que ha suscitado un enorme interés entre los más jóvenes. El presidente la dio a conocer el pasado martes apenas unas horas después de cerrar el acuerdo por la futura Ley de Vivienda con su socio de Gobierno, Unidas Podemos, y el hecho de que ni la formación morada tuviera conocimiento del bono da idea del carácter sorpresivo e improvisado de su puesta en marcha. Montero ha recordado que, una vez que se desarrolle el reglamento "ya se verá cómo se solicita y cómo se coordina con las comunidades autónomas".
+
+
+EL MUNDO-945 
+T�tulo: 
+Presupuestos 2022: El 'bono-alquiler' y los planes de rehabilitaci�n se quedan con la mayor parte de los fondos europeos para vivienda | Vivienda
+Fecha: 
+2021-10-13T13:44:22Z
+Autor: MAR�A HERN�NDEZ
+Contenido: El 'bono-vivienda' presentado por sorpresa hace unos días por el presidente del Gobierno, Pedro Sánchez, y los proyectos de rehabilitación de inmuebles serán los principales beneficiados de la partida presupuestaria destinada por el Gobierno para su política de vivienda. La dotación incluida en los PGE de 2022 asciende a 806 millones de euros (frente a los 602 millones del año anterior), según el proyecto de Presupuestos entregado este miércoles por la ministra de Hacienda, María Jesús Montero, en el Congreso de los Diputados. Esa dotación no tiene en cuenta el MRR (Mecanismo de Recuperación y Resiliencia) de la UE, que permitirá financiar actuaciones por importe de 2.489 millones de euros, lo que eleva a 3.295 millones la cantidad total destinada a política de vivienda. Según el Libro Blanco de los Presupuestos, los créditos destinados al acceso a la vivienda y fomento de la edificación se incrementan en 1.042 millones de euros, destacando la financiación prevista por el MRR para programas de construcción de viviendas en alquiler social en edificios energéticamente eficientes (500 millones de euros), para rehabilitación sostenible y digital de edificios públicos (dotado con 600 millones de euros) o para la recuperación económica y social en entornos residenciales (1.389 millones de euros). El proyecto también avanza algunas de las líneas principales del Plan Estatal de Vivienda 2022-2025, que el Ministerio de Transportes, Movilidad y Agenda Urbana está ultimando y que se focalizará en tres prioridades: la atención prioritaria a los más vulnerables, Favorecer el acceso a una vivienda digna para los colectivos de menos recursos y la promoción del parque de vivienda asequible, con especial atención a fórmulas de colaboración público-privada Respecto al Bono Alquiler Joven, el proyecto de PGE no avanza muchos más detalles de los que ya dio a conocer Pedro Sánchez. Las Cuentas asignan 200 millones de euros a esta partida, para favorecer "el acceso de los jóvenes a una vivienda digna en régimen de alquiler". El bono consistirá en el pago de una cuantía mensual de 250 euros mensuales durante dos años a los jóvenes entre 18 y 35 años, que acrediten rentas de trabajo, para el pago del alquiler.Por su parte el Plan Estatal de Acceso a la Vivienda 2022-2025 ofrecerá ayudas en función de las circunstancias de los jóvenes o del ámbito en el que vivan que podrían ser moduladas por CCAA. "El ámbito subjetivo del Plan viene determinado por el alcance del conjunto de programas y medidas encaminados a favorecer el acceso a la vivienda a las personas jóvenes, a través de diferentes fórmulas, regímenes de tenencia, tipos de promoción y tipologías edificatorias", recoge el texto. 
+
+

@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-1068
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1004 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1068 es el mismo artÌculo que la noticia EL MUNDO-1004
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/01/61a7258c21efa0ba308b4573.html
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/01/61a7258c21efa0ba308b4573.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-978 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1068 es el mismo artÌculo que la noticia EL MUNDO-978
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/2021/12/03/61a95a41e4d4d87b188b45c3.html
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/01/61a7258c21efa0ba308b4573.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-978'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-978'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1068': {'EL MUNDO-978'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-978
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1004 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-978 es el mismo artÌculo que la noticia EL MUNDO-1004
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/01/61a7258c21efa0ba308b4573.html
+        - https://www.elmundo.es/deportes/2021/12/03/61a95a41e4d4d87b188b45c3.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-1068 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-978 es el mismo artÌculo que la noticia EL MUNDO-1068
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/01/61a7258c21efa0ba308b4573.html
+        - https://www.elmundo.es/deportes/2021/12/03/61a95a41e4d4d87b188b45c3.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1068'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1068': {'EL MUNDO-978'}, 'EL MUNDO-978': {'EL MUNDO-1068'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-1068', 'EL MUNDO-978'}
+{'EL MUNDO-1068': {'EL MUNDO-978'}, 'EL MUNDO-978': {'EL MUNDO-1068'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-1068
+1: EL MUNDO-978
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.57560568]
+ [0.49951969 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-1068 -> EL MUNDO-978: 0.5756056808688388. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1068 para aÒadirla a la noticia EL MUNDO-978 :496
+         EL MUNDO-978 -> EL MUNDO-1068: 0.49951969260326606. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1068 para aÒadirla a la noticia EL MUNDO-978 :509
+
+         EL MUNDO-978 -> EL MUNDO-1068: 0.49951969260326606. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-978 para aÒadirla a la noticia EL MUNDO-1068 :509
+         EL MUNDO-1068 -> EL MUNDO-978: 0.5756056808688388. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-978 para aÒadirla a la noticia EL MUNDO-1068 :496
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-1068 
+TÌtulo: 
+NBA: Otro sofocÛn m·s para LeBron James: entra en el protocolo del coronavirus | NBA 2021 - 2022
+Fecha: 
+2021-12-01T08:40:58Z
+Autor: EFE
+Contenido: Los Angeles Lakers anunciaron que LeBron James ha entrado en el protocolo del coronavirus y ser√° baja ante los Sacramento Kings. Por ahora no se ha dado a conocer m√°s informaci√≥n sobre la situaci√≥n de James, aunque lo m√°s probable es que se pierda varios encuentros por las reglas del protocolo del coronavirus en la NBA.James, que cumplir√° 37 a√±os el 30 de diciembre, confirm√≥ a finales de septiembre que se hab√≠a vacunado contra el coronavirus. "Yo era muy esc√©ptico (sobre la vacuna), pero hice mi investigaci√≥n (...), me pareci√≥ que era lo mejor no solo para m√≠ sino para mi familia y para mis amigos, y por eso decid√≠ hacerlo", cont√≥ en la jornada de los Lakers para presentar la nueva temporada.No obstante, James evit√≥ criticar o dar consejos a quienes en la NBA todav√≠a no han recibido el pinchazo. "Hablamos de los cuerpos de cada uno. No es algo pol√≠tico, de racismo, de brutalidad policial o de cosas de esa naturaleza", argument√≥ cuando fue cuestionado sobre si una figura de su importancia deber√≠a dar un paso al frente para animar al resto de la liga a vacunarse.La entrada de LeBron en el protocolo del coronavirus se une a un comienzo de temporada bastante convulso para 'King James'. Se ha perdido diez partidos por diferentes problemas f√≠sicos y fue sancionado con un encuentro fuera de la cancha tras ser expulsado por darle un golpe en la cara a Isaiah Stewart de los Detroit Pistons. En los 11 encuentros que ha jugado hasta ahora ha logrado 25,8 puntos, 5,2 rebotes y 6,8 asistencias de media por encuentro.La ausencia de James no ayuda a unos Lakers que no han empezado el curso con buen pie y que son s√©ptimos en la Conferencia Oeste (11-11). La franquicia angelina apost√≥ para la temporada 2020-2021 por un arriesgado y muy veterano proyecto que ha unido en una misma plantilla a LeBron James, Anthony Davis, Russell Westbrook y Carmelo Anthony.
+
+
+EL MUNDO-978 
+TÌtulo: 
+LeBron supera el protocolo contra el covid-19 y regresar· a las canchas el viernes tras confirmarse su falso positivo | Deportes
+Fecha: 
+2021-12-02T23:44:08Z
+Autor: EFE
+Contenido: La NBA anunci√≥ este jueves que LeBron James ha salido del protocolo del coronavirus tras confirmar que se trataba de un falso positivo.La estrella de los Lakers entr√≥ el martes en el protocolo del coronavirus de la NBA y fue baja en el duelo de ese d√≠a en el que los de p√∫rpura y oro se impusieron a los Sacramento Kings (92-117). Lo m√°s probable entonces era que James se perdiera varios partidos hasta que cumpliera con los requisitos para regresar a la cancha, pero la NBA autoriz√≥ hoy su vuelta inmediata a la competici√≥n tras certificar que su positivo por coronavirus no era tal. La NBA explic√≥ en un comunicado que el jugador ha dado negativo en dos tests realizados con 24 horas de diferencia. "James fue inicialmente colocado en el protocolo despu√©s de una serie de pruebas que arrojaron resultados contradictorios, incluido un test positivo inicial que fue recogido el 29 de noviembre. Pruebas adicionales confirmaron que √©l no ha dado positivo", detall√≥ la liga. La cadena ESPN fue m√°s all√° de las explicaciones oficiales de la NBA y asegur√≥ que James ha dado negativo en ocho pruebas de coronavirus diferentes desde que regres√≥ a Los √Ångeles el martes por la tarde. James, que cumplir√° 37 a√±os el 30 de diciembre, confirm√≥ a finales de septiembre que se hab√≠a vacunado contra el coronavirus. Se trata de una gran noticia para los Lakers, que contar√°n as√≠ con su m√°xima figura para medirse el viernes a sus vecinos y rivales de Los Angeles Clippers. Este breve paso de LeBron por el protocolo del coronavirus es una etapa m√°s del convulso inicio temporada que est√° teniendo "King James". Al margen del partido que no jug√≥ el martes, James se ha perdido diez encuentros m√°s por diferentes problemas f√≠sicos y fue sancionado con un encuentro fuera de la cancha tras ser expulsado por darle un golpe en la cara a Isaiah Stewart de los Detroit Pistons. En los once encuentros que ha jugado hasta ahora ha logrado 25,8 puntos, 5,2 rebotes y 6,8 asistencias de media por partido. Los Lakers no han empezado el curso con buen pie y ahora mismo son sextos en la Conferencia Oeste (12-11). La franquicia angelina apost√≥ para la temporada 2021-2022 por un arriesgado y muy veterano proyecto que ha unido en una misma plantilla a LeBron James, Anthony Davis, Russell Westbrook y Carmelo Anthony.
+
+

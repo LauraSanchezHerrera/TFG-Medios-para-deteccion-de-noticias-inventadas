@@ -1,0 +1,164 @@
+Estudio de la noticia EL MUNDO-123
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-15 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-123 es el mismo art�culo que la noticia El Confidencial-15
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mundo/2021-12-04/detenidos-padres-autor-tiroteo-murieron-eeuu_3336346/
+        - https://www.elmundo.es/internacional/2021/12/01/61a6f718fc6c83d64e8b4575.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-15'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-15'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-123': {'El Confidencial-15'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-15
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-22 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-15 es el mismo art�culo que la noticia El Confidencial-22
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mundo/2021-12-03/los-padres-del-autor-del-tiroteo-de-michigan-eeuu-imputados-por-homicidio-involuntario_3336240/
+        - https://www.elconfidencial.com/mundo/2021-12-04/detenidos-padres-autor-tiroteo-murieron-eeuu_3336346/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-15 es el mismo art�culo que la noticia EL MUNDO-123
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/internacional/2021/12/01/61a6f718fc6c83d64e8b4575.html
+        - https://www.elconfidencial.com/mundo/2021-12-04/detenidos-padres-autor-tiroteo-murieron-eeuu_3336346/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-22', 'EL MUNDO-123'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-123': {'El Confidencial-15'}, 'El Confidencial-15': {'El Confidencial-22', 'EL MUNDO-123'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-22'}
+
+Lista de noticias similares actual:
+{'El Confidencial-22', 'EL MUNDO-123', 'El Confidencial-15'}
+
+Estudio de la noticia El Confidencial-22
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-15 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-22 es el mismo art�culo que la noticia El Confidencial-15
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mundo/2021-12-04/detenidos-padres-autor-tiroteo-murieron-eeuu_3336346/
+        - https://www.elconfidencial.com/mundo/2021-12-03/los-padres-del-autor-del-tiroteo-de-michigan-eeuu-imputados-por-homicidio-involuntario_3336240/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'El Confidencial-15'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-123': {'El Confidencial-15'}, 'El Confidencial-15': {'El Confidencial-22', 'EL MUNDO-123'}, 'El Confidencial-22': {'El Confidencial-15'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-22', 'EL MUNDO-123', 'El Confidencial-15'}
+{'EL MUNDO-123': {'El Confidencial-15'}, 'El Confidencial-15': {'El Confidencial-22', 'EL MUNDO-123'}, 'El Confidencial-22': {'El Confidencial-15'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-22
+1: El Confidencial-15
+2: EL MUNDO-123
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.52467532 1.        ]
+ [0.62557985 0.         0.72451791]
+ [1.         0.76017316 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-22 -> El Confidencial-15: 0.5246753246753246. Cantidad de informaci�n extra�da de la noticia El Confidencial-22 para a�adirla a la noticia El Confidencial-15 :537
+         El Confidencial-15 -> El Confidencial-22: 0.6255798542080848. Cantidad de informaci�n extra�da de la noticia El Confidencial-22 para a�adirla a la noticia El Confidencial-15 :553
+
+         El Confidencial-15 -> El Confidencial-22: 0.6255798542080848. Cantidad de informaci�n extra�da de la noticia El Confidencial-15 para a�adirla a la noticia El Confidencial-22 :553
+         El Confidencial-22 -> El Confidencial-15: 0.5246753246753246. Cantidad de informaci�n extra�da de la noticia El Confidencial-15 para a�adirla a la noticia El Confidencial-22 :537
+
+         El Confidencial-15 -> EL MUNDO-123: 0.7245179063360881. Cantidad de informaci�n extra�da de la noticia El Confidencial-15 para a�adirla a la noticia EL MUNDO-123 :288
+         EL MUNDO-123 -> El Confidencial-15: 0.7601731601731602. Cantidad de informaci�n extra�da de la noticia El Confidencial-15 para a�adirla a la noticia EL MUNDO-123 :265
+
+         EL MUNDO-123 -> El Confidencial-15: 0.7601731601731602. Cantidad de informaci�n extra�da de la noticia EL MUNDO-123 para a�adirla a la noticia El Confidencial-15 :265
+         El Confidencial-15 -> EL MUNDO-123: 0.7245179063360881. Cantidad de informaci�n extra�da de la noticia EL MUNDO-123 para a�adirla a la noticia El Confidencial-15 :288
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-22 
+T�tulo: 
+Los padres del autor del tiroteo en Michigan (EEUU), imputados por homicidio involuntario
+Fecha: 
+2021-12-03T20:50:00+01:00
+Autor: EFE
+Contenido:   Los padres del adolescente de EEUU acusado del tiroteo del martes pasado en la localidad de Oxford, en Michigan, donde cuatro personas murieron y siete resultaron heridas en un instituto de secundaria, fueron imputados este viernes de homicidio involuntario.    Así lo anunció la fiscal del condado de Oakland (Michigan), Karen McDonald, en una rueda de prensa, en la que explicó los motivos por los que ha decidido imputar a James y Jennifer Crumbley, padres de Ethan Crumbley, de 15 años, con cuatro cargos cada uno de homicidio involuntario.         Fallece un cuarto estudiante tras el tiroteo en un instituto de EEUU    EFE    De ser hallados culpables podrían recibir una condena de hasta quince años de cárcel cada uno. La fiscal detalló que el padre compró, estando su hijo presente, el arma de fuego semiautomática con la que días después Ethan presuntamente disparó. Más tarde, el adolescente publicó fotos en sus redes sociales del arma, con el texto "acabo de conseguir mi nueva belleza hoy", con emojis de corazones.   Por su parte, la madre escribió mensajes en las redes sociales, donde afirmó que su hijo estaba "probando su nuevo regalo de Navidad". McDonald describió cómo los profesores de Ethan notificaron a la madre, tanto por mensajes de voz como por correo electrónico, que su hijo había estado buscando en clase información con su teléfono sobre municiones, sin obtener respuesta.         Un estudiante de 15 años mata en un tiroteo a tres compañeros de instituto en EEUU    EFE    Lo que sí que hizo Jennifer fue tener un intercambio de mensajes de texto con Ethan sobre este asunto: "lol ('laughing out loud', es decir, 'riéndome a carcajadas'), no estoy enfadada contigo, tienes que aprender a que no te pillen", escribió la madre a su hijo, según McDonald.   La fiscal agregó que los padres guardaban el arma en su dormitorio sin tenerla bajo llave. El día del suceso, cuando emergieron las noticias de que había un tiroteo activo en el instituto de secundaria Oxford, Jennifer envió un mensaje de texto a su hijo diciéndole "Ethan, no lo hagas".  El padre llamó al teléfono de emergencias para informar de que su arma había desaparecido y que creía que su hijo era el autor del tiroteo   Luego, el padre llamó al teléfono de emergencias para informar de que su arma había desaparecido y que creía que su hijo era el autor del tiroteo en el centro escolar. Más tarde, la pistola fue decomisada por las autoridades de manos de Ethan.    El martes, Ethan entró en el instituto con el arma que guardaba en su mochila y se dirigió a los aseos. Poco después salió con una pistola modelo Sig Sauer de 9 milímetros en mano y empezó a disparar a alumnos que se encontraban cerca del cuarto de baño.   A causa de este tiroteo fallecieron cuatro alumnos, dos chicos de 16 y 17 años y dos chicas de 14 y 17 años. Además. resultaron heridas otras siete personas. La fiscal ha imputado al adolescente, que será juzgado como adulto, de un cargo de terrorismo, cuatro de asesinato en primer grado, siete de asalto con intento de asesinato y doce por posesión de un arma de fuego. El joven se ha declarado no culpable y afronta cadena perpetua.  
+
+
+El Confidencial-15 
+T�tulo: 
+Tiroteo: Detenidos los padres del autor del tiroteo en el que murieron 4 j�venes en Estados Unidos
+Fecha: 
+2021-12-04T16:23:00+01:00
+Autor: EFE
+Contenido:   Los padres del presunto autor del tiroteo en un instituto de secundaria de Michigan (EEUU), donde cuatro jóvenes murieron el martes, fueron detenidos esta madrugada tras haber pasado en paradero desconocido varias horas después de ser imputados este viernes de homicidio involuntario.    James y Jennifer Crumbley fueron localizados esta madrugada en el interior de un almacén de Detroit (Michigan), después de que la policía recibiese un aviso por parte de un ciudadano al ver su vehículo. "Sí, ambos están bajo custodia y están de camino a la cárcel del condado de Oakland pronto", dijo Mike McCabe, asistente del comisario de policía, en una rueda de prensa a primera hora del sábado.         Fallece un cuarto estudiante tras el tiroteo en un instituto de EEUU    EFE    La pareja fue detenida "sin incidente", precisó el jefe de policía de Detroit, James White. Aunque sus abogados habían señalado la intención de la pareja de entregarse a las autoridades, White subrayó que el hecho que "se escondiesen en un almacén" no respalda esa opinión.   Este viernes, la fiscalía imputó el cargo de homicidio involuntario a los padres, por el que podrían recibir una condena de 15 años de prisión, y poco después las autoridades reconocían que se encontraban en paradero desconocido.   La policía informó que el arma empleada en el tiroteo fue comprada por el padre un día antes del trágico suceso en el instituto de Oxford, la ciudad en la que residen y ubicada al norte de Detroit.         Los padres del autor del tiroteo de Michigan (EEUU), imputados por homicidio involuntario    EFE    El martes, su hijo de 15 años, Ethan, entró en ese centro educativo, donde estudiaba, con una mochila y se dirigió a los baños. Poco después salió con una pistola modelo Sig Sauer de 9 milímetros en mano y empezó a disparar a alumnos que se encontraban cerca del cuarto de baño. A causa de este tiroteo fallecieron cuatro alumnos, dos jóvenes de 16 y 17 años y dos chicas de 14 y 17 años, y otras siete personas resultaron heridas.   La Fiscalía imputó al adolescente, que será juzgado como adulto, de un cargo de terrorismo, cuatro de asesinato en primer grado, siete de asalto con intento de asesinato y doce por posesión de un arma de fuego. El joven se declaró no culpable y afronta cadena perpetua.   
+
+
+EL MUNDO-123 
+T�tulo: 
+El arma del tiroteo en el instituto de EEUU fue comprada por el padre del sospechoso cuatro d�as antes | Internacional
+Fecha: 
+2021-12-01T04:22:26Z
+Autor: EFE
+Contenido:  El arma que fue utilizada este martes en un tiroteo en un instituto de EE.UU. que terminó con tres víctimas mortales y ocho heridos fue comprada hace cuatro días por el padre del sospechoso, un estudiante de 15 años de ese centro. Eso explicó en una rueda de prensa el sheriff del condado de Oakland (Michigan, EE.UU.), Michael Bouchard, en la que el funcionario no identificó al sospechoso por ser menor de edad ni a las víctimas del tiroteo de la Escuela Secundaria de Oxford "por respeto a las familias". Además, Bouchard dijo que los padres del sospechoso han prohibido a su hijo hablar con las autoridades y han contratado a un abogado para su defensa. "No hemos tenido una conversación con él ni sus padres, así que no hay colaboración en ese sentido", apuntó Bouchard al respecto. Al ser menor de edad, el sospechoso fue ingresado este martes en un centro de menores tras ser detenido por las autoridades y se encuentra bajo un régimen de vigilancia intensiva, cada 15 minutos, para evitar su posible suicidio. De acuerdo al relato de Bouchard, el estudiante de 15 años entró a la Escuela Secundaria Oxford con el arma guardada en su mochila y entró al baño. Poco después, salió con una pistola modelo Sig Sauer de 9 milímetros en mano y empezó a disparar a diferentes alumnos que se encontraban cerca del cuarto de baño. Las tres víctimas mortales, un chico de 16 años y dos chicas de 14 y 17 años, eran estudiantes de ese instituto, que tiene cerca de 1.800 alumnos. Otros siete estudiantes, dos de los cuales se encuentran ingresados en estado crítico con heridas de bala en el pecho, y un profesor resultaron heridos, según Bouchard. En su comparecencia de prensa, que pudo seguirse en redes sociales, el sheriff contó que el suceso duró sólo unos minutos cuando los agentes llegaron ante las llamadas de alerta de que había un tirador en el instituto. En poco minutos, "entre dos y tres" según el representante policial, los agentes lograron reducir y detener al chico, que no obstante ya había disparado sobre múltiples víctimas. El tirador no resultó herido y "se rindió sin problemas", sin decir nada a los oficiales, según Bouchard. 
+
+

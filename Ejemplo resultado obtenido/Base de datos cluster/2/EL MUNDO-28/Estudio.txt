@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-28
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-54 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-28 es el mismo art�culo que la noticia EL MUNDO-54
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/02/61a8ba1afc6c836c778b458c.html
+        - https://www.elmundo.es/espana/2021/12/03/61aa115bfdddff890f8b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-54'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-54'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-28': {'EL MUNDO-54'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-54
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-28 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-54 es el mismo art�culo que la noticia EL MUNDO-28
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/03/61aa115bfdddff890f8b45d4.html
+        - https://www.elmundo.es/espana/2021/12/02/61a8ba1afc6c836c778b458c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-28'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-28': {'EL MUNDO-54'}, 'EL MUNDO-54': {'EL MUNDO-28'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-28', 'EL MUNDO-54'}
+{'EL MUNDO-28': {'EL MUNDO-54'}, 'EL MUNDO-54': {'EL MUNDO-28'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-28
+1: EL MUNDO-54
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75223675]
+ [0.70259638 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-28 -> EL MUNDO-54: 0.7522367515485203. Cantidad de informaci�n extra�da de la noticia EL MUNDO-28 para a�adirla a la noticia EL MUNDO-54 :348
+         EL MUNDO-54 -> EL MUNDO-28: 0.7025963808025177. Cantidad de informaci�n extra�da de la noticia EL MUNDO-28 para a�adirla a la noticia EL MUNDO-54 :366
+
+         EL MUNDO-54 -> EL MUNDO-28: 0.7025963808025177. Cantidad de informaci�n extra�da de la noticia EL MUNDO-54 para a�adirla a la noticia EL MUNDO-28 :366
+         EL MUNDO-28 -> EL MUNDO-54: 0.7522367515485203. Cantidad de informaci�n extra�da de la noticia EL MUNDO-54 para a�adirla a la noticia EL MUNDO-28 :348
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-28 
+T�tulo: 
+La principal asociaci�n de fiscales responde a Baltasar Garz�n sobre el 'caso Stampa': "No nos vamos a dejar amedrentar" | Espa�a
+Fecha: 
+2021-12-03T16:50:28Z
+Autor: �NGELA MARTIALAY
+Contenido: La Asociación de Fiscales (AF), mayoritaria en la Carrera Fiscal, ha respondido al ex juez Baltasar Garzón que su despacho de abogados, Ilocad, "carece de legitimación para interferir en el funcionamiento interno de un órgano del Ministerio Fiscal". Garzón remitió este jueves un burofax a la Comisión Ejecutiva de la AF después de que los vocales de esta asociación pidieran a la fiscal general del Estado, Dolores Delgado, información sobre el denominado 'caso Stampa' y, más concretamente, sobre la relación de su despacho con el 'caso Tándem'.La pareja de la fiscal general denunció que esta solicitud de información generaba un daño reputacional a su bufete a la par que arremetió contra la Asociación de Fiscales al señalar que sus vocales no están legitimados para acceder a la información reservada del expediente del ex fiscal de Anticorrupción Ignacio Stampa."Nos han causado estupor los términos de dicha comunicación pues confunde deliberadamente o incurre en manifiesto error al equiparar a la Asociación de Fiscales con los consejeros electivos del Consejo Fiscal que, si bien forman parte de la propuesta de dicha asociación para el Consejo Fiscal, son escogidos democráticamente por toda la Carrera Fiscal y disponen de autonomía absoluta en el desempeño de sus funciones. Los consejeros electivos (y no la Ejecutiva de la Asociación) han solicitado información por escrito (...) de cuestiones esenciales para conocer si han existido conflictos de intereses, causas de abstención o intromisiones en asuntos por parte de la Fiscal General del Estado, precisamente en relación con Baltasar Garzón, quien según información pública es su pareja sentimental", responden los fiscales conservadores.La asociación mayoritaria de la Carrera Fiscal defiende que tal solicitud de información es "legítima, se incardina en sus funciones y fue solicitada" en el seno del Consejo Fiscal donde la fiscal general incluyó en el orden del día la salida de Stampa de Anticorrupción."Ilocad es quien carece de legitimación para interferir en el funcionamiento interno de un órgano del Ministerio Fiscal, y mucho menos para solicitar de una asociación profesional sus actas ni copias certificadas de sus reuniones, debates y votaciones internas", responden los fiscales a la pareja de la ex ministra de Justicia.Asimismo, desde la AF recalcan que "los términos de la misiva son inaceptables e improcedentes, constituyen un ataque insólito a los consejeros electivos del Consejo Fiscal y a la propia Carrera Fiscal, de quienes son sus representantes. La comunicación pretende condicionar la actuación de los consejeros electivos e impedir el conocimiento de lo acaecido mediante intimidaciones encubiertas".Por último, la Comisión Ejecutiva de la Asociación de Fiscales recalca que no acepta las advertencias de Garzón y que "en ningún caso se va a dejar amedrentar". 
+
+
+EL MUNDO-54 
+T�tulo: 
+El bufete de Garz�n arremete contra la Asociaci�n de Fiscales por pedir a Delgado informaci�n sobre el 'caso Stampa' | Espa�a
+Fecha: 
+2021-12-02T12:57:19Z
+Autor: �NGELA MARTIALAY
+Contenido: El bufete de Baltasar Garzón ha remitido una dura carta a la Comisión Ejecutiva de la Asociación de Fiscales después de que esta organización pidiera a la fiscal general del Estado información sobre el caso Stampa y concretamente sobre la relación de su despacho con el caso Tándem.Sostiene Garzón que es "de todo punto insostenible" que esta organización se haya dirigido a Dolores Delgado para solicitar si su despacho está personado en la causa en la que se investiga el denominado 'caso Villarejo'.Arguye que la Asociación de Fiscales "no tiene ningún tipo de legitimación para sustentar la petición puesto que no está personada en el procedimiento ni en ningún otro que tenga una participación directa Ilocad". "Dicho en otros términos", añade, "esta asociación no tiene previsto estatutariamente el acceso a la información reservada que interesa". Este requerimiento constituye, a juicio del bufete liderado por Garzón, "una lesión del legítimo ejercicio de la profesión" al tiempo que señala que "la fiscal general no tiene ningún tipo de facultad competencia para acceder a la información reservada que se interesa".La respuesta de este despacho tiene lugar después de un reciente comunicado emitido por los vocales electivos de la Asociación de Fiscales en el que pedía que se investigara si la fiscal general ha maniobrado para perjudicar al fiscal Ignacio Stampa, que impulsó la investigación del caso Villarejo durante los últimos años y que se encuentra en estos momentos fuera de la Fiscalía Anticorrupción.En este sentido solicitaba a la fiscal general, de la que recuerda la asociación que es la pareja sentimental de Garzón, "información por escrito de abogados intervinientes" en el caso Tándem, en el que "el despacho del Sr. Garzón ha ejercido la defensa de alguno o algunos de los investigados"."No hay ningún tipo de razón (al menos no la dan) para entender por qué desde la Jefatura Superior del Ministerio Fiscal se tienen que conocer los datos de los profesionales de la abogacía que actúan en cada una de las causas judiciales que se están tramitando en España y mucho menos cuál es la relación que vincula a dichos profesionales con una concreta sociedad mercantil, como es nuestro caso", sostiene Ilocad.Por último, destaca que la actuación de la Asociación de Fiscales le está ocasionando "un importante daño reputacional que se traduce en un evidente perjuicio económico" y una "injustificada presión hacia nuestros clientes".Por otro lado, la Asociación de Fiscales ha vuelto a pedir hoy a Delgado la documentación relacionada con las diligencias y expedientes relativos al fiscal Stampa. Fuentes fiscales informan de que la petición se ha producido ante la inspección fiscal mediante un escrito solicitando de la presidenta del Consejo Fiscal, Dolores Delgado, la remisión de dicha documentación sobre el caso Stampa.Esta reclamación se produce tras la negativa de la fiscal general de entregar la documentación que ya solicitaron los vocales electivos de la lista de la Asociación de Fiscales hace una semana en el Consejo Fiscal.La postura de Delgado fue lo que consideran "la gota que colmó el vaso" que llevó el pasado sábado a la asociación mayoritaria de la Carrera Fiscal a pedir la dimisión de la fiscal general.
+
+

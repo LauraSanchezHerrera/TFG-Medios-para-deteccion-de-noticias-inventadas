@@ -1,0 +1,166 @@
+Estudio de la noticia EL MUNDO-410
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-445 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-410 es el mismo art�culo que la noticia EL MUNDO-445
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/27
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-535 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-410 es el mismo art�culo que la noticia EL MUNDO-535
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia EL MUNDO-560 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-410 es el mismo art�culo que la noticia EL MUNDO-560
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/27
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-445', 'EL MUNDO-560'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-445 y EL MUNDO-560:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-560 y EL MUNDO-445:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'EL MUNDO-445'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-410': {'EL MUNDO-445'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-445
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-535 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-445 es el mismo art�culo que la noticia EL MUNDO-535
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/11/27
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-410 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-445 es el mismo art�culo que la noticia EL MUNDO-410
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a7d7d3e4d4d85b708b45c5.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/11/27
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-560 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-445 es el mismo art�culo que la noticia EL MUNDO-560
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a13171fc6c8391478b45e1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/27
+        - 2021/11/27
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-410'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-410': {'EL MUNDO-445'}, 'EL MUNDO-445': {'EL MUNDO-410'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-445', 'EL MUNDO-410'}
+{'EL MUNDO-410': {'EL MUNDO-445'}, 'EL MUNDO-445': {'EL MUNDO-410'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-445
+1: EL MUNDO-410
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.76357712]
+ [0.75265665 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-445 -> EL MUNDO-410: 0.7635771180304127. Cantidad de informaci�n extra�da de la noticia EL MUNDO-445 para a�adirla a la noticia EL MUNDO-410 :641
+         EL MUNDO-410 -> EL MUNDO-445: 0.7526566507878344. Cantidad de informaci�n extra�da de la noticia EL MUNDO-445 para a�adirla a la noticia EL MUNDO-410 :663
+
+         EL MUNDO-410 -> EL MUNDO-445: 0.7526566507878344. Cantidad de informaci�n extra�da de la noticia EL MUNDO-410 para a�adirla a la noticia EL MUNDO-445 :663
+         EL MUNDO-445 -> EL MUNDO-410: 0.7635771180304127. Cantidad de informaci�n extra�da de la noticia EL MUNDO-410 para a�adirla a la noticia EL MUNDO-445 :641
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-445 
+T�tulo: 
+Castell�n se asoma al riesgo extremo de contagio al crecer la tasa 66 puntos en 7 d�as | Castell�n
+Fecha: 
+2021-11-27T11:01:27Z
+Autor: NACHO SANAHUJA
+Contenido: La sexta ola del coronavirus sigue sin dar tregua a la provincia de Castellón que atraviesa un momento muy delicado, al menos en cuanto al número de contagios que se vienen produciendo en las últimas semanas. La actualización hecha pública este viernes por el Ministerio de Sanidad sitúa ya a la provincia de Castellón al borde del riesgo extremo de contagio, es decir por encima de los 250 casos de incidencia por cada 100.000 habitantes a 14 días. En estos momentos, y a las puertas de un nuevo fin de semana, la provincia de Castellón ya tiene una tasa de 234 casos cuando hace apenas una semana (el pasado 19 de noviembre) era de 168. Esto supone un incremento de 66 puntos en los últimos siete días. Si se compara el dato respecto a la última actualización realizada a principio de semana, el incremento es de 41 puntos. Lejos de mejorar, la situación empeora cada día que pasa, especialmente en la ciudad de Castellón, el foco que acumula mayor población en la provincia. La capital de la Plana, según los datos hechos públicos el viernes por la Conselleria de Sanidad, presenta una tasa de contagio de 347 casos al contar con 605 positivos en estos momentos. Y no sólo es el caso de Castellón sino también de otras localidades como Benicàssim donde los datos de contagios siguen empeorando. La localidad costera, una de las más turísticas de la provincia, se encuentra ahora en 353 casos. También llamativos son los casos de otras ciudades como Benicarló, que hasta hace unos días se encontraba con una tasa de contagio baja y que, en cambio, ahora ya ha entrado en riesgo extremo con 296 casos. La situación ha empeorado de igual forma en otros dos núcleos poblacionales de gran relevancia como Vila-real y Vinaròs, ambos ya en riesgo alto de contagio (entre los 150 y los 250 casos). En el caso de Vila-real, la cifra se encuentra en 189 mientras que en Vinaròs todavía es peor con 232. De hecho, Castellón, Vila-real y Vinaròs son las ciudades donde se sitúan los tres grandes hospitales públicos con que cuenta la provincia y cuyas áreas de Salud presentan algunos de los peores datos de toda la Comunidad Valenciana. En el caso del Área de Salud, la tasa de incidencia es de 365 casos, la segunda más alta en la Comunidad Valenciana en estos momentos. En cuanto al Área de Vinaròs, la cifra alcanza los 208 casos mientras que en el Área de la Plana es de 157. Para intentar hacer frente a esta escalada, que también afecta a las otras provincias de la Comunidad aunque en menor medida (Valencia está en 142 casos y Alicante en 117), el presidente de la Generalitat, Ximo Puig, anunció este pasado jueves tras la reunión de la Comisión Interdepartamental la petición al Tribunal Superior de Justicia de la Comunidad Valenciana (TSJ) de la implantación desde este próximo viernes 3 de diciembre del denominado pasaporte covid. El Consell desea que este documento, junto al DNI del titular, sea necesario para acceder a los locales de hostelería y ocio con un aforo superior a las 50 personas, así como en los distintos centros hospitalarios y residencias de mayores. En cambio, estarían exentos bares con un aforo menor, así como cines y teatros donde es obligatorio el uso de la mascarilla y se puede dejar una butaca de distancia entre cada asistente. La medida estaría vigente, siempre que obtenga el aval del TSJ, durante los próximos 30 días, por lo que superaría la festividad de Nochevieja y Año Nuevo. Además, el Consell prepara un régimen sancionador para los infractores para que la medida se cumpla y pondrá a disposición de los establecimientos una app para poder controlar su cumplimiento.Este viernes la Fiscalía Superior de la Comunitat Valenciana informó de que no se opone a la aplicación del llamado pasaporte Covid en los ámbitos solicitados por la Generalitat. El ministerio público da vía libre de esta forma a las restricciones solicitadas por la administración autonómica y ahora deberá resolver la Sala de lo Contencioso del Tribunal Superior de Justicia.Los datos señalan que los niños menores de 12 años son ahora los que presentan una mayor tasa de contagio. Por eso la EMA (Agencia Europea del Medicamento, por su siglas en inglés) dio luz verde esta semana a la vacunación de este segmento de la población. El mejor ejemplo de esta alta tasa de contagio es el brote notificado este viernes en un colegio de Benicàssim que afecta a 31 personas. De hecho, la Comunitat Valenciana cerró esta la semana con 952 nuevos casos de coronavirus, y un fallecido de 54 años, mientras que los hospitales tienen 26 ingresados y seis camas UCI ocupadas más que este pasado jueves, según la actualización de la Conselleria de Sanidad. Un total de 4.227.203 personas han recibido ya una dosis de la vacuna contra el coronavirus en la Comunitat Valenciana. Además, en estos momentos, cuentan con la pauta completa de inmunización (dos dosis para Pfizer, Moderna y AstraZeneca; la monodosis de Janssen y una dosis de cualquier vacuna en las personas con antecedentes de haber pasado la COVID) 4.162.465 personas. De este modo, la cifra total de positivos se sitúa en 528.553 personas. Los nuevos casos por provincias son 175 en Castellón (57.134 en total); 308 en Alicante (193.179) y 469 en Valencia (278.239) y la cifra de casos no asignados se mantiene en una. Por su parte, el total de decesos desde el inicio de la pandemia asciende a 7.913: 871 en la provincia de Castellón, 3.044 en la de Alicante y 3.998 en la de Valencia. Por otra parte, se han registrado 488 altas a pacientes con coronavirus. De esta forma, el número de personas que han superado la enfermedad desde que comenzó la pandemia en la Comunitat Valenciana asciende a 523.239 personas. Por provincias, 56.188 altas se han dado en Castellón, 191.194 en Alicante y 275.801 en Valencia y el total de altas no asignadas se mantiene en 56. Los hospitales valencianos tienen, actualmente, 389 personas ingresadas, 68 de ellas en la UCI: 83 en la provincia de Castellón, 10 en UCI; 131 en la provincia de Alicante, 29 de ellas en la UCI; y 175 en la provincia de Valencia, 29 en UCI. De acuerdo con los datos registrados, en estos momentos hay 8.842 casos activos, lo que supone un 1,64% del total de positivos.
+
+
+EL MUNDO-410 
+T�tulo: 
+Noviembre triplica contagios y duplica ingresos en la Comunidad Valenciana | Castell�n
+Fecha: 
+2021-12-02T07:51:11Z
+Autor: C.A.D.
+Contenido: La Comunidad Valenciana ha cerrado el mes de noviembre con el triple de contagios de coronavirus que en octubre y el doble de hospitalizaciones, mientras que las muertes han superado las del mes anterior pero son el indicador que menos ha crecido. Tras un mes de octubre en el que los contagios bajaron un 43% y las muertes un 52%, en noviembre la curva epidémica ha crecido y han empeorado todos los datos, que si bien están muy lejos de los peores momentos de la pandemia han llevado a la Generalitat a implantar el pasaporte covid para frenar el avance del virus.Durante el penúltimo mes del año se han contagiado de coronavirus en la Comunidad Valenciana 17.534 personas (8.890 en Valencia, 5.333 en Alicante y 3.311 en Castellón), lo que supone un 250% más que en octubre y una media de 584 casos al día, frente a los 162 de octubre.En noviembre se han contagiado de covid-19 más personas que la suma de septiembre y octubre, mientras que a finales de mes se han vuelto a notificar registros que no se veían desde agosto, como los casi tres millares de casos de este lunes, y solo en la penúltima semana ha habido más positivos que en todo octubre.El recuento semanal de contagios ha ido aumentado cada semana (en la primera de noviembre hubo 1.674 casos y la pasada fueron 5.744), mientras que el porcentaje de casos activos ha pasado del 0,52% del primer día del mes al 2,03% del último, un punto y medio más y un porcentaje similar al de finales de agosto.Por otra parte, los brotes con diez o más contagiados también han subido de forma exponencial, pues si en octubre hubo 8 brotes con 100 afectados, este mes han sido 40 focos en los que han dado positivo 567 personas, con lo que se han multiplicado por 5.La tasa positividad (porcentaje de pruebas que dan positivo en covid) ha aumentado en un mes del 4,42% al 11,07% y está tres puntos por encima de la media de España.Aunque gracias a la vacunación la mortalidad ha subido en mucha menor medida que los contagios, en noviembre ha habido más defunciones por covid que el mes anterior, pues se han notificado 78 (38 en la provincia de Alicante, 23 en la de Valencia -que ha rebasado este mes la barrera de los 4.000 muertos en la pandemia- y 17 en Castellón). Son 21 fallecidos más que en octubre y suponen un aumento del 37%, si bien es el cuarto mejor dato mensual en lo que va de año.El peor dato de defunciones se notificó el día 23, con un total de 15 (la cifra más alta desde principios de septiembre), y solo ha habido un día (el 19) en el que la Conselleria de Sanidad no ha informado de ninguna muerte por covid.Si octubre finalizó con 197 personas ingresadas por covid en los hospitales de la Comunidad, noviembre acaba con más del doble, 435, aunque ha llegado a haber 453. Son cifras similares a las de finales del pasado agosto.El incremento de las hospitalizaciones se ha producido sobre todo en los últimos días del mes, y ha sido menor en el caso de las UCI, donde se ha pasado de 40 a 75 pacientes, un aumento del 87,5% y un dato similar al de la penúltima semana de julio.El porcentaje de ocupación hospitalaria de pacientes covid ha pasado en planta del 1,91% al 4,23%, y en cuidados intensivos del 5,80 al 10,37%. En ambos casos está por encima de la media de España.La incidencia acumulada de coronavirus a catorce días ha crecido 164 puntos en noviembre, pues si octubre finalizó con una media de 55,48 casos por cien mil habitantes, noviembre ha acabado con 220,06, por encima de la media nacional.Estos datos implican que la Comunitat ha permanecido todo el mes en riesgo medio de contagio (gracias al cambio efectuado este mes en el semáforo covid), aunque el tramo de edad más afectado, el de los menores de 11 años -que no están vacunados-, ha acabado el mes en riesgo alto, con una incidencia de 369, tras subir 300 puntos.El proceso de vacunación ha experimentado un impulso en noviembre, mes en el que se han establecido punto móviles para inocular a los rezagados (en el caso de Castellón se encuentra todos los viernes en el Centro Comercial Salera y que el pasado día 26 de noviembre inoculó 637 dosis) y en el que se han pinchado terceras dosis de refuerzo a las personas mayores y segundas dosis a quienes recibieron la monodosis de Janssen.De esta forma, durante este mes ha habido 153.385 personas que han recibido una dosis de la vacuna y 130.644 que han completado la pauta de vacunación, cuando en octubre fueron 18.386 y 34.925, respectivamente.Pese a este incremento, la Conselleria de Sanidad sigue insistiendo en la necesidad de reducir el número de unas 300.000 personas que todavía no se han vacunado en la Comunidad Valenciana para intentar frenar el aumento de contagios.Por eso, esta misma semana el presidente de la Generalitat, Ximo Puig, hizo un llamamiento a este sector de la población al referirse que «la inconsciencia tiene unos límites». Además, el jefe del Consell se mostró tajante al asegurar que «nadie tiene derecho a contagiar ni a saturar los hospitales». Puig también aseguró que la Conselleria está lista para iniciar la campaña de vacunación de los niños entre 5 y 12 años cuando el Ministerio de Sanidad lo autorice.La Comunitat Valenciana notificó este miércoles 1.259 nuevos casos y cuatro fallecidos por coronavirus desde la última actualización en personas de entre 75 y 98 años, mientras que los hospitales tienen 12 ingresados menos que este martes pero una cama UCI ocupada más.Con esta actualización, la cifra total de positivos se sitúa en 533.824 personas. Los nuevos casos por provincias son 215 en Castellón (57.890 en total); 423 en Alicante (194.755) y 621 en Valencia (281.178) y la cifra de casos no asignados se mantiene en una. Por su parte, el total de decesos desde el inicio de la pandemia asciende a 7.927: 873 en la provincia de Castellón (uno más que el martes), 3.052 en la de Alicante y 4.002 en la de Valencia.Los hospitales valencianos tienen, actualmente, 423 personas ingresadas, 76 de ellas en la UCI: 89 en la provincia de Castellón, 11 en UCI (uno menos pero una cama UCI ocupada más); 140 en la provincia de Alicante, 31 de ellas en la UCI; y 194 en la provincia de Valencia, 34 en UCI.Por otra parte, se han registrado 701 altas a pacientes con coronavirus. De esta forma, el número de personas que han superado la enfermedad desde que comenzó la pandemia en la Comunitat Valenciana asciende a 525.736 personas.Por provincias, las altas se distribuyen así: 56.689 en Castellón, 191.950 en Alicante y 277.041 en Valencia y el total de altas no asignadas se mantiene en 56.
+
+

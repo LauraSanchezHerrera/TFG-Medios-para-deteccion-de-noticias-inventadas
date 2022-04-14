@@ -1,0 +1,102 @@
+Estudio de la noticia 20 minutos-24
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia 20 minutos-30 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-24 es el mismo artículo que la noticia 20 minutos-30
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4916100/0/carmen-porter-no-aparecera-cuarto-milenio/
+        - https://www.20minutos.es/noticia/4916017/0/lydia-bosch-motivo-ausencia-tu-cara-me-suena/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'20 minutos-30'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artículo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'20 minutos-30'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'20 minutos-24': {'20 minutos-30'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia 20 minutos-30
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia 20 minutos-24 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-30 es el mismo artículo que la noticia 20 minutos-24
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/noticia/4916017/0/lydia-bosch-motivo-ausencia-tu-cara-me-suena/
+        - https://www.20minutos.es/noticia/4916100/0/carmen-porter-no-aparecera-cuarto-milenio/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, máximo 7 días de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, sí se trata de una noticia similar.
+
+Comprobando si el mismo artículo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'20 minutos-24'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'20 minutos-24': {'20 minutos-30'}, '20 minutos-30': {'20 minutos-24'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'20 minutos-30', '20 minutos-24'}
+{'20 minutos-24': {'20 minutos-30'}, '20 minutos-30': {'20 minutos-24'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relación número noticia cluster - noticia***********
+
+0: 20 minutos-30
+1: 20 minutos-24
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.80440415]
+ [0.76416539 0.        ]]
+
+***********Cantidad de información de una noticia a otra***********
+
+         20 minutos-30 -> 20 minutos-24: 0.8044041450777202. Cantidad de información extraída de la noticia 20 minutos-30 para añadirla a la noticia 20 minutos-24 :139
+         20 minutos-24 -> 20 minutos-30: 0.7641653905053599. Cantidad de información extraída de la noticia 20 minutos-30 para añadirla a la noticia 20 minutos-24 :142
+
+         20 minutos-24 -> 20 minutos-30: 0.7641653905053599. Cantidad de información extraída de la noticia 20 minutos-24 para añadirla a la noticia 20 minutos-30 :142
+         20 minutos-30 -> 20 minutos-24: 0.8044041450777202. Cantidad de información extraída de la noticia 20 minutos-24 para añadirla a la noticia 20 minutos-30 :139
+
+
+***********      Información de las noticias     ***********
+
+20 minutos-30 
+Título: 
+La razón por la que Carmen Porter no aparecerá esta semana en 'Cuarto Milenio'
+Fecha: 
+2021-12-04T13:02:59+01:00
+Autor: 20minutos
+Contenido: El programa Horizonte que cada jueves presenta en Cuatro Iker Jim\u00e9nez ha contado con una baja importante. Su mujer, la tambi\u00e9n presentadora Carmen Porter, no ha participado en el \u00faltimo programa y tampoco estar\u00e1 este domingo en Cuarto Milenio por motivos de salud. Tal y como ha explicado la periodista a trav\u00e9s de un mensaje en Twitter, \\u0022esta semana no os podr\u00e9 acompa\u00f1ar ni en Horizonte ni en Cuarto Milenio\\u0022, ha dicho. \\u0022Por prescripci\u00f3n m\u00e9dica me tengo que quedar quietecita con la pierna en alto por un esguince bastante importante que me hice el domingo\\u0022, ha asegurado Porter en la red social. La presentadora ha acompa\u00f1ado el tuit con una fotograf\u00eda de su pierna vendada por la zona del tobillo, que permanece apoyado en alto, sobre un coj\u00edn. Asimismo, la presentadora ha querido tranquilizar a sus seguidores de Twitter asegurando que, pese a este contratiempo, se encuentra \\u0022bien\\u0022. Este jueves, Iker Jim\u00e9nez tambi\u00e9n ha mencionado su ausencia en el programa Horizonte y ha asegurado que \\u0022pronto estar\u00e1 con nosotros\\u0022, y ha a\u00f1adido que \\u0022seguramente con un mayor dinamismo porque no es f\u00e1cil hacerlo sin ella\\u0022, ha reconocido.\
+
+
+20 minutos-24 
+Título: 
+Lydia Bosch desvela el motivo de su ausencia en la última gala de 'Tu cara me suena'
+Fecha: 
+2021-12-04T11:43:16+01:00
+Autor: 20minutos
+Contenido: La quinta gala de Tu cara me suena ha estado marcada por una ausencia. Uno de sus concursantes, la actriz Lydia Bosch, no ha participado en esta entrega, un hecho que no ha pasado desapercibido para los telespectadores y sobre el que tambi\u00e9n se refiri\u00f3 el presentador, Manel Fuentes. \\u0022Desde aqu\u00ed le mandamos un beso muy fuerte a Lydia Bosch, que no puede estar aqu\u00ed por motivos personales, pero la esperamos muy prontito\\u0022, ha indicado Fuentes al inicio del programa. Sobre esos \\u0022motivos personales\\u0022 ha escrito tambi\u00e9n la actriz y presentadora en Instagram. \\u0022Como se est\u00e1 especulando sobre el motivo, os lo cuento\\u0022, se ha sincerado la concursante de Tu cara me suena. Seg\u00fan ha explicado, la raz\u00f3n de su ausencia ha sido \\u0022un problema muy grave de salud\\u0022 que ha sufrido su madre \\u0022de forma inesperada\\u0022. \\u0022Afortunadamente, se ha resuelto con \u00e9xito gracias a la operaci\u00f3n que le realizaron anteayer. No ha podido estar en mejores manos\\u0022, ha aclarado Bosch a sus seguidores de Instagram. La actriz tambi\u00e9n ha dado las gracias a la productora del programa, Gestmusic, por haberle facilitado todo \\u0022al m\u00e1ximo\\u0022 y haberla apoyado en todo momento. \\u0022No tendr\u00e9 vida para agradec\u00e9roslo\\u0022, ha manifestado. Por \u00faltimo, ha invitado a sus seguidores a ver la gala, en la que Agoney se ha proclamado vencedor con su imitaci\u00f3n de Rauw Alejandro. \\u0022Abrazo grande para todos\\u0022, se ha despedido Bosch.\
+
+

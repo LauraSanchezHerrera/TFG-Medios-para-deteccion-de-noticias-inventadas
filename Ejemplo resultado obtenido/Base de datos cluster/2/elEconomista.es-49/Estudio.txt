@@ -1,0 +1,129 @@
+Estudio de la noticia elEconomista.es-49
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia elEconomista.es-55 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-49 es el mismo art�culo que la noticia elEconomista.es-55
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/fondos/noticias/10167506/10/19/Amundi-CPR-Invest-Education-el-primer-fondo-tematico-dedicado-exclusivamente-a-la-educacion-con-filosofia-de-inversion-sostenible.html
+        - http://www.eleconomista.es/fondos/noticias/10239333/12/19/Amundi-Para-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 37 d�as de diferencia: 
+        - 2019/10/29
+        - 2019/12/05
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia elEconomista.es-50 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-49 es el mismo art�culo que la noticia elEconomista.es-50
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/fondos/noticias/10236554/12/19/AmundiPara-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+        - http://www.eleconomista.es/fondos/noticias/10239333/12/19/Amundi-Para-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2019/12/04
+        - 2019/12/05
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'elEconomista.es-50'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'elEconomista.es-50'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-49': {'elEconomista.es-50'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia elEconomista.es-50
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia elEconomista.es-49 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-50 es el mismo art�culo que la noticia elEconomista.es-49
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/fondos/noticias/10239333/12/19/Amundi-Para-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+        - http://www.eleconomista.es/fondos/noticias/10236554/12/19/AmundiPara-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2019/12/05
+        - 2019/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia elEconomista.es-55 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-50 es el mismo art�culo que la noticia elEconomista.es-55
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/fondos/noticias/10167506/10/19/Amundi-CPR-Invest-Education-el-primer-fondo-tematico-dedicado-exclusivamente-a-la-educacion-con-filosofia-de-inversion-sostenible.html
+        - http://www.eleconomista.es/fondos/noticias/10236554/12/19/AmundiPara-el-ahorrador-conservador-una-estrategia-multiactivo-que-incorpora-criterios-ESG.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 36 d�as de diferencia: 
+        - 2019/10/29
+        - 2019/12/04
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'elEconomista.es-49'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-49': {'elEconomista.es-50'}, 'elEconomista.es-50': {'elEconomista.es-49'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'elEconomista.es-49', 'elEconomista.es-50'}
+{'elEconomista.es-49': {'elEconomista.es-50'}, 'elEconomista.es-50': {'elEconomista.es-49'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: elEconomista.es-49
+1: elEconomista.es-50
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.04201245]
+ [0.03798127 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         elEconomista.es-49 -> elEconomista.es-50: 0.042012448132780086. Cantidad de informaci�n extra�da de la noticia elEconomista.es-49 para a�adirla a la noticia elEconomista.es-50 :1835
+         elEconomista.es-50 -> elEconomista.es-49: 0.03798126951092612. Cantidad de informaci�n extra�da de la noticia elEconomista.es-49 para a�adirla a la noticia elEconomista.es-50 :1837
+
+         elEconomista.es-50 -> elEconomista.es-49: 0.03798126951092612. Cantidad de informaci�n extra�da de la noticia elEconomista.es-50 para a�adirla a la noticia elEconomista.es-49 :1837
+         elEconomista.es-49 -> elEconomista.es-50: 0.042012448132780086. Cantidad de informaci�n extra�da de la noticia elEconomista.es-50 para a�adirla a la noticia elEconomista.es-49 :1835
+
+
+***********      Informaci�n de las noticias     ***********
+
+elEconomista.es-49 
+T�tulo: 
+Amundi: "Para el ahorrador conservador, una estrategia multi-activo que incorpora criterios ESG" - elEconomista.es
+Fecha: 
+2019-12-05T14:19:27+01:00
+Autor: elEconomista 
+Contenido: 2019 toca a su fin y ha sido un año muy bueno en rentabilidades pero muy complicado para la gestión activa.La fotografía a diciembre parece idílica pero no exenta de sobresaltos. Esa imagen muestra, por ejemplo, que la bolsa española suma en el año un 9% de rentabilidad, el Eurostox 50 gana más de un 20% y  los indicadores americanos marcan récords históricos. En renta fija algunos activos también se han apuntado al doble dígito de rentabilidad al tiempo que  los gobiernos de países desarrollados han visto cómo sus rentabilidades caían en la aberración de los tipos negativos. Volatilidad en vena por la guerra comercial, el brexit, la desaceleración a nivel global, las protestas en Hong Kong, los chalecos amarillos en Francia.. fuertes bandazos en un ciclo económico maduro que se ve soportado por las políticas monetarias y que ansía ahora la llegada de las políticas fiscales. En este entorno complicado el ahorrador puede encontrar rentabilidad y refugio al mismo tiempo en una estrategia multi-activo conservadora que puede invertir de formaactiva y flexible en una amplia gama de activos que incluyen renta variable (hasta el 40%),deuda pública y crédito corporativo . Se trata de una estrategia llamada Amundi Multi Asset Sustainable Future que, además, integra criterios ESG analizando criterios ambientales, sociales y de buen gobierno corporativo que combina con el análisis financiero tradicional, contribuyendo a un rendimiento más sostenible a largo plazo. Cuenta Raúl Fernández , Director de Distribución de Amundi Iberia que "es una solución que se adapta al entorno actual dados los riesgos de una posible ralentización del crecimiento, disputas comerciales, o posibles menores ganancias empresariales que hacen que apuntan hacia incrementos de la volatilidad".Insisten desde Amundi  en que "la inversión responsable es uno de nuestros pilares fundacionales. Gestionamos a día de hoy casi 300.000 millones de euros en activos responsables; si bien la práctica totalidad de lo que gestionamos -1,56 billones de euros- excluyen ya a las compañías con peores prácticas ESG". Amundi se ha comprometido además a ser 100% ESG a finales de 2021. "Somos además muy activos en el dialogo con las compañías y en las votaciones en juntas generales, donde, dado el volumen que gestionamos, tenemos capacidad de influir hacia unas mejores prácticas".La gestión de la estrategia Amundi Multi Asset Sustainable Future parte la perspectiva macro del equipo de análisis de la gestora para construir una asignación entre clases de activos. Además excluye las inversiones controvertidas que no respetan los valores de la casa (tabaco, alcohol, juego, violación de derechos humanos). Su proceso de integración busca emisores con un fuerte compromiso ambiental, social y de gobierno corporativo apoyándose en un equipo dedicado al análisis ESG formado por 18 profesionales, que analizan y califican más de 5.500 emisores. Amundi Multi Asset Sustainable Future se dirige a todos aquellos inversores que busquen una solución conservadora en un entorno de incertidumbre y comprometidos con el medio ambiente y las cuestiones sociales y de gobierno corporativo. "El fondo aunque se ha lanzado recientemente replica una estrategia con un histórico de más de 32 años y que cuenta actualmente con 5 estrellas Morningstar", explica Raúl Fernández. "Es una estrategia tres en uno: multiactivo flexible y capaz de adaptarse a las condiciones del mercado; conservador dado el entorno de mayor incertidumbre y mayor volatilidad esperada; y responsable buscando un rendimiento sostenible contribuyendo a un mañana mejor".Amundi, con más de 1,48 billones de euros bajo gestión, es gestora líder europea y una de las diez primeras a nivel global. Con cerca de 4.500 profesionales tiene presencia en 37 países y 6 principales centros de inversión. París, Boston, Londres, MIlán, Tokio y Dublín. Ofrece a sus clientes una gama completa en gestión activa, pasiva y de activos reales.
+
+
+elEconomista.es-50 
+T�tulo: 
+Amundi:"Para el ahorrador conservador, una estrategia multi-activo que incorpora criterios ESG" - elEconomista.es
+Fecha: 
+2019-12-04T12:24:14+01:00
+Autor: elEconomista 
+Contenido: 2019 toca a su fin. Ha sido un año muy bueno en rentabilidades pero muy complicado para la gestión activa. La fotografía a diciembre parece idílica, pero no exenta de sobresaltos. Esa imagen muestra, por ejemplo, que la bolsa española suma en el año un 9% de rentabilidad, el Eurostox 50 gana más de un 20% y  los indicadores americanos marcan récords históricos. En renta fija algunos activos también se han apuntado al doble dígito de rentabilidad al tiempo que  los gobiernos de países desarrollados han visto cómo sus rentabilidades caían en la aberración de los tipos negativos. Volatilidad en vena por la guerra comercial, el brexit, la desaceleración a nivel global, las protestas en Hong Kong, los chalecos amarillos en Francia.. fuertes bandazos en un ciclo económico maduro que se ve soportado por las políticas monetarias y que ansía ahora la llegada de las políticas fiscales. En este entorno complicado el ahorrador puede encontrar rentabilidad y refugio al mismo tiempo en una estrategia multi-activo conservadora que puede invertir de forma activa y flexible en una amplia gama de activos que incluyen renta variable (hasta el 40%),deuda pública y crédito corporativo . Se trata de una estrategia llamada Amundi Multi Asset Sustainable Future que, además, integra criterios ESG analizando criterios ambientales, sociales y de buen gobierno corporativo que combina con el análisis financiero tradicional, contribuyendo a un rendimiento más sostenible a largo plazo. Cuenta Raúl Fernández, Director de Distribución de Amundi Iberia que "es una solución que se adapta al entorno actual dados los riesgos de una posible ralentización del crecimiento, disputas comerciales, o posibles menores ganancias empresariales que hacen que apuntan hacia incrementos de la volatilidad".Insisten desde Amundi  en que "la inversión responsable es uno de nuestros pilares fundacionales. Gestionamos a día de hoy casi 300.000 millones de euros en activos responsables; si bien la práctica totalidad de lo que gestionamos -1,56 billones de euros- excluyen ya a las compañías con peores prácticas ESG". Amundi se ha comprometido además a ser 100% ESG a finales de 2021. "Somos además muy activos en el dialogo con las compañías y en las votaciones en juntas generales, donde, dado el volumen que gestionamos, tenemos capacidad de influir hacia unas mejores prácticas".La gestión de la estrategia Amundi Multi Asset Sustainable Future parte la perspectiva macro del equipo de análisis de la gestora para construir una asignación entre clases de activos. Además excluye las inversiones controvertidas que no respetan los valores de la casa (tabaco, alcohol, juego, violación de derechos humanos..). Su proceso de integración busca emisores con un fuerte compromiso ambiental, social y de gobierno corporativo apoyándose en un equipo dedicado al análisis ESG formado por 18 profesionales, que analizan y califican más de 5.500 emisores.Amundi Multi Asset Sustainable Future se dirige a todos aquellos inversores que busquen una solución conservadora en un entorno de incertidumbre y comprometidos con el medio ambiente y las cuestiones sociales y de gobierno corporativo. "El fondo aunque se ha lanzado recientemente replica una estrategia con un histórico de más de 32 años y que cuenta actualmente con 5 estrellas Morningstar", explica Raúl Fernández. "Es una estrategia tres en uno: multiactivo flexible y capaz de adaptarse a las condiciones del mercado; conservador dado el entorno de mayor incertidumbre y mayor volatilidad esperada; y responsable buscando un rendimiento sostenible contribuyendo a un mañana mejor".Amundi, con más de 1,48 billones de euros bajo gestión, es gestora líder europea y una de las diez primeras a nivel global. Con cerca de 4.500 profesionales tiene presencia en 37 países y 6 principales centros de inversión. París, Boston, Londres, Milán, Tokio y Dublín. Ofrece a sus clientes una gama completa en gestión activa, pasiva y de activos reales.
+
+

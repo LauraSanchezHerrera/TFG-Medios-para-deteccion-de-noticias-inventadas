@@ -1,0 +1,164 @@
+Estudio de la noticia EL MUNDO-940
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-943 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-940 es el mismo art�culo que la noticia EL MUNDO-943
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/14/61680e82fc6c8317098b45dc.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/16/6169a8dde4d4d8e7318b45d4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/10/14
+        - 2021/10/16
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-943'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-943'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-940': {'EL MUNDO-943'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-943
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-942 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-943 es el mismo art�culo que la noticia EL MUNDO-942
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/15/6168705b21efa06b4f8b45ce.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/14/61680e82fc6c8317098b45dc.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/15
+        - 2021/10/14
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-940 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-943 es el mismo art�culo que la noticia EL MUNDO-940
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/16/6169a8dde4d4d8e7318b45d4.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/14/61680e82fc6c8317098b45dc.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/10/16
+        - 2021/10/14
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-942', 'EL MUNDO-940'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-940': {'EL MUNDO-943'}, 'EL MUNDO-943': {'EL MUNDO-940', 'EL MUNDO-942'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-942'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-942', 'EL MUNDO-940', 'EL MUNDO-943'}
+
+Estudio de la noticia EL MUNDO-942
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-943 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-942 es el mismo art�culo que la noticia EL MUNDO-943
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/vivienda/2021/10/14/61680e82fc6c8317098b45dc.html
+        - https://www.elmundo.es/economia/vivienda/2021/10/15/6168705b21efa06b4f8b45ce.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/10/14
+        - 2021/10/15
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-943'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-940': {'EL MUNDO-943'}, 'EL MUNDO-943': {'EL MUNDO-940', 'EL MUNDO-942'}, 'EL MUNDO-942': {'EL MUNDO-943'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-940', 'EL MUNDO-943', 'EL MUNDO-942'}
+{'EL MUNDO-940': {'EL MUNDO-943'}, 'EL MUNDO-943': {'EL MUNDO-940', 'EL MUNDO-942'}, 'EL MUNDO-942': {'EL MUNDO-943'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-940
+1: EL MUNDO-943
+2: EL MUNDO-942
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.44105214 1.        ]
+ [0.51392814 0.         0.36162582]
+ [1.         0.49270588 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-940 -> EL MUNDO-943: 0.44105213715359326. Cantidad de informaci�n extra�da de la noticia EL MUNDO-940 para a�adirla a la noticia EL MUNDO-943 :1178
+         EL MUNDO-943 -> EL MUNDO-940: 0.5139281388776746. Cantidad de informaci�n extra�da de la noticia EL MUNDO-940 para a�adirla a la noticia EL MUNDO-943 :1192
+
+         EL MUNDO-943 -> EL MUNDO-940: 0.5139281388776746. Cantidad de informaci�n extra�da de la noticia EL MUNDO-943 para a�adirla a la noticia EL MUNDO-940 :1192
+         EL MUNDO-940 -> EL MUNDO-943: 0.44105213715359326. Cantidad de informaci�n extra�da de la noticia EL MUNDO-943 para a�adirla a la noticia EL MUNDO-940 :1178
+
+         EL MUNDO-943 -> EL MUNDO-942: 0.3616258218768679. Cantidad de informaci�n extra�da de la noticia EL MUNDO-943 para a�adirla a la noticia EL MUNDO-942 :1056
+         EL MUNDO-942 -> EL MUNDO-943: 0.49270588235294116. Cantidad de informaci�n extra�da de la noticia EL MUNDO-943 para a�adirla a la noticia EL MUNDO-942 :1066
+
+         EL MUNDO-942 -> EL MUNDO-943: 0.49270588235294116. Cantidad de informaci�n extra�da de la noticia EL MUNDO-942 para a�adirla a la noticia EL MUNDO-943 :1066
+         EL MUNDO-943 -> EL MUNDO-942: 0.3616258218768679. Cantidad de informaci�n extra�da de la noticia EL MUNDO-942 para a�adirla a la noticia EL MUNDO-943 :1056
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-940 
+T�tulo: 
+Los tribunales cuestionan en Castilla-La Mancha un 'catastrazo' como el que impondr� el Gobierno | Vivienda
+Fecha: 
+2021-10-16T00:29:58Z
+Autor: MAR�A HERN�NDEZ
+Contenido: El Gobierno puede mirar hacia Castilla-La Mancha para tomar nota de lo que podría ocurrir a partir del 1 de enero de 2022, cuando entre en vigor el nuevo sistema de valoración de los inmuebles que afectará a los impuestos de Sucesiones, Patrimonio y Transmisiones Patrimoniales que pagan los contribuyentes. La comunidad manchega aplica de forma pionera desde hace seis años un mecanismo similar al que Hacienda pondrá en marcha el próximo año para calcular esos tributos y en este tiempo, varios tribunales han fallado en contra de él. En concreto, y según recoge el portal idealista, hay dos sentencias del Tribunal Superior de Justicia de Castilla-La Mancha en este sentido, una del 27 de mayo de 2020 y otra del 20 de octubre de ese mismo año. Ambos fallos se referencian a la doctrina dictada sobre este asunto por el Tribunal Supremo, que no critica el método de comprobación utilizado sino la forma en que se aplica. En este sentido, apunta que el método de valoración no permite al contribuyente conocer el origen del nuevo valor de referencia ni recibir una comprobación presencial del valor del inmueble implicado, por lo que no puede confirmar que el valor de referencia aplicado se corresponde con su valor real. Entre otras conclusiones, la jurisprudencia del Tribunal Supremo establece que "el acto de determinación del valor real de los bienes inmuebles comprobados por la Administración -que, por ende, corrige o verifica los valores declarados por el interesado como precio o magnitud del negocio jurídico llevado a término- ha de ser: a) singularizado; b) motivado; y c) fruto de un examen del inmueble, normalmente mediante visita al lugar". Y en otro punto, resume también que "el método de comprobación consistente en la estimación por referencia a valores catastrales, multiplicados por índices o coeficientes no es idóneo, por su generalidad y falta de relación con el bien concreto de cuya estimación se trata, para la valoración de bienes inmuebles en aquellos impuestos en que la base imponible viene determinada legalmente por su valor real, salvo que tal método se complemente con la realización de una actividad estrictamente comprobadora directamente relacionada con el inmueble singular que se someta a avalúo". Esta doctrina también ha servido de base para varias resoluciones del Tribunal Económico-Administrativo Regional (TEAR) de Castilla La Mancha, dependiente del Ministerio de Hacienda, en las que también critica el método en cuestión. Las nuevas referencias se establecen tomando como partida el comportamiento medio de los precios de las compraventas de los inmuebles comunicadas por los fedatarios públicos. "Es decir, determinan el valor medio en una zona, que no tiene por qué coincidir con un barrio ni con un distrito", apuntan desde Hacienda.Sin embargo, aquí reside el núcleo de la controversia, ya que según los expertos consultados por EL MUNDO, el valor atribuido a algunos inmuebles podría estar muy alejado de su valor real y eso obligaría a pagar al propietario unas cantidades por encima de lo que le correspondería. Hacienda señala en este punto que, a partir del 1 de enero, se publicarán los datos individualizados. "Es decir, que se tendrán en cuenta las características de cada inmueble, de cada piso", justifican.Pero los asesores fiscales y abogados lo dudan y vaticinan que el cambio abrirá un nuevo foco de litigiosidad entre la Administración y los contribuyentes. Hasta ahora, las partes consignaban un valor y la Administración, en caso de desacuerdo, debía comprobarlo y demostrar la diferencia. A partir de la entrada en vigor de la norma, esa situación se dará la vuelta y será el contribuyente quien deba probar que el valor de referencia según el Catastro no se ajusta al valor que realmente tiene el inmueble. Para intentar cubrir una parte de este riesgo, la norma establece que los valores de referencia no superarán a los valores de mercado y para garantizarlo, el Ministerio ha establecido el factor de minoración en el 0,9, tanto para los inmuebles urbanos como para los rústicos. Pero de nuevo, los expertos creen que no será suficiente para evitar que lo supere y que el ciudadano acabe tributando sobre una base imponible que no se corresponde con el valor real de su inmueble. El cambio del sistema de valoración ha generado polémica desde el momento de su aprobación, sobre todo porque Hacienda aprovechó la nueva Ley de Medidas de Prevención y Lucha contra el Fraude para colar en ella la reforma.Pero la polémica continúa a medida que se conocen más detalles de su aplicación. El Ministerio publicó el jueves en la sede electrónica de la Dirección General del Catastro los mapas de valores que servirán de base para los cálculos posteriores; en estos mapas se asignan módulos de valor medio a los productos inmobiliarios representativos por zonas del territorio, llamados 'Ámbitos territoriales homogéneos de valoración', que se corresponden con los precios medios de las compraventas.En el caso de bienes inmuebles urbanos, la Dirección General del Catastro calculará el valor de referencia de un inmueble concreto teniendo en cuenta diversos criterios, como son las diferencias de calidad, antigüedad y estado de conservación entre este inmueble y el producto inmobiliario representativo al que se refiera el módulo de valor medio. Para ello se usará, transitoriamente, la normativa de valoración catastral.En el caso de inmuebles rústicos sin construcción, el valor de referencia se calculará a partir del módulo de valor medio, en función de sus características, y de los factores correctores por localización, agronómicos y socioeconómicos que se determinen en el informe anual del mercado inmobiliario correspondiente
+
+
+EL MUNDO-943 
+T�tulo: 
+Hacienda lanza su 'catastrazo': cambia el valor de referencia de los inmuebles que subir� los impuestos de Sucesiones, ITP y Patrimonio | Vivienda
+Fecha: 
+2021-10-14T16:04:52Z
+Autor: DANIEL VIA�A
+Contenido: Hacienda ha publicado este jueves los mapas que ayudarán a determinar los valores de referencia de los inmuebles en 2022. Bajo esta iniciativa se esconde en realidad un cambio que afecta a la base imponible sobre la que se calculan el Impuesto de Sucesiones y Donaciones, el ITP y el Impuesto sobre el Patrimonio y que en la práctica se traducirá en un aumento del pago para los contribuyentes.El cambio afecta al valor de los inmuebles que se tomará como referencia para calcular dichos tributos. Hasta ahora se empleaba para ese cometido el valor real de los inmuebles, pero a partir del 1 de enero de 2022 se tomarán como guía los valores de referencia publicados hoy por el departamento que lidera María Jesús Montero.Hacienda niega que el cambio conlleve una subida de impuestos y también desde Moncloa inciden en ello, pero en la práctica la mayoría de los contribuyentes tendrá que pagar más en esos supuestos. La clave está en la propia definición de los valores. El valor real constituye un concepto abstracto y difícil de cuantificar que con frecuencia se asimila al valor catastral y ambos suelen estar por debajo del valor de mercado; los nuevos indicadores publicados por Hacienda se aproximan más a éste último, más elevado. Las previsiones de aumento contributivo que tendrán que asumir los contribuyentes derivan precisamente de ese aumento en la base impositiva.Las nuevas referencias se establecen tomando como partida el comportamiento medio de los precios de las compraventas de los inmuebles comunicadas por los fedatarios públicos. "Es decir, determinan el valor medio en una zona, que no tiene por qué coincidir con un barrio ni con un distrito", apuntan desde Hacienda.Sin embargo, aquí reside uno de los riesgos y de los puntos de críticas del cambio, ya que según los expertos consultados el valor atribuido a algunos inmuebles podría estar muy alejado de su valor real y eso obligaría a pagar al propietario unas cantidades por encima de lo que le correspondería. Hacienda señala en este punto que, a partir del 1 de enero, se publicarán los datos individualizados. "Es decir, que se tendrán en cuenta las características de cada inmueble, de cada piso", justifican.Hasta ahora, muchos de estos procedimientos estaban rodeados de cierta controversia ya que las partes consignaban un valor y la Administración, en caso de desacuerdo, debía comprobarlo y demostrar la diferencia, lo cual ha generado una elevada litigiosidad durante años. A partir de la entrada en vigor de la norma, esa situación se dará la vuelta y será el contribuyente quien deba probar que el valor de referencia según el Catastro no se ajusta al valor que realmente tiene el inmueble, lo cual también abre la puerta a litigios contra la Administración.Para intentar cubrir una parte de este riesgo, la norma establece que los valores de referencia no superarán a los valores de mercado y para garantizarlo, el Ministerio ha establecido el factor de minoración en el 0,9, tanto para los inmuebles urbanos como para los rústicos.El factor de minoración es el coeficiente que se aplica sobre el valor de los activos para reducir su factura fiscal, pero en este caso, según Rubén Rúa, coordinador del grupo de expertos en haciendas locales y catastro de Asociación Española de Asesores Fiscales (AEDAF), "es insuficiente" debido a las diferencias de precio que pueden existir en un mismo bloque de viviendas, por cuestión de alturas o de orientación, por ejemplo. "Estas diferencias puede ser superiores al 25% para un mismo bloque por lo cual el factor de minoración es insuficiente", apunta.La modificación de los valores de referencia ya fue avanzada en la Ley de Medidas de Prevención y Lucha contra el Fraude, pero quedó pendiente su desarrollo. Y eso es lo que vienen a hacer los mapas de valores publicados hoy por Hacienda en la sede electrónica de la Dirección General del Catastro.En estos mapas se asignan módulos de valor medio a los productos inmobiliarios representativos por zonas del territorio, llamados 'Ámbitos territoriales homogéneos de valoración', que se corresponden con los precios medios de las compraventas.En el caso de bienes inmuebles urbanos, la Dirección General del Catastro calculará el valor de referencia de un inmueble concreto teniendo en cuenta diversos criterios, como son las diferencias de calidad, antigüedad y estado de conservación entre este inmueble y el producto inmobiliario representativo al que se refiera el módulo de valor medio. Para ello se usará, transitoriamente, la normativa de valoración catastral.En el caso de inmuebles rústicos sin construcción, el valor de referencia se calculará a partir del módulo de valor medio, en función de sus características, y de los factores correctores por localización, agronómicos y socioeconómicos que se determinen en el informe anual del mercado inmobiliario correspondiente
+
+
+EL MUNDO-942 
+T�tulo: 
+Las claves del 'catastrazo': el contribuyente deber� demostrar a Hacienda el valor de su inmueble para no pagar impuestos de m�s | Vivienda
+Fecha: 
+2021-10-15T00:13:07Z
+Autor: MAR�A HERN�NDEZ | DANIEL VIA�A
+Contenido: Hacienda publicó ayer los mapas que ayudarán a determinar los valores de referencia de los inmuebles en 2022. Bajo esta iniciativa se esconde en realidad un cambio que afecta a la base imponible sobre la que se calculan algunos impuestos relacionados con los inmuebles y que, en la práctica, se traducirá en un aumento del pago para los contribuyentes. ¿Está el IBI entre ellos? Aclaramos ésta y otras dudas a continuación:El Ministerio de Hacienda cambia el valor con el que se calcula la base imponible de impuestos como Transmisiones Patrimoniales, Patrimonio y Sucesiones. El cambio afecta al valor de los inmuebles que se tomará como referencia para calcular dichos tributos. Hasta ahora se empleaba para ese cometido el valor real de los inmuebles, pero a partir del 1 de enero de 2022 se tomarán como guía los nuevos valores de referencia creados en base a criterios concretos. No, el cambio no alcanza al Impuesto de Bienes Inmuebles porque su base imponible no se calcula con el valor real, sino con el valor catastral y dicho valor no resulta afectado por la reforma. En concreto, el valor de referencia sólo afectará a quien adquiera un inmueble a partir del 1 de enero de 2022, y a la vez tenga que tributar, bien por el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, bien por el Impuesto sobre Sucesiones y Donaciones. Igualmente, sólo podrá afectar al Impuesto sobre el Patrimonio en lo que se refiera a inmuebles adquiridos a partir de la entrada en vigor de la norma, en ningún caso afecta al patrimonio preexistente.Hay una doble razón: aumentar la recaudación tributaria y reducir la litigiosidad. Hasta ahora, muchos de estos procedimientos estaban rodeados de cierta controversia ya que las partes consignaban un valor y la Administración, en caso de desacuerdo, debía comprobarlo y demostrar la diferencia. A partir de la entrada en vigor de la norma, esa situación se dará la vuelta y será el contribuyente quien deba probar que el valor de referencia según el Catastro no se ajusta al valor que realmente tiene el inmueble.Uno de los puntos de la nueva norma establece que el valor de referencia no podrá superar al valor de mercado y para garantizarlo, Hacienda introduce un factor de minoración del 0,9 tanto para los inmuebles urbanos como para los rústicos. El factor de minoración es el coeficiente que se aplica sobre el valor de los activos para reducir su factura fiscal. A modo de ejemplo, si un inmueble tiene un valor de mercado de 200.000 euros, la base imponible sobre la que se calcularían los impuestos afectados sería de 180.000 euros. Hacienda publicó ayer los mapas que ayudarán a determinarlos (puedes consultarlos aquí). Dichos mapas representan el comportamiento medio de los precios de compraventa de inmuebles comunicados por los fedatarios públicos. Es decir, determinan el valor medio en una zona, "pero no tienen por qué coincidir con un barrio ni con un distrito", matizan desde el Ministerio. En estos mapas se asignan módulos de valor medio a los productos inmobiliarios representativos por zonas del territorio, llamados 'Ámbitos territoriales homogéneos de valoración', que se corresponden con los precios medios de las compraventas. En el caso de bienes inmuebles urbanos, la Dirección General del Catastro calculará el valor de referencia de un inmueble concreto teniendo en cuenta diversos criterios, como son las diferencias de calidad, antigüedad y estado de conservación entre este inmueble y el producto inmobiliario representativo al que se refiera el módulo de valor medio. Para ello se usará, transitoriamente, la normativa de valoración catastral. En el caso de inmuebles rústicos sin construcción, el valor de referencia se calculará a partir del módulo de valor medio, en función de sus características, y de los factores correctores por localización, agronómicos y socioeconómicos que se determinen en el informe anual del mercado inmobiliario correspondiente.
+
+

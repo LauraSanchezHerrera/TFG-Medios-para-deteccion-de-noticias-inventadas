@@ -1,0 +1,102 @@
+Estudio de la noticia El Confidencial-234
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-235 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-234 es el mismo art�culo que la noticia El Confidencial-235
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-09-25/rahm-garcia-victoria-europa-ryder-cup_3296130/
+        - https://www.elconfidencial.com/deportes/golf/2021-09-26/europa-milagro-ventaja-eeuu-ryder-cup_3296171/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/09/25
+        - 2021/09/26
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-235'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-235'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'El Confidencial-234': {'El Confidencial-235'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-235
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-234 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-235 es el mismo art�culo que la noticia El Confidencial-234
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/golf/2021-09-26/europa-milagro-ventaja-eeuu-ryder-cup_3296171/
+        - https://www.elconfidencial.com/deportes/golf/2021-09-25/rahm-garcia-victoria-europa-ryder-cup_3296130/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/09/26
+        - 2021/09/25
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'El Confidencial-234'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-234': {'El Confidencial-235'}, 'El Confidencial-235': {'El Confidencial-234'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-234', 'El Confidencial-235'}
+{'El Confidencial-234': {'El Confidencial-235'}, 'El Confidencial-235': {'El Confidencial-234'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-234
+1: El Confidencial-235
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.72413793]
+ [0.71548117 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-234 -> El Confidencial-235: 0.7241379310344828. Cantidad de informaci�n extra�da de la noticia El Confidencial-234 para a�adirla a la noticia El Confidencial-235 :396
+         El Confidencial-235 -> El Confidencial-234: 0.7154811715481172. Cantidad de informaci�n extra�da de la noticia El Confidencial-234 para a�adirla a la noticia El Confidencial-235 :396
+
+         El Confidencial-235 -> El Confidencial-234: 0.7154811715481172. Cantidad de informaci�n extra�da de la noticia El Confidencial-235 para a�adirla a la noticia El Confidencial-234 :396
+         El Confidencial-234 -> El Confidencial-235: 0.7241379310344828. Cantidad de informaci�n extra�da de la noticia El Confidencial-235 para a�adirla a la noticia El Confidencial-234 :396
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-234 
+T�tulo: 
+Europa depende de un milagro: EEUU impone su ley en la Ryder (11-5)
+Fecha: 
+2021-09-26T02:02:00+02:00
+Autor: Europa Press
+Contenido:   El equipo de Europa tiene apenas un hilo de vida en la defensa de la Ryder Cup ante Estados Unidos (11-5) de cara a la última jornada este domingo, la de partidos individuales, después de un sábado de nuevo para los anfitriones en Whistling Straits. Los americanos ampliaron su ventaja por la mañana (9-3) en los 'foursomes', donde otra vez la dupla española formada por Jon Rahm y Sergio García fue la única que sumó para Europa, y por la tarde impidieron la reacción azul. El vasco y el castellonense volvieron a salir juntos y vencieron a Brooks Koepka y Jordan Spieth.          Rahm y García son la única buena noticia de Europa en la Ryder Cup    EFE    Sergio, ampliando el récord de victorias (25) y de puntos (28,5), y un Rahm que se encendió en los hoyos 15 y 16 para ganar (2 y 1) el partido a lo número uno del mundo, recortaron distancias al igual que Shane Lowry, con una tremenda celebración en el 18, y Tyrrell Hatton superando (1 arriba) a Tony Finau y Harris English.   Sin embargo, los debutantes de lujo Scottie Scheffler y Collin Morikawa se echaron sus partidos a la espalda, junto a Bryson Dechambeau y Dustin Johnson, para dar esa amplia renta a Estados Unidos. Scheffler irrumpió en los últimos hoyos para el 3 y 1 ante Tommy Fleetwood y Viktor Hovland y Morikawa estuvo simplemente perfecto ante unos erráticos Ian Poulter y Rory McIlroy (4 y 3).   Europa necesitaba una reacción en los 'fourballs' que se le escapó en los últimos hoyos, para cambiar la dinámica que siguió este sábado por la mañana, y de la que solo se libraban Rahm y Sergio, tras remontar esta vez el primer punto del día ante Koepka y Daniel Berger por 3 y 1. Sin embargo, por detrás no acompañaron las buenas noticias en los otros tres partidos de la mañana.           Viktor Hovland recibe el apoyo de sus compañeros. (Reuters)    El capitán europeo, Padraig Harrington, tuvo claro que el primer punto estaría en buenas con los españoles, pero el 6-3 tardó poco en abrirse. Dustin Johnson y Collin Morikawa, otra pareja perfecta, derrotó a Paul Casey, incapaz de sacar más de su juego, y un Tyrrel Hatton que no siguió la buena línea de sus últimos hoyos ayer.   Los otros dos partidos también fueron americanos, con Justin Thomas y Jordan Spieth muy crecidos para remontar (2 arriba) a Viktor Hovland y Bernd Wiesberger; y Xander Schauffele y Patrick Cantlay superando a Lee Westwood y Matt Fitzpatrick (2 y 1).   El guion fue americano en el cierre del segundo día de Ryder y a Europa solo le queda luchar hasta el final, sabiendo que los milagros existen en el deporte. Ocurrió en la Ryder de 2012 en Medinah, aunque entonces los europeos remontaron un 10-6 el domingo, y a esa épica se aferra el equipo de Harrington.   
+
+
+El Confidencial-235 
+T�tulo: 
+Golf: Rahm y Garc�a son la �nica buena noticia de Europa en la Ryder Cup
+Fecha: 
+2021-09-25T20:30:00+02:00
+Autor: EFE
+Contenido:   El castellonense Sergio García y el vizcaíno Jon Rahm han vuelto a ganar juntos un punto para el equipo europeo en la Copa Ryder, la competición bienal de golf entre Estados Unidos y Europa que se disputa esta semana en Whistling Straits, a orillas del Lago Michigan. “Parece una semana dura para el equipo. Todavía no ha acabado esto y esperemos que mejore la cosa. Jugar con Sergio es todo un sueño. Hay mucha expectativa cuando dos españoles juegan juntos evidentemente por la historia”, dijo a Efe Jon Rahm después de volver a ganar su partido contra los estadounidenses Brooks Koepka y Daniel Berger.          Golpe de autoridad de EEUU en el inicio de la Ryder (6-2): Rahm, la esperanza de Europa    Europa Press    “A ver si podemos seguir así, jugar así de bien y terminar ganando más puntos esta semana. Él sigue batiendo récords y yo empezando mi carrera. Ya ves, polos contrarios y divertido. Lo estamos pasando muy bien, aunque las cosas vayan bien o mal y eso se nota”, comentó a Efe sobre su emparejamiento con García el número uno del ránking mundial. “Jon y yo hicimos lo que teníamos que hacer y lo que pudimos. Desafortunadamente, parece que los estadounidenses están jugando un poco mejor que nosotros y es una pena”, dijo Sergio García, que ha logrado junto a Rahm dos de los tres únicos puntos acumulados por los europeos, frente a los nueve del equipo de Estados Unidos.   “No empecé bien esta mañana. Mis primeros cuatro hoyos no fueron buenos y Jon me salvó. Todos están haciendo todo lo que pueden. A veces no juegas tan bien y a veces juegan mejor que tú”, agregó García, que ha revalidado el récord de victorias de la historia de la Copa Ryder, con 24 partidos ganados y tres empatados en sus diez participaciones.           Sergio García y Jon Rahm, durante la disputa de la jornada. (Reuters)    Mientras García y Rahm remontaban un comienzo negativo para acabar ganando por tres hoyos de ventaja a falta de uno por jugar (3 y 1), los ingleses Paul Casey y Tyrrell Hatton fueron derrotados por Dustin Johnson y Colin Morikawa (2 y 1), al igual que el noruego Viktor Hovland y el austríaco Bernd Wiesberger contra Justin Thomas y Jordan Spieth (2 arriba después de 18) y los ingleses Lee Westwood y Matt Fitzpatrick contra Xander Schauffele y Patrick Cantlay ( 2 y 1). García y Rahm vuelven a salir juntos al campo en el segundo partido de Four Ball (mejor resultado de la pareja en el hoyo) del sábado por la tarde para enfrentarse a Brooks Koepka y Jordan Spieth.   Los otros tres partidos de la tarde son Tony Finau y Harris English contra el inglés Tyrrell Hatton y el irlandés Shane Lowry, Scottie Scheffler y Bryson Dechambeau contra Hovland y el inglés Tommy Fleetwood, y Dustin Johnson y Colin Morikawa contra el inglés Ian Poulter y el norirlandés Rory McIlroy.  
+
+

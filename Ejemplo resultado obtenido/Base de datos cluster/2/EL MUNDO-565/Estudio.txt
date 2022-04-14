@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-565
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-577 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-565 es el mismo art�culo que la noticia EL MUNDO-577
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/22/619b80f5fdddff97a08b45b6.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/25/619e9b66fdddff118d8b45a4.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/11/22
+        - 2021/11/25
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-577'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-577'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-565': {'EL MUNDO-577'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-577
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-565 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-577 es el mismo art�culo que la noticia EL MUNDO-565
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/25/619e9b66fdddff118d8b45a4.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/22/619b80f5fdddff97a08b45b6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/11/25
+        - 2021/11/22
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-565'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-565': {'EL MUNDO-577'}, 'EL MUNDO-577': {'EL MUNDO-565'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-577', 'EL MUNDO-565'}
+{'EL MUNDO-565': {'EL MUNDO-577'}, 'EL MUNDO-577': {'EL MUNDO-565'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-577
+1: EL MUNDO-565
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.70647773]
+ [0.72892662 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-577 -> EL MUNDO-565: 0.7064777327935222. Cantidad de informaci�n extra�da de la noticia EL MUNDO-577 para a�adirla a la noticia EL MUNDO-565 :423
+         EL MUNDO-565 -> EL MUNDO-577: 0.7289266221952698. Cantidad de informaci�n extra�da de la noticia EL MUNDO-577 para a�adirla a la noticia EL MUNDO-565 :435
+
+         EL MUNDO-565 -> EL MUNDO-577: 0.7289266221952698. Cantidad de informaci�n extra�da de la noticia EL MUNDO-565 para a�adirla a la noticia EL MUNDO-577 :435
+         EL MUNDO-577 -> EL MUNDO-565: 0.7064777327935222. Cantidad de informaci�n extra�da de la noticia EL MUNDO-565 para a�adirla a la noticia EL MUNDO-577 :423
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-577 
+T�tulo: 
+Primeras consecuencias de la huelga indefinida de 8.000 empleados de limpieza del sector p�blico en Castell�n | Castell�n
+Fecha: 
+2021-11-22T11:55:45Z
+Autor: EFE
+Contenido: Cerca de 8.000 trabajadores, en su mayoría mujeres, del sector de la limpieza de edificios y locales de la provincia de Castellón han iniciado este lunes una huelga indefinida con un seguimiento "muy satisfactorio" por la defensa de un convenio digno y ante "la pérdida de derechos que proponen las patronales", según indican desde los sindicatos.El sector ha realizado también, con motivo de inicio de la huelga, una concentración de protesta en la plaza María Agustina de Castellón en el que han leído un manifiesto que pone de relieve la importancia "de estas trabajadoras imprescindibles cuya labor y compromiso ha quedado acreditada durante la pandemia".Así lo ha explicado Jordi Riera, secretario general de lHabitat de CCOO PV, quien ha indicado que los representantes sindicales han comprobado ya el seguimiento de la huelga en lugares como la Universitat Jaume I, el Hospital General y el centro de salud Gran Vía, además de varios colegios de la capital.La Conselleria de Economía ha fijado unos servicios mínimos que desde CCOO ven "muy elevados".A través de su publicación en el Diari Oficial de la Generalitat Valenciana, la Conselleria fijó para los centros educativos un servicio equivalente al 40% de las horas habituales de prestación diarias en cada uno de los centros de educación infantil y primaria, de un 30% en los centros de enseñanza secundaria y de un 20% en el resto de los centros de enseñanza reglada, el cual va dirigido prioritariamente a la limpieza de los aseos públicos y comedores escolares y a la recogida de residuos, y en segundo término a la limpieza de las zonas comunes.En servicios sociales se debe prestar el servicio equivalente a un 40% en los centros de atención continuada, y de un 20% en los centros de atención diurna, el cual va dirigido prioritariamente a la limpieza de los aseos, comedores, cocinas y a la recogida de residuos.En dependencias públicas se debe prestar el servicio equivalente a un 20% en las oficinas de organismos públicos y en estaciones de transportes públicos, que debe ir dirigido, estableciendo un criterio preferencial, a la limpieza de los aseos y a la retirada de residuos, y de un 40 % en los mercados municipales.Los sindicatos UGT y CCOO han explicado que las patronales ASPEL y APYMELIC, pese a ser un sector "esencial e imprescindible", proponen "recortes y propuestas económicas que precarizaran mucho más este sector a los niveles más bajos".Entre las "muchas razones" que han motivado el inicio de la huelga citan el hecho de llevar dos años sin subida salarial, con una propuesta de la patronal del 0% para 2020-2021 y a partir del año 2022 se establecerá un salario anual de 13.510 euros (que es el Salario Mínimo Legal que deben cumplir todas las empresas, por lo que no supone incremento alguno), y además "eliminando el plus de transporte y el plus de antigüedad; es decir, no suben nada".Esto equivale, según los sindicatos, "a la total pérdida económica de su propuesta con cinco años sin subida salarial y con pérdida de derechos".Para 2023, han agregado, "proponen un salario anual de 14.000 euros, pero solamente con la propuesta de la pérdida de la antigüedad, no tendríamos una subida real durante la vigencia del convenio que proponen las patronales. Es decir, perderíamos dinero".Además indican que "no es comprensible ni aceptable las propuestas de la patronal sabiendo que los niveles de inflación actuales son superiores al 5% para este año, y que los trabajadores del sector de limpieza de Castellón comprenden las retribuciones más bajas respecto a las que perciben el sector en las provincias de Alicante y Valencia".
+
+
+EL MUNDO-565 
+T�tulo: 
+La basura se acumula en el Hospital General de Castell�n tras tres d�as de huelga en el sector p�blico de limpieza | Castell�n
+Fecha: 
+2021-11-25T11:41:23Z
+Autor: C. A. D.
+Contenido: Los efectos de las tres jornadas de huelga indefinida en el sector de la limpieza que arrancó este lunes ya se dejan notar en lugares tan sensibles como el Hospital General de Castellón donde son visibles ya las 'montañas' de bolsas de basura de material sanitario sin recoger.Los casi 8.000 trabajadores, en su mayoría mujeres, del sector de la limpieza de edificios y locales públicos de la provincia de Castellón iniciaron este lunes una huelga indefinida con un seguimiento "muy satisfactorio" por la defensa de un convenio digno y ante "la pérdida de derechos que proponen las patronales", según indican desde los sindicatos.Los trabajadores, que se concentraron en la plaza María Agustina, leyeron un comunicado para poner de relieve la importancia "de estas trabajadoras imprescindibles cuya labor y compromiso ha quedado acreditada durante la pandemia".Mientras, el pasado martes la protesta se trasladó a la plaza de las Aulas donde tenía lugar el pleno de la Diputación Provincial. Incluso los trabajadores tenían previsto reunirse el miércoles con la vicepresidenta del Consell, Mónica Oltra, para hacerle llegar sus demandas.El seguimiento de la huelga continúa siendo alto en Castellón y en la jornada del miércoles más 300 personas se manifestaron en el Rectorado de la Universitat Jaume I de Castellón durante la concentración que había convocada por parte de las trabajadoras de la limpieza de la UJI y el sindicato Estudiantes en Lucha.Desde primera hora de la mañana, trabajadores del sector y alumnos estuvieron haciendo piquetes a la puerta de la universidad e informando clase por clase en muchas facultades de lo que está sucediendo. La protesta llenó los pasillos de papeles al grito de «la rectora es una explotadora» o «por un convenio justo».Las trabajadoras reclaman que llevan dos años sin convenio cobrando 780 euros por debajo del Salario Mínimo Interprofesional (SMI), y que la empresa para llegar a éste les ha quitado las pagas para incluirlas en el salario base.Este mismo jueves se mantiene convocada otra jornada de huelga y concentraciones. De hecho, a las doce del mediodía, trabajadores del sector público de limpieza de Castellón y sindicalistas de CCOO y USO han irrumpido en la plaza Mayor de la capital de La Plana para protestar durante la celebración del pleno ordinario de este mes de noviembre.Con pancartas de "No somos la basura que limpiamos" y gritos como "ea, ea, ea, la limpieza se cabrea", alrededor de un centenar de personas se han concentrado ante el Ayuntamiento cuando aún no había terminado el pleno. Al oír las protestas y salir los periodistas para conocer los detalles de la concentración, la alcaldesa, Amparo Marco, y el edil de Residuos, Ignasi Garcia, han bajado también a escuchar las reclamaciones del sector, mientras el pleno seguía su curso. La primera edil aseguraba a los manifestantes que tienen "toda la razón" y desde Alcaldía ha pedido teléfonos para concertar una cita.
+
+

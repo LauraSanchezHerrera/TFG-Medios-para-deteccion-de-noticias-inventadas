@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-975
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-201 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-975 es el mismo art�culo que la noticia El Confidencial-201
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/baloncesto/nba/2021-12-03/santi-aldama-mayor-humillacion-nba-memphis-grizzlies-oklahoma-city-thunder_3335589/
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/03/61a9d79bfdddff3d718b459c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/03
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-1064 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-975 es el mismo art�culo que la noticia EL MUNDO-1064
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/03/61a9d79bfdddff3d718b459c.html
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/03/61a9d79bfdddff3d718b459c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/03
+        - 2021/12/03
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-201'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-201'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-975': {'El Confidencial-201'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-201
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-975 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-201 es el mismo art�culo que la noticia EL MUNDO-975
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/03/61a9d79bfdddff3d718b459c.html
+        - https://www.elconfidencial.com/deportes/baloncesto/nba/2021-12-03/santi-aldama-mayor-humillacion-nba-memphis-grizzlies-oklahoma-city-thunder_3335589/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/03
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1064 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-201 es el mismo art�culo que la noticia EL MUNDO-1064
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/baloncesto/nba/2021/12/03/61a9d79bfdddff3d718b459c.html
+        - https://www.elconfidencial.com/deportes/baloncesto/nba/2021-12-03/santi-aldama-mayor-humillacion-nba-memphis-grizzlies-oklahoma-city-thunder_3335589/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/03
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-975'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-975': {'El Confidencial-201'}, 'El Confidencial-201': {'EL MUNDO-975'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-201', 'EL MUNDO-975'}
+{'EL MUNDO-975': {'El Confidencial-201'}, 'El Confidencial-201': {'EL MUNDO-975'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-201
+1: EL MUNDO-975
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.54384411]
+ [0.6875     0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-201 -> EL MUNDO-975: 0.5438441098317095. Cantidad de informaci�n extra�da de la noticia El Confidencial-201 para a�adirla a la noticia EL MUNDO-975 :503
+         EL MUNDO-975 -> El Confidencial-201: 0.6875. Cantidad de informaci�n extra�da de la noticia El Confidencial-201 para a�adirla a la noticia EL MUNDO-975 :493
+
+         EL MUNDO-975 -> El Confidencial-201: 0.6875. Cantidad de informaci�n extra�da de la noticia EL MUNDO-975 para a�adirla a la noticia El Confidencial-201 :493
+         El Confidencial-201 -> EL MUNDO-975: 0.5438441098317095. Cantidad de informaci�n extra�da de la noticia EL MUNDO-975 para a�adirla a la noticia El Confidencial-201 :503
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-201 
+T�tulo: 
+Aldama, protagonista en la mayor humillaci�n de la historia de la NBA
+Fecha: 
+2021-12-03T09:50:00+01:00
+Autor: El Confidencial
+Contenido:   El español Santi Aldama fue protagonista en la noche histórica de los Memphis Grizzlies, que batieron el récord de la mayor diferencia de puntos (73) en un partido de la NBA, y tras el encuentro subrayó que fue algo absolutamente especial pero instó a su equipo a que mantenga los pies en el suelo. "Ha sido un partido increíble, por supuesto. Todos hemos jugado muy bien y ha sido muy divertido jugar, pero al mismo tiempo tenemos otro encuentro en dos días", recordó. "Está genial sentirse bien ahora pero mañana tenemos que volver al trabajo", añadió.    Los Memphis Grizzlies ganaron a los Oklahoma City Thunder por 73 puntos (152-79), una gigantesca e histórica diferencia en el marcador que supone un nuevo récord en la NBA. Hasta ahora, el mayor margen en un partido de la NBA correspondía a un encuentro del 17 de diciembre de 1991 en el que los Cleveland Cavaliers destrozaron a los Miami Heat por 68 puntos (148-80). Aldama se unió a esta fiesta para la historia de los Grizzlies con su mejor actuación desde que aterrizó en la NBA.         Santi Aldama asalta la NBA: "Pau Gasol es mi ídolo, empezar en Memphis es un orgullo"    Lino Vargas    El novato español fue el tercer máximo anotador de su equipo y jugó 28 minutos en los que consiguió un doble-doble (el primero de su carrera en la NBA) con 18 puntos (8 de 16 en tiros), 10 rebotes, 3 asistencias, un robo y un tapón. Aldama se lleva además un récord personal: el del mejor rating +/- (estadística más/menos) para un jugador de los Grizzlies en toda la andadura de la franquicia. El español consiguió esta noche un +52 en ese apartado estadístico que mide la contribución individual de un jugador en un encuentro tomando como referencia el marcador cuando entra a la cancha y comparándolo con cuando se va al banquillo.   Este dato sitúa además a Aldama con el tercer mejor más/menos en un partido en la historia de la NBA solo por detrás de Luc Mbah a Moute, que logró un +57 con Houston Rockets en 2017; y de Gary Trent Jr., que consiguió un +54 con los Toronto Raptors el pasado abril. En el aspecto colectivo, los Grizzlies batieron su mejor marca histórica de anotación en un partido, tuvieron a nueve jugadores por encima de los 10 puntos, encestaron el 62,5% de sus tiros, al descanso ya vencían por 72-36 y llegaron a ganar por 78 puntos en el último cuarto.  El primer cuarto de @santialdama con los @memgrizz pic.twitter.com/0JPJM1wb7d— NBA Spain (@NBAspain) December 3, 2021   Al margen de haber participado en un partido para el recuerdo, Aldama se lleva la satisfacción de estar cada vez más consolidado en la rotación de los Grizzlies después de que la franquicia le asignara temporalmente a los Memphis Hustle de la liga de desarrollo G-League. El joven señaló que su mentalidad es "estar preparado" pase lo que pase para cuando le llegue el turno de jugar. "Cuando entro en la cancha, simplemente lo doy todo para intentar que el equipo gane", explicó. También indicó que sus primeras semanas en la NBA están siendo "una experiencia de aprendizaje" y confió en sentirse más cómodo en la pista conforme vaya acumulando más minutos de juego.  
+
+
+EL MUNDO-975 
+T�tulo: 
+NBA: Los Grizzlies masacran a los Thunder en la mayor paliza de la historia de la NBA: 73 puntos de diferencia | NBA 2021 - 2022
+Fecha: 
+2021-12-03T08:39:03Z
+Autor: EFE
+Contenido: Los Memphis Grizzlies ganaron a los Oklahoma City Thunder por 73 puntos (152-79), una gigantesca e histórica diferencia en el marcador que supone un nuevo récord en la NBA.Hasta ahora, el mayor margen en un partido de la NBA correspondía a un encuentro del 17 de diciembre de 1991 en el que los Cleveland Cavaliers destrozaron a los Miami Heat por 68 tantos (148-80).Los Grizzlies (con un balance de 12-10), en los que juega el español Santi Aldama, superaron esa marca en una noche perfecta en la que desintegraron a los Thunder (6-16), que son uno de los peores equipos de lo que va de temporada.Aldama se unió a esta fiesta histórica de los Grizzlies con su mejor actuación desde que aterrizó en la NBA. El novato español fue el tercer máximo anotador de su equipo y jugó 28 minutos en los que consiguió un doble-doble de 18 puntos (8 de 16 en tiros), 10 rebotes, 3 asistencias, un robo y un tapón.Las estadísticas al final del partido reflejaron la magnitud de la paliza de los de Memphis. Nueve jugadores de los Grizzlies superaron los 10 puntos con Jaren JacksonJr. como máximo anotador con 27. El conjunto local presumió de precisión con un 62,5 % de acierto en tiros de campo y un 52,8 % en triples (19 de 36).Por el contrario, los Thunder solo encestaron el 32,9 % de sus tiros y el 28,9 % de sus intentos de tres (11 de 38).Los Grizzlies repartieron 41 asistencias (los Thunder solo 14), capturaron 53 rebotes (sus rivales solo 26) y robaron 16 balones (los visitantes recuperaron 2).Al descanso, la ventaja local era ya de 72-36 y la máxima diferencia que lograron los Grizzlies a lo largo del duelo fue de 78 puntos ya en el último cuarto.El partido también supone el récord de puntos para los Grizzlies en un encuentro en toda la historia de la franquicia. Curiosamente, los de Memphis no contaron en esta velada para el recuerdo con su estrella Ja Morant, que no jugó por lesión.En los Thunder participó el argentino Gabriel Deck, que ha tenido muy pocas oportunidades esta temporada y que sufrió esta derrota en primera persona. Deck aportó para los de Oklahoma City 4 puntos (2 de 5 en tiros), 2 rebotes y 2 asistencias en 22 minutos.
+
+

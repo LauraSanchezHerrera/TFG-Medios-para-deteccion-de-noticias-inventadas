@@ -1,0 +1,103 @@
+Estudio de la noticia La Informacion-11
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-12 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia La Informacion-11 es el mismo art�culo que la noticia El Confidencial-12
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/espana/andalucia/2021-12-04/arrimadas-puerta-estudiar-coalicion-pp-andalucia_3336304/
+        - https://www.lainformacion.com/espana/andalucia/arrimadas-mueve-ficha-abre-puerta-gobierno-coalicion-andalucia/2855119/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-12'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-12'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'La Informacion-11': {'El Confidencial-12'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-12
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia La Informacion-11 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-12 es el mismo art�culo que la noticia La Informacion-11
+     Se trata de noticias distintas: 
+        - https://www.lainformacion.com/espana/andalucia/arrimadas-mueve-ficha-abre-puerta-gobierno-coalicion-andalucia/2855119/
+        - https://www.elconfidencial.com/espana/andalucia/2021-12-04/arrimadas-puerta-estudiar-coalicion-pp-andalucia_3336304/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'La Informacion-11'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'La Informacion-11': {'El Confidencial-12'}, 'El Confidencial-12': {'La Informacion-11'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-12', 'La Informacion-11'}
+{'La Informacion-11': {'El Confidencial-12'}, 'El Confidencial-12': {'La Informacion-11'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-12
+1: La Informacion-11
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.14590965]
+ [0.13952059 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-12 -> La Informacion-11: 0.14590964590964592. Cantidad de informaci�n extra�da de la noticia El Confidencial-12 para a�adirla a la noticia La Informacion-11 :1387
+         La Informacion-11 -> El Confidencial-12: 0.13952059004302397. Cantidad de informaci�n extra�da de la noticia El Confidencial-12 para a�adirla a la noticia La Informacion-11 :1388
+
+         La Informacion-11 -> El Confidencial-12: 0.13952059004302397. Cantidad de informaci�n extra�da de la noticia La Informacion-11 para a�adirla a la noticia El Confidencial-12 :1388
+         El Confidencial-12 -> La Informacion-11: 0.14590964590964592. Cantidad de informaci�n extra�da de la noticia La Informacion-11 para a�adirla a la noticia El Confidencial-12 :1387
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-12 
+T�tulo: 
+Arrimadas abre la puerta a estudiar una coalici�n con el PP en Andaluc�a
+Fecha: 
+2021-12-04T11:35:00+01:00
+Autor: EFE
+Contenido:    La presidenta de Ciudadanos, Inés Arrimadas, ha abierto la puerta este sábado a estudiar una coalición electoral con el PP en Andalucía para reeditar el actual Gobierno bipartito cuando haya elecciones tras "el cambio" de Vox, que ahora "ya no suma" y trabaja "contra" el Ejecutivo.    Arrimadas, que ha participado en un encuentro informativo en Sevilla con el vicepresidente andaluz, Juan Marín, ha explicado que esa opción no está ahora mismo sobre la mesa y que a ella le gustaría mantener la fórmula de las pasadas elecciones, con candidatos separados, pero ha subrayado que "la situación está cambiando". "Creo que llegados a este punto hay que valorar cualquier cosa para poder reeditar el Gobierno", ha dicho.         Arrimadas rechaza hablar de listas ante Mazón y defiende el espacio de Ciudadanos    Víctor Romero. Valencia    
+Marín, que ha sido más escueto sobre este asunto, ha señalado que a día de hoy se esperan unas primarias en Cs para elegir candidato, aunque no sabe lo que "más adelante se podrá decidir" y "cualquier posibilidad habrá que analizarla".   Arrimadas ha recordado que la "fórmula del éxito" en 2018 fue la de la suma postelectoral, pero ha expuesto que ahora "la novedad es que Vox está trabajando en contra de este Gobierno", en lo que ha calificado como "una pinza" con el PSOE.   Ha asegurado que no lo han hablado con el PP, ha insistido en que son dos partidos distintos con dos proyectos diferentes, pero que pueden tener objetivos comunes, que ahora son "mantener el cambio".   Marín, que ha destacado la "complicidad" en el Gobierno bipartito, ha recordado que "a día de hoy" está claro que Ciudadanos tendrá sus primarias en Andalucía, más allá de lo que se pueda decidir "más adelante", ya que "le corresponde a las direcciones nacionales".  Marín ha recordado que la fórmula de PP y Cs en el Ejecutivo andaluz "ha funcionado" y aspira a que vuelva a tener mayoría en Andalucía  "Tú no te vas a librar", le ha respondido bromeando Arrimadas, quien ha hecho hincapié en que ella prefiere la opción por separado y que no se ha hablado sobre la coalición. "Si se hubiera hablado tampoco lo íbamos a decir", ha respondido Marín también bromeando en este coloquio, organizado por Europa Press.    A pesar de esa preferencia, Arrimadas ha asegurado que no pondrá por delante los intereses de Cs y reconoce "que hay un cambio y que Vox ya no suma para el cambio, resta para el cambio, quizás hay que trabajar para garantizar este Gobierno, objetivamente es bueno". Marín ha recordado que la fórmula de PP y Cs en el Ejecutivo andaluz "ha funcionado" y aspira a que vuelva a tener mayoría en Andalucía.   Respecto a la fecha de las elecciones, Marín considera que el intervalo que fijó el presidente, Juanma Moreno, entre junio y octubre, "es razonable", ya que cuando acabe el primer periodo de sesiones de 2022, en verano, "la legislatura estará finalizada" y los comicios deben celebrarse como máximo a final de noviembre.         Andalucía se queda sin aprobar su presupuesto y se asoma al abismo electoral    Isabel Morillo. Sevilla    Además, ha asegurado que si en algún momento Moreno o él entienden que se puede ver perjudicado el crecimiento de Andalucía porque no se pueda gobernar no van a "dudar".    Arrimadas ha afirmado que la legislatura se va a agotar, ya que se está hablando "de unos meses arriba o abajo, es un adelanto técnico" y ha reconocido que Moreno "ha aguantado" a pesar de ser el único "con la capacidad de presionar el botón".   
+
+
+La Informacion-11 
+T�tulo: 
+Arrimadas mueve ficha y abre la puerta a un Gobierno de coalici�n en Andaluc�a
+Fecha: 
+2021-12-04T13:32:27+01:00
+Autor: La Informaci�n
+Contenido: La líder del partido naranja defiende la remodelación del actual Ejecutivo regional llegado el momento de los comicios para mantener a Vox al margen, mientras que Marín prefiere no pronunciarse sobre el asunto.La presidenta de Ciudadanos, Inés Arrimadas, ha lanzado un mensaje a Juanma Moreno y muestra su disposición a estudiar una coalición electoral con el PP en Andalucía para reeditar el actual Gobierno bipartito cuando haya elecciones tras "el cambio" de Vox, que ahora "ya no suma" y trabaja "contra" el Ejecutivo. Arrimadas, que ha participado este sábado en un encuentro informativo en Sevilla con el vicepresidente andaluz, Juan Marín, ha explicado que esa opción no está ahora mismo sobre la mesa y que a ella le gustaría mantener la fórmula de las pasadas elecciones, con candidatos separados, pero ha subrayado que "la situación está cambiando". Arrimadas ha recordado que la "fórmula del éxito" en 2018 fue la de la suma postelectoral pero ha expuesto que ahora "la novedad es que Vox está trabajando en contra de este Gobierno", en lo que ha calificado como "una pinza" con el PSOE. Ha asegurado que no lo han hablado con el PP, ha insistido en que son dos partidos distintos con dos proyectos diferentes, pero que pueden tener objetivos comunes, que ahora son "mantener el cambio". "Creo que llegados a este punto hay que valorar cualquier cosa para poder reeditar el Gobierno", ha dicho.Por su parte, Marín, que ha sido más escueto sobre este asunto, ha señalado que a día de hoy se esperan unas primarias en Cs para elegir candidato, aunque no sabe lo que "más adelante se podrá decidir" y "cualquier posibilidad habrá que analizarla". De igual forma, ha destacado la "complicidad" en el Gobierno bipartito, ha recordado que "a día de hoy" está claro que Ciudadanos tendrá sus primarias en Andalucía, más allá de lo que se pueda decidir "más adelante", ya que "le corresponde a las direcciones nacionales"."Tú no te vas a librar", le ha respondido bromeando Arrimadas, quien ha hecho hincapié en que ella prefiere la opción por separado y que no se ha hablado sobre la coalición. "Si se hubiera hablado tampoco lo íbamos a decir", ha respondido Marín también bromeando en este coloquio, organizado por Europa Press. Marín ha recordado que la fórmula de PP y Cs en el Ejecutivo andaluz "ha funcionado" y aspira a que vuelva a tener mayoría en Andalucía. A pesar de esa preferencia, Arrimadas ha asegurado que no pondrá por delante los intereses de Cs y reconoce "que hay un cambio y que Vox ya no suma para el cambio, resta para el cambio, quizás hay que trabajar para garantizar este Gobierno, objetivamente es bueno".Respecto a la fecha de las elecciones, Marín considera que el intervalo que fijó el presidente, Juanma Moreno, entre junio y octubre, "es razonable", ya que cuando acabe el primer periodo de sesiones de 2022, en verano, "la legislatura estará finalizada" y los comicios deben celebrarse como máximo a final de noviembre. Además, ha asegurado que si en algún momento Moreno o él entienden que se puede ver perjudicado el crecimiento de Andalucía porque no se pueda gobernar no van a "dudar". En este sentido, Arrimadas ha afirmado que la legislatura se va a agotar, ya que se está hablando "de unos meses arriba o abajo, es un adelanto técnico" y ha reconocido que Moreno "ha aguantado" a pesar de ser el único "con la capacidad de presionar el botón".
+
+

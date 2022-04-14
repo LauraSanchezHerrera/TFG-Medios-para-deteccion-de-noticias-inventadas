@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-4
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-1 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-4 es el mismo artÌculo que la noticia El Confidencial-1
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/espana/2021-12-04/abascal-anuncia-que-la-proxima-cumbre-de-lideres-conservadores-de-la-ue-se-celebrara-en-espana_3336371/
+        - https://www.elmundo.es/espana/2021/12/04/61ab9713fdddff965d8b45f1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-35 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-4 es el mismo artÌculo que la noticia EL MUNDO-35
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab9713fdddff965d8b45f1.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab9713fdddff965d8b45f1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-1'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-1'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-4': {'El Confidencial-1'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-1
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-35 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-1 es el mismo artÌculo que la noticia EL MUNDO-35
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab9713fdddff965d8b45f1.html
+        - https://www.elconfidencial.com/espana/2021-12-04/abascal-anuncia-que-la-proxima-cumbre-de-lideres-conservadores-de-la-ue-se-celebrara-en-espana_3336371/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-4 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-1 es el mismo artÌculo que la noticia EL MUNDO-4
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab9713fdddff965d8b45f1.html
+        - https://www.elconfidencial.com/espana/2021-12-04/abascal-anuncia-que-la-proxima-cumbre-de-lideres-conservadores-de-la-ue-se-celebrara-en-espana_3336371/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-4'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-4': {'El Confidencial-1'}, 'El Confidencial-1': {'EL MUNDO-4'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-1', 'EL MUNDO-4'}
+{'EL MUNDO-4': {'El Confidencial-1'}, 'El Confidencial-1': {'EL MUNDO-4'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: El Confidencial-1
+1: EL MUNDO-4
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.04605937]
+ [0.169627   0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         El Confidencial-1 -> EL MUNDO-4: 0.04605936540429888. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-1 para aÒadirla a la noticia EL MUNDO-4 :920
+         EL MUNDO-4 -> El Confidencial-1: 0.16962699822380106. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-1 para aÒadirla a la noticia EL MUNDO-4 :923
+
+         EL MUNDO-4 -> El Confidencial-1: 0.16962699822380106. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-4 para aÒadirla a la noticia El Confidencial-1 :923
+         El Confidencial-1 -> EL MUNDO-4: 0.04605936540429888. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-4 para aÒadirla a la noticia El Confidencial-1 :920
+
+
+***********      InformaciÛn de las noticias     ***********
+
+El Confidencial-1 
+TÌtulo: 
+Abascal anuncia que la prÛxima cumbre de lÌderes conservadores de la UE se celebrar· en EspaÒa
+Fecha: 
+2021-12-04T18:43:00+01:00
+Autor: EP
+Contenido:   El presidente de Vox, Santiago Abascal, ha anunciado en su cuenta de Twitter que la pr√≥xima cumbre de l√≠deres conservadores europeos se celebrar√° en Espa√±a en enero, despu√©s de que haya sido aceptada su invitaci√≥n al respecto.    "Vuelvo a Espa√±a tras la exitosa cumbre en Varsovia junto a los primeros ministros de Polonia y Hungr√≠a y otros dirigentes patriotas y conservadores europeos. Los l√≠deres reunidos han aceptado mi invitaci√≥n para celebrar la pr√≥xima cumbre en Espa√±a en enero", detalla en un comentario recogido por Europa Press en esta red social.   Durante su estancia en Varsovia, Abascal ha coincidido con los primeros ministros de Polonia y Hungr√≠a, Mateusz Morawiecki y V√≠ktor Orb√°n, respectivamente, as√≠ como otros l√≠deres pol√≠ticos conservadores y patriotas europeos, im√°genes que ha compartido en Twitter.  Vuelvo a Espa√±a tras la exitosa cumbre en Varsovia junto a los primeros ministros de Polonia y Hungr√≠a y otros dirigentes patriotas y conservadores europeos.Los l√≠deres reunidos han aceptado mi invitaci√≥n para celebrar la pr√≥xima cumbre en Espa√±a en enero. pic.twitter.com/qLCe8QhBcr‚Äî Santiago Abascal üá™üá∏ (@Santi_ABASCAL) December 4, 2021   La noche del viernes mantuvo un encuentro con Morawiecki en el palacio Lazienki de Varsovia (Polonia), a quien traslad√≥ su "apoyo" ante "la invasi√≥n migratoria y los chantajes de los bur√≥cratas progres de Bruselas", ya que, como √©l mismo hab√≠a avanzado, el objetivo de este encuentro era el de trasladar su respaldo "al gobierno polaco ante el ataque a sus fronteras" --en plena crisis migratoria en sus zonas fronterizas con Bielorrusia--, adem√°s de "reforzar la alianza entre las fuerzas patriotas de Europa".   Este encuentro se suma al que mantuvo el pasado mes de mayo tambi√©n en Varsovia con su primer ministro, Mateusz Morawiecki, donde abordaron el futuro de Europa, el fortalecimiento de la "defensa de las naciones soberanas", el control migratorio y las pol√≠ticas de natalidad.         Tezanos compara los discursos de Casado y Abascal con los que condujeron al fascismo     EP    El l√≠der de Vox siempre ha se√±alado a Polonia y Hungr√≠a como dos aliados de Vox y hace tan solo dos semanas ya viaj√≥ tambi√©n a Budapest para reunirse con el primer ministro del pa√≠s, Viktor Orban, con quien constat√≥ su "absoluta sinton√≠a" y compartieron la necesidad de proteger las fronteras.  
+
+
+EL MUNDO-4 
+TÌtulo: 
+Abascal anuncia que la prÛxima cumbre de lÌderes conservadores de la UE se celebrar· en EspaÒa en enero | EspaÒa
+Fecha: 
+2021-12-04T17:10:13Z
+Autor: EUROPA PRESS
+Contenido: El presidente de Vox, Santiago Abascal, ha anunciado en su cuenta de Twitter que la pr√≥xima cumbre de l√≠deres conservadores europeos se celebrar√° en Espa√±a en enero, despu√©s de que haya sido aceptada su invitaci√≥n al respecto."Vuelvo a Espa√±a tras la exitosa cumbre en Varsovia junto a los primeros ministros de Polonia y Hungr√≠a y otros dirigentes patriotas y conservadores europeos. Los l√≠deres reunidos han aceptado mi invitaci√≥n para celebrar la pr√≥xima cumbre en Espa√±a en enero", detalla en un comentario recogido por Europa Press en esta red social.Durante su estancia en Varsovia, Abascal ha coincidido con los primeros ministros de Polonia y Hungr√≠a, Mateusz Morawiecki y V√≠ktor Orban, respectivamente, as√≠ como otros l√≠deres pol√≠ticos conservadores y patriotas europeos, im√°genes que ha compartido en Twitter.La noche del viernes mantuvo un encuentro con Morawiecki en el palacio Lazienki de Varsovia (Polonia), a quien traslad√≥ su "apoyo" ante "la invasi√≥n migratoria y los chantajes de los bur√≥cratas progres de Bruselas" ya que, como √©l mismo hab√≠a avanzado, el objetivo de este encuentro era el de trasladar su respaldo "al gobierno polaco ante el ataque a sus fronteras" -en plena crisis migratoria en sus zonas fronterizas con Bielorrusia-, adem√°s de "reforzar la alianza entre las fuerzas patriotas de Europa".Este encuentro se suma al que mantuvo el pasado mes de mayo tambi√©n en Varsovia con su primer ministro, Mateusz Morawiecki, donde abordaron el futuro de Europa, el fortalecimiento de la "defensa de las naciones soberanas", el control migratorio y las pol√≠ticas de natalidad.El l√≠der de Vox siempre ha se√±alado a Polonia y Hungr√≠a como dos aliados de Vox y hace tan solo dos semanas ya viaj√≥ tambi√©n a Budapest para reunirse con el primer ministro del pa√≠s, Viktor Orban, con quien constat√≥ su "absoluta sinton√≠a" y compartieron la necesidad de proteger las fronteras.
+
+

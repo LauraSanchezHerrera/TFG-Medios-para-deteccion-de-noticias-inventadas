@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-152
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-102 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-152 es el mismo art�culo que la noticia El Confidencial-102
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/empresas/2021-12-04/volotea-solicita-sepi-prestamo-retornar-equilibrio_3336282/
+        - https://www.elmundo.es/economia/empresas/2021/12/03/61aa3daefc6c83673f8b45ee.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-102'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-102'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-152': {'El Confidencial-102'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-102
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-152 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-102 es el mismo art�culo que la noticia EL MUNDO-152
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/empresas/2021/12/03/61aa3daefc6c83673f8b45ee.html
+        - https://www.elconfidencial.com/empresas/2021-12-04/volotea-solicita-sepi-prestamo-retornar-equilibrio_3336282/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-152'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-152': {'El Confidencial-102'}, 'El Confidencial-102': {'EL MUNDO-152'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-152', 'El Confidencial-102'}
+{'EL MUNDO-152': {'El Confidencial-102'}, 'El Confidencial-102': {'EL MUNDO-152'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-152
+1: El Confidencial-102
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.61749571]
+ [0.58792185 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-152 -> El Confidencial-102: 0.6174957118353345. Cantidad de informaci�n extra�da de la noticia EL MUNDO-152 para a�adirla a la noticia El Confidencial-102 :434
+         El Confidencial-102 -> EL MUNDO-152: 0.5879218472468917. Cantidad de informaci�n extra�da de la noticia EL MUNDO-152 para a�adirla a la noticia El Confidencial-102 :452
+
+         El Confidencial-102 -> EL MUNDO-152: 0.5879218472468917. Cantidad de informaci�n extra�da de la noticia El Confidencial-102 para a�adirla a la noticia EL MUNDO-152 :452
+         EL MUNDO-152 -> El Confidencial-102: 0.6174957118353345. Cantidad de informaci�n extra�da de la noticia El Confidencial-102 para a�adirla a la noticia EL MUNDO-152 :434
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-152 
+T�tulo: 
+Volotea sigue los pasos de Plus Ultra y Air Europa y pide 185 millones a la Sepi | Empresas
+Fecha: 
+2021-12-03T15:59:59Z
+Autor: RAQUEL VILLA�CIJA
+Contenido:  Volotea sigue los pasos de otros aerolíneas como Air Europa, Plus Ultra o Air Nostrum y también ha solicitado un rescate al fondo que gestiona la Sociedad Estatal de Participaciones Industriales (Sepi). En concreto, ha solicitado la concesión de un préstamo participativo hasta un máximo de 185 millones de euros, "que no prevé agotar", para capear el impacto de la crisis del Covid en sus cuentas. El objetivo de este préstamo "es garantizar el reequilibrio patrimonial de la sociedad tras las pérdidas del ejercicio 2020" derivadas de la pandemia y de la caída del consumo y "para reforzar su posición ante la fusión Iberia-Air Europa", señala la compañía.La solicitud de este préstamo se enmarca "en la condición de Volotea de empresa estratégica", tanto por el número de empleos directos e indirectos que genera en España, como por el sector en el que opera. La aerolínea, además, alega que "representa una alternativa de conectividad para millones de pasajeros europeos cada año", especialmente los insulares, que generan el 65% de la compañía entre marzo y octubre.Volotea cuenta con más de 1.350 empleados en toda Europa y tiene 40 aeronaves. Fue creada en 2011 por Carlos Muñoz y Lázaro Ros, fundadores de Vueling, y desde entonces ha transportado a más de 35 millones de pasajeros por toda Europa. "Tras una larga trayectoria marcada por el aumento de la actividad, la aerolínea afronta una situación que no es ajena al contexto del sector. Por ello, este crédito participativo permitiría reequilibrar el patrimonio y preparar a la compañía para su crecimiento sano en el largo plazo, así como estar en mejor disposición de afrontar las oportunidades que se nos presentan como consecuencia de la fusión Iberia-Air Europa", ha comentado Carlos Muñoz, fundador y consejero delegado.Air Europa fue la primera aerolínea en recibir un rescate de la Sepi: 475 millones de euros. Después también se concedió otra ayuda a Plus Ultra, de 53 millones de euros. El sector aéreo ha sido de los más golpeados por la pandemia y muchas aerolíneas (Air Francia, KLM, Lufthansa...) han recibido rescates millonarios de sus respectivos países para poder afrontar este bache. 
+
+
+El Confidencial-102 
+T�tulo: 
+Volotea solicita a la SEPI un pr�stamo de 185 M para "retornar al equilibrio patrimonial"
+Fecha: 
+2021-12-04T08:55:00+01:00
+Autor: Europa Press
+Contenido:   Volotea ha solicitado al Fondo de Apoyo a la Solvencia de Empresas Estratégicas, gestionado por la Sociedad Estatal de Participaciones Industriales (SEPI), la concesión de un préstamo participativo por hasta un máximo de 185 millones de euros para alcanzar el reequilibrio patrimonial tras la crisis del covid-19.    La compañía espera no agotar la cifra máxima de este préstamo, según ha informado en un comunicado. La solicitud se enmarca dentro su condición de empresa estratégica, dado el número de empleos directos e indirectos que genera, así como por el sector en el que opera. Además, alega ser una alternativa de conectividad para "millones de pasajeros europeos cada año".         Volotea, Air Nostrum y Dante pujan por los fondos covid con un avión eléctrico de 42M    EC    La compañía espera que el acceso a este préstamo participativo refuerce su posición de cara al acuerdo alcanzado con IAG por el que Volotea pasaría a operar determinadas rutas y 'slots' de Air Europa e Iberia para cumplir las exigencias de la Comisión Europea en el caso de que la adquisición de Air Europa por Iberia se produzca.   Además, argumenta que esta participación reforzaría su solvencia y competitividad e "impulsaría su solidez como potencial en los mercados en los que opera".   La aerolínea, fundada en 2012 por Carlos Muñoz, llevaba obteniendo resultados positivos desde 2015. Sin embargo, la pandemia impactó en el negocio de tal forma que la compañía perdió más de 120 millones de euros en 2020, lo que ha repercutido en sus fondos.         Iberia y Air Europa cederán rutas a Volotea para evitar que Bruselas bloquee su fusión    Europa Press    Muñoz, también consejero delegado de la empresa, destaca que "este crédito participativo permitiría reequilibrar el patrimonio y preparar a la compañía para su crecimiento sano en el largo plazo, así como estar en mejor disposición de afrontar las oportunidades que se presentan".   Otras aerolíneas españolas han solicitado ayudas al fondo de rescate, habiendo recibido ya las ayudas Air Europa (475 millones) y Plus Ultra (53 millones de euros), además de Ávoris corporación empresarial, propietario de Evelop!, Air Nostrum, que ha solicitado 103 millones y Wamos, que ha pedido 70 millones de euros.   
+
+

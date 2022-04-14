@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-558
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-442 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-558 es el mismo art�culo que la noticia EL MUNDO-442
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a142ccfdddff69a08b4577.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a142ccfdddff69a08b4577.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/28
+        - 2021/11/28
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia EL MUNDO-573 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-558 es el mismo art�culo que la noticia EL MUNDO-573
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/23/619bfb0921efa0c75c8b456d.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a142ccfdddff69a08b4577.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/23
+        - 2021/11/28
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-573'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-573'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-558': {'EL MUNDO-573'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-573
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-442 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-573 es el mismo art�culo que la noticia EL MUNDO-442
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a142ccfdddff69a08b4577.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/23/619bfb0921efa0c75c8b456d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/28
+        - 2021/11/23
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-558 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-573 es el mismo art�culo que la noticia EL MUNDO-558
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/27/61a142ccfdddff69a08b4577.html
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/11/23/619bfb0921efa0c75c8b456d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/28
+        - 2021/11/23
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-558'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-558': {'EL MUNDO-573'}, 'EL MUNDO-573': {'EL MUNDO-558'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-573', 'EL MUNDO-558'}
+{'EL MUNDO-558': {'EL MUNDO-573'}, 'EL MUNDO-573': {'EL MUNDO-558'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-573
+1: EL MUNDO-558
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.79943978]
+ [0.75087474 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-573 -> EL MUNDO-558: 0.7994397759103642. Cantidad de informaci�n extra�da de la noticia EL MUNDO-573 para a�adirla a la noticia EL MUNDO-558 :346
+         EL MUNDO-558 -> EL MUNDO-573: 0.7508747375787264. Cantidad de informaci�n extra�da de la noticia EL MUNDO-573 para a�adirla a la noticia EL MUNDO-558 :344
+
+         EL MUNDO-558 -> EL MUNDO-573: 0.7508747375787264. Cantidad de informaci�n extra�da de la noticia EL MUNDO-558 para a�adirla a la noticia EL MUNDO-573 :344
+         EL MUNDO-573 -> EL MUNDO-558: 0.7994397759103642. Cantidad de informaci�n extra�da de la noticia EL MUNDO-558 para a�adirla a la noticia EL MUNDO-573 :346
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-573 
+T�tulo: 
+La demanda exterior de azulejos resiste al alza de precios por el gas | Castell�n
+Fecha: 
+2021-11-23T07:29:01Z
+Autor: BERTA RIB�S
+Contenido: El sector cerámico español continúa avanzando en comercio exterior pese al aumento de tarifas que ha tenido que aplicar para intentar salvar los muebles ante el angustioso encarecimiento de la energía, con la factura del gas y la electricidad en máximos históricos.La demanda exterior de azulejos resiste pese al alza de precios generalizada de los productos cerámicos, al menos de las primeras subidas acometidas por las empresas el pasado mes de septiembre. La exportación de productos cerámicos, cuya producción se concentra en más del 90% en la provincia de Castellón, se situó en un total de 298,3 millones de euros tras escalar un 14,3% durante el pasado mes de septiembre en comparación con el mismo periodo del año anterior, según los datos publicados por la Dirección Territorial de Comercio de la Comunidad Valenciana. Con los últimos datos de septiembre, en el acumulado de los primeros nueve meses de 2021, la factura exterior del azulejo alcanza los 2.705,7 millones de euros y aumenta un 26,8% respecto al mismo periodo de 2020, recoge el informe del Ministerio de Industria, Comercio y Turismo. Por lo que respecta a los fabricantes de fritas, esmaltes y colores cerámicos, los datos también prosiguen con su tendencia al alza. Durante el pasado mes de septiembre, la exportación de fritas y esmaltes cerámicos de la provincia de Castellón alcanzó los 78,7 millones de euros, un 5,7% más que en el mismo periodo que hace un año.Por su parte, las exportaciones acumuladas en los nueve primeros meses de 2021 se sitúan en 703 millones de euros, un 24,9% más que hace un año, recoge el informe de la Dirección Territorial de Comercio en Valencia. Castellón, del mismo modo que ocurre con los principales sectores económicos y con el conjunto de la Comunidad Valenciana, cerró septiembre con avances significativos en comercio exterior. Durante el mes de septiembre, las exportaciones castellonenses crecieron un 24,2% respecto al mismo periodo del año anterior y se situaron en un total de 704,6 millones de euros. Por su parte, las ventas al exterior realizadas desde la Comunidad repuntaron un 25,6% hasta alcanzar los 2.794,8 millones de euros en septiembre, detalla el informe mensual de comercio exterior. En el acumulado de enero a septiembre de 2021, las exportaciones castellonenses alcanzaron los 6.384,9 millones de euros, un 20,9% más que en el mismo periodo del año anterior. En el caso de la Comunidad Valenciana, las ventas al exterior realizadas en los primeros nueve meses del año se han situado en 23.627,3 millones de euros, un 15% más. El crecimiento medio de las exportaciones españolas es del 22,1% hasta septiembre. Por otra parte, y en cuanto a los países que sustentan la exportación de azulejos, la clasificación continúa como en los meses anteriores. De este modo, Estados Unidos sigue a la cabeza en cuanto a demanda exterior de azulejos tanto en septiembre como en el acumulado del año, seguido de Francia y Reino Unido. La demanda de azulejos fabricados en España por parte de Estados Unidos ha crecido un 29,2% de enero a septiembre y alcanza un valor que supera los 325 millones. Por su parte, Francia se mantiene como segundo mercado exterior, con una factura que supera los 300 millones de euros y que crece un 22,2% en el acumulado hasta el cierre de septiembre. En el caso de Reino Unido el crecimiento de los envíos de cerámica es del 27,9% con unas ventas de más de 152 millones de euros en los primeros nueve meses. En el caso del sector de fritas y esmaltes, Italia es el primer mercado exterior con unas ventas que rozan los 90 millones de euros y repuntan un 47,4% en tasa interanual. Argelia, con 62 millones y un crecimiento del 5%, es el segundo mercado exterior.
+
+
+EL MUNDO-558 
+T�tulo: 
+La exportaci�n de muebles crece un 15% con el tir�n de Francia y EEUU | Castell�n
+Fecha: 
+2021-11-28T16:27:41Z
+Autor: BERTA RIBES
+Contenido: La Asociación Nacional de Industriales y Exportadores de Muebles de España (Anieme) ha presentado el informe de resultados del comercio exterior del sector del mueble de la provincia de Castellón relativo al periodo comprendido entre enero y septiembre 2021 con buenos resultados. Las ventas internacionales del sector del mueble siguen creciendo a muy buen ritmo. Durante los nueve primeros meses del año, la exportación castellonense de muebles muestra una clara recuperación y continúa con la tendencia de crecimiento con un aumento del 15% superando los 78,8 millones de euros. Y todo ello pese al elevado incremento del precio de las materias primas y del coste de los fletes que se traduce en cierto aumento del coste del producto. Además, la evolución de las exportaciones de muebles desde la provincia de Castellón en el acumulado hasta septiembre también es positiva si se compara con el periodo previo a la pandemia, ya que en 2019 las ventas al exterior en los nueve primeros meses del año se situaron en 70 millones, por lo que en 2021 son un 12,5% superiores a la era pre Covid. Dos países europeos, Francia e Italia, y Estados Unidos, concentran un 61,2% de la exportación castellonense de mobiliario, más de la mitad del total exportado, y se sitúan a la cabeza de los principales destinos del mueble de la provincia durante el periodo enero a septiembre 2021. Francia mantiene su liderazgo como primer destino del mueble castellonense con un creciente porcentaje sobre el total exportado del 26,3% y un aumento del 41,4% en los nueve primeros meses de 2021, según los datos facilitados por la patronal Anieme. Destacar el excesivo grado de concentración en el mercado francés, que, por otro lado, no deja de crecer. El siguiente país del ranking es Estados Unidos, con una cuota de mercado del 18,5% y un crecimiento interanual del 44,8%. Las ventas a este mercado se sitúan en 14,6 millones de euros frente a los 20,7 millones que se han exportado al primer destino: Francia. A estos dos primeros destinos se suma Italia, que se sitúa como tercer mercado de la exportación provincial de mobiliario con un creciente porcentaje del 16,4% sobre el total exportado y un crecimiento del 11,3% durante los meses de enero a septiembre de este año, con unas exportaciones por valor de 12,9 millones de euros. Señalar también el aumento del 7,7% de la exportación castellonense a Reino Unido, superando las barreras derivadas del Brexit. Especial mención merecen también las ventas a México, que crecen un 40,9% y a Marruecos, con un aumento del 42,4%, estos destinos están en el sexto y octavo puestos en la clasificación de mercados, respectivamente. Al igual que ocurre en la provincia de Castellón y a nivel nacional, destaca el crecimiento de 31,7% de la exportación de muebles de la Comunidad Valenciana a Francia, lo que significa que prácticamente un tercio (29,9%) del total de mueble de la Comunidad Valenciana exportado tiene como destino nuestro país vecino. Asimismo, Anieme destaca que Europa concentra más de la mitad de las exportaciones de muebles de la Comunidad Valenciana. Por detrás de Francia y Estados Unidos destacan países como Portugal, Italia, Reino Unido y Alemania, todos ellos con importantes crecimientos durante el periodo de enero a septiembre 2021. «En general, hay que destacar el positivo comportamiento de mercados tradicionales para el sector del mueble español, como son los países europeos, por lo que es importante seguir apostando por estos destinos, que aunque maduros, siguen teniendo recorrido y muestran oportunidades de crecimiento, como se observa en los datos», indican desde la patronal Anieme. Según declaraciones del presidente de Anieme, Juan Carlos Muñoz, «los datos de los nueve primeros meses del año 2021, con un crecimiento de la exportación española de muebles de un 33,5%, muestran una clara recuperación de las ventas al exterior con respecto al año anterior marcado por la pandemia de la Covid-19». No obstante, «se observa también una desaceleración en el ritmo de crecimiento conforme avanzan los meses del año. En todo caso, esta tendencia positiva y el comportamiento de los mercados exteriores en sus compras nos permite afirmar que el tirón de la demanda exterior de mobiliario seguirá fortaleciendo el sector del mueble español con un previsible crecimiento a dos dígitos para el cierre del ejercicio 2021», concluye el presidente de Anieme.
+
+

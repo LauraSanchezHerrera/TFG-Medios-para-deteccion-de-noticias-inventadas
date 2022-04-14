@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-790
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-793 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-790 es el mismo art�culo que la noticia EL MUNDO-793
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/10/20/6170457afc6c83361e8b45b9.html
+        - https://www.elmundo.es/andalucia/2021/10/24/61752728fdddffa55e8b4593.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 4 d�as de diferencia: 
+        - 2021/10/20
+        - 2021/10/24
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-793'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-793'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-790': {'EL MUNDO-793'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-793
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-790 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-793 es el mismo art�culo que la noticia EL MUNDO-790
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/10/24/61752728fdddffa55e8b4593.html
+        - https://www.elmundo.es/andalucia/2021/10/20/6170457afc6c83361e8b45b9.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 4 d�as de diferencia: 
+        - 2021/10/24
+        - 2021/10/20
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-790'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-790': {'EL MUNDO-793'}, 'EL MUNDO-793': {'EL MUNDO-790'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-790', 'EL MUNDO-793'}
+{'EL MUNDO-790': {'EL MUNDO-793'}, 'EL MUNDO-793': {'EL MUNDO-790'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-790
+1: EL MUNDO-793
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75446429]
+ [0.75951444 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-790 -> EL MUNDO-793: 0.7544642857142857. Cantidad de informaci�n extra�da de la noticia EL MUNDO-790 para a�adirla a la noticia EL MUNDO-793 :703
+         EL MUNDO-793 -> EL MUNDO-790: 0.759514435695538. Cantidad de informaci�n extra�da de la noticia EL MUNDO-790 para a�adirla a la noticia EL MUNDO-793 :721
+
+         EL MUNDO-793 -> EL MUNDO-790: 0.759514435695538. Cantidad de informaci�n extra�da de la noticia EL MUNDO-793 para a�adirla a la noticia EL MUNDO-790 :721
+         EL MUNDO-790 -> EL MUNDO-793: 0.7544642857142857. Cantidad de informaci�n extra�da de la noticia EL MUNDO-793 para a�adirla a la noticia EL MUNDO-790 :703
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-790 
+T�tulo: 
+As� son las nuevas consultas en primaria: los enfermeros pueden atender casos de ansiedad y dispensar la p�ldora del d�a despu�s | Andaluc�a
+Fecha: 
+2021-10-24T19:46:08Z
+Autor: SILVIA MORENO
+Contenido: Desde este mes de octubre, el Servicio Andaluz de Salud (SAS) está implantando en todos los centros de salud andaluces una nueva consulta 'de acogida' atendida por enfermeros para todos los pacientes que, a diario, acuden sin cita.Con el nuevo modelo de consultas, la Junta de Andalucía pretende organizar mejor la atención a los pacientes, después de que la pandemia del coronavirus haya congestionado aún más la sanidad pública. En las últimas semanas, ha sido frecuente ver enormes colas a las puertas de los centros de salud andaluces y los usuarios se han quejado por no lograr cita con su médico de cabecera de forma rápida. Los profesionales sanitarios también se han movilizado exigiendo más medios. Pese a las críticas, el consejero de Salud, Jesús Aguirre, ha defendido este modelo que, además, ha servido de base para las medidas que está diseñando el Ministerio de Sanidad con las comunidades autónomas para abordar la Estrategia de Atención Primaria en todo el país.Las nuevas consultas de acogida se implantaron de manera experimental en 11 de los 34 distritos sanitarios de Andalucía. Actualmente, ya están funcionando, según la Junta, en unos 400 centros, el 90% de la red de atención primaria.Los datos recopilados en los primeros distritos que adoptaron estas nuevas consultas revelan que el 55% de los casos se atendieron de forma satisfactoria por los enfermeros. Es decir, que los pacientes que acudieron a los centros de salud sin cita se marcharon con el problema resuelto, sin necesidad de que los viera un médico. Además, de todos los enfermos que acudieron, menos del 4% fueron derivados de manera inmediata a urgencias porque padecían alguna patología que requería ser atendida ese mismo día.Los enfermeros pueden resolver hasta 18 procesos asistenciales previamente acordados con las sociedades científicas y los colegios profesionales. Las patologías que pueden atender van desde cuadros de ansiedad, vómitos o diarrea hasta la dispensación de la píldora del día después, un método de emergencia para prevenir el embarazo, que se usa cuando una mujer tuvo relaciones sexuales sin protección o cuando falló el método anticonceptivo que utilizó.A continuación se detallan los 18 protocolos que regulan la forma de atender, por parte de los enfermeros, las distintas patologías o dolencias en las nuevas consultas de 'acogida'.Los enfermeros atienden a la paciente que así lo requiere cuando ha tenido relaciones sexuales sin protección y hay riesgo de embarazo; si hubo errores en la anticoncepción, como un uso incorrecto o falta del cumplimiento del tratamiento hormonal; retraso en la toma de anticonceptivos orales; retraso en la aplicación de anticonceptivos inyectables; rotura del condón durante el coito; o por la expulsión del DIU, precisa el protocolo sobre anticoncepción.Entre los criterios para excluir a las pacientes que acudan a estas nuevas consultas y pidan la píldora del día después están que sea menor de 16 años; que haya sufrido una agresión sexual; cuando hay patologías hepáticas, enfermedad inflamatoria intestinal (Crohn) y antecedentes embarazo ectópico. Otros criterios de exclusión es que la mujer esté ya embarazada o que hayan pasado más de cinco días de la relación sexual sin protección o de riesgo. Si el enfermero o la paciente así lo consideran también pueden ser excluidos de esta consulta.El protocolo recoge que, además de dispensar la píldora del día después a la paciente, el enfermero debe explicarle las opciones de anticoncepción de emergencia disponibles, describirle los efectos secundarios más comunes y que se trata de un método anticonceptivo de urgencia, que no debe sustituir a un método de uso regular.El protocolo que regula las nuevas consultas define la ansiedad como "un estado emotivo, de anticipación de un daño o desgracia futura, acompañado de sentimientos somáticos de tensión y disforia". Se trata de una respuesta habitual a situaciones estresantes."Los trastornos mentales tienen un importante peso social y económico debido a su frecuencia y persistencia. Dentro de los problemas mentales, la ansiedad se asocia con altos niveles de incapacidad y un impacto en el bienestar personal, relaciones sociales y laborales", describe el protocolo.Entre los criterios para que el enfermero atienda al paciente que va al centro de salud con ansiedad está que tenga sensación de ahogo o falta de aliento asociado a dos o más de los siguientes síntomas: "sudoración, escalofríos o sofocos, náuseas o molestias abdominales, sensación de atragantarse, sequedad de boca, temblor o sacudidas, parestesias y/o hormigueos, cefalea, inestabilidad o mareo, elevación de la frecuencia cardiaca, tensión muscular, problemas para conciliar el sueño, dificultad para la concentración y sensación de pérdida de memoria, miedo a perder el control y/o a morir".Tras una primera valoración del enfermero, el enfermo se derivará a la consulta médica cuando sea menor de 14 años, sea una embarazadas, haya un diagnóstico de Salud Mental previo (trastorno mental grave), tenga ideas suicidas, sean pacientes consumidores de drogas, fármacos o alcohol, o tengan vómitos.También pasará a la consulta médica en caso de dolor torácico, palpitaciones, lipotimia y síncope, los que padezcan procesos crónicos cardiacos, angina de pecho o procesos crónicos respiratorios, entre otros.Es otra dolencia que pueden atender los enfermeros en las nuevas consultas. Podrán dar respuesta a casos de erupción cutánea en forma de ronchas; "serpiginosos, que blanquean a la presión y localizados"; prurito leve de los habones, mucosa ocular o nasal; alergia solar leve; rinoconjuntivitis, entre otros.No deben atender a todos los pacientes que muestren reacciones alérgicas. Pueden rechazar a los menores de 14 años, a las embarazadas, cuando el enfermo tenga habones generalizados que ocupen gran cantidad de superficie corporal y cuando haya problemas de circulación, con palidez y frialdad de la piel (shock), entre otros.Los protocolos sobre las nuevas consultas atendidas por los enfermeros en atención primaria también recogen que se atiendan a los pacientes que sufran elevación aguda de la presión arterial, afta oral, dolor articular, diarrea, dolor cervical y dorsal, dolor lumbar, herpes labial, hipoglucemia leve, molestias urinarias, odontalgia, orzuelo, picaduras, quemaduras, trauma leve y vómitos.Quienes padezcan estos síntomas también pueden pedir cita con su médico de cabecera, como siempre, pero, según el distrito sanitario o el centro de salud al que pertenezca, logrará o no una cita inmediata o varios días después.El objetivo del SAS es que en 72 horas se pueda obtener una cita con el médico de cabecera. Actualmente, la demora varía en función del distrito sanitario y del centro de salud y puede ser de hasta dos semanas. Los distritos sanitarios más saturados y con más presión en atención primaria son los de Málaga-Guadalhorce, Costa del Sol, Sevilla y Metropolitano de Granada.
+
+
+EL MUNDO-793 
+T�tulo: 
+El 55% de las nuevas consultas de acogida del SAS en atenci�n primaria se resuelve sin m�dico | Andaluc�a
+Fecha: 
+2021-10-20T18:05:49Z
+Autor: SILVIA MORENO
+Contenido: El Servicio Andaluz de Salud (SAS) ha puesto en marcha un plan para descongestionar la atención primaria, en el que los profesionales de enfermería asumen un papel clave, ya que ellos son los encargados de atender las denominadas consultas de acogida, a las que se derivan todos los pacientes que acuden diariamente al centro de salud, pero que carecen de cita previa con su médico de cabecera.Este plan se presentó el 20 de febrero de 2020, antes de la pandemia, en la Escuela Andaluza de Salud Pública, y se implantó de manera experimental en 11 de los 34 distritos sanitarios de Andalucía. Desde este mes, las consultas de acogida se están implantando en todos los centros de atención primaria. Actualmente, están ya funcionando en unos 400 centros, el 90% de la red de atención primaria, según datos de la Junta. La fase experimental de estas nuevas consultas -que se desarrolló entre el 1 de enero y el 30 de septiembre pasado- revela que el 55% de los casos se resolvió sin la intervención de un médico, ya que los enfermeros pudieron atender satisfactoriamente a los pacientes que llegaron sin cita al centro de salud, según la Junta.De los enfermos atendidos en esta fase experimental, el 17% fue derivado a un médico de familia con cita programada, menos del 4% fue remitido de manera inmediata a urgencias y el 24% fue derivado a consultas de enfermería con cita programada o a otros servicios como fisioterapia.  En estas consultas de acogida, los enfermeros pueden resolver y atender 18 procesos asistenciales previamente acordados con las sociedades científicas y los colegios profesionales, que son: afta oral, ansiedad, anticoncepción, artralgias (dolor articular), diarrea, dolor cervical y dorsal, dolor lumbar, elevación aguda de la presión arterial, herpes labial, hipoglucemia leve, molestias urinarias, odontalgia, orzuelo, picaduras, quemaduras, reacciones alérgicas, trauma leve y vómitos. El profesional de enfermería aplica los protocolos y, si puede atender hasta el final estos procesos, el paciente se marcha a su domicilio con el problema resuelto y, en caso contrario, lo deriva al servicio correspondiente. En cuanto a los motivos por los que los pacientes acudieron a esta consulta fueron de forma mayoritaria para consultas generales: (67,2%), aparato locomotor (17,2%), aparato genitourinario (8,4%), riesgo cardiovascular (3,2%), aparato digestivo (2,8%) y salud mental (1,2%). En los últimos meses, ha habido quejas de sindicatos y pacientes por la tardanza en conseguir cita con el médico en el centro de salud. El objetivos del SAS es que en 72 horas se pueda obtener una cita. Actualmente, según la Junta, la demora varía en función del distrito sanitario y del centro de salud. Hay centros donde no hay demora y otros en los que puede haber hasta dos semanas. Los distritos sanitarios con mayor presión asistencial en atención primaria son los de Málaga-Guadalhorce, Costa del Sol, Sevilla y Metropolitano de Granada. Según la Junta, durante la etapa del anterior gobierno del PSOE, los médicos de cabecera podían llegar a atender cada día a cien o más pacientes en los centros de salud. Esa cifra se ha reducido considerablemente en la etapa del Gobierno del PP y Cs y actualmente, la media está entre 36 y 38 enfermos al día y no es deseable que atiendan a más de 44, informa el SAS. La atención primaria cuenta hoy con 495 médicos más y 2.784 enfermeros más que al comienzo de esta legislatura. De los 20.000 profesionales de refuerzo durante la pandemia del coronavirus, 4.475 estaban en atención primaria. Todos ellos continuarán en sus puestos, como parte de los 12.000 contratos que se van a renovar.Según el SAS, se va a aumentar un 20% el número de médicos (82) y enfermeros (464) en atención primaria. Por tanto, el 1 de noviembre los centros de salud tendrán más personal incluso que durante la pandemia. Otra mejora que se ha introducido en esta legislatura, según el SAS, es que, antes, el tiempo que un médico dedicaba a un paciente no superaba los cinco minutos y ahora el tiempo mínimo son 8 minutos. Además, antes, se premiaba a los médicos mediante pluses por no derivar pacientes a los especialistas, una práctica que se ha suprimido, según el SAS. CCOO, UGT y CSIF han convocado concentraciones este jueves, 21 de octubre, en todas las provincias andaluzas contra la decisión «unilateral y sin posibilidad de negociación» de la Consejería de Salud y Familias de «eliminar, de un día para otro, a 8.000 trabajadores de nuestros hospitales», a lo que se suma que el resto de eventuales que están contratados en estos momentos (12.000) «tan solo les ofrecen una renovación por seis meses».CCOO, UGT y CSIF mostraron su «disconformidad» con dichas medidas, anunciadas por el consejero de Salud, Jesús Aguirre, y que «para nada tiene que ver con la afirmación del presidente de la Junta, Juanma Moreno, en el Parlamento donde dijo que no irían a la calle». «El tiempo ha tardado poco en quitarle la razón y dar un duro golpe a la ya mermada plantilla del SAS», lamentaron. Así, señalaron que si nuestra sanidad pública «ya cojea» por el lado de la atención primaria, con este «rejonazo a la atención hospitalaria no parece que vengan buenos tiempos para nuestros hospitales y deja entrever la poca consideración que tienen nuestros gobernantes por mantener un sistema sanitario público fuerte y que pueda enfrentarse con solvencia a cualquier rebrote de la pandemia o a eliminar las terribles listas de espera». Indicaron que Salud «ha perdido una gran oportunidad para fortalecer la sanidad pública, tan debilitada en los últimos años, mejorando las plantillas y adaptándolas a las necesidades actuales y los atrasos producidos por la pandemia». En las concentraciones reivindicarán, además, la actualización de los listados de bolsa que «impiden una correcta aplicación de los baremos de contratación, ya que más de 70 no se actualizan desde 2019. «Luego escucharemos las declaraciones y lamentaciones de nuestro consejero de Salud sobre la falta de profesionales», han manifestado. De este modo, en Almería, la concentración tendrá lugar en el Hospital Torrecárdenas (en el Materno Infantil), mientras que en Cádiz será en el Hospital Punta Europa de Algeciras y en Córdoba, en el Hospital Reina Sofía. También habrá protestas en el Hospital de Baza, en Granada, entre otros.
+
+

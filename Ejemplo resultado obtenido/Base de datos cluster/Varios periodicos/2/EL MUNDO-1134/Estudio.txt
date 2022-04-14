@@ -1,0 +1,116 @@
+Estudio de la noticia EL MUNDO-1134
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia El Confidencial-225 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1134 es el mismo art�culo que la noticia El Confidencial-225
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/ciclismo/2021-09-18/superman-lopez-rompe-movistar-polemica_3291734/
+        - https://www.elmundo.es/deportes/ciclismo/2021/09/18/6145d13cfc6c83955c8b45fd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/09/18
+        - 2021/09/18
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-225'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-225'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1134': {'El Confidencial-225'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-225
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1141 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-225 es el mismo art�culo que la noticia EL MUNDO-1141
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2021/09/04/61339db321efa0c31c8b4664.html
+        - https://www.elconfidencial.com/deportes/ciclismo/2021-09-18/superman-lopez-rompe-movistar-polemica_3291734/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 14 d�as de diferencia: 
+        - 2021/09/04
+        - 2021/09/18
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1134 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-225 es el mismo art�culo que la noticia EL MUNDO-1134
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/ciclismo/2021/09/18/6145d13cfc6c83955c8b45fd.html
+        - https://www.elconfidencial.com/deportes/ciclismo/2021-09-18/superman-lopez-rompe-movistar-polemica_3291734/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/09/18
+        - 2021/09/18
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1134'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1134': {'El Confidencial-225'}, 'El Confidencial-225': {'EL MUNDO-1134'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-225', 'EL MUNDO-1134'}
+{'EL MUNDO-1134': {'El Confidencial-225'}, 'El Confidencial-225': {'EL MUNDO-1134'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-225
+1: EL MUNDO-1134
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75170843]
+ [0.72177419 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-225 -> EL MUNDO-1134: 0.7517084282460137. Cantidad de informaci�n extra�da de la noticia El Confidencial-225 para a�adirla a la noticia EL MUNDO-1134 :424
+         EL MUNDO-1134 -> El Confidencial-225: 0.7217741935483871. Cantidad de informaci�n extra�da de la noticia El Confidencial-225 para a�adirla a la noticia EL MUNDO-1134 :402
+
+         EL MUNDO-1134 -> El Confidencial-225: 0.7217741935483871. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1134 para a�adirla a la noticia El Confidencial-225 :402
+         El Confidencial-225 -> EL MUNDO-1134: 0.7517084282460137. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1134 para a�adirla a la noticia El Confidencial-225 :424
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-225 
+T�tulo: 
+'Superman' L�pez, fuera de Movistar tras su abandono en La Vuelta 
+Fecha: 
+2021-09-18T13:20:00+02:00
+Autor: A. R.
+Contenido:   Se acabó la historia. Miguel Ángel López, ‘Superman López’, ya no es corredor del equipo Movistar Team. Así lo ha confirmado el equipo navarro a través de un comunicado, donde asegura que ambas partes han roto de mutuo acuerdo el contrato. A partir del próximo 1 de octubre, el colombiano tendrá libertad contractual para firmar por su nuevo equipo. Astana, donde ya compitió entre el 2015 y el 2020, antes del salto a Movistar, se antoja como su destino más probable para la próxima temporada. Esta desvinculación supone el final de un culebrón que empezó en La Vuelta España, cuando López se negó a continuar cuando peleaba por el podio de la general en la penúltima etapa, disconforme con la estrategia del equipo. La imagen del ciclista parado en la cuneta, subiéndose al coche y abandonando, es uno de los momentos más recordados de toda la carrera.   pic.twitter.com/e0etLmw3H9— Movistar Team (@Movistar_Team) September 18, 2021   “Abarca Sports comunica la resolución de mutuo acuerdo del contrato con el corredor Miguel Ángel López a partir del próximo 1 de octubre. El equipo agradece a Miguel Ángel los esfuerzos realizados y resultados obtenidos durante esta temporada y le desea suerte para el futuro", reza el comunicado de Movistar Team. Triste final para un ciclista que dejó su huella personal en esta edición de La Vuelta como el primer hombre en coronar en el Gamoniteiru, final de etapa inédito. 48 horas después de aquello, López abandonaría la competición.   “Quiero pedir perdón a los compañeros. Quedábamos ya pocos, éramos cinco en La Vuelta y para currar todos los días teníamos a tres, y ellos se dejan la piel día a día, dan todo de sí, su 100%. Ha sido un poco complicado, pero al final ha pasado así. Desistí de seguir luchando por una batalla que estaba prácticamente perdida. Solo quiero decirle a la afición, a los patrocinadores, a toda la organización de La Vuelta, pedirles perdón por lo que pasa y por cómo ha ido esto en el día de hoy”, aseguraría más tarde el corredor colombiano.         Del insaciable Roglic al culebrón de Miguel Ángel López: 10 nombres para una Vuelta    Marcos Pereda    Eusebio Unzué, director general del Movistar Team, había dejado la puerta abierta a una posible salida del corredor tras la imagen ofrecida en la prueba. "Hubo una situación de carrera que no fue capaz de resolver. Le generó frustración y le llevó a tomar la peor decisión posible. Vamos a dejar distancia entre los hechos y en unos días tomaremos la decisión definitiva", aseguró Unzué para los micrófonos de Onda Cero. Ni siquiera el pasado de esos días fueron suficientes para limar las asperezas entre el talentoso ciclista y el equipo, que ponen un triste punto y final a su relación. A sus 27 años, Miguel Ángel López tendrá que elegir un nuevo paso en su carrera profesional.  
+
+
+EL MUNDO-1134 
+T�tulo: 
+Superm�n L�pez, un divorcio con Movistar tras un matrimonio de conveniencia | Ciclismo
+Fecha: 
+2021-09-18T13:08:55Z
+Autor: PABLO DE LA CALLE
+Contenido: Bastaron nueve meses de convivencia para certificar la incompatibilidad de caracteres. El divorcio, como fracaso inevitable. Una ruptura que extraña a pocos porque desde el inicio fue una relación viciada. Miguel Ángel 'Supermán' López y el Movistar separan sus caminos tras el desengaño en la penúltima y brutal etapa de la Vuelta a España, con salida en Mos y llegada en Castro de Herville. El escalador se sintió malquerido cuando atravesaba por una situación crítica. Tras caer en una emboscada que le apartó del podio se sintió engañado por la dirección del equipo, defraudado porque él consideraba que merecía más ayuda para superar un trance doloroso. El colombiano, compañero de Enric Mas, en un ataque de celos, decidió bajarse de la bicicleta y abandonarla un día antes de la conclusión de la carrera. Lo nunca visto. El director Patxi Vila y el veterano Imanol Erviti fueron incapaces de convencer al corredor de que su fuga era un grave error. Una mancha imborrable para la imagen de Movistar, una empresa con una potente política de expansión comercial en Colombia y en toda Sudamérica.Esa misma noche, el corredor hizo una nota pública pidiendo perdón. Teatro, para guardar las formas. La herida estaba abierta y ya no iba a cicatrizar. ''Quiero pedir perdón a los compañeros, éramos cinco en la Vuelta y para currar todos los días teníamos sólo a tres, y ellos se dejan la piel día a día, dan todo de sí su 100% y es un poco complicado. Al final ha pasado así. Desistí de seguir luchando por una batalla que estaba prácticamente perdida'', decía la disculpa pactada.El sábado, antes de que la pareja se tirarse los trastos a la cabeza, comunicaron que rompieron relaciones de ''mutuo acuerdo'' a partir del 1 de octubre. ''El equipo agradece a Miguel Ángel los esfuerzos realizados y los resultados obtenidos durante la temporada, y le desea mucha suerte para el futuro'', especificó en el comunicado del grupo dirigido por Eusebio Unzué.Lo ocurrido en el camino hacia Castro Herville fue el soplo de viento que desencadenó la tempestad. Nunca fueron fluidas las relaciones en el fugaz idilio entre 'Supermán' y Movistar. Ni siquiera el golpe de efecto provocado por la victoria en la cima del Gamoniteiru pudo esconder las tiranteces iniciadas poco después de consumar el matrimonio. La temporada ya arrancó torcida por el contagio de Covid-19 del corredor, lo que provocó un notable retraso en la entrada de la dinámica de trabajo del grupo. El colombiano fue recibido con cortesía, pero sin olvidar aquellos comentarios despectivos sobre Alejandro Valverde y la dirección del equipo por el caos ocasionado en una etapa de la Vuelta de 2019, donde el Movistar aceleró la marcha cuando Roglic y él mismo quedaron atrapados en una montonera generada por una caída. Se perdona pero no se olvida. Lo de López y Movistar fue un matrimonio de conveniencia. Al corredor le interesaba abrir nuevas sendas tras su periplo en el Astana y al equipo le convenía contar con un emblemático ciclista de Colombia. Cuestión deportiva, pero también comercial. Tras Nairo Quintana y Miguel Ángel López, Unzúe seguirá pescando en Colombia. Ya se apunta que el próximo podría ser Iván Sosa, que ahora milita en el Ineos. López, que tenía contrato con Movistar hasta 2023, podría regresar al Astana. Ay, los divorcios.
+
+

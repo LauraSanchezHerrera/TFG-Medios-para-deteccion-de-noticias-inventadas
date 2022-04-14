@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-172
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia 20 minutos-68 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-172 es el mismo artÌculo que la noticia 20 minutos-68
+     Se trata de noticias distintas: 
+        - https://www.20minutos.es/tecnologia/por-que-google-cancela-vuelta-obligatoria-empleados-oficina-4915224/
+        - https://www.elmundo.es/economia/empresas/2021/12/03/61a9d91221efa0ab038b45a1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'20 minutos-68'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'20 minutos-68'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-172': {'20 minutos-68'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia 20 minutos-68
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-172 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia 20 minutos-68 es el mismo artÌculo que la noticia EL MUNDO-172
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/economia/empresas/2021/12/03/61a9d91221efa0ab038b45a1.html
+        - https://www.20minutos.es/tecnologia/por-que-google-cancela-vuelta-obligatoria-empleados-oficina-4915224/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/04
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-172'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-172': {'20 minutos-68'}, '20 minutos-68': {'EL MUNDO-172'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'20 minutos-68', 'EL MUNDO-172'}
+{'EL MUNDO-172': {'20 minutos-68'}, '20 minutos-68': {'EL MUNDO-172'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: 20 minutos-68
+1: EL MUNDO-172
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.70420933]
+ [0.67737948 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         20 minutos-68 -> EL MUNDO-172: 0.7042093287827076. Cantidad de informaciÛn extraÌda de la noticia 20 minutos-68 para aÒadirla a la noticia EL MUNDO-172 :248
+         EL MUNDO-172 -> 20 minutos-68: 0.6773794808405439. Cantidad de informaciÛn extraÌda de la noticia 20 minutos-68 para aÒadirla a la noticia EL MUNDO-172 :249
+
+         EL MUNDO-172 -> 20 minutos-68: 0.6773794808405439. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-172 para aÒadirla a la noticia 20 minutos-68 :249
+         20 minutos-68 -> EL MUNDO-172: 0.7042093287827076. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-172 para aÒadirla a la noticia 20 minutos-68 :248
+
+
+***********      InformaciÛn de las noticias     ***********
+
+20 minutos-68 
+TÌtulo: 
+Por quÈ ha cancelado Google la vuelta obligatoria de los empleados a sus oficinas
+Fecha: 
+2021-12-04T08:28:29+01:00
+Autor: 20minutos
+Contenido: El gigante tecnol\u00f3gico Google ha decidido recientemente suspender el regreso de sus trabajadores y trabajadoras a las oficinas de la empresa el pr\u00f3ximo 10 de enero como estaba previsto. As\u00ed lo revela la cadena CNBC tras tener acceso a un correo electr\u00f3nico enviado a la plantilla de la compa\u00f1\u00eda tecnol\u00f3gica en Estados Unidos.&nbsp; El propio vicepresidente de seguridad de la compa\u00f1\u00eda, Chris Rackow, se\u00f1alaba en este correo que esperar\u00e1n hasta el pr\u00f3ximo a\u00f1o para realizar una evaluaci\u00f3n sobre cu\u00e1ndo pueden regresar presencialmente de forma segura. El motivo de esta repentina decisi\u00f3n se debe a la preocupaci\u00f3n que ha generado la nueva variante del coronavirus, \u00f3micron, que ya est\u00e1 presente en Estados Unidos. Puede resultar m\u00e1s transmisible e incrementar los contagios de forma exponencial al tener cerca de 50 mutaciones. En todo caso, el correo electr\u00f3nico se\u00f1alaba que Google permitir\u00e1 que algunas ubicaciones espec\u00edficas de la multinacional decidan cu\u00e1les son sus cronogramas para volver a la oficina evaluando los niveles de riesgo particulares.&nbsp; Asimismo, Chris Rackow destaca que, aunque no se solicitar\u00e1 el regreso presencial el pr\u00f3ximo 10 de enero, la compa\u00f1\u00eda s\u00ed anima a los empleados a regresar a las oficinas en las que se cumplan con todas las condiciones de seguridad para volver a recuperar el contacto con los compa\u00f1eros. En este sentido, Google ofrecer\u00e1 a todos los empleados de tiempo completo que lo necesiten un per\u00edodo de 30 d\u00edas para hacer la transici\u00f3n al horario h\u00edbrido.\
+
+
+EL MUNDO-172 
+TÌtulo: 
+Google suspende el regreso obligatorio de su personal a las oficinas, previsto para enero de 2022 | Empresas
+Fecha: 
+2021-12-03T08:47:03Z
+Autor: EUROPA PRESS
+Contenido: El gigante tecnol√≥gico estadounidense Google ya no exigir√° a sus empleados que regresen a las oficinas de la compa√±√≠a el pr√≥ximo 10 de enero, seg√∫n un correo electr√≥nico remitido a la plantilla en Estados Unidos, al que tuvo acceso la cadena CNBC, donde la multinacional se√±ala que esperar√° al pr√≥ximo a√±o para evaluar la situaci√≥n.De este modo, el vicepresidente de seguridad de Google, Chris Rackow, indica en el correo electr√≥nico que ninguno de los centros de trabajo de la compa√±√≠a en EE.UU. adoptar√° el mandato de trabajo h√≠brido a partir del 10 de enero de 2022 como estaba planeado inicialmente.En este sentido, la misiva se√±ala que Google permitir√° que ubicaciones espec√≠ficas decidan sus cronogramas para la vuelta a las oficinas de sus respectivas plantillas locales, al mismo tiempo que los "equipos de respuesta a incidentes locales" de Google tambi√©n ayudar√°n a determinar el "nivel de riesgo" de cada oficina.A pesar de este nuevo aplazamiento, Rackow anima a los empleados de Google a que, "donde las condiciones lo permitan", vuelvan a conectarse personalmente con los colegas de trabajo, a√±adiendo que la compa√±√≠a dar√° a todos los empleados que lo necesiten un per√≠odo de 30 d√≠as para hacer la transici√≥n al horario h√≠brido.Google ha abierto hasta ahora el 90% de sus oficinas en EE.UU., donde en las √∫ltimas semanas han regresado al trabajo casi el 40% de sus empleados en el pa√≠s.En un comunicado recogido por CNBC, un portavoz de la compa√±√≠a indic√≥ que Google continuar√° determinando cu√°ndo reabrir las oficinas y dar√° comienzo a la semana laboral h√≠brida "en funci√≥n de las condiciones locales, que son din√°micas y var√≠an mucho entre ubicaciones".
+
+

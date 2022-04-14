@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-285
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-311 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-285 es el mismo art�culo que la noticia EL MUNDO-311
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/01/61a7c0dd21efa0e96a8b45b5.html
+        - https://www.elmundo.es/madrid/2021/12/03/61a915a7fdddffc9668b4590.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-311'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-311'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-285': {'EL MUNDO-311'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-311
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-285 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-311 es el mismo art�culo que la noticia EL MUNDO-285
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/03/61a915a7fdddffc9668b4590.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a7c0dd21efa0e96a8b45b5.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-285'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-285': {'EL MUNDO-311'}, 'EL MUNDO-311': {'EL MUNDO-285'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-285', 'EL MUNDO-311'}
+{'EL MUNDO-285': {'EL MUNDO-311'}, 'EL MUNDO-311': {'EL MUNDO-285'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-285
+1: EL MUNDO-311
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.70749543]
+ [0.73197625 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-285 -> EL MUNDO-311: 0.7074954296160878. Cantidad de informaci�n extra�da de la noticia EL MUNDO-285 para a�adirla a la noticia EL MUNDO-311 :308
+         EL MUNDO-311 -> EL MUNDO-285: 0.7319762510602206. Cantidad de informaci�n extra�da de la noticia EL MUNDO-285 para a�adirla a la noticia EL MUNDO-311 :304
+
+         EL MUNDO-311 -> EL MUNDO-285: 0.7319762510602206. Cantidad de informaci�n extra�da de la noticia EL MUNDO-311 para a�adirla a la noticia EL MUNDO-285 :304
+         EL MUNDO-285 -> EL MUNDO-311: 0.7074954296160878. Cantidad de informaci�n extra�da de la noticia EL MUNDO-311 para a�adirla a la noticia EL MUNDO-285 :308
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-285 
+T�tulo: 
+El PSOE-M da 24 horas a sus ediles de M�stoles investigados: "Aplicaremos nuestro c�digo �tico" | Madrid
+Fecha: 
+2021-12-03T00:56:03Z
+Autor: DANIEL SOMOLINOS
+Contenido: "Las acusaciones son totalmente falsas... Esto es una denuncia política, algo que hay que dejar muy claro". Conciso, y midiendo muy bien sus palabras, contestó en la mañana de ayer Alex Martín, portavoz de la Junta de Gobierno Local del Ayuntamiento de Móstoles, en relación al llamado caso ITV, ése por el cual todo el gobierno municipal de esta localidad (seis miembros del PSOE y una de Podemos) ha sido citado a declarar en calidad de investigados por un presunto delito de malversación y prevaricación al condonar una deuda de 2,45 millones de euros a ITV Móstoles S.L.Martín, que no admitió preguntas de los periodistas, agregó que confía en la labor de la justicia y pidió que "dejemos trabajar a los jueces", no sin antes desviar el foco de atención hacia Más Madrid, partido que se querelló contra ellos: "Hoy en día, sus tránsfugas sostienen al gobierno de las derechas del PP y Vox en Madrid. Lo cual que es una lástima".Esta polémica, que va escalando tanto a nivel mediático como político, hizo que ayer la secretaria de Organización del PSOE-M, Marta Bernardo, anunciara que han dado "un plazo de 24 horas" a los ediles socialistas de Móstoles para que "comuniquen su situación procesal" y, después, llevar a cabo sus "valoraciones" y "aplicar el código ético milimétricamente y de forma contundente".Mientras el PSOE madrileño pasa revista a sus miembros citados por la justicia, el PP de Móstoles no quiso perder su oportunidad y exigió ayer la dimisión en bloque de estos políticos investigados. Más tarde también se sumaría el Partido Popular de Madrid, quien denunció el "absoluto silencio" que guarda el nuevo secretario general del PSOE-M, Juan Lobato, al respecto.Después de que la alcaldesa de la localidad, Noelia Posse, declarara en calidad de investigada el pasado 18 de noviembre, no será hasta el próximo 16 de febrero cuando acuda a testificar la primera tanda del resto de investigados (el propio Martín, David Muñoz, Rebeca Prieto y María Luisa Ruiz), mientras que los tres restantes (María Dolores Triviño, Beatriz Benavides y Natividad Gómez) lo harán el 29 del mismo mes.
+
+
+EL MUNDO-311 
+T�tulo: 
+Crisis en M�stoles: todo su gobierno investigado por malversaci�n y prevaricaci�n | Madrid
+Fecha: 
+2021-12-01T19:11:11Z
+Autor: DANIEL SOMOLINOS
+Contenido: El llamado caso ITV sigue dando de qué hablar. Sólo 13 días después de que la alcaldesa de Móstoles, Noelia Posse (PSOE), acudiese a declarar en calidad de investigada por un presunto delito de malversación y prevaricación al haber condonado supuestamente una deuda de 2,45 millones de euros a la empresa ITV Móstoles S.L., esta miércoles la juez titular del Juzgado de Instrucción número 1 de la localidad ha citado como investigados a todos los miembros de la Junta de Gobierno Local.La querella fue interpuesta el pasado mes de febrero por los dos ediles de Más Madrid, Susana García y Gabriel Ortega, al entender que el Ayuntamiento "perdonó el cobro de las tasas" que suponen la utilización de suelo público para que la citada empresa desarrollara su actividad en la localidad, y fue admitida a trámite en abril pasado.Además de a Posse, la instructora acuerda citar a los investigados los próximos días 16 y el 28 de febrero. Primero lo hará el teniente de alcalde, David Muñoz; la concejala de Empleo, Rebeca Prieto; el concejal de Cultura, Alejandro Martín; y la edil de Urbanismo, María Luisa Ruíz.El próximo 28 de febrero desfilarán ante el juez la concejala de Igualdad, María Dolores Triviño; la ex edil de Urbanismo Beatriz Benavides; y la concejala deEducación, Natividad Gómez. Todos, a excepción de Benavides, continúan formando parte del Gobierno local.En declaraciones a este diario, el Ayuntamiento de Móstoles asegura que esto es "una querella política" y que "todo lo que se hizo fue para salvaguardar los empleos de la empresa y para que el ayuntamiento pudiese cobrar, al menos, una parte de la deuda".En la querella interpuesta, los ediles de Más Madrid aseguraban que la decisión atendía "al interés de la empresa privada" y no al de la administración pública. "La necesidad de la Administración era el cobro de la deuda contraída por la sociedad y no la condonación de más de la mitad de la deuda, el aplazamiento sin garantías e intereses de la deuda no condonada y la reducción del canon para los próximos veinte años", añadían en su escrito.
+
+

@@ -1,0 +1,1884 @@
+Estudio de la noticia El Confidencial-95
+
+Pertenece a la carpeta de dependencias: 15
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 112 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/06/20
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/06/20
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 532 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de la misma noticia: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2020/06/20
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-95 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 112 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/20
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-126', 'El Confidencial-96'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+ - Comparo las noticias El Confidencial-126 y El Confidencial-96:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+ - Comparo las noticias El Confidencial-96 y El Confidencial-126:
+     Son la misma noticia, por lo tanto solo tendrÈ en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'El Confidencial-126'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-126
+
+Pertenece a la carpeta de dependencias: 13
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 119 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 539 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/06/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de la misma noticia: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2020/06/13
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/06/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/06/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-126 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 119 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-95', 'El Confidencial-97'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-97'}
+
+Lista de noticias similares actual:
+{'El Confidencial-97', 'El Confidencial-126', 'El Confidencial-95'}
+
+Estudio de la noticia El Confidencial-97
+
+Pertenece a la carpeta de dependencias: 15
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 126 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/06/06
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-94 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-94
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 546 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/06/06
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/06/06
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 126 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-124 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-97 es el mismo artÌculo que la noticia El Confidencial-124
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/06/06
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'El Confidencial-98'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-98'}
+
+Lista de noticias similares actual:
+{'El Confidencial-97', 'El Confidencial-98', 'El Confidencial-126', 'El Confidencial-95'}
+
+Estudio de la noticia El Confidencial-98
+
+Pertenece a la carpeta de dependencias: 13
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/05/30
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 133 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-94 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-94
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 553 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/05/30
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 133 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-124 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-98 es el mismo artÌculo que la noticia El Confidencial-124
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/30
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-99', 'El Confidencial-97'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}, 'El Confidencial-98': {'El Confidencial-99', 'El Confidencial-97'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-99'}
+
+Lista de noticias similares actual:
+{'El Confidencial-126', 'El Confidencial-97', 'El Confidencial-95', 'El Confidencial-99', 'El Confidencial-98'}
+
+Estudio de la noticia El Confidencial-99
+
+Pertenece a la carpeta de dependencias: 17
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/05/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 140 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-94 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-94
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 560 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/05/23
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 140 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-124 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-99 es el mismo artÌculo que la noticia El Confidencial-124
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/23
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-100', 'El Confidencial-98'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}, 'El Confidencial-98': {'El Confidencial-99', 'El Confidencial-97'}, 'El Confidencial-99': {'El Confidencial-98', 'El Confidencial-100'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-100'}
+
+Lista de noticias similares actual:
+{'El Confidencial-126', 'El Confidencial-95', 'El Confidencial-97', 'El Confidencial-98', 'El Confidencial-100', 'El Confidencial-99'}
+
+Estudio de la noticia El Confidencial-100
+
+Pertenece a la carpeta de dependencias: 17
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/05/16
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 147 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-94 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-94
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-101 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-101
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/09
+        - 2020/05/16
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 567 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 56 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 56 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 147 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-124 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-100 es el mismo artÌculo que la noticia El Confidencial-124
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/16
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'El Confidencial-99', 'El Confidencial-101'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}, 'El Confidencial-98': {'El Confidencial-99', 'El Confidencial-97'}, 'El Confidencial-99': {'El Confidencial-98', 'El Confidencial-100'}, 'El Confidencial-100': {'El Confidencial-99', 'El Confidencial-101'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'El Confidencial-101'}
+
+Lista de noticias similares actual:
+{'El Confidencial-97', 'El Confidencial-100', 'El Confidencial-126', 'El Confidencial-101', 'El Confidencial-95', 'El Confidencial-99', 'El Confidencial-98'}
+
+Estudio de la noticia El Confidencial-101
+
+Pertenece a la carpeta de dependencias: 15
+
+La noticia es similar a la noticia El Confidencial-93 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-93
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 56 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-123 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-123
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-04/activos-crecimiento-crisis-covid-inversiones-bra_2666999/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 56 dÌas de diferencia: 
+        - 2020/07/04
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-100 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-100
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-16/inversiones-europa-estados-unidos-covid-bra_2595351/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 7 dÌas de diferencia: 
+        - 2020/05/16
+        - 2020/05/09
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-99 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-99
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-23/inversiones-fondo-europeo-china-eeuu-bra_2606348/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 14 dÌas de diferencia: 
+        - 2020/05/23
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-91 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-91
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 154 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-126 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-126
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-94 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-94
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-60 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-60
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2021-12-04/omicron-coronavirus-covid-mercados-bra_3335746/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 574 dÌas de diferencia: 
+        - 2021/12/04
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-95 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-95
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-96 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-96
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-13/mercados-alza-coronavirus-inversiones-bra_2636328/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2020/06/13
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-97 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-97
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-06/mercados-inversiones-opep-fed-bra_2626284/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 28 dÌas de diferencia: 
+        - 2020/06/06
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-98 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-98
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-05-30/mercados-bolsas-eeuu-china-covid-bra_2616559/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 21 dÌas de diferencia: 
+        - 2020/05/30
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-92 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-92
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 63 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-122 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-122
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-07-11/mercados-renta-variable-fija-covid-bra_2676367/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 63 dÌas de diferencia: 
+        - 2020/07/11
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-125 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-125
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-20/bancos-centrales-crisis-bonos-deuda-bra_2646903/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 42 dÌas de diferencia: 
+        - 2020/06/20
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia El Confidencial-119 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-119
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-10-10/inversiones-bolsa-coronavirus-sectores-bra_2782871/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 154 dÌas de diferencia: 
+        - 2020/10/10
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia El Confidencial-124 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-101 es el mismo artÌculo que la noticia El Confidencial-124
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/mercados/2020-06-27/inversiones-productos-generadores-rentas-bra_2657171/
+        - https://www.elconfidencial.com/mercados/2020-05-09/mercados-bolsas-estados-unidos-china-bra_2585999/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 49 dÌas de diferencia: 
+        - 2020/06/27
+        - 2020/05/09
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'El Confidencial-100'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}, 'El Confidencial-98': {'El Confidencial-99', 'El Confidencial-97'}, 'El Confidencial-99': {'El Confidencial-98', 'El Confidencial-100'}, 'El Confidencial-100': {'El Confidencial-99', 'El Confidencial-101'}, 'El Confidencial-101': {'El Confidencial-100'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 6 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-100', 'El Confidencial-99', 'El Confidencial-126', 'El Confidencial-101', 'El Confidencial-95', 'El Confidencial-97', 'El Confidencial-98'}
+{'El Confidencial-95': {'El Confidencial-126'}, 'El Confidencial-126': {'El Confidencial-97', 'El Confidencial-95'}, 'El Confidencial-97': {'El Confidencial-98'}, 'El Confidencial-98': {'El Confidencial-99', 'El Confidencial-97'}, 'El Confidencial-99': {'El Confidencial-98', 'El Confidencial-100'}, 'El Confidencial-100': {'El Confidencial-99', 'El Confidencial-101'}, 'El Confidencial-101': {'El Confidencial-100'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: El Confidencial-100
+1: El Confidencial-99
+2: El Confidencial-126
+3: El Confidencial-101
+4: El Confidencial-95
+5: El Confidencial-97
+6: El Confidencial-98
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.57620818 0.78395062 0.56556777 0.75912921 0.63065496
+  0.67185473]
+ [0.5785124  0.         0.79506173 0.5956044  0.75983146 0.56178258
+  0.58171206]
+ [0.74004508 0.75167785 0.         0.75384615 0.72752809 0.7359892
+  0.77302205]
+ [0.55371901 0.58836689 0.7914604  0.         0.75210674 0.64145847
+  0.67444877]
+ [0.74305034 0.75689784 0.75990099 0.74504041 0.         0.75151924
+  0.7613489 ]
+ [0.58827949 0.52050708 0.75866337 0.62013226 0.74788732 0.
+  0.57782101]
+ [0.62058603 0.51677852 0.78589109 0.62747979 0.7471831  0.5605958
+  0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         El Confidencial-100 -> El Confidencial-99: 0.5762081784386617. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-100 para aÒadirla a la noticia El Confidencial-99 :558
+         El Confidencial-99 -> El Confidencial-100: 0.5785123966942148. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-100 para aÒadirla a la noticia El Confidencial-99 :549
+
+         El Confidencial-100 -> El Confidencial-101: 0.5655677655677656. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-100 para aÒadirla a la noticia El Confidencial-101 :581
+         El Confidencial-101 -> El Confidencial-100: 0.5537190082644629. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-100 para aÒadirla a la noticia El Confidencial-101 :582
+
+         El Confidencial-99 -> El Confidencial-98: 0.5817120622568094. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-99 para aÒadirla a la noticia El Confidencial-98 :633
+         El Confidencial-98 -> El Confidencial-99: 0.5167785234899329. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-99 para aÒadirla a la noticia El Confidencial-98 :636
+
+         El Confidencial-99 -> El Confidencial-100: 0.5785123966942148. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-99 para aÒadirla a la noticia El Confidencial-100 :549
+         El Confidencial-100 -> El Confidencial-99: 0.5762081784386617. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-99 para aÒadirla a la noticia El Confidencial-100 :558
+
+         El Confidencial-126 -> El Confidencial-97: 0.7359891964888589. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-126 para aÒadirla a la noticia El Confidencial-97 :379
+         El Confidencial-97 -> El Confidencial-126: 0.7586633663366337. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-126 para aÒadirla a la noticia El Confidencial-97 :378
+
+         El Confidencial-126 -> El Confidencial-95: 0.7275280898876404. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-126 para aÒadirla a la noticia El Confidencial-95 :376
+         El Confidencial-95 -> El Confidencial-126: 0.7599009900990099. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-126 para aÒadirla a la noticia El Confidencial-95 :376
+
+         El Confidencial-101 -> El Confidencial-100: 0.5537190082644629. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-101 para aÒadirla a la noticia El Confidencial-100 :582
+         El Confidencial-100 -> El Confidencial-101: 0.5655677655677656. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-101 para aÒadirla a la noticia El Confidencial-100 :581
+
+         El Confidencial-95 -> El Confidencial-126: 0.7599009900990099. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-95 para aÒadirla a la noticia El Confidencial-126 :376
+         El Confidencial-126 -> El Confidencial-95: 0.7275280898876404. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-95 para aÒadirla a la noticia El Confidencial-126 :376
+
+         El Confidencial-97 -> El Confidencial-98: 0.5778210116731517. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-97 para aÒadirla a la noticia El Confidencial-98 :639
+         El Confidencial-98 -> El Confidencial-97: 0.5605958023019635. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-97 para aÒadirla a la noticia El Confidencial-98 :637
+
+         El Confidencial-98 -> El Confidencial-99: 0.5167785234899329. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-98 para aÒadirla a la noticia El Confidencial-99 :636
+         El Confidencial-99 -> El Confidencial-98: 0.5817120622568094. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-98 para aÒadirla a la noticia El Confidencial-99 :633
+
+         El Confidencial-98 -> El Confidencial-97: 0.5605958023019635. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-98 para aÒadirla a la noticia El Confidencial-97 :637
+         El Confidencial-97 -> El Confidencial-98: 0.5778210116731517. Cantidad de informaciÛn extraÌda de la noticia El Confidencial-98 para aÒadirla a la noticia El Confidencial-97 :639
+
+
+***********      InformaciÛn de las noticias     ***********
+
+El Confidencial-100 
+TÌtulo: 
+øContinuar· la incertidumbre elevada de los mercados?
+Fecha: 
+2020-05-16T05:00:00+02:00
+Autor: EC Brands
+Contenido:   En estos d√≠as los mercados se est√°n moviendo entre las noticias favorables de progresivas desescaladas de los confinamientos en pa√≠ses relevantes y noticias que han penalizado el sentimiento inversor sobre rebrotes en algunas zonas geogr√°ficas.    Para Ana Rivero, responsable de Estrategia de Mercado y ASG de Santander AM en Europa, "las noticias de reactivaci√≥n econ√≥mica est√°n ayudando a sostener el precio del crudo con el Brent movi√©ndose m√°s cerca de la zona de los 30$/barril. Tambi√©n ha sido importante el anuncio de Arabia Saud√≠ de reducir voluntariamente un mill√≥n de barriles m√°s al d√≠a a partir del mes de junio".         Todos pendientes de EEUU y China: as√≠ est√°n marcando los mercados     EC Brands    En cuanto a los impactos en crecimiento de esta pandemia, "hay que destacar las declaraciones del presidente de la Reserva Federal se√±alando que habr√° una grave ca√≠da del crecimiento y que persisten los riesgos a la baja, pero indicando asimismo que no contemplan tipos de inter√©s oficiales negativos, una posibilidad de la que algunos inversores han comenzado a analizar a ra√≠z de que los futuros americanos sobre el tipo oficial hayan cotizado puntualmente por debajo de cero".  Las primas de riesgo bajan  En el mercado de bonos europeo, por su parte, "contin√∫a el elevado n√∫mero de emisiones, pero ello no ha impedido que en estos d√≠as se hayan reducido las primas de riesgo de los pa√≠ses perif√©ricos".   En cuanto a las bolsas, "este sentimiento inversor mixto sobre la evoluci√≥n de la pandemia provoca que en el conjunto de lo que llevamos de mayo est√© primando la toma de beneficios en todos los mercados a excepci√≥n del Nasdaq americano, que sigue destacando al alza y lidera claramente la recuperaci√≥n de las bolsas desde los m√≠nimos del pasado mes de marzo".  "Est√° primando la toma de beneficios en todos los mercados a excepci√≥n del Nasdaq americano"  La incertidumbre actual, as√≠ pues, "contin√∫a siendo muy elevada. En este contexto, la estrategia de diversificaci√≥n entre activos financieros contribuye a minorar la volatilidad que generan los activos m√°s penalizados a la vez que permite acceder a la rentabilidad de los activos que est√°n registrando buen comportamiento en medio de estos movimientos de mercado".   Adem√°s, "es clave mantener el horizonte temporal de las inversiones ya que momentos de estr√©s m√°ximo como los actuales tienden a revertir hacia niveles de los activos financieros m√°s acordes a sus fundamentales de medio plazo".      ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-99 
+TÌtulo: 
+Los mercados, con un ojo en el Fondo Europeo y otro en China y Estados Unidos
+Fecha: 
+2020-05-23T05:00:00+02:00
+Autor: EC Brands
+Contenido:   Los mercados contin√∫an recogiendo positivamente las noticias de avances en vacunas y tratamientos contra el covid-19. As√≠ lo asevera Ana Rivero, responsable de Estrategia de Mercado y ASG de Santander AM en Europa. En el caso de Europa, adem√°s, est√° "el impulso que ha venido por el anuncio conjunto de Merkel y Macron de una propuesta de Fondo Europeo de Reconstrucci√≥n en el que las ayudas ser√≠an v√≠a transferencias financiadas con deuda emitida por la Comisi√≥n Europea, lo que supone un paso muy importante en la integraci√≥n europea. La apreciaci√≥n del euro frente al d√≥lar muestra la lectura positiva que ha hecho el mercado".          ¬øContinuar√° la incertidumbre elevada de los mercados?    EC Brands    La noticia tambi√©n ha sido "muy positiva para los bonos de los pa√≠ses perif√©ricos y se plasma en una fuerte reducci√≥n de las primas de riesgo, de m√°s de 30 puntos b√°sicos en el caso de la italiana mientras que la espa√±ola se sit√∫a en torno a los 110 puntos b√°sicos", afirma.   Los mercados "tambi√©n recogen los datos de PMIs de mayo en la Zona Euro, que se han recuperado desde los m√≠nimos de abril, as√≠ como los continuos avances en el precio del crudo una vez que los inventarios semanales han ca√≠do de forma importante por primera vez desde enero".  El Nasdaq, en claro crecimiento  Las Bolsas intercalan alguna sesi√≥n de tomas de beneficios, pero "el conjunto de estas noticias les viene impulsando al alza. En este entorno sigue destacando el liderazgo de la Bolsa americana y en particular del Nasdaq, que contin√∫a acumulando rentabilidad positiva en el a√±o".   La semana que viene tiene como fecha clave el mi√©rcoles, ya que "est√° previsto que la CE presente la propuesta oficial de Fondo Europeo de Reconstrucci√≥n. Los mercados tambi√©n estar√°n pendientes de las recientes tensiones entre Estados Unidos y China".  La semana que viene tiene como fecha clave el mi√©rcoles, ya que la CE presentar√° el Fondo Europeo de Reconstrucci√≥n  La incertidumbre actual, en este sentido, "contin√∫a siendo elevada. En este contexto, la estrategia de diversificaci√≥n entre activos financieros contribuye a minorar la volatilidad que generan los activos m√°s penalizados a la vez que permite acceder a la rentabilidad de los activos que est√°n registrando buen comportamiento en el contexto actual".   Asimismo, "es clave mantener el horizonte temporal de las inversiones y as√≠ se pone de manifiesto en los niveles actuales de los mercados y en su recuperaci√≥n desde los niveles de estr√©s m√°ximo que registraban en el mes de marzo".      ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-126 
+TÌtulo: 
+øPor quÈ los mercados se han recuperado las ˙ltimas semanas? Estas son las claves
+Fecha: 
+2020-06-13T05:00:00+02:00
+Autor: EC Brands
+Contenido:   En el a√±o 2020 la econom√≠a global sufrir√° la mayor recesi√≥n desde la Segunda Guerra Mundial. Como recuerda Jos√© Antonio Montero de Espinosa, gestor del fondo Santander Acciones Espa√±olas, "las √∫ltimas estimaciones del Banco Mundial apuntan a una ca√≠da del PIB global de m√°s del 5%. En concreto, para las econom√≠as desarrolladas la correcci√≥n podr√≠a ser superior al 7% y de casi el 3% para las econom√≠as emergentes". Para Espa√±a, "las previsiones de desaceleraci√≥n son m√°s acusadas, pudiendo alcanzar hasta el -10%. Todas estas proyecciones no contemplan la posibilidad de que tengamos un segundo rebrote de la pandemia a finales de 2020, lo que l√≥gicamente agravar√≠a a√∫n m√°s estas cifras de recesi√≥n".    Ante este escenario tan sumamente desfavorable para las empresas cotizadas, cabe preguntarse "por qu√© las bolsas mundiales han recuperado tanto en las √∫ltimas semanas. Desde los m√≠nimos de marzo, la renta variable ha recuperado dos terceras partes de la correcci√≥n. En casos como el del Nasdaq, √≠ndice de empresas tecnol√≥gicas de Estados Unidos, el nivel actual est√° incluso por encima de los niveles previos a la crisis".         La OPEP y la FED mantienen la tensi√≥n en los mercados    EC Brands   Las claves de la recuperaci√≥n  Hay dos razones que pueden explicar esta recuperaci√≥n tan repentina: la contundente respuesta en pol√≠tica fiscal y monetaria y la mejora en la evoluci√≥n de la pandemia del covid-19. En primer lugar, "la respuesta de gobiernos y bancos centrales no tiene precedentes ni en cuanto a su tama√±o, ni en cuanto a la prontitud de su puesta en marcha", asegura. Por un lado, "los gobiernos han anunciado una serie de medidas (garant√≠as, pr√©stamos, moratorias o prestaciones directas) dirigidas a mitigar el impacto del par√≥n en la actividad de empresas y particulares durante el confinamiento. De facto esto implica un trasvase de recursos del sector p√∫blico al sector privado, que tendr√° sus consecuencias en el d√©ficit y en el nivel de endeudamiento de los pa√≠ses".   Por su parte, "los bancos centrales tambi√©n han actuado de forma contundente, incrementando significativamente sus balances para comprar instrumentos de deuda p√∫blica y privada y conseguir as√≠ expandir la liquidez y mantener unas condiciones financieras propicias para la reactivaci√≥n".  "Lo peor de la crisis ha quedado atr√°s. En las √∫ltimas semanas se observa una gradual recuperaci√≥n de la actividad econ√≥mica"  En segundo lugar, sin duda, ha contribuido a la subida de los mercados "la evidencia de que lo peor de la crisis sanitaria ha quedado atr√°s. Las medidas de desconfinamiento no han conllevado por el momento aumentos en las cifras de afectados en los pa√≠ses desarrollados. Lo que s√≠ que se observa en las √∫ltimas semanas es una gradual recuperaci√≥n de la actividad econ√≥mica".   Los mercados, en su opini√≥n, "parecen estar descontando una salida r√°pida de la crisis que, sin embargo, ser√° necesario seguir monitorizando en los pr√≥ximos meses a medida que se vayan publicando datos reales de las econom√≠as".     ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-101 
+TÌtulo: 
+Todos pendientes de EEUU y China: asÌ est·n marcando los mercados 
+Fecha: 
+2020-05-09T05:00:00+02:00
+Autor: EC Brands
+Contenido:   En estos d√≠as han aparecido algunos nuevos focos de incertidumbre que han provocado episodios de volatilidad en los mercados, aunque, como asegura Ana Rivero, responsable de Estrategia de Mercado y ASG de Santander AM en Europa, "hablamos de niveles muy por debajo de los que se vivieron en el mes de marzo".    Estos focos de incertidumbre "han venido tras la decisi√≥n del Tribunal Constitucional alem√°n de considerar anticonstitucionales algunos aspectos de las compras mensuales del BCE y tambi√©n de algunas declaraciones desde Estados Unidos que han reavivado las tensiones comerciales con China".         Buena noticia en pleno covid-19: el mercado reacciona bien a los resultados empresariales    EC Brands    Respecto a la crisis provocada por el covid-19, "los datos de PIB del primer trimestre en la Zona Euro corroboran el impacto tan fuerte que han provocado la necesaria paralizaci√≥n de la actividad". Anunciados ya muchos planes de reactivaci√≥n de las econom√≠as, "la Comisi√≥n Europea ha publicado la revisi√≥n de sus previsiones y cifra en el -7,70% la recesi√≥n para la Zona Euro este a√±o y un crecimiento del +6,3% en 2021", asegura.  Ventas en renta fija  En los mercados de renta fija "se han producido ventas generalizadas afectados por la decisi√≥n del Tribunal alem√°n y tambi√©n por el continuo volumen de emisiones tanto en Europa como en Estados Unidos, donde, por ejemplo, se ha anunciado emisi√≥n de un bono a 20 a√±os, plazo en el que no emit√≠a desde mediados de los 80".   En las bolsas, y despu√©s de las fuertes subidas acumuladas en abril, "se est√° produciendo algo de tomas de beneficios en lo que llevamos del mes de mayo coincidiendo, adem√°s, con las declaraciones entre Estados Unidos y China". Estas tensiones y la debilidad m√°s acusada de los datos en Europa "est√°n favoreciendo al d√≥lar, que ha iniciado el mes con una fuerte apreciaci√≥n frente al euro".  En las bolsas, y despu√©s de las fuertes subidas acumuladas en abril, "se est√°n produciendo tomas de beneficios en lo que llevamos del mes de mayo"  La incertidumbre actual, en definitiva, "contin√∫a siendo muy elevada. En este contexto, la estrategia de diversificaci√≥n entre activos financieros contribuye a minorar la volatilidad que generan los activos m√°s penalizados a la vez que permite acceder a la rentabilidad de los activos que est√°n registrando buen comportamiento en medio de estas correcciones".   Asimismo, "es clave mantener el horizonte temporal de las inversiones, ya que momentos de estr√©s m√°ximo como los actuales tienden a revertir hacia niveles de los activos financieros m√°s acordes a sus fundamentales de medio plazo".      ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-95 
+TÌtulo: 
+La estrategia de los bancos centrales: salir al rescate de los bonos
+Fecha: 
+2020-06-20T05:00:00+02:00
+Autor: EC Brands
+Contenido:   La econom√≠a a nivel global est√° yendo hacia arriba en las √∫ltimas semanas, si bien es cierto que part√≠a de una posici√≥n muy baja: la crisis ocasionada por el coronavirus ha impactado muy significativamente en los mercados, que luchan ahora por recuperarse pensando en la renta final de este a√±o y, sobre todo, en el que viene.    Aunque ahora la tendencia es ascendente, como recuerda Armando L√≥pez, responsable de Renta Fija de Santander AM Espa√±a, a√∫n queda mucho margen de mejora: "En la comparecencia de Powell ante el Senado se daba cuenta de la √∫ltima reuni√≥n de la Reserva Federal de Estados Unidos, que pon√≠a de manifiesto la dif√≠cil situaci√≥n de la econom√≠a mundial y se reafirmaba en que los tipos negativos no son una herramienta necesaria para la econom√≠a americana".   No fue la √∫nica noticia destacada dentro de la Reserva: "Tambi√©n se descart√≥ una pol√≠tica de control de la curva de tipos, aunque de una manera menos categ√≥rica. La Reserva Federal anunci√≥ el pasado lunes la compra de bonos de renta fija corporativa, lo que supuso un nuevo apoyo para los diferenciales de cr√©dito", asegura.         ¬øPor qu√© los mercados se han recuperado las √∫ltimas semanas? Estas son las claves    EC Brands   Europa, tambi√©n al auxilio  Dentro del continente europeo, los movimientos tambi√©n contin√∫an. Un ejemplo de ello, recuerda L√≥pez, es que "el jueves tuvo lugar la subasta de TLTRO III, la primera que asume las nuevas condiciones de financiaci√≥n de hasta el -1% dependiendo de si se cumplen los criterios se√±alados por el Banco Central Europeo". En este sentido, los mercados han recibido con alegr√≠a que "el total adjudicado alcanzara la cifra de 1,3 billones de euros, que, teniendo en cuenta los 765.000 millones de euros que venc√≠an de subastas previas, significan un incremento de la liquidez en el sistema financiero de 550.000 millones de euros". Esto debe suponer "un importante soporte, sobre todo, para la parte corta de la curva".   En Reino Unido tambi√©n est√° habiendo novedades. En la reuni√≥n del jueves del Banco de Inglaterra, "este decidi√≥ incrementar el programa de compras de deuda p√∫blica en 100.000 millones de libras, aunque no se tomaba ninguna decisi√≥n en materia de tipos de inter√©s", asegura la gestora. Por tanto, "los mercados de renta fija siguen muy pendientes de la evoluci√≥n de la pandemia y del efecto que supondr√≠a una nueva oleada de contagios, pero la actuaci√≥n de los bancos centrales est√° siendo fundamental en la recuperaci√≥n de los bonos, tanto de deuda p√∫blica como privada".     ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-97 
+TÌtulo: 
+La OPEP y la FED mantienen la tensiÛn en los mercados
+Fecha: 
+2020-06-06T05:00:00+02:00
+Autor: EC Brands
+Contenido:   Contin√∫an los anuncios de importantes medidas de est√≠mulo para contrarrestar los efectos del covid-19. Estos d√≠as los anuncios se concentran en la Eurozona. Por un lado, "Alemania ha anunciado un segundo plan fiscal por valor de 130.000 millones de euros orientado ya a impulsar la salida de la crisis e incluye desde rebaja del IVA hasta apoyo a la compra de veh√≠culos el√©ctricos", recuerda Ana Rivero, responsable de Estrategia de Mercado y ASG de Santander AM en Europa.    Por el lado, de la pol√≠tica monetaria, "el impulso ha venido desde el BCE, que ha superado las previsiones del mercado anunciando un aumento de 600.000 millones de euros en el plan especial de compras de activos que lanz√≥ a ra√≠z de la crisis, a la vez que lo prolonga hasta al menos junio de 2021".         Los mercados comienzan a respirar con la reapertura de la actividad econ√≥mica    EC Brands    Esta decisi√≥n "ha tenido un impacto muy positivo en los bonos de los pa√≠ses perif√©ricos y se acent√∫a a√∫n m√°s la ca√≠da de sus primas de riesgo. De hecho la espa√±ola se sit√∫a en 86 puntos b√°sicos", asegura.  Las bolsas, en tendencia compradora  Tambi√©n el euro "contin√∫a recogiendo muy bien el conjunto de noticias positivas que se est√°n dando en la zona Euro en estas √∫ltimas semanas y se ha fortalecido contra el d√≥lar hasta superar la barrera del 1,13$/‚Ç¨". En cuanto a las bolsas, "el mes de junio ha comenzado con una fuerte tendencia compradora con liderazgo esta vez de las bolsas zona Euro frente a la americana, y de hecho han llegado a acumular subida de m√°s de un 7% en las primeras jornadas del mes".   A estas buenas noticias "se suma tambi√©n que contin√∫a la progresiva reactivaci√≥n de las principales econom√≠as desarrolladas. Tambi√©n recogen al alza las bolsas el mejor tono en el precio del crudo y el anuncio de Arabia Saud√≠ y Rusia de que mantendr√°n al menos un mes m√°s el fuerte recorte de producci√≥n acordado". Precisamente la semana que viene "los mercados estar√°n pendientes de la reuni√≥n oficial de OPEP y sus aliados por si hubiera anuncios adicionales, as√≠ como de la reuni√≥n de la Fed".   La incertidumbre actual, en todo caso, "contin√∫a siendo elevada. En este contexto, la estrategia de diversificaci√≥n entre activos financieros contribuye a minorar la volatilidad y permite acceder a la rentabilidad de los activos que est√°n registrando buen comportamiento en el contexto actual". Asimismo, "es clave mantener el horizonte temporal de las inversiones y as√≠ se pone de manifiesto en los niveles actuales de los mercados y en su recuperaci√≥n desde los niveles de estr√©s m√°ximo que registraban en el mes de marzo".     ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+
+El Confidencial-98 
+TÌtulo: 
+Los mercados comienzan a respirar con la reapertura de la actividad econÛmica
+Fecha: 
+2020-05-30T05:00:00+02:00
+Autor: EC Brands
+Contenido:   Seguimos con un panorama en los mercados que no puede escapar de la situaci√≥n de incertidumbre actual. Como refleja Delfina P√©rez, responsable de Estrategia de Mercados de Santander AM, dichos mercados "contin√∫an recogiendo al alza las noticias de reapertura de la actividad econ√≥mica a nivel internacional como ha sido el caso de Jap√≥n, que ya no tiene ning√∫n territorio en estado de alarma".    Esta vuelta a la actividad "se refleja tambi√©n en el aumento que ha tenido la confianza empresarial alemana IFO en el mes de mayo, sum√°ndose a los indicadores adelantados que van dejando atr√°s los m√≠nimos".         Los mercados, con un ojo en el Fondo Europeo y otro en China y Estados Unidos    EC Brands    Los mercados "tambi√©n han recibido muy bien la resoluci√≥n del principal hito de la semana: la propuesta formal de la Comisi√≥n Europea para el Fondo de Reconstrucci√≥n ha incluido los puntos claves de la propuesta de Merkel y Macron ‚Äìes decir, 500.000 millones de euros en transferencias‚Äì y que la financiaci√≥n sea v√≠a emisi√≥n de deuda conjunta a trav√©s de la Comisi√≥n Europea, sino que, adem√°s, ha a√±adido 250.000 millones en pr√©stamos que tambi√©n se financiar√°n v√≠a deuda conjunta".   La lectura positiva del mercado de renta fija europea "ha sido clara y han continuado cayendo las primas de riesgo de los pa√≠ses perif√©ricos. La prima italiana cae hasta los 184 puntos b√°sicos y la espa√±ola ha ca√≠do hasta los 100 puntos b√°sicos. El euro tambi√©n ha recogido la noticia al alza y ha llegado a la zona del 1,1070$/‚Ç¨ frente al d√≥lar, niveles en los que no cotizaba desde el mes de marzo abril".   En el caso de las bolsas, "el buen comportamiento se plasma en fuertes subidas en estos d√≠as, destacando claramente el IBEX35 que sube m√°s de un 7% semanal. Estos avances permiten que la bolsa americana y las principales bolsas europeas acumulen en mayo una subida cercana ya al 4%".  La prima italiana cae hasta los 184 puntos b√°sicos y la espa√±ola ha ca√≠do hasta los 100   ¬øY que pasar√° la semana que viene? "Los mercados seguir√°n pendientes de c√≥mo evolucionen las recientes tensiones entre Estados Unido y China a ra√≠z de la nueva Ley de Seguridad para HK, y tambi√©n el jueves de la reuni√≥n mensual del BCE, ya que parte del mercado espera novedades sobre el volumen del √∫ltimo plan de compras mensuales implementado a ra√≠z de la crisis".   La incertidumbre actual, por tanto, "contin√∫a siendo elevada. En este contexto, la estrategia de diversificaci√≥n entre activos financieros contribuye a minorar la volatilidad y permite acceder a la rentabilidad de los activos que est√°n registrando buen comportamiento en el contexto actual. Asimismo, es clave mantener el horizonte temporal de las inversiones y as√≠ se pone de manifiesto en los niveles actuales de los mercados y en su recuperaci√≥n desde los niveles de estr√©s m√°ximo que registraban en el mes de marzo".      ¬øQuieres saber m√°s sobre mercados y tendencias de inversi√≥n? Obt√©n m√°s informaci√≥n en el v√≠deo sobre estas l√≠neas. Y si quieres acceder a todos los consejos de inversi√≥n de Santander Asset Management, haz clic aqu√≠.    
+
+

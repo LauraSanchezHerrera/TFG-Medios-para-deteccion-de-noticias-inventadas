@@ -1,0 +1,226 @@
+Estudio de la noticia EL MUNDO-1192
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-1194 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1192 es el mismo artÌculo que la noticia EL MUNDO-1194
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618ee0dbfc6c8371748b45c8.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/61903036fc6c839d4a8b45df.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/12
+        - 2021/11/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-1194'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-1194'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1192': {'EL MUNDO-1194'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-1194
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-1192 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1194 es el mismo artÌculo que la noticia EL MUNDO-1192
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/61903036fc6c839d4a8b45df.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618ee0dbfc6c8371748b45c8.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/13
+        - 2021/11/12
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1199 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1194 es el mismo artÌculo que la noticia EL MUNDO-1199
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/10/618bf23d21efa0d7178b4593.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618ee0dbfc6c8371748b45c8.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/11/10
+        - 2021/11/12
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-1192', 'EL MUNDO-1199'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1192': {'EL MUNDO-1194'}, 'EL MUNDO-1194': {'EL MUNDO-1192', 'EL MUNDO-1199'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-1199'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-1192', 'EL MUNDO-1199', 'EL MUNDO-1194'}
+
+Estudio de la noticia EL MUNDO-1199
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1197 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1199 es el mismo artÌculo que la noticia EL MUNDO-1197
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/11/618d3186e4d4d8b7318b4599.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/10/618bf23d21efa0d7178b4593.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/11
+        - 2021/11/10
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1194 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1199 es el mismo artÌculo que la noticia EL MUNDO-1194
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618ee0dbfc6c8371748b45c8.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/10/618bf23d21efa0d7178b4593.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/11/12
+        - 2021/11/10
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-1197', 'EL MUNDO-1194'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1192': {'EL MUNDO-1194'}, 'EL MUNDO-1194': {'EL MUNDO-1192', 'EL MUNDO-1199'}, 'EL MUNDO-1199': {'EL MUNDO-1197', 'EL MUNDO-1194'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-1197'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-1192', 'EL MUNDO-1197', 'EL MUNDO-1194', 'EL MUNDO-1199'}
+
+Estudio de la noticia EL MUNDO-1197
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1199 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1197 es el mismo artÌculo que la noticia EL MUNDO-1199
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/10/618bf23d21efa0d7178b4593.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/11/618d3186e4d4d8b7318b4599.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/10
+        - 2021/11/11
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1199'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1192': {'EL MUNDO-1194'}, 'EL MUNDO-1194': {'EL MUNDO-1192', 'EL MUNDO-1199'}, 'EL MUNDO-1199': {'EL MUNDO-1197', 'EL MUNDO-1194'}, 'EL MUNDO-1197': {'EL MUNDO-1199'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 3 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-1192', 'EL MUNDO-1197', 'EL MUNDO-1194', 'EL MUNDO-1199'}
+{'EL MUNDO-1192': {'EL MUNDO-1194'}, 'EL MUNDO-1194': {'EL MUNDO-1192', 'EL MUNDO-1199'}, 'EL MUNDO-1199': {'EL MUNDO-1197', 'EL MUNDO-1194'}, 'EL MUNDO-1197': {'EL MUNDO-1199'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-1192
+1: EL MUNDO-1194
+2: EL MUNDO-1197
+3: EL MUNDO-1199
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.77352716 1.         1.        ]
+ [0.78566203 0.         0.77243173 0.73400251]
+ [1.         0.86304514 0.         0.76035132]
+ [1.         0.82962394 0.74642393 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-1192 -> EL MUNDO-1194: 0.7735271614384086. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1192 para aÒadirla a la noticia EL MUNDO-1194 :284
+         EL MUNDO-1194 -> EL MUNDO-1192: 0.7856620336503292. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1192 para aÒadirla a la noticia EL MUNDO-1194 :281
+
+         EL MUNDO-1194 -> EL MUNDO-1192: 0.7856620336503292. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1194 para aÒadirla a la noticia EL MUNDO-1192 :281
+         EL MUNDO-1192 -> EL MUNDO-1194: 0.7735271614384086. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1194 para aÒadirla a la noticia EL MUNDO-1192 :284
+
+         EL MUNDO-1194 -> EL MUNDO-1199: 0.7340025094102886. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1194 para aÒadirla a la noticia EL MUNDO-1199 :200
+         EL MUNDO-1199 -> EL MUNDO-1194: 0.829623944742901. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1194 para aÒadirla a la noticia EL MUNDO-1199 :210
+
+         EL MUNDO-1197 -> EL MUNDO-1199: 0.7603513174404015. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1197 para aÒadirla a la noticia EL MUNDO-1199 :179
+         EL MUNDO-1199 -> EL MUNDO-1197: 0.7464239271781534. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1197 para aÒadirla a la noticia EL MUNDO-1199 :183
+
+         EL MUNDO-1199 -> EL MUNDO-1197: 0.7464239271781534. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1199 para aÒadirla a la noticia EL MUNDO-1197 :183
+         EL MUNDO-1197 -> EL MUNDO-1199: 0.7603513174404015. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1199 para aÒadirla a la noticia EL MUNDO-1197 :179
+
+         EL MUNDO-1199 -> EL MUNDO-1194: 0.829623944742901. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1199 para aÒadirla a la noticia EL MUNDO-1194 :210
+         EL MUNDO-1194 -> EL MUNDO-1199: 0.7340025094102886. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1199 para aÒadirla a la noticia EL MUNDO-1194 :200
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-1192 
+TÌtulo: 
+Alcaraz, un gigante en un torneo de niÒos, arrolla a Korda y se lleva el tÌtulo | Tenis
+Fecha: 
+2021-11-13T21:44:21Z
+Autor: JAVIER MARTÕNEZ
+Contenido: El tiempo dictaminar√° el significado a largo plazo de este t√≠tulo, pero Carlos Alcaraz sale de Mil√°n con la impronta de los jugadores se√±alados por el destino. El m√°s joven de los participantes en el torneo que re√∫ne a los tenistas menores de 21 a√±os m√°s regulares del curso, el espa√±ol, que en mayo ingres√≥ en la mayor√≠a de edad, parti√≥ como el m√°s joven y, tal y como anunciaba su trayectoria esta temporada, se llev√≥ la copa, la segunda de su intr√©pida carrera tras hacerse el pasado verano con el ATP 250 de Umag.Era el partido de mayor enjundia en un torneo donde hasta la final hab√≠a establecido distancias siderales con sus adversarios. Sebastian Korda, 39¬∫ en el ranking ATP, un jugador ya hecho, campe√≥n este a√±o en Parma y finalista en Delray Beach, con recorrido en el circuito, le plante√≥ las l√≥gicas dificultades, pero se rindi√≥ ante la superioridad del murciano, vencedor en 82 minutos (4-3 [5], 4-2, 4-2).Fue el estadounidense quien gobern√≥ el primer set, con reiteradas amenazas sobre el servicio de Alcaraz. Pero fue el espa√±ol quien se lo llev√≥, pese a verse expuesto en el desempate a dos saques que le hubieran dejado en desventaja. Una de las caracter√≠sticas de Alcaraz, de la que distinguen a los buenos jugadores, es su capacidad para enfrentarse con valent√≠a a situaciones adversas. Sabe hacerlo cuando dispone de la iniciativa del servicio, pero tampoco se arruga a la hora de restar.As√≠ lo demostr√≥ para apuntarse el desempate del primer parcial, donde su mayor pecado hab√≠a sido (tal vez) asumir demasiados riesgos. Es su manera de desenvolverse. Y acaba por rendirle m√°s tributos que perjuicios.Este torneo s√≥lo representa indicios, que fueron certeros en los casos de Stefanos Tsitsipas y Jannik Sinner, dos de sus campeones precedentes. A diferencia de ellos, Alcaraz ya hab√≠a levantado la voz antes de embarcarse en esta aventura. Ven√≠a con el t√≠tulo de Umag y con unos cuartos en el Abierto de Estados Unidos, tras dejar en el camino a Tsitsipas, por citar solo los momentos m√°s √°lgidos de una temporada excepcional.Korda, que hab√≠a necesitado los cinco parciales ante BrandonNakashima en semifinales, perdi√≥ el servicio en el quinto juego del segundo, y con √©l se le march√≥ a continuaci√≥n el set. No encontraba la manera de hacer frente a un adversario que en cuanto super√≥ los nervios del comienzo gobern√≥ con enorme autoridad, dejando muestras de la fortaleza de su tenis. Una temprana rotura en el tercero dispar√≥ a un Alcaraz a quien el torneo se le qued√≥ peque√±o.
+
+
+EL MUNDO-1194 
+TÌtulo: 
+Alcaraz buscar· ante Korda el segundo tÌtulo de su intrÈpida carrera | Tenis
+Fecha: 
+2021-11-12T22:10:45Z
+Autor: JAVIER MARTÕNEZ
+Contenido: Tal vez Sebastian Korda (este s√°bado, 21.00 h., Vamos) le plantee mayores dificultades, pero lo cierto es que las Next Generation ATP Finals son hasta el momento un aut√©ntico paseo para Carlos Alcaraz, que en semifinales se impuso por 4-2, 4-1 y 4-2 al argentino Sebasti√°n B√°ez, en una nueva demostraci√≥n de que su juego est√° muy por encima del resto de los competidores en este torneo que re√∫ne en Tur√≠n a los ocho mejores j√≥venes del a√±o. En el curso de su explosi√≥n, ya con un t√≠tulo, el conseguido en Umag el pasado verano, y con victorias tan sonoras como la lograda ante Stefanos Tsitsipas en el Abierto de Estados Unidos, el espa√±ol, que a partir del d√≠a 25 har√° su debut en la Copa Davis, no puede evitar sentirse superior a los rivales que le salen al paso.Basta ver la hoja de servicios de Baez, 20 a√±os, para comprender la diferencia entre ambos, plasmada en la hora y dos minutos de partido. N√∫mero 111 del mundo, el bonaerense se ha movido por challenger ,y previas de tres torneos del Grand Slam, con los octavos de Hamburgo como su m√°ximo logro en el circuito ATP.Alcaraz marc√≥ distancias muy pronto y solvent√≥ con el servicio el √∫nico momento comprometido de un encuentro pl√°cido. Fue con 2-2 en el tercer set cuando Baez se situ√≥ 15-40, aprovechando algunos excesos del murciano, que vio el triunfo demasiado cerca. Pero no iban a ir m√°s all√° las concesiones del n√∫mero 32 del mundo. Si para B√°ez y la mayor√≠a de los tenistas que han llegado a Tur√≠n, este torneo viene a ser una carta de presentaci√≥n, para Alcaraz se trata de un nuevo escal√≥n en un camino ya muy bien trazado. Hijo del checo Petr Korda, que gan√≥ el Abierto de Australia y fue finalista de Roland Garros, Sebastian, 42¬∫, nacido en Florida, lleva ya algunas temporadas rod√°ndose con los mayores, y en 2021 ha ganado el torneo de Parma adem√°s de disputar la final de Delray Beach. Se espera, as√≠, una confrontaci√≥n m√°s equilibrada que las precedentes, aunque el norteamericano precis√≥ de cinco sets hasta desembarazarse de Brandon Nakashima. Con su tercera victoria en la fase de grupos, el jueves, Alcaraz igual√≥ las 30 victorias que suscribi√≥ Nadal en una temporada, con 18 a√±os, en 2004. Ya son 31. Es el m√°s joven en Tur√≠n. Y el mejor, de largo, salvo que Korda se atreva a discutirlo. 
+
+
+EL MUNDO-1197 
+TÌtulo: 
+Alcaraz gana a Cerundolo y completa el pleno antes de las semifinales de las NextGen Finals de la ATP | Tenis
+Fecha: 
+2021-11-11T15:07:04Z
+Autor: EUROPA PRESS
+Contenido: El tenista espa√±ol Carlos Alcaraz ha ganado este jueves al argentino Juan Manuel Cerundolo (4-0, 4-1, 2-3 y 4-3) en el √∫ltimo partido del Grupo A de las 'NextGen Finals' de la ATP, y hace 'pleno' de triunfos antes de jugar unas semifinales para las que ya estaba clasificado.Alcaraz, primer cabeza de serie del torneo y el primer jugador en lograr el billete para semifinales, afrontaba un √∫ltimo duelo de la fase de grupos ante el argentino y quinto 'seed' Juan Manuel Cerundolo, que ya estaba eliminado.A√∫n as√≠, ambos brindaron un buen partido. Alcaraz estuvo algo gris y, pese a jugar peor que ante Nakashima y Rune, empez√≥ el partido con dos sets a su favor, el primer de ellos en blanco. Reaccion√≥ Cerundolo, eso s√≠, y se llev√≥ la tercera manga por 2-3 haciendo buena la tercera y √∫ltima bola de set que ten√≠a a su favor.Es el primer set en contra que cede Alcaraz en este torneo que re√∫ne a los mejores tenistas Sub-21 de la ATP, pero supo rehacerse r√°pido. Sac√≥ a relucir su mejor tenis, de nuevo, e impuso su fuerza desde el fondo de la pista.Con un 'tie break' que el espa√±ol se llev√≥ por 7-3, el partido se cerr√≥ con emoci√≥n y con un despliegue f√≠sico y poder√≠o de nuevo abrumador de Alcaraz, que no dio opci√≥n alguna a Cerundolo en esa muerte s√∫bita que permiti√≥ al murciano cerrar la fase con 3 victorias. La mejor manera de afrontar la semifinal de este viernes.
+
+
+EL MUNDO-1199 
+TÌtulo: 
+Un brillante Alcaraz consigue el billete a semifinales de la NextGen ATP Finals | Tenis
+Fecha: 
+2021-11-10T16:40:01Z
+Autor: AGENCIAS
+Contenido: El espa√±ol Carlos Alcaraz, primer favorito, se clasific√≥ este mi√©rcoles para las semifinales del Masters de la NextGen en Mil√°n con un partido de antelaci√≥n, al sumar su segunda victoria en otros tantos encuentros, esta vez ante el estadounidense Brandon Nakashima por 4-3 (4), 4-1 y 4-3 (4).Alcaraz, de 18 a√±os y n√∫mero 35 del mundo, volvi√≥ a deleitar al p√∫blico del Allianz Cloud de Mil√°n con su tenis variado, rico de cambios de ritmo y de soluciones elegantes para imponerse en poco menos de hora y media a un Nakashima que hab√≠a ganado con autoridad el martes al argentino Juan Manuel Cer√∫ndolo.El jugador espa√±ol, que gan√≥ este a√±o su primer torneo en el circuito ATP en Umag, conect√≥ diez saques ganadores y gestion√≥ con madurez, pese a su juventud, los momentos clave del duelo, en particular en los dos desempates, ambos ganados por 7-4.Considerado de forma un√°nime como el jugador a batir en este torneo y como probable sucesor del italiano Jannik Sinner como campe√≥n, Alcaraz ya tiene asegurada su plaza en las semifinales del viernes. Se enfrentar√° este jueves a Juan Manuel Cer√∫ndolo, que perdi√≥ sus dos encuentros, en un duelo sin particular presi√≥n, pero que vale un cheque de 20.774 euros.Este torneo, que re√∫ne a los ocho mejores jugadores sub-21 de la temporada, paga adem√°s a cada uno de los participantes un premio de cerca de 70.000 euros.
+
+

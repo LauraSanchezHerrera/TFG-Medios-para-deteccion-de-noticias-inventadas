@@ -1,0 +1,164 @@
+Estudio de la noticia EL MUNDO-613
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-623 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-613 es el mismo artÌculo que la noticia EL MUNDO-623
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/15/61924a6e21efa0cd568b457a.html
+        - https://www.elmundo.es/pais-vasco/2021/11/18/619644a7fc6c8386058b45f3.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/15
+        - 2021/11/18
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-623'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-623'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-613': {'EL MUNDO-623'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-623
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-614 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-623 es el mismo artÌculo que la noticia EL MUNDO-614
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/18/6196314ee4d4d884518b457a.html
+        - https://www.elmundo.es/pais-vasco/2021/11/15/61924a6e21efa0cd568b457a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/18
+        - 2021/11/15
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-613 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-623 es el mismo artÌculo que la noticia EL MUNDO-613
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/18/619644a7fc6c8386058b45f3.html
+        - https://www.elmundo.es/pais-vasco/2021/11/15/61924a6e21efa0cd568b457a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/18
+        - 2021/11/15
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-614', 'EL MUNDO-613'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-613': {'EL MUNDO-623'}, 'EL MUNDO-623': {'EL MUNDO-614', 'EL MUNDO-613'}}
+
+Tras el estudio se han encontrado 1 noticias nuevas similares.
+Se van a estudiar las noticias nuevas encontradas: 
+{'EL MUNDO-614'}
+
+Lista de noticias similares actual:
+{'EL MUNDO-614', 'EL MUNDO-623', 'EL MUNDO-613'}
+
+Estudio de la noticia EL MUNDO-614
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-623 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-614 es el mismo artÌculo que la noticia EL MUNDO-623
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/15/61924a6e21efa0cd568b457a.html
+        - https://www.elmundo.es/pais-vasco/2021/11/18/6196314ee4d4d884518b457a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/11/15
+        - 2021/11/18
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-623'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-613': {'EL MUNDO-623'}, 'EL MUNDO-623': {'EL MUNDO-614', 'EL MUNDO-613'}, 'EL MUNDO-614': {'EL MUNDO-623'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-614', 'EL MUNDO-623', 'EL MUNDO-613'}
+{'EL MUNDO-613': {'EL MUNDO-623'}, 'EL MUNDO-623': {'EL MUNDO-614', 'EL MUNDO-613'}, 'EL MUNDO-614': {'EL MUNDO-623'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-614
+1: EL MUNDO-623
+2: EL MUNDO-613
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.796875   0.79299363]
+ [0.74677608 0.         0.7537155 ]
+ [0.7866354  0.77647059 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-614 -> EL MUNDO-623: 0.796875. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-614 para aÒadirla a la noticia EL MUNDO-623 :196
+         EL MUNDO-623 -> EL MUNDO-614: 0.7467760844079718. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-614 para aÒadirla a la noticia EL MUNDO-623 :204
+
+         EL MUNDO-623 -> EL MUNDO-614: 0.7467760844079718. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-623 para aÒadirla a la noticia EL MUNDO-614 :204
+         EL MUNDO-614 -> EL MUNDO-623: 0.796875. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-623 para aÒadirla a la noticia EL MUNDO-614 :196
+
+         EL MUNDO-623 -> EL MUNDO-613: 0.7537154989384289. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-623 para aÒadirla a la noticia EL MUNDO-613 :220
+         EL MUNDO-613 -> EL MUNDO-623: 0.7764705882352941. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-623 para aÒadirla a la noticia EL MUNDO-613 :216
+
+         EL MUNDO-613 -> EL MUNDO-623: 0.7764705882352941. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-613 para aÒadirla a la noticia EL MUNDO-623 :216
+         EL MUNDO-623 -> EL MUNDO-613: 0.7537154989384289. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-613 para aÒadirla a la noticia EL MUNDO-623 :220
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-614 
+TÌtulo: 
+El Gobierno vasco centra en los conciertos con jÛvenes el peligro de contagios en su campaÒa de respeto a aforos | PaÌs Vasco
+Fecha: 
+2021-11-18T10:58:06Z
+Autor: JOSEAN IZARRA
+Contenido: El Gobierno vasco identifica el incremento de los contagios con los conciertos musicales multitudinarios en la nueva campa√±a que ha activado tras constatar el incremento descontrolado de los contagios pese a haber alcanzado un 91% de vacunaci√≥n completa entre los mayores de 12 a√±os. "Ahora que los espacios vuelven a llenarse, respeta el aforo para que nunca m√°s vuelva a vaciarse", plantea el mensaje con im√°genes de locales de hosteler√≠a tradicionales que contrastan con el ruido de una multitud bailando en una sala de conciertos.El Ejecutivo de Urkullu ha aprobado en 24 horas una orden para que los ayuntamientos suspendan o limiten los actos multitudinarios, ha pedido a los jueces que les permitan utilizar el pasaporte Covid en hosteler√≠a y eventos culturales, ha incrementado la informaci√≥n p√∫blica sobre la evoluci√≥n de la pandemia y ahora arranca una "campa√±a de sensibilizaci√≥n" impulsada desde el Departamento de Seguridad que dirige el vicelehendakari Josu Erkoreka.El toque de atenci√≥n por las im√°genes utilizadas en los dos anuncios que se van a utilizar se dirige expresamente a los m√°s j√≥venes, sectores de la poblaci√≥n en los que a√∫n hay casi un 20% que no tiene la pauta de vacunaci√≥n completa. La campa√±a se activa cuando la consejera Gotzone Sagardui ya ha reconocido que los contagios continuar√°n al alza en las pr√≥ximas semanas lo que incidir√° en el n√∫mero de enfermos que requerir√°n ser hospitalizados. En esta campa√±a no hay una petici√≥n expl√≠cita para acudir a vacunarse pero s√≠ a respetar los aforos, al menos en los eventos musicales que se utilizan como im√°genes.
+
+
+EL MUNDO-623 
+TÌtulo: 
+Euskadi ya registra ocho pueblos en la 'zona roja' de contagios de Covid y maÒana activar· nuevas "directrices" | PaÌs Vasco
+Fecha: 
+2021-11-15T12:28:36Z
+Autor: JOSEAN IZARRA
+Contenido: El 90,3% de los vascos mayores de 12 a√±os ya esta inmunizado pero los contagios por Covid-19 contin√∫an increment√°ndose y la tasa de incidencia media se sit√∫a ya por encima de los 180 casos. Un incremento constante que se ha disparado en ocho localidades vascas con tasas de incidencia superiores a los 400 casos en los que el Gobierno vasco pretenden tomar medidas de control que ser√°n aprobadas en las pr√≥ximas horas.El Consejo de Gobierno aprobar√° ma√±ana restricciones espec√≠ficas en aquellos municipios en los que se han incrementado los contagios pese a que 9 de cada 10 mayores de 12 a√±os ya se encuentra inmunizado y el Servicio vasco de Salud mantiene la campa√±a de terceras dosis en ancianos. Seg√∫n los datos facilitados hoy -Euskadi solo facilita resultados los lunes-, hay seis municipios en Gipuzkoa, uno en Bizkaia y otro en √Ålava en los que los contagios superan la tasa de incidencia de 400 casos, ya hay 139 ingresados en centros hospitalarios por contagios de Covid-19 y de ellos 25 se encuentran en UCIs. Euskadi ha registrado 6 fallecimientos en la √∫ltima semana.Adem√°s, el alcalde de Vitoria y presidente de la asociaci√≥n de municipios vascos Gorka Urtaran ha planteado adoptar restricciones para aquellos ciudadanos que han decidido no vacunarse. La f√≥rmula a adoptar ser√≠a la ya utilizada en Galicia con un pasaporte Covid para poder acceder a determinados espacios de los que quedar√≠an excluidos quienes han decidido no vacunarse. En Euskadi, los mayores de 40 a√±os superan el 90% de vacunaci√≥n pero en los veinta√±eros a√∫n no se ha alcanzado el 80% de inmunizados."Nos preocupa la situaci√≥n y por eso ma√±ana se adoptar√°n directrices que van a insistir en las medidas preventivas", ha anunciado un Urkullu que ha reconocido su "preocupaci√≥n" ante el incremento de los contagios. "Me interesa identificar el mayor n√∫mero de personas contagiadas, no tanto el ranking entre comunidades aut√≥nomas", ha afirmado ante el repunte del Covid-19 que se constata en los resultados hechos p√∫blicos.
+
+
+EL MUNDO-613 
+TÌtulo: 
+Casi todos los municipios de Gipuzkoa ya est·n en 'zona roja' y 13 pueblos superan los 1.000 casos de incidencia | PaÌs Vasco
+Fecha: 
+2021-11-18T12:37:52Z
+Autor: JOSEAN IZARRA
+Contenido: La extensi√≥n del coronavirus en el inicio de una posible sexta ola vincualda a los ciudadanos no vacunados vuelve a marcar significativas diferencias territoriales con Gipuzkoa en una dif√≠cil situaci√≥n con pr√°cticamente todas sus localidades menos cuatro en la nueva 'zona roja' que marca una tasa de incidencia de 150 casos. Pero la gravedad de la situaci√≥n va m√°s all√° de las condiciones impuestas a esos ayuntamientos porque los datos hechos p√∫blicos hoy por Osakidetza sit√∫an a 13 localidades en tasas de incidencia por encima de los 1.000 casos y en Zegama y Ataun se disparan por encima de los 2.000 casos.El Covid-19 vuelve a expandirse sin control en Gipuzkoa mientras que en Bizkaia y √Ålava su desarrollo es m√°s contenido. Los √∫ltimos datos ofrecidos por Osakidetza hoy jueves ratifican las previsiones realizadas por la consejera Gotzone Sagardui cuando el martes advirti√≥ del "preocupante" crecimiento de los contagios. En las √∫ltimas 24 horas, se han registrado 691 casos tras realizarse un total de 8.099 pruebas lo que arroja una tasa de positividad del 8,5%.Los datos de positivos semanales constatan que la media de nuevos contagios supera los 260 casos sin que la vacunaci√≥n completa al 91% de la poblaci√≥n haya sido suficiente para mantener los contagios por debajo de los 60 casos de tasa de incidencia como suced√≠a a principios de octubre cuando se decidi√≥ salir de la emergencia sanitaria.El efecto de los contagios en el sistema hospitalario es a√∫n moderado con 10 ingresados en planta y otros 30 en Unidades de Cuidados Intensivos pero todo apunta a que, como en olas anteriores, el incremento de contagios se transformar√° en apenas dos semanas en una mayor presencia de contagiados en los hospitales.
+
+

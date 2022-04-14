@@ -1,0 +1,233 @@
+Estudio de la noticia EL MUNDO-501
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-493 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-493
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/07/12/60ec29edfdddff9a858b461e.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 32 dÌas de diferencia: 
+        - 2021/07/12
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-41 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-41
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 177 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-296 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-296
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a8c313e4d4d8350c8b456f.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 175 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-533 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-533
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 175 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-459 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-459
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2020/12/13/5fd4fc00fdddffed558b4673.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 179 dÌas de diferencia: 
+        - 2020/12/13
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-643 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-643
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 177 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-745 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-745
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab2fcbfdddff0d4a8b45b1.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 177 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-495 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-495
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/07/06/60e3ed08fdddff76768b45ce.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 26 dÌas de diferencia: 
+        - 2021/07/06
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-408 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-408
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/castellon/2021/12/02/61a8d56821efa04a218b45c6.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 175 dÌas de diferencia: 
+        - 2021/12/02
+        - 2021/06/10
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+La noticia es similar a la noticia EL MUNDO-502 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-501 es el mismo artÌculo que la noticia EL MUNDO-502
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/07/60bdf57621efa014348b4574.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/06/07
+        - 2021/06/10
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-502'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-502'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-501': {'EL MUNDO-502'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-502
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-493 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-502 es el mismo artÌculo que la noticia EL MUNDO-493
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/07/12/60ec29edfdddff9a858b461e.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/07/60bdf57621efa014348b4574.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 35 dÌas de diferencia: 
+        - 2021/07/12
+        - 2021/06/07
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-501 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-502 es el mismo artÌculo que la noticia EL MUNDO-501
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/10/60c1f36d21efa054658b45b7.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/06/07/60bdf57621efa014348b4574.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 3 dÌas de diferencia: 
+        - 2021/06/10
+        - 2021/06/07
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-501'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-501': {'EL MUNDO-502'}, 'EL MUNDO-502': {'EL MUNDO-501'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-502', 'EL MUNDO-501'}
+{'EL MUNDO-501': {'EL MUNDO-502'}, 'EL MUNDO-502': {'EL MUNDO-501'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-502
+1: EL MUNDO-501
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.72164948]
+ [0.80300752 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-502 -> EL MUNDO-501: 0.7216494845360825. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-502 para aÒadirla a la noticia EL MUNDO-501 :258
+         EL MUNDO-501 -> EL MUNDO-502: 0.8030075187969925. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-502 para aÒadirla a la noticia EL MUNDO-501 :250
+
+         EL MUNDO-501 -> EL MUNDO-502: 0.8030075187969925. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-501 para aÒadirla a la noticia EL MUNDO-502 :250
+         EL MUNDO-502 -> EL MUNDO-501: 0.7216494845360825. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-501 para aÒadirla a la noticia EL MUNDO-502 :258
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-502 
+TÌtulo: 
+Tres detenidos por retener y apuÒalar a un menor huido de centro de acogida | Alicante
+Fecha: 
+2021-06-07T10:35:48Z
+Autor: EFE
+Contenido: La Polic√≠a Nacional ha detenido en Orihuela (Alicante) a tres j√≥venes por, presuntamente, haber retenido contra su voluntad a un menor de 16 a√±os, huido de un centro de acogida, y apu√±alarlo por la espalda al intentar escapar de ellos, hiri√©ndolo de gravedad.Los responsables del centro de acogida interpusieron una denuncia en la Comisar√≠a de Orihuela alertando de que uno de los menores tutelados no hab√≠a acudido a dormir al recinto. Inmediatamente, los agentes de la Unidad de Familia y Mujer de la Comisar√≠a activaron el protocolo para su b√∫squeda.Cinco d√≠as m√°s tarde, el joven regres√≥ al centro con una herida de arma blanca en el costado que le hab√≠a producido un neumot√≥rax, con un pulm√≥n perforado, por lo que fue trasladado a un hospital donde tuvo que ser intervenido quir√∫rgicamente. Hasta all√≠ se desplazaron los polic√≠as para tomarle declaraci√≥n.Al parecer, tras no volver al centro, el joven fue acogido por dos personas, mayores de edad, en un piso situado en una zona c√©ntrica de Orihuela. Tras varios d√≠as en ese lugar, uno de los detenidos le dijo que all√≠ no iba a estar gratis y supuestamente le amenaz√≥ para quitarle el m√≥vil.El menor intent√≥ escapar del domicilio, pero fue alcanzado en el descansillo, donde recibi√≥ una pu√±alada por la espalda para que no huyera, siendo arrastrado de nuevo a la casa, donde le sentaron en una silla y le ataron con cuerdas.Para ser liberado, los j√≥venes le dieron dos opciones: conseguir que alg√∫n familiar pagara 27.000 euros o matar a una persona residente en la localidad. La v√≠ctima lleg√≥ a perder el conocimiento y fue arrojada al suelo y encerrada en una habitaci√≥n de la vivienda.La presi√≥n policial y de los responsables del centro que no cesaron en su empe√±o de localizar al desaparecido contribuyeron a que finalmente los agresores lo pusieran en libertad.Los agentes de la Unidad Familia y Mujer de la Comisar√≠a de Orihuela, gracias a las indicaciones de la v√≠ctima, localizaron el domicilio donde hab√≠a estado retenida y establecieron un dispositivo en sus proximidades hasta que los moradores volvieron al mismo sitio, donde fueron capturados.Los agentes realizaron un registro en el domicilio donde hallaron la navaja con la que, presuntamente, se produjo la agresi√≥n, adem√°s de otros indicios biol√≥gicos.Los arrestados, de 22 y 23 a√±os, ambos de nacionalidad espa√±ola, est√°n acusados de los delitos de detenci√≥n ilegal, lesiones, robo con violencia, extorsi√≥n, omisi√≥n del deber de socorro y omisi√≥n del deber de impedir o perseguir delitos. Fueron puestos a disposici√≥n del Juzgado de Instrucci√≥n de Guardia de Orihuela, que decret√≥ el ingreso en prisi√≥n del autor material de la agresi√≥n.
+
+
+EL MUNDO-501 
+TÌtulo: 
+Detienen a un hombre por grabar a su ex pareja y a la hija de ella con una c·mara espÌa | Alicante
+Fecha: 
+2021-06-10T11:22:54Z
+Autor: EFE
+Contenido: La Polic√≠a Nacional ha detenido a un hombre de 40 a√±os en Alicante por, presuntamente, haber grabado a su ex pareja y a la hija de ella, menor de edad, con una c√°mara esp√≠a. El detenido la hab√≠a instalado en el cuarto de ba√±o de la vivienda en la que viv√≠a ella tras haber finalizado unos d√≠as antes la relaci√≥n sentimental.Las grabaciones obtenidas inclu√≠an v√≠deos expl√≠citos de la menor, y la mini c√°mara, al disponer de wifi, pod√≠a ser controlada desde el exterior.El arrestado, de nacionalidad dominicana y sin antecedentes previos, est√° acusado de delitos contra la intimidad, allanamiento de morada, corrupci√≥n de menores y pornograf√≠a infantil, seg√∫n un comunicado de la Polic√≠a Nacional.Fue la hija menor de edad quien descubri√≥ la c√°mara, que estaba oculta tras la rejilla del extractor del techo del ba√±o. Inmediatamente se desplazaron hasta la Comisar√≠a de Polic√≠a Nacional de Alicante, donde fueron atendidas por los agentes especialistas de la Unidad de Familia y Mujer de la Brigada Provincial de Polic√≠a Judicial.La llave del domicilio solo la ten√≠an la denunciante y su expareja, por lo que, desde el primer momento, fue el primer sospechoso de los hechos denunciados.La relaci√≥n hab√≠a cesado d√≠as antes de que la c√°mara fuera colocada, intervalo de tiempo en que el sospechoso continu√≥ en la vivienda mientras encontraba otro lugar donde residir.En las grabaciones tambi√©n se pod√≠a observar a la hija menor de la v√≠ctima, por lo que agentes del Grupo de Menores se unieron a la investigaci√≥n con el fin de imputar nuevos delitos al investigado.Tras un dispositivo de b√∫squeda, los agentes localizaron y arrestaron al sospechoso, que fue trasladado a la Comisar√≠a Provincial de Alicante y ha sido puesto a disposici√≥n del Juzgado de Instrucci√≥n de guardia de Alicante. Y, ahora, la mujer ha solicitado en su denuncia una orden de alejamiento sobre ella y su hija.
+
+

@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-9
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-37 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-9 es el mismo art�culo que la noticia EL MUNDO-37
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab6d98fc6c83a2428b4597.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab6d98fc6c83a2428b4597.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia El Confidencial-5 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-9 es el mismo art�culo que la noticia El Confidencial-5
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/espana/2021-12-04/tezanos-compara-discursos-casado-abascal-condujeron-fascismo_3336334/
+        - https://www.elmundo.es/espana/2021/12/04/61ab6d98fc6c83a2428b4597.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-5'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-5'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-9': {'El Confidencial-5'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-5
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-37 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-5 es el mismo art�culo que la noticia EL MUNDO-37
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab6d98fc6c83a2428b4597.html
+        - https://www.elconfidencial.com/espana/2021-12-04/tezanos-compara-discursos-casado-abascal-condujeron-fascismo_3336334/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-9 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-5 es el mismo art�culo que la noticia EL MUNDO-9
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab6d98fc6c83a2428b4597.html
+        - https://www.elconfidencial.com/espana/2021-12-04/tezanos-compara-discursos-casado-abascal-condujeron-fascismo_3336334/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-9'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-9': {'El Confidencial-5'}, 'El Confidencial-5': {'EL MUNDO-9'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-9', 'El Confidencial-5'}
+{'EL MUNDO-9': {'El Confidencial-5'}, 'El Confidencial-5': {'EL MUNDO-9'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-9
+1: El Confidencial-5
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.11424904]
+ [0.04368932 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-9 -> El Confidencial-5: 0.11424903722721438. Cantidad de informaci�n extra�da de la noticia EL MUNDO-9 para a�adirla a la noticia El Confidencial-5 :1368
+         El Confidencial-5 -> EL MUNDO-9: 0.043689320388349516. Cantidad de informaci�n extra�da de la noticia EL MUNDO-9 para a�adirla a la noticia El Confidencial-5 :1367
+
+         El Confidencial-5 -> EL MUNDO-9: 0.043689320388349516. Cantidad de informaci�n extra�da de la noticia El Confidencial-5 para a�adirla a la noticia EL MUNDO-9 :1367
+         EL MUNDO-9 -> El Confidencial-5: 0.11424903722721438. Cantidad de informaci�n extra�da de la noticia El Confidencial-5 para a�adirla a la noticia EL MUNDO-9 :1368
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-9 
+T�tulo: 
+Tezanos carga contra Casado y Abascal y compara sus discursos con los que condujeron al fascismo en los a�os 30 | Espa�a
+Fecha: 
+2021-12-04T13:38:52Z
+Autor: EUROPA PRESS
+Contenido: El presidente del Centro de Investigaciones Sociológicas (CIS), José Félix Tezanos, ha cargado contra los líderes nacionales del PP, Pablo Casado y de Vox, Santiago Abascal, al comparar sus discursos y argumentaciones en el Congreso de los Diputados con los mensajes políticos de los años 20 y 30 del siglo XX que condujeron a regímenes totalitarios."Si llegamos hasta los años 20 y 30 del siglo XX, la verdad es que podríamos encontrarnos con las mismas o muy similares prácticas de desmesura y de utilización de los recursos al odio, la infamia y la agresividad. Algo que acabó conduciendo a donde todos sabemos que condujo", ha señalado en un artículo publicado en el número de diciembre de la revista Temas, dirigida por el propio Tezanos, y recogida por Europa Press.Previamente, en el mismo artículo, ha indicado que en los momentos "críticos" actuales han anidado reacciones y comportamientos políticos que "desde una óptica analítica rigurosa y distanciada" pueden ser calificados como "patologías". "De la misma forma que lo fueron el estalinismo, los nacionalsocialismos y fascismos de los años treinta del siglo pasado", ha apuntadoTezanos ha hecho referencia a los discursos y argumentaciones de líderes "como Casado y Abascal" en el debate parlamentario que tuvo lugar en el Congreso el pasado 10 de noviembre. Así ha señalado las "evidentes insuficiencias de análisis y de diagnóstico" de ambos, y a las "descalificaciones, insultos y desmesuras analíticas y de estimación" además de algún "lapsus freudiano" que aparecen en sus intervenciones.Asimismo, el presidente del CIS ha calificado a Casado y Abascal como seguidores del expresidente de Estados Unidos, Donald "Trump" y su asesor Steve "Bannon" y del presidente de Brasil, Jair "Bolsonaro". Además ha indicado que sus "desmesuras habituales", "pronunciamientos" y "proclamas" son "impropios de personas formadas, inteligentes y constructivas".En esta misma línea, Tezanos ha avisado de la importancia de ser conscientes de hacia donde pueden conducir "tantas desmesuras políticas" y de entender lo que supone la "normalización" que se está haciendo de ellas, al tomarlas como parte de las rutinas políticas "cotidianas".A pesar de todo, Tezanos ha indicado que al mismo tiempo han estado presentes discursos políticos "positivos" y se han tomado medidas concretas que han permitido hacer frente "con éxitos indudables", a la pandemia.Finalmente ha llamado a mantener la "frialdad" y la capacidad de entendimiento, especialmente entre los más próximos, para evitar que las discrepancias "de menor tenor" se conviertan en "disidencias" y que estas puedan tener consecuencias en los apoyos electorales en forma de "votos de castigo" por parte de unos electorados que, a su juicio, están "inquietos y abrumados" y que no entienden ni aprueban tácticas "de vuelo corto".
+
+
+El Confidencial-5 
+T�tulo: 
+Tezanos compara los discursos de Casado y Abascal con los que condujeron al fascismo 
+Fecha: 
+2021-12-04T14:29:00+01:00
+Autor: EP
+Contenido:   El presidente del Centro de Investigaciones Sociológicas (CIS), José Félix Tezanos, ha cargado contra los líderes nacionales del PP, Pablo Casado y de Vox, Santiago Abascal, al comparar sus discursos y argumentaciones en el Congreso de los Diputados, con los mensajes políticos de los años veinte y treinta del siglo XX que condujeron a regímenes totalitarios.    "Si llegamos hasta los años 20 y 30 del siglo XX, la verdad es que podríamos encontrarnos con las mismas o muy similares prácticas de desmesura y de utilización de los recursos al odio, la infamia y la agresividad. Algo que acabó conduciendo a donde todos sabemos que condujo", ha señalado en un artículo publicado en el número de diciembre de la revista Temas, dirigida por el propio Tezanos, y recogida por Europa Press.   Previamente, en el mismo artículo, ha indicado que en los momentos "críticos" actuales han anidado reacciones y comportamientos políticos que "desde una óptica analítica rigurosa y distanciada" pueden ser calificados como "patologías". "De la misma forma que lo fueron el estalinismo, los nacionalsocialismos y fascismos de los años treinta del siglo pasado", ha apuntado  Seguidores de Trump, Bolsonaro y Bannon  Tezanos ha hecho referencia a los discursos y argumentaciones de líderes "como Casado y Abascal" en el debate parlamentario que tuvo lugar en el Congreso el pasado 10 de noviembre. Así ha señalado las "evidentes insuficiencias de análisis y de diagnóstico" de ambos, y a las "descalificaciones, insultos y desmesuras analíticas y de estimación" además de algún "lapsus freudiano" que aparecen en sus intervenciones.         Tezanos descalifica a los votantes de Ayuso y esta ironiza: "Tabernarios, ¿cómo lleváis la jornada?"    P. D. A.    Asimismo, el presidente del CIS ha calificado a Casado y Abascal como seguidores del expresidente de Estados Unidos, Donald "Trump" y su asesor Steve "Bannon" y del presidente de Brasil, Jair "Bolsonaro". Además ha indicado que sus "desmesuras habituales", "pronunciamientos" y "proclamas" son "impropios de personas formadas, inteligentes y constructivas".   En esta misma línea Tezanos ha avisado de la importancia de ser conscientes de hacia donde pueden conducir "tantas desmesuras políticas" y de entender lo que supone la "normalización" que se está haciendo de ellas, al tomarlas como parte de las rutinas políticas "cotidianas".  Evitar votos de castigo  A pesar de todo, Tezanos ha indicado que al mismo tiempo han estado presentes discursos políticos "positivos" y se han tomado medidas concretas que han permitido hacer frente "con éxitos indudables", a la pandemia.    Finalmente, ha llamado a mantener la "frialdad" y la capacidad de entendimiento, especialmente entre los más próximos, para evitar que las discrepancias "de menor tenor" se conviertan en "disidencias" y que estas puedan tener consecuencias en los apoyos electorales en forma de "votos de castigo" por parte de unos electorados que, a su juicio, están "inquietos y abrumados" y que no entienden ni aprueban tácticas "de vuelo corto".  
+
+

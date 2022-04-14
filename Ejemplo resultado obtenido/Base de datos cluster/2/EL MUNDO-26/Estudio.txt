@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-26
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-53 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-26 es el mismo art�culo que la noticia EL MUNDO-53
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/02/61a8ab3cfc6c833a578b45a1.html
+        - https://www.elmundo.es/espana/2021/12/03/61aa29a6fdddff56858b45d0.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-53'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-53'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-26': {'EL MUNDO-53'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-53
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-26 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-53 es el mismo art�culo que la noticia EL MUNDO-26
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/03/61aa29a6fdddff56858b45d0.html
+        - https://www.elmundo.es/espana/2021/12/02/61a8ab3cfc6c833a578b45a1.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-26'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-26': {'EL MUNDO-53'}, 'EL MUNDO-53': {'EL MUNDO-26'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-53', 'EL MUNDO-26'}
+{'EL MUNDO-26': {'EL MUNDO-53'}, 'EL MUNDO-53': {'EL MUNDO-26'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-53
+1: EL MUNDO-26
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75399754]
+ [0.79049112 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-53 -> EL MUNDO-26: 0.7539975399753998. Cantidad de informaci�n extra�da de la noticia EL MUNDO-53 para a�adirla a la noticia EL MUNDO-26 :388
+         EL MUNDO-26 -> EL MUNDO-53: 0.790491118077325. Cantidad de informaci�n extra�da de la noticia EL MUNDO-53 para a�adirla a la noticia EL MUNDO-26 :389
+
+         EL MUNDO-26 -> EL MUNDO-53: 0.790491118077325. Cantidad de informaci�n extra�da de la noticia EL MUNDO-26 para a�adirla a la noticia EL MUNDO-53 :389
+         EL MUNDO-53 -> EL MUNDO-26: 0.7539975399753998. Cantidad de informaci�n extra�da de la noticia EL MUNDO-26 para a�adirla a la noticia EL MUNDO-53 :388
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-53 
+T�tulo: 
+Yolanda D�az afirma que ella "ve�a lo que iba a pasar" con el Covid tres semanas antes de las manifestaciones del 8-M | Espa�a
+Fecha: 
+2021-12-02T17:43:06Z
+Autor: VICENTE COLL
+Contenido: La vicepresidenta segunda del Gobierno, Yolanda Díaz, ha afirmado este jueves que fue acusada de "alarmista" cuando, "en la antesala del 8 de marzo" de 2020, presentó como ministra de Trabajo una "guía" para empresas sobre cómo abordar el coronavirus, que ya "azotaba fuertemente" a Italia.Así lo ha expresado Díaz tras ser preguntada por este episodio, ocurrido a pocos días de que los contagios en España se disparasen y se decretara el estado de alarma, y que enfrentó al seno del Gobierno en vísperas de la celebración del Día Internacional de la Mujer. Unas movilizaciones a las que invitó a acudir el propio Ejecutivo, que defendía que España aún estaba en "fase de contención"."El 15 de febrero, como ya la pandemia azotaba fuertemente a Italia, convoqué a mi equipo porque tenía la convicción de que Italia es España y, por tanto, teníamos la necesidad de desplegar un montón de medidas porque veíamos lo que iba a pasar", ha explicado Díaz en una entrevista concedida a Radiocable."Tanto fue así", ha proseguido la vicepresidenta, "que el 4 de marzo presenté una guía que fue enormemente polémica en el Gobierno y también fuera, se me acusó de ser una alarmista... En fin. Esto fue en la antesala del 8 de marzo".Díaz ha rememorado este encontronazo tras ser preguntada por las tensiones internas de la coalición gubernamental. "Mi papel no es nada sencillo", ha admitido la líder de Unidas Podemos en el Gobierno, que en marzo de 2020 fue acusada de invadir competencias del Ministerio de Sanidad y en las últimas semanas ha acentuado sus diferencias con la vicepresidenta económica, Nadia Calviño, a cuenta de la reforma laboral.A principios de marzo de 2020, Moncloa distribuyó un comunicado en el que desautorizó la guía redactada por el equipo de Díaz: "Las indicaciones sobre la evolución del coronavirus y las medidas a tomar en España están coordinadas por el Ministerio de Sanidad en coordinación total entre las distintas administraciones del Estado".El manual también fue rechazado por el sector socialista del Gobierno. El entonces ministro de Sanidad, Salvador Illa, redujo su contenido a una "compilación" de recomendaciones, y la ministra portavoz en aquel momento, María Jesús Montero, insistió en que todas las indicaciones que partieran del Gobierno en relación al coronavirus "tendrían que estar bajo el paraguas del Ministerio de Sanidad".Finalmente, la propia ministra de Trabajo cambió su discurso tras la polémica surgida en el seno del Gobierno. Pasó a considerarlo también una "compilación" y transmitió calma a la ciudadanía: "Seamos cautas. No está pasando nada".Poco después de generarse la polémica, Díaz ha acusado a la oposición de buscar "polémicas artificiales" e "irreales", y ha recordado que el Partido Popular ya le tildó de "alarmista" por la publicación de aquella guía en marzo de 2020 y pidió su comparecencia y la de Carmen Calvo. Asimismo, ha defendido que el Gobierno ha actuado con diligencia y siguiendo en todo momento las directrices de los expertos, ha señalado en los pasillos del Congreso.La ministra de Trabajo no participó en las marchas por el Día Internacional de la Mujer de 2020. Esta fecha es, para la oposición, el momento en el que los contagios se disparan. Apenas cinco días después, el Gobierno de Pedro Sánchez anunció el estado de alarma, que se alargó hasta mediados de junio.En una de las principales manifestaciones, en Madrid, participó buena parte del Consejo de Ministros, que en los días previos había animado a la participación cumpliendo las normas dictadas por Sanidad: Carmen Calvo, Arancha González Laya, Fernando Grande-Marlaska, Isabel Celaá, Nadia Calviño y Carolina Darias. Por parte del sector de Unidas Podemos en el Gobierno acudió la ministra de Igualdad, Irene Montero.Yolanda Díaz, no obstante, llamó a "reivindicar los derechos" de este día "haciendo cosas diferentes" e invitó a manifestarse de manera "creativa". "Estamos en una pandemia y lo principal es la salud pública", dijo pocos días antes del 8-M, y pidió "un ejercicio de responsabilidad".
+
+
+EL MUNDO-26 
+T�tulo: 
+La Moncloa se aferra a la OMS para defender su gesti�n de la pandemia: "Podemos presumir de haber hecho una buena gesti�n" | Espa�a
+Fecha: 
+2021-12-03T14:54:20Z
+Autor: RA�L PI�A
+Contenido: La polémica sobre si el Gobierno actuó o no a tiempo frente al Covid-19 o si conocía la gravedad de los datos ante de la celebración del 8-M de 2020 incomoda al Ejecutivo. La controversia surge de nuevo después de que la vicepresidenta segunda, Yolanda Díaz, asegurase que vio venir desde mitad de febrero de 2020 el impacto que iba a tener la pandemia y que lo avisó dentro del Gobierno. "Podemos presumir de haber hecho una buena gestión", zanjan en La Moncloa ante la polémica suscitada, aferrándose a que la OMS ha felicitado a España por su gestión de la pandemia y por el éxito de la vacunación para tapar el señalamiento de Díaz.En el Gobierno no ha gustado que las declaraciones de la vicepresidenta, que habla de "polémica artificial", emborronen de una tacada su estrategia sobre la gestión de la pandemia y, a la vez, los buenos datos de empleo conocidos este jueves. Creación de empleo, recuperación económica y crecimiento son las palabras que repiten en el sector socialista del Gobierno, que si bien quiere esquivar la polémica con Díaz o echar gasolina a un nuevo fuego, no ha gustado que sus declaraciones desvíen el foco del mensaje que abandera el presidente del Gobierno centrado en la economía.En La Moncloa exponen que el Gobierno "está centrado" en la recuperación económica y en la creación de empleo. Es donde quieren poner el foco. Algo que han alterado las declaraciones de Díaz. La doctrina es mostrar unidad, que no hay choque o diferencias. Malestar en privado, pero no en público."Lo que hizo el Gobierno de España fue estar al frente de nuestro país y dar una respuesta bajo los criterios de la ciencia, los expertos y las autoridades sanitarias", ha expuesto la portavoz del Ejecutivo, Isabel Rodríguez, este viernes, tras el Consejo de Ministros. El Gobierno ya ha comenzado a celebrar dos reuniones a la semana, tras la orden de Pedro Sánchez a su gabinete de acelerar la actividad para evitar que un crecimiento económico menor del previsto trunque la recuperación.La Moncloa se aferra a la OMS para no dar pábulo a la crítica que pueda haber en la reflexión de la vicepresidenta Díaz, que esta semana en una entrevista ha querido recordar que fue acusada de "alarmista" cuando, "en la antesala del 8 de marzo" de 2020, presentó como ministra de Trabajo una "guía" para empresas sobre cómo abordar el coronavirus, que ya "azotaba fuertemente" a Italia. Por aquel entonces, desde el Gobierno se lanzaban mensajes de tranquilidad, hablando de "fase de contención del virus" y que en España "no tenemos cadenas de transmisión descontrolada" o que, entonces, "la transmisión no se ha incrementado".A principios de noviembre, el director regional de la OMS para Europa, Hans Kluge, visitó España, donde lanzó un mensaje de felicitación "por su liderazgo en la respuesta a la pandemia del Covid-19", porque en "España la gente confía en la vacuna, en el sistema de Atención Primaria y en su fortaleza, que es muy importante". Es la baza del Gobierno para desactivar la polémica resucitada por Díaz.La propia vicepresidenta segunda del Gobierno ha intentado desactivar la polémica, tratando de mandar un mensaje, en línea con el que defiende el sector socialista: "Hemos sido ejemplares en la gestión de la pandemia, a pesar de contar con dificultades y sin contar con apoyos para salvar vidas y empleo. Mi país es un ejemplo de la gestión de la pandemia y del proceso de vacunación".
+
+

@@ -1,0 +1,212 @@
+Estudio de la noticia EL MUNDO-1191
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1195 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1191 es el mismo artÌculo que la noticia EL MUNDO-1195
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618de2ede4d4d8ee328b4576.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/14/619036b8fc6c83725b8b45dd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/12
+        - 2021/11/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-1193 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1191 es el mismo artÌculo que la noticia EL MUNDO-1193
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/14/619036b8fc6c83725b8b45dd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/13
+        - 2021/11/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-1195', 'EL MUNDO-1193'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-1195 y EL MUNDO-1193:
+     No son la misma noticia.
+
+ - Comparo las noticias EL MUNDO-1193 y EL MUNDO-1195:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'EL MUNDO-1195', 'EL MUNDO-1193'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1191': {'EL MUNDO-1195', 'EL MUNDO-1193'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-1195
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1193 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1195 es el mismo artÌculo que la noticia EL MUNDO-1193
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618de2ede4d4d8ee328b4576.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/13
+        - 2021/11/12
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1191 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1195 es el mismo artÌculo que la noticia EL MUNDO-1191
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/14/619036b8fc6c83725b8b45dd.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618de2ede4d4d8ee328b4576.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/13
+        - 2021/11/12
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-1193', 'EL MUNDO-1191'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1191': {'EL MUNDO-1195', 'EL MUNDO-1193'}, 'EL MUNDO-1195': {'EL MUNDO-1191', 'EL MUNDO-1193'}}
+
+Estudio de la noticia EL MUNDO-1193
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1195 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1193 es el mismo artÌculo que la noticia EL MUNDO-1195
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/12/618de2ede4d4d8ee328b4576.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/11/12
+        - 2021/11/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-1193 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1193 es el mismo artÌculo que la noticia EL MUNDO-1193
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/13
+        - 2021/11/13
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-1191 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1193 es el mismo artÌculo que la noticia EL MUNDO-1191
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/14/619036b8fc6c83725b8b45dd.html
+        - https://www.elmundo.es/deportes/tenis/2021/11/13/618f713421efa040158b459d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/13
+        - 2021/11/13
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 2 noticias similares:
+{'EL MUNDO-1195', 'EL MUNDO-1191'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1191': {'EL MUNDO-1195', 'EL MUNDO-1193'}, 'EL MUNDO-1195': {'EL MUNDO-1191', 'EL MUNDO-1193'}, 'EL MUNDO-1193': {'EL MUNDO-1195', 'EL MUNDO-1191'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-1193', 'EL MUNDO-1195', 'EL MUNDO-1191'}
+{'EL MUNDO-1191': {'EL MUNDO-1195', 'EL MUNDO-1193'}, 'EL MUNDO-1195': {'EL MUNDO-1191', 'EL MUNDO-1193'}, 'EL MUNDO-1193': {'EL MUNDO-1195', 'EL MUNDO-1191'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-1193
+1: EL MUNDO-1195
+2: EL MUNDO-1191
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.77610619 0.72756072]
+ [0.72299465 0.         0.67476241]
+ [0.70909091 0.71580817 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-1193 -> EL MUNDO-1195: 0.7761061946902655. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1193 para aÒadirla a la noticia EL MUNDO-1195 :241
+         EL MUNDO-1195 -> EL MUNDO-1193: 0.7229946524064171. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1193 para aÒadirla a la noticia EL MUNDO-1195 :247
+
+         EL MUNDO-1193 -> EL MUNDO-1191: 0.7275607180570222. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1193 para aÒadirla a la noticia EL MUNDO-1191 :246
+         EL MUNDO-1191 -> EL MUNDO-1193: 0.7090909090909091. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1193 para aÒadirla a la noticia EL MUNDO-1191 :260
+
+         EL MUNDO-1195 -> EL MUNDO-1191: 0.6747624076029567. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1195 para aÒadirla a la noticia EL MUNDO-1191 :296
+         EL MUNDO-1191 -> EL MUNDO-1195: 0.7158081705150977. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1195 para aÒadirla a la noticia EL MUNDO-1191 :308
+
+         EL MUNDO-1195 -> EL MUNDO-1193: 0.7229946524064171. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1195 para aÒadirla a la noticia EL MUNDO-1193 :247
+         EL MUNDO-1193 -> EL MUNDO-1195: 0.7761061946902655. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1195 para aÒadirla a la noticia EL MUNDO-1193 :241
+
+         EL MUNDO-1191 -> EL MUNDO-1195: 0.7158081705150977. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1191 para aÒadirla a la noticia EL MUNDO-1195 :308
+         EL MUNDO-1195 -> EL MUNDO-1191: 0.6747624076029567. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1191 para aÒadirla a la noticia EL MUNDO-1195 :296
+
+         EL MUNDO-1191 -> EL MUNDO-1193: 0.7090909090909091. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1191 para aÒadirla a la noticia EL MUNDO-1193 :260
+         EL MUNDO-1193 -> EL MUNDO-1191: 0.7275607180570222. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-1191 para aÒadirla a la noticia EL MUNDO-1193 :246
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-1193 
+TÌtulo: 
+GarbiÒe Muguruza remonta ante Krejcikova y se mantiene con vida en las WTA Finals | Tenis
+Fecha: 
+2021-11-13T08:03:52Z
+Autor: EFE
+Contenido: Garbi√±e Muguruza fue de menos a m√°s para vencer por 2-6, 6-4, 6-4 a la checa Barbora Krejcikova y mantenerse con vida en las WTA Finals. La estonia Anett Kontaveit, ya clasificada para semifinales, ser√° su √∫ltima rival en busca de la pen√∫ltima ronda del torneo. El duelo comenz√≥ con varios errores no forzados de ambas jugadoras, la espa√±ola con dificultades para colocar bien sus primeros servicios. Krejcikova rompi√≥ en el primer juego, pero no confirm√≥ y Muguruza empat√≥ 1-1, sin embargo la checa se acomod√≥ mejor, sac√≥ provecho de una doble falta de la rival en el quinto juego y con un rompimiento se fue delante. Otra vez en el s√©ptimo juego Krejcikova rompi√≥ y asegur√≥ la victoria en el primer set, a pesar de cometer 15 errores no forzados con apenas siete tiros ganadores, un balance mejor al de Garbi√±e, con 18 fallas y dos 'winners' Muguruza mejor√≥ en el segundo set, meti√≥ 10 tiros ganadores y baj√≥ a una docena los errores no forzados; en el octavo juego, despu√©s de perder el saque y dejar de ir una ventaja, quebr√≥ el servicio de la checa y provoc√≥ un tercer set. La espa√±ola, enojada con Krejcikova, que la elimin√≥ en el Abierto de Estados Unidos, sali√≥ a buscar el partido y en el tercer juego quebr√≥ luego de cinco oportunidades no convertidas en 11 minutos; con una gran derecha al √°ngulo logr√≥ el punto y se puso delante 2-1. Con una marcada mejor√≠a con su primer servicio, Garbi√±e mantuvo su saque y aunque el d√©cimo juego le cost√≥ sacudirse la tensi√≥n, se recuper√≥ de 15-30 con un rev√©s al √°ngulo y un 'ace', para luego obligar a la checa a poner una pelota fuera.En la √∫ltima jornada del grupo, Kontaveit se enfrentar√° a Muguruza y Pliskova a su compatriota Krejcikova, en la √∫ltima jornada del grupo Teotihuac√°n.
+
+
+EL MUNDO-1195 
+TÌtulo: 
+Paula Badosa arrasa a Sabalenka, n˙mero 2 del mundo, y presenta su candidatura en la Copa de Maestras | Tenis
+Fecha: 
+2021-11-12T03:49:01Z
+Autor: EFE
+Contenido: La espa√±ola Paula Badosa, d√©cima de la clasificaci√≥n mundial, super√≥ un susto inicial y sin discusi√≥n se impuso este jueves por 6-4 y 6-0 a la bielorrusa Aryna Sabalenka en el debut del Akron Finals que transcurre en la ciudad mexicana de Guadalajara. El duelo comenz√≥ con numerosos errores por uno y otro lado. Badosa con dudas desde atr√°s. La bielorrusa hizo un 'break' en el sexto juego para tomar ventaja de 4-2 pero se desdibuj√≥ cuando ten√≠a todo a favor y desapareci√≥ de la cancha.Badosa sac√≥ provecho de la desconcentraci√≥n de la rival le rompi√≥ el servicio en el s√©ptimo juego y dio la vuelta al duelo. Incisiva domin√≥ a su rival y gan√≥ el primer set por 6-4. bLo que pas√≥ en la segunda manga fue una sorpresa. Paula gan√≥ seis juegos en fila ante una rival sin coordinaci√≥n, que despu√©s de perder el saque en el inicio, dej√≥ de luchar."Fui por mis golpes con confianza y salieron las cosas. Cada partido ser√° una batalla, pero estoy motivada de estar en Guadalajara", dijo la espa√±ola, que sac√≥ provecho de 20 errores forzados de Sabalenka, primera favorita del torneo. Por la tarde, la griega Mar√≠a Sakkari, sexta raqueta del mundo, se impuso por 6-2 y 6-4 a la polaca Iga Swiatek, novena, en un duelo en el que marc√≥ diferencia con su buen servicio.La WTA finals, dotada de una bolsa de premios de cinco millones de d√≥lares, transcurre con dos grupos de cuatro jugadoras cada una, de las cuales, dos se clasificar√°n a las semifinales. Este viernes, en el otro grupo, la espa√±ola Garbi√±e Muguruza, quinta del r√°nking mundial, enfrentar√° a la checa Barbora Krejcikova, en un duelo crucial en el que la perdedora quedar√° con todo en contra para tratar de acceder a semifinales.Poco antes, la checa Karolina Pliskova enfrentar√° a la estonia Anett Kontaveit, en un duelo de invictas, cuya ganadora se clasificar√° a la fase de las cuatro mejores. El torneo se disputa en Guadalajara, occidente de Mexico, a 1.566 metros sobre el nivel del mar, lo cual ha sido un reto para las tenistas, obligadas a hacer ajustes en condiciones en las que la pelota vuela m√°s r√°pido.
+
+
+EL MUNDO-1191 
+TÌtulo: 
+Badosa tambiÈn tumba a Sakkari y se clasifica para semifinales | Tenis
+Fecha: 
+2021-11-13T23:14:19Z
+Autor: AGENCIAS
+Contenido: La espa√±ola Paula Badosa derrot√≥ por 7-6(4), 6-4 a la griega Mar√≠a Sakkari y se clasific√≥ para las semifinales de las Finales WTA. Con superioridad en el 'tie break' del primer set y mejor en el servicio, a pesar de tener una baja f√≠sica en el segundo, Badosa, d√©cima raqueta del mundo, se convirti√≥ en semifinalista del torneo que reparte cinco millones de d√≥lares.Badosa mostr√≥ un gran rendimiento con su primer saque y en el sexto juego quebr√≥ el servicio de su rival, dubitativa por momentos y con numerosos errores no forzados. Certera y con gran movilidad en la pista, la hispana impuso condiciones, defendi√≥ bien, pero a la hora de cerrar el set, estuvo err√°tica, dej√≥ crecer a la griega y eso provoc√≥ un 'tie break', que gan√≥ Badosa 7-4.En el segundo set, Sakkari volvi√≥ a cometer errores en momentos cruciales y Paula le quebr√≥ el servicio en el tercer juego. La espa√±ola salv√≥ dos puntos de rotura en el cuarto para confirmar y tomar ventaja de 3-1. Sakkari se levant√≥ de un 0-40 en el quinto juego y quebr√≥ en el octavo ante Badosa, quien baj√≥ el rendimiento f√≠sico.Con el marcador 4-4 y todo a favor para buscar el set, Sakkari fall√≥ una dejada y ech√≥ dos pelotas fuera, lo cual le dio vida a la espa√±ola. En el grupo Chichen Itza, Badosa suma dos victorias sin derrotas y a falta de una jornada est√° clasificada. El otro lugar para la semifinal lo disputar√°n Sakkari, con la bielorrusa Aryna Sabalenka y la polaca Iga Swiatek, que se enfrentar√°n este s√°bado.Este domingo, la espa√±ola Garbi√±e Muguruza buscar√° su acceso a las semifinales ante la estonia Annet Kontaveit, ya asegurada en la fase de las cuatro mejores, mientras la checa Karolina Pliskova ir√° ante su compatriota Barbora Krejcikova.
+
+

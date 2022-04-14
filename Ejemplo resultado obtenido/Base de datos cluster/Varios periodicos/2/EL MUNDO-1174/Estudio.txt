@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-1174
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia El Confidencial-193 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1174 es el mismo art�culo que la noticia El Confidencial-193
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/tenis/2021-11-25/carlos-alcaraz-espana-positivo-covid-copa-davis_3331265/
+        - https://www.elmundo.es/deportes/tenis/2021/11/25/619fe756fdddff00438b459a.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/25
+        - 2021/11/25
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-193'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-193'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1174': {'El Confidencial-193'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-193
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-1174 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-193 es el mismo art�culo que la noticia EL MUNDO-1174
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/tenis/2021/11/25/619fe756fdddff00438b459a.html
+        - https://www.elconfidencial.com/deportes/tenis/2021-11-25/carlos-alcaraz-espana-positivo-covid-copa-davis_3331265/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/25
+        - 2021/11/25
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1174'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1174': {'El Confidencial-193'}, 'El Confidencial-193': {'EL MUNDO-1174'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-193', 'EL MUNDO-1174'}
+{'EL MUNDO-1174': {'El Confidencial-193'}, 'El Confidencial-193': {'EL MUNDO-1174'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-193
+1: EL MUNDO-1174
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.77372263]
+ [0.78311768 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-193 -> EL MUNDO-1174: 0.7737226277372263. Cantidad de informaci�n extra�da de la noticia El Confidencial-193 para a�adirla a la noticia EL MUNDO-1174 :360
+         EL MUNDO-1174 -> El Confidencial-193: 0.7831176833025262. Cantidad de informaci�n extra�da de la noticia El Confidencial-193 para a�adirla a la noticia EL MUNDO-1174 :340
+
+         EL MUNDO-1174 -> El Confidencial-193: 0.7831176833025262. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1174 para a�adirla a la noticia El Confidencial-193 :340
+         El Confidencial-193 -> EL MUNDO-1174: 0.7737226277372263. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1174 para a�adirla a la noticia El Confidencial-193 :360
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-193 
+T�tulo: 
+Carlos Alcaraz deja a Espa�a m�s hu�rfana: positivo por covid y fuera de la Copa Davis
+Fecha: 
+2021-11-25T20:33:00+01:00
+Autor: A. R.
+Contenido:   Carlos Alcaraz, integrante del equipo español de la Copa Davis, ha dado positivo por covid 19, tras los análisis realizados por la organización de las Finales de la Copa Davis que se disputan en Madrid, Innsbruck y Turín. El joven jugador de 18 años se perderá la cita, sumando una nueva baja para el equipo español. Pablo Carreño, Feliciano López, Albert Ramos y Marcel Granollers han sido sometidos a pruebas PCR para comprobar si existe otro contagio en la expedición, resultando todos negativos. Pedro Martínez Portero, número 60 del mundo, sustituirá a Alcaraz. El equipo debuta este viernes a las 16:00 frente a Ecuador en un torneo que ha empezado de la peor manera posible.          Por qué Carlos Alcaraz lo tiene todo para hacer historia en el tenis: así 'destrozó' a Rafa Nadal    Rubén Rodríguez    La Real Federación Española de Tenis y la organización del torneo comunicaron que un integrante de la selección española resultó positivo. "Tras recibir el resultado de los test que realiza la organización se ha activado el plan de respuesta sanitaria en coordinación con el jefe médico independiente de la competición", indica el comunicado de la RFET. Carlos Alcaraz, minutos después, confirmaba que él era el integrante del equipo español que ha dado positivo.   "He dado positivo y esto me impedirá jugar la Copa Davis que tanta ilusión me hacía. El sábado que nos concentramos por primera vez con el equipo me hice una PCR que dio negativa y cada dos días, test de antígenos, y todos dieron negativo", comenzó relatando Alcaraz a través de sus redes sociales: "Estoy triste por la manera que me he perdido un torneo tan especial y tan importante para mí como la Copa Davis. Me hacía mucha ilusión poder jugar y representar a mi país aquí en Madrid delante de mi gente, pero a veces las cosas no suceden como uno quiere y hay que sobreponerse".   "Es un palo muy duro, pero habrá que levantarse de esta situación y hacerlo reforzado. De momento me encuentro muy bien, con síntomas muy leves y veremos a ver cómo va progresando. Muchísimo ánimo a todo el equipo. Estaré animando y viendo por televisión. Gracias a todos por vuestro apoyo", sentenció.           Roberto Bautista, otra de las bajas de la 'Armada'. (EFE/EPA/Anatoly Maltsev)     Se trata de la tercera baja capital que sufre el capitán Sergi Bruguera. El equipo español no pudo contar desde el principio con Rafa Nadal, que espera regresar antes de final de año a las competiciones, pero que todavía está convaleciente de sus problemas físicos en el pie izquierdo. Después seguiría el adiós de Roberto Bautista, número 1 de la convocatoria española, que confirmó su baja a causa de una lesión abdominal. "Es una baja muy importante porque nos suma mucho en todos los aspectos, tanto el tenístico como el personal. Ha demostrado lo bien que compite en esta competición. Es un duro golpe su baja para nosotros, pero hay que intentar superarlo", aseguró Bruguera. El inesperado positivo de Alcaraz deja al equipo sin uno de los jugadores más en forma del planeta, además de ausentar a un reclamo mediático en una convocatoria sin las grandes estrellas del tenis español.  
+
+
+EL MUNDO-1174 
+T�tulo: 
+Carlos Alcaraz da positivo por Covid y deja en cuadro al equipo espa�ol de la Copa Davis | Tenis
+Fecha: 
+2021-11-25T21:01:11Z
+Autor: JAVIER MART�NEZ
+Contenido: España no podrá contar con la gran esperanza del equipo de Copa Davis, el tenista llamado a cubrir el vacío de Rafael Nadal, ausente por lesión en las Finales de este torneo que se iniciaron este jueves. Carlos Alcaraz dio positivo por Covid y será baja. Una vez conocida la noticia, el equipo español canceló el entrenamiento vespertino y los jugadores se recluyeron en sus habitaciones tras someterse a una prueba que descartase otros casos. El resto del equipo dio negativo."Estaba muy emocionado por representar a España en Madrid, con nuestra afición, pero a veces las cosas no salen como quieres y hay que sobreponerse. Me encuentro bien, con débiles síntomas y veremos cómo progreso. Mucho ánimo a todo el equipo, estaré animando desde la televisión", aseguró Alcaraz en su cuenta de Instagram.Alcaraz, que está vacunado, iba a disputar los individuales junto a Pablo Carreño, número 1 del conjunto que capitanea Sergi Bruguera, en la primera eliminatoria de este viernes, ante Ecuador, en el Madrid Arena. Tras la baja de Roberto Bautista, lesionado en la zona abdominal el pasado martes, Bruguera deberá elegir entre Albert Ramos, el hombre convocado para relevarle, Feliciano López, que en principio sólo iba a disputar sólo el encuentro de dobles junto a Marcel Granollers, o Pedro Martínez, reclutado de emergencia.Ganador de dos títulos esta temporada, cuartofinalista del Abierto de Estados Unidos después de dejar en su camino a Stefanos Tsitsipas, y con tres victorias frente a rivales del top 10 en la temporada de su explosión, Alcaraz, se encontraba listo para hacer su debut en la competición que proyectó la carrera de Nadal.La desgracia persigue al equipo español, que hace dos años, en su camino hacia el sexto título de la Copa Davis, ya hubo de hacer frente a la baja de Bautista, que se ausentó debido a la muerte de su padre aunque pudo regresar y ser coprotagonista en la final, y de Pablo Carreño, también golpeado por una lesión.España, encuadrada en el Grupo A, no debería tener problemas para superar a Ecuador, cuyo mejor hombre, Emilio Gómez, es el número 149 de la ATP y se mueve por torneos challengers. Bien distinta es la situación contra Rusia, la favorita para levantar la copa el día 5, a la que se medirá el domingo. Con dos jugadores entre los cinco primeros del escalafón, Daniil Medvedev, número dos, y Andrey Rublev, cinco, Aslan Karatsev, 18º, y Karen Khachanov, 28º, el grupo que dirige Shamil Tarpischev parece inabordable para esta debilitada España.Son 18 los países que disputan el torneo en tres sedes, Madrid, Insbruck y Turín, distribuidos en seis grupos. Los líderes de cada uno de ellos y los dos mejores segundos se clasifican para los cruces de cuartos de final.Pedro Martínez, 60º, es un jugador valenciano de 24 años que el pasado verano disputó en el ATP 250 de Kitzbuhel, sobre arcilla, su primera final del circuito. Nunca había sido convocado para la Davis. Sin Nadal, sexto del ránking y ganador de 20 grandes, Bautista, 19º, y Alcaraz, 32º, España sufre una tremenda merma cualitativa
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia elEconomista.es-66
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia elEconomista.es-77 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-66 es el mismo art�culo que la noticia elEconomista.es-77
+     Se trata de noticias distintas: 
+        - https://www.eleconomista.es/empresas-finanzas/noticias/11508383/12/21/Adif-adjudica-obras-por-112-millones-de-la-linea-del-AVE-MadridGalicia.html
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508383/12/21/Adif-adjudica-obras-por-112-millones-de-la-linea-del-AVE-MadridGalicia.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'elEconomista.es-77'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'elEconomista.es-77'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-66': {'elEconomista.es-77'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia elEconomista.es-77
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia elEconomista.es-66 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-77 es el mismo art�culo que la noticia elEconomista.es-66
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508383/12/21/Adif-adjudica-obras-por-112-millones-de-la-linea-del-AVE-MadridGalicia.html
+        - https://www.eleconomista.es/empresas-finanzas/noticias/11508383/12/21/Adif-adjudica-obras-por-112-millones-de-la-linea-del-AVE-MadridGalicia.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'elEconomista.es-66'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-66': {'elEconomista.es-77'}, 'elEconomista.es-77': {'elEconomista.es-66'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'elEconomista.es-66', 'elEconomista.es-77'}
+{'elEconomista.es-66': {'elEconomista.es-77'}, 'elEconomista.es-77': {'elEconomista.es-66'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: elEconomista.es-66
+1: elEconomista.es-77
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.02237136]
+ [0.01797753 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         elEconomista.es-66 -> elEconomista.es-77: 0.02237136465324385. Cantidad de informaci�n extra�da de la noticia elEconomista.es-66 para a�adirla a la noticia elEconomista.es-77 :862
+         elEconomista.es-77 -> elEconomista.es-66: 0.017977528089887642. Cantidad de informaci�n extra�da de la noticia elEconomista.es-66 para a�adirla a la noticia elEconomista.es-77 :862
+
+         elEconomista.es-77 -> elEconomista.es-66: 0.017977528089887642. Cantidad de informaci�n extra�da de la noticia elEconomista.es-77 para a�adirla a la noticia elEconomista.es-66 :862
+         elEconomista.es-66 -> elEconomista.es-77: 0.02237136465324385. Cantidad de informaci�n extra�da de la noticia elEconomista.es-77 para a�adirla a la noticia elEconomista.es-66 :862
+
+
+***********      Informaci�n de las noticias     ***********
+
+elEconomista.es-66 
+T�tulo: 
+Adif adjudica obras por 112 millones de la l�nea del AVE Madrid-Galicia - elEconomista.es
+Fecha: 
+2021-12-04T13:44:41+01:00
+Autor: elEconomista.es
+Contenido: Adif Alta Velocidad (AV) ha adjudicado por un total de 112 millones de euros dos contratos de obras para la construcción de la plataforma de integración urbana y acondicionamiento de la red ferroviaria de Ourense correspondientes a dos tramos de la línea del AVE Madrid-Galicia.Según ha informado este sábado la empresa en un comunicado y recoge la Agencia EFE, se trata de los tramos Taboadela-Túnel de Rante y Túnel de Rante-Conexión Seixalbo de la variante exterior de Ourense de la citada línea de alta velocidad.En concreto, el tramo Taboadela-Túnel de Rante ha sido adjudicado a la unión temporal de empresas (UTE) formada por Construcciones Sánchez Domínguez Sando y Rover Infraestructuras, por 83,4 millones de euros; mientras que el tramo Túnel de Rante-Conexión Seixalbo ha sido adjudicado a Rover Infraestructuras por 27,5 millones.   Ambos contratos comprenden la ejecución de las obras de plataforma (infraestructura) de los tramos, incluida la capa de subbalasto, de forma que serán objeto de otros contratos posteriores la superestructura (vía) y el resto de las instalaciones ferroviarias (electrificación, señalización o comunicaciones).El túnel de Rante es la obra más importante de estos tramos adjudicados, ya que se trata de un túnel monotubo para vía doble, de 3.410 metros de longitud (el 60,9 % del total del tramo) y 85 metros cuadrados de sección.Justo al comienzo del tramo se ejecutará un viaducto de 356 metros de longitud para salvar el cruce con la carretera N-525 y el río Barbaña.Asimismo, Adif AV ha adjudicado un contrato de consultoría y asistencia técnica para el control de las obras del tramo Túnel de Rante-Conexión Seixalbo, a la UTE formada por las empresas Applus Norcontrol y Eptisa Servicios de Ingeniería por 1,6 millones euros.
+
+
+elEconomista.es-77 
+T�tulo: 
+Adif adjudica obras por 112 millones de la l�nea del AVE Madrid-Galicia - elEconomista.es
+Fecha: 
+2021-12-04T13:44:41+01:00
+Autor: elEconomista.es
+Contenido: Adif Alta Velocidad (AV) ha adjudicado por un total de 112 millones de euros dos contratos de obras para la construcción de la plataforma de integración urbana y acondicionamiento de la red ferroviaria de Ourense correspondientes a dos tramos de la línea del AVE Madrid-Galicia.Según ha informado este sábado la empresa en un comunicado y recoge la Agencia EFE, se trata de los tramos Taboadela-Túnel de Rante y Túnel de Rante-Conexión Seixalbo de la variante exterior de Ourense de la citada línea de alta velocidad.En concreto, el tramo Taboadela-Túnel de Rante ha sido adjudicado a la unión temporal de empresas (UTE) formada por Construcciones Sánchez Domínguez Sando y Rover Infraestructuras, por 83,4 millones de euros; mientras que el tramo Túnel de Rante-Conexión Seixalbo ha sido adjudicado a Rover Infraestructuras por 27,5 millones.   Ambos contratos comprenden la ejecución de las obras de plataforma (infraestructura) de los tramos, incluida la capa de subbalasto, de forma que serán objeto de otros contratos posteriores la superestructura (vía) y el resto de las instalaciones ferroviarias (electrificación, señalización o comunicaciones).El túnel de Rante es la obra más importante de estos tramos adjudicados, ya que se trata de un túnel monotubo para vía doble, de 3.410 metros de longitud (el 60,9 % del total del tramo) y 85 metros cuadrados de sección.Justo al comienzo del tramo se ejecutará un viaducto de 356 metros de longitud para salvar el cruce con la carretera N-525 y el río Barbaña.Asimismo, Adif AV ha adjudicado un contrato de consultoría y asistencia técnica para el control de las obras del tramo Túnel de Rante-Conexión Seixalbo, a la UTE formada por las empresas Applus Norcontrol y Eptisa Servicios de Ingeniería por 1,6 millones euros.
+
+

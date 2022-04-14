@@ -1,0 +1,131 @@
+Estudio de la noticia elEconomista.es-64
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia elEconomista.es-84 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-64 es el mismo art�culo que la noticia elEconomista.es-84
+     Se trata de noticias distintas: 
+        - https://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia elEconomista.es-67 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-64 es el mismo art�culo que la noticia elEconomista.es-67
+     Se trata de la misma noticia: 
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'elEconomista.es-84'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'elEconomista.es-84'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-64': {'elEconomista.es-84'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia elEconomista.es-84
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia elEconomista.es-64 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-84 es el mismo art�culo que la noticia elEconomista.es-64
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+        - https://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia elEconomista.es-67 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia elEconomista.es-84 es el mismo art�culo que la noticia elEconomista.es-67
+     Se trata de noticias distintas: 
+        - http://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+        - https://www.eleconomista.es/empresas-finanzas/noticias/11508178/12/21/El-turismo-nacional-salva-el-puente-de-diciembre-con-el-85-de-las-reservas.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/04
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'elEconomista.es-64'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'elEconomista.es-64': {'elEconomista.es-84'}, 'elEconomista.es-84': {'elEconomista.es-64'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'elEconomista.es-64', 'elEconomista.es-84'}
+{'elEconomista.es-64': {'elEconomista.es-84'}, 'elEconomista.es-84': {'elEconomista.es-64'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: elEconomista.es-64
+1: elEconomista.es-84
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.02412281]
+ [0.021261   0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         elEconomista.es-64 -> elEconomista.es-84: 0.02412280701754386. Cantidad de informaci�n extra�da de la noticia elEconomista.es-64 para a�adirla a la noticia elEconomista.es-84 :1323
+         elEconomista.es-84 -> elEconomista.es-64: 0.02126099706744868. Cantidad de informaci�n extra�da de la noticia elEconomista.es-64 para a�adirla a la noticia elEconomista.es-84 :1323
+
+         elEconomista.es-84 -> elEconomista.es-64: 0.02126099706744868. Cantidad de informaci�n extra�da de la noticia elEconomista.es-84 para a�adirla a la noticia elEconomista.es-64 :1323
+         elEconomista.es-64 -> elEconomista.es-84: 0.02412280701754386. Cantidad de informaci�n extra�da de la noticia elEconomista.es-84 para a�adirla a la noticia elEconomista.es-64 :1323
+
+
+***********      Informaci�n de las noticias     ***********
+
+elEconomista.es-64 
+T�tulo: 
+El turismo nacional salva el puente de diciembre con el 85% de las reservas - elEconomista.es
+Fecha: 
+2021-12-04T11:08:53+01:00
+Autor: elEconomista 
+Contenido: El sector turístico recibe este año a una gran mayoría de visitantes nacionales. El movimiento dentro de nuestras fronteras aportará hasta el 85% de las reservas. Los viajeros nacionales en este puente de la Constitución prefieren visitar el interior de Andalucía, Aragón o la Costa del Sol. Con la alerta de la nueva variante del virus, ómicron acechando la movilidad de ciudadanos entre fronteras, el turismo patrio tira del sector en plena temporada alta previa a la Navidad.Según datos de la compañía de alquiler vacacional Belvilla, las reservas de viajeros españoles para casas vacacionales en España en el puente de la Constitución aumentan un 700% en comparación con el mismo periodo de 2020 y en torno a un 280% si se compara con 2019, en periodo pre-Covid.Además, los españoles disfrutarán de estancias de entre dos y cuatro días en casas de vacaciones el próximo puente y el 62% de los alojamientos reservados son casas vacacionales, el 20% villas y el 10% apartamentos.Por otro lado, las familias y los grupos son el tipo de viajero que predomina tanto estos como en las vacaciones de Navidad.   Belvilla también ha recordado a sus huéspedes que antes de reservar su próxima estancia deberán consultar y seguir las regulaciones vigentes relativas a la pandemia ofrecidas por las autoridades oficiales de cada destino.Así, los aeropuertos españoles registrarán un total de 25.304 movimientos aéreos durante estas jornadas, que abarcan desde este viernes 3 de diciembre hasta el próximo jueves 9 de diciembre, según informaron fuentes de Aena a Europa Press. Del total de vuelos programados, cerca de 12.000 operaciones serán dentro del territorio nacional en el puente.Según el gestor aeroportuario, este viernes será el día de mayor tráfico en el conjunto de la red de aeropuertos de Aena, con un total de 4.045 vuelos programados, 1.966 dentro de nuestras fronteras y 2.079 internacionales.Para el sábado hay previstas 4.008 operaciones de llegada y salida en el conjunto de los aeropuertos españoles, mientras que el domingo tendrán lugar un total de 3.769 movimientos. Después del fin de semana los vuelos programados bajan. De cara a las fiestas navideñas, los españoles gastarán un 50% más estas navidades que en las de 2020 y también incrementarán sus viajes, según revela el estudio realizado por el Instituto IO Investigación para Securitas Direct sobre las próximas fiestas navideñas.En cuanto a la llegada de visitantes internacionales, la incertidumbre se ha multiplicado por culpa de la expansión de la variante ómicron del Covid, procedente de Sudáfrica -según la ministra de Sanidad Carolina Darias, ya se han detectado al menos cinco casos en España y dos por confirmar- y es posible que se trunque la buena tendencia observada en 2021 hasta agosto.
+
+
+elEconomista.es-84 
+T�tulo: 
+El turismo nacional salva el puente de diciembre con el 85% de las reservas - elEconomista.es
+Fecha: 
+2021-12-04T11:08:53+01:00
+Autor: elEconomista 
+Contenido: El sector turístico recibe este año a una gran mayoría de visitantes nacionales. El movimiento dentro de nuestras fronteras aportará hasta el 85% de las reservas. Los viajeros nacionales en este puente de la Constitución prefieren visitar el interior de Andalucía, Aragón o la Costa del Sol. Con la alerta de la nueva variante del virus, ómicron acechando la movilidad de ciudadanos entre fronteras, el turismo patrio tira del sector en plena temporada alta previa a la Navidad.Según datos de la compañía de alquiler vacacional Belvilla, las reservas de viajeros españoles para casas vacacionales en España en el puente de la Constitución aumentan un 700% en comparación con el mismo periodo de 2020 y en torno a un 280% si se compara con 2019, en periodo pre-Covid.Además, los españoles disfrutarán de estancias de entre dos y cuatro días en casas de vacaciones el próximo puente y el 62% de los alojamientos reservados son casas vacacionales, el 20% villas y el 10% apartamentos.Por otro lado, las familias y los grupos son el tipo de viajero que predomina tanto estos como en las vacaciones de Navidad.   Belvilla también ha recordado a sus huéspedes que antes de reservar su próxima estancia deberán consultar y seguir las regulaciones vigentes relativas a la pandemia ofrecidas por las autoridades oficiales de cada destino.Así, los aeropuertos españoles registrarán un total de 25.304 movimientos aéreos durante estas jornadas, que abarcan desde este viernes 3 de diciembre hasta el próximo jueves 9 de diciembre, según informaron fuentes de Aena a Europa Press. Del total de vuelos programados, cerca de 12.000 operaciones serán dentro del territorio nacional en el puente.Según el gestor aeroportuario, este viernes será el día de mayor tráfico en el conjunto de la red de aeropuertos de Aena, con un total de 4.045 vuelos programados, 1.966 dentro de nuestras fronteras y 2.079 internacionales.Para el sábado hay previstas 4.008 operaciones de llegada y salida en el conjunto de los aeropuertos españoles, mientras que el domingo tendrán lugar un total de 3.769 movimientos. Después del fin de semana los vuelos programados bajan. De cara a las fiestas navideñas, los españoles gastarán un 50% más estas navidades que en las de 2020 y también incrementarán sus viajes, según revela el estudio realizado por el Instituto IO Investigación para Securitas Direct sobre las próximas fiestas navideñas.En cuanto a la llegada de visitantes internacionales, la incertidumbre se ha multiplicado por culpa de la expansión de la variante ómicron del Covid, procedente de Sudáfrica -según la ministra de Sanidad Carolina Darias, ya se han detectado al menos cinco casos en España y dos por confirmar- y es posible que se trunque la buena tendencia observada en 2021 hasta agosto.
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-1254
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1280 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1254 es el mismo art�culo que la noticia EL MUNDO-1280
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/motor/2021/11/16/6193e60121efa0004f8b45d2.html
+        - https://www.elmundo.es/motor/2021/11/23/619cd52ee4d4d8fe238b45b9.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 7 d�as de diferencia: 
+        - 2021/11/16
+        - 2021/11/23
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-1280'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-1280'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1254': {'EL MUNDO-1280'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-1280
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-1254 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1280 es el mismo art�culo que la noticia EL MUNDO-1254
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/motor/2021/11/23/619cd52ee4d4d8fe238b45b9.html
+        - https://www.elmundo.es/motor/2021/11/16/6193e60121efa0004f8b45d2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 7 d�as de diferencia: 
+        - 2021/11/23
+        - 2021/11/16
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1254'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1254': {'EL MUNDO-1280'}, 'EL MUNDO-1280': {'EL MUNDO-1254'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-1280', 'EL MUNDO-1254'}
+{'EL MUNDO-1254': {'EL MUNDO-1280'}, 'EL MUNDO-1280': {'EL MUNDO-1254'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-1280
+1: EL MUNDO-1254
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.78485093]
+ [0.724      0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-1280 -> EL MUNDO-1254: 0.7848509266720387. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1280 para a�adirla a la noticia EL MUNDO-1254 :255
+         EL MUNDO-1254 -> EL MUNDO-1280: 0.724. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1280 para a�adirla a la noticia EL MUNDO-1254 :264
+
+         EL MUNDO-1254 -> EL MUNDO-1280: 0.724. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1254 para a�adirla a la noticia EL MUNDO-1280 :264
+         EL MUNDO-1280 -> EL MUNDO-1254: 0.7848509266720387. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1254 para a�adirla a la noticia EL MUNDO-1280 :255
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-1280 
+T�tulo: 
+Renault propone prolongar el actual ERTE seis meses m�s | Motor
+Fecha: 
+2021-11-16T17:14:35Z
+Autor: EL MUNDO
+Contenido: El expediente temporal de empleo, ERTE, en las plantas de Renault en Valladolid y Palencia se prorrogará hasta el 30 de junio de 2022 según ha comunicado la empresa a los representantes sindicales. La razón sigue siendo la escasez de chips y semiconductores, que no llegan a los lugares de producción por la crisis mundial de abastecimiento de estos elementos. Quedarán afectadas las plantas de montaje palentina y pucelana, así como la de motores y carrocería de esta última factoría.El ERTE en vigor comenzó el 1 de agosto y continuará hasta el último día de 2021. Implica a 9.448 empleados.Renault comunicó su decisión este martes a los representantes de los trabajadores durante una reunión y se ha constituido una mesa de negociación del ERTE, que incluiría 78 paradas de toda la plantilla en Palencia, 77 en la planta de Montaje y Direcciones Centrales de Valladolid, 90 en la de Carrocería y 76 en la de motores. La primera reunión negociadora será mañana y Comisiones Obreras ha anunciado que pedirá las mismas condiciones del actual ERTE, informa Efe. UGT añadió que antes de aplicarlo se agoten todas las medidas de flexibilidad pactadas, que se solucionen los descuadres de nómina, y que se refuercen los mantenimientos para evitar pérdidas de producción por averías en las instalaciones. "Analizaremos con responsabilidad esta situación pero exigimos esa misma responsabilidad a la dirección de la empresa y un acuerdo beneficioso para ambas partes que dé seguridad y estabilidad a los trabajadores», avanzó Rubén González, delegado de CC.OO y secretario adjunto del Comité Grupo Renault.Con muchas más dudas se manifestó la central CGT, que acusó al Grupo Renault de que esté "relegando a un segundo plano" a las factorías españolas y tilda a las administraciones de "cómplices" de este proceso al conceder subvenciones y ayudas.
+
+
+EL MUNDO-1254 
+T�tulo: 
+La prolongaci�n del ERTE en Renault hasta junio de 2022 afecta a toda la plantilla de Valladolid y Palencia | Motor
+Fecha: 
+2021-11-23T11:51:26Z
+Autor: EL MUNDO
+Contenido: La prolongación del Expediente de Regulación de Empleo Suspensivo (ERTE) que pretendía Renault España hasta el 30 de junio de 2022 se ha consumado con la firma del acuerdo por parte de los sindicatos CCOO, UGT y SCP. Por el contrario, Trabajadores Unidos (TU) y CGT se han negado a aceptar esta prórroga de siete meses sobre el ERTE aún en vigor hasta final de mes. Afectará a 8.777 trabajadores desde el 1 de diciembre. Terminado el periodo de consultas, se ha convocado para el miércoles 24 una reunión extraordinaria del Comité Intercentros con participación del presidente de Renault España y director mundial de Fabricación del Grupo Renault, José Vicente de los Mozos. El dirigente quiere exponer la situación por la que atraviesa la empresa, que es delicada por la escasez de microchips para la producción de los coches, además del encarecimiento de otras materias primas.CCOO ha sido la última en incorporarse al acuerdo de prórroga una vez, según aportó el sindicato, que se ha incluido en el acta del acuerdo que no habrá reestructuración de la plantilla indefinida de Renault España y un compromiso de recuperar los trabajadores eventuales a los que no se les renovó el contrato una vez que se supere la crisis actual de desabastecimiento. UGT y SCP ya habían pactado la prolongación del ERTE el pasado jueves y aseguran que tras la reunión de este martes no ha cambiado el documento acordado entonces.CGT se mantiene en su negativa a firmar, ya que no confía en que finalmente la empresa pueda despedir a trabajadores con contrato indefinido, porque se ha limitado a señalar que no lo hará "en estos momentos". La prolongación del ERTE afectará a toda la plantilla de Valladolid y Palencia, desde el 1 de diciembre de 2021 hasta el 30 de junio de 2022, y se distribuirá con un máximo de 77 jornadas de parada en la Factoría Montaje y de Direcciones Centrales, 90 en la Factoría Carrocería y 76 en Motores de Valladolid, y 78 jornadas de parada en Palencia y líneas concatenadas de Valladolid.El acuerdo alcanzado garantiza el 85% del salario bruto individual, el 100% de las pagas y las vacaciones; el mantenimiento de la aportación a las dos mutuas durante el ERTE; que los anuncios de las paradas se hagan en los mismos plazos que se utilizan para la bolsa de horas; y que se agote la flexibilidad pactada en la bolsa antes de aplicar el ERTE. Los trabajadores podrán cambiar días de ERTE por días de descanso.
+
+

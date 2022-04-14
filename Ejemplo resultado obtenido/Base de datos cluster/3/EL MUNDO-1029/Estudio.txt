@@ -1,0 +1,207 @@
+Estudio de la noticia EL MUNDO-1029
+
+Pertenece a la carpeta de dependencias: 3
+
+La noticia es similar a la noticia EL MUNDO-982 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1029 es el mismo art�culo que la noticia EL MUNDO-982
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+La noticia es similar a la noticia El Confidencial-185 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1029 es el mismo art�culo que la noticia El Confidencial-185
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/futbol/liga/2021-12-03/real-madrid-carta-oferta-jpmorgan-cvc-laliga_3335951/
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/03
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia El Confidencial-188 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1029 es el mismo art�culo que la noticia El Confidencial-188
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/laliga-propuesta-florentino-tumbar-acuerdo-cvc_3335496/
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-185', 'El Confidencial-188'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias El Confidencial-185 y El Confidencial-188:
+     No son la misma noticia.
+
+ - Comparo las noticias El Confidencial-188 y El Confidencial-185:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'El Confidencial-185', 'El Confidencial-188'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1029': {'El Confidencial-185', 'El Confidencial-188'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-185
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-982 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-185 es el mismo art�culo que la noticia EL MUNDO-982
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+        - https://www.elconfidencial.com/deportes/futbol/liga/2021-12-03/real-madrid-carta-oferta-jpmorgan-cvc-laliga_3335951/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-1029 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-185 es el mismo art�culo que la noticia EL MUNDO-1029
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+        - https://www.elconfidencial.com/deportes/futbol/liga/2021-12-03/real-madrid-carta-oferta-jpmorgan-cvc-laliga_3335951/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/03
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1029'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1029': {'El Confidencial-185', 'El Confidencial-188'}, 'El Confidencial-185': {'EL MUNDO-1029'}}
+
+Estudio de la noticia El Confidencial-188
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-982 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-188 es el mismo art�culo que la noticia EL MUNDO-982
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/laliga-propuesta-florentino-tumbar-acuerdo-cvc_3335496/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-1029 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-188 es el mismo art�culo que la noticia EL MUNDO-1029
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/2021/12/02/61a932f2e4d4d8350c8b4597.html
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/laliga-propuesta-florentino-tumbar-acuerdo-cvc_3335496/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1029'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1029': {'El Confidencial-185', 'El Confidencial-188'}, 'El Confidencial-185': {'EL MUNDO-1029'}, 'El Confidencial-188': {'EL MUNDO-1029'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-185', 'El Confidencial-188', 'EL MUNDO-1029'}
+{'EL MUNDO-1029': {'El Confidencial-185', 'El Confidencial-188'}, 'El Confidencial-185': {'EL MUNDO-1029'}, 'El Confidencial-188': {'EL MUNDO-1029'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-185
+1: EL MUNDO-1029
+2: El Confidencial-188
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.60237236 1.        ]
+ [0.62571157 0.         0.5472936 ]
+ [1.         0.57607014 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-185 -> EL MUNDO-1029: 0.6023723568849922. Cantidad de informaci�n extra�da de la noticia El Confidencial-185 para a�adirla a la noticia EL MUNDO-1029 :759
+         EL MUNDO-1029 -> El Confidencial-185: 0.6257115749525617. Cantidad de informaci�n extra�da de la noticia El Confidencial-185 para a�adirla a la noticia EL MUNDO-1029 :777
+
+         EL MUNDO-1029 -> El Confidencial-185: 0.6257115749525617. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1029 para a�adirla a la noticia El Confidencial-185 :777
+         El Confidencial-185 -> EL MUNDO-1029: 0.6023723568849922. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1029 para a�adirla a la noticia El Confidencial-185 :759
+
+         EL MUNDO-1029 -> El Confidencial-188: 0.5472936030617824. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1029 para a�adirla a la noticia El Confidencial-188 :816
+         El Confidencial-188 -> EL MUNDO-1029: 0.5760701392470345. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1029 para a�adirla a la noticia El Confidencial-188 :810
+
+         El Confidencial-188 -> EL MUNDO-1029: 0.5760701392470345. Cantidad de informaci�n extra�da de la noticia El Confidencial-188 para a�adirla a la noticia EL MUNDO-1029 :810
+         EL MUNDO-1029 -> El Confidencial-188: 0.5472936030617824. Cantidad de informaci�n extra�da de la noticia El Confidencial-188 para a�adirla a la noticia EL MUNDO-1029 :816
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-185 
+T�tulo: 
+La carta del Real Madrid con la que quiere romper el acuerdo econ�mico entre CVC y LaLiga
+Fecha: 
+2021-12-03T15:58:00+01:00
+Autor: El Confidencial
+Contenido:   El Real Madrid ha puesto en marcha la maquinaria para tratar de tumbar el acuerdo de la Liga de Fútbol Profesional con CVC Capital Partners. Tal y como ya informara El Confidencial, Florentino Pérez valoraba la opción de presentar una oferta mejorada al resto de clubes para inyectar capital en sus cuentas y ha sido este viernes cuando, a través de un comunicado oficial, han dado a conocer su propuesta económica, financiada por JP Morgan.    Cuando la LFP anunció un pacto con CVC que serviría para inyectar 2.000 millones de euros a la Primera División española, a cambio del 10% de los ingresos televisivos durante los próximos 50 años, tres clubes mostraron su desacuerdo con la idea: Real Madrid, Barcelona y Athletic. Ahora, unos meses después, el club presidido por Florentino Pérez ha dado a conocer un comunicado firmado por los tres presidentes de los clubes donde exponen su oferta.         Florentino ultima una oferta con JP Morgan por LaLiga para tumbar el pacto Tebas-CVC    Agustín Marco    Denominado 'Proyecto Sostenible', ofrece el mismo capital que la oferta de CVC, pero permitiría estructurar la operación con un coste real y total para los clubes en el entorno del 2.5%-3.0% anual y durante un plazo máximo de 25 años, reduciendo a la mitad el periodo establecido por el anterior proyecto, denominado La Liga Impulso. Este movimiento, liderado por Florentino Pérez, pretende que los clubes no firmen el acuerdo con CVC liderado por Javier Tebas.   "El coste financiero total del Proyecto La Liga Impulso, que sería soportado por los clubes españoles durante 50 años, ascendería a 13.100 millones de euros, a cambio de una inversión total por parte de CVC de 2.000 millones de euros (que, además, no abonarían el primer día, sino de forma fraccionada durante cuatro años), y el coste financiero total de Proyecto Sostenible, que sería soportado por los clubes españoles durante 25 años, ascendería a 900 millones de euros, a cambio de una inversión total por parte de los financiadores de 2.000 millones de euros (que, además, se abonaría íntegramente a los clubes el primer año, sin fraccionamiento)", explica el comunicado.   Según explica la nota publicada por el Real Madrid, "el Proyecto Sostenible permitiría ahorrar a los clubes españoles 12.200 millones de euros, siendo una propuesta 15 veces más económica que, además, solo incluye compromisos por 25 años, y no por 50". Una oferta en firme que ha sido puesta ya sobre la mesa por el Real Madrid y que busca lograr que el resto de clubes se adhieran a su proposición en lugar que la de CVC que ha gestionado LaLiga.  Carta de Athletic Club, F. C. Barcelona y Real Madrid C. F. a todos los clubes de La Liga.#RealMadrid— Real Madrid C.F. (@realmadrid) December 3, 2021  La respuesta de LaLiga a la oferta  Adelantándose a la muestra pública de esta carta, cuyo mensaje ya había llegado al resto de equipos del fútbol españoles en días anteriores, LaLiga respondió con dureza a la propuesta de los tres clubes opositores: "Presentar una oferta la noche del día 2 de diciembre sabiendo que la Asamblea va a ser el día 10 de diciembre, y conociendo la operación desde el día 12 de agosto, demuestra que la intención es hacer descarrilar un proyecto que pone en peligro sus objetivos individuales aunque para ello tengan que destruir el futuro colectivo de la competición y sus clubes".   A juicio de la entidad, la contraoferta presentada por Florentino Pérez "es de imposible cumplimiento para la mayoría de los clubes participantes en la competición, incluido el FC Barcelona". La patronal, además, tacha el escrito de "improvisado" y de ser "elaborado sin el rigor mínimo exigible", mientras que su proyecto es "el resultado de muchos meses de trabajo intenso en el que se han resuelto todas las complejidades estructurales".    La institución presidida por Tebas defiende la inclusión del fondo en la operación, al que Madrid, Barça y Athletic tachan "inversor financiero" y no de socio estratégico para el fútbol. "Las compañías en las que invierte CVC tienen un historial inigualable de mejora operativa y comercial, como es el caso de MotoGP, F1, Rugby, Voleibol o Cricket. CVC es un socio con experiencia en el sector y amplia presencia internacional que ayudará en el proceso de mejora", señalaron en un comunicado que también afeó la conducta de los opositores con relación a competiciones secesionistas: "Resulta sorprendente que los impulsores de la Superliga, la cual resultaba letal para las ligas nacionales, exhiban preocupación por un proyecto que aprueba la mayoría de los clubes de LaLiga y que no les afecta económicamente".  
+
+
+EL MUNDO-1029 
+T�tulo: 
+LaLiga afirma que Real Madrid, Athletic y Bar�a buscan "destruir el futuro" | F�tbol
+Fecha: 
+2021-12-02T21:00:39Z
+Autor: EFE
+Contenido: LaLiga ha emitido este jueves un comunicado en el que afirma que la "hipotética oferta de financiación" ofrecida por el Real Madrid, el Athletic Club y el FC Barcelona al resto de clubes "demuestra que la intención es hacer descarrilar un proyecto que pone en peligro sus objetivos individuales, aunque para ello tengan que destruir el futuro colectivo de la competición y sus clubes". LaLiga reacciona así "ante la publicación por parte de algunos medios de comunicación de la carta remitida por el Real Madrid CF, Athletic Club y FC Barcelona al resto de clubes miembros de la Asamblea General de LaLiga, en la que se traslada una hipotética oferta de financiación, al 2,5-3 % de interés a 25 años, por parte de JP Morgan, Bank of America y HSBC a los clubes de LaLiga". Así, LaLiga considera que "presentar una oferta la noche del día 2 de diciembre sabiendo que la Asamblea va a ser el día 10 de diciembre, y conociendo la operación desde el día 12 de agosto, demuestra que la intención es hacer descarrilar un proyecto que pone en peligro sus objetivos individuales, aunque para ello tengan que destruir el futuro colectivo de la competición y sus clubes". "La operación planteada, según la carta, es una financiación colectiva a través de un crédito que presenta una importante ausencia de detalles imprescindibles para entender la viabilidad de la misma. Solo en una primera lectura de la oferta de financiación sorprende que la misma es de imposible cumplimiento para la mayoría de los clubes participantes en la competición, incluido el FC Barcelona", agrega. Además afirma que "el proyecto de 'LaLiga Impulso' es el resultado de muchos meses de trabajo intenso en el que se han resuelto todas las complejidades estructurales, entre otras cosas su encaje con el universo cambiante de clubes participantes. 'LaLiga Impulso' está listo para ser ejecutado y CVC está preparado para comenzar la transformación". "Por el contrario", afirma LaLiga, "la operación presentada en esta carta se basa en propuesta improvisada elaborada sin el rigor mínimo exigible". Por ello entiende que "tratar de establecer una comparativa con el proyecto de LaLiga con CVC es no haber entendido en absoluto la realidad de LaLiga Impulso, que es mucho más que una operación de financiación. El Proyecto Impulso tiene por objetivo incorporar un socio industrial con amplia experiencia en España y en el sector de derechos deportivos que aporte capital a largo plazo y experiencia industrial contrastada para ayudar a LaLiga y a sus clubes a crecer globalmente en un momento de grandes retos e incertidumbres para la industria". "Las compañías en las que invierte CVC tienen un historial inigualable de mejora operativa y comercial, como es el caso de MotoGP, F1, Rugby, Voleibol o Cricket", afirma LaLiga, que añade que "CVC es un socio con experiencia en el sector y amplia presencia internacional que ayudará en el proceso de mejora". También explica que "LaLiga Impulso no es la respuesta a un problema de liquidez de los clubes de LaLiga sino un proyecto estratégico para garantizar la competitividad y crecimiento en el medio y largo plazo de la competición y sus clubes. Como se ha explicado, el 70% de los fondos del proyecto Impulso irá destinado a proyectos de creación de valor a largo plazo. CVC ayudará a LaLiga y los clubes -incluidos los no adheridos al proyecto- a optimizar el uso de esos fondos, con el objetivo de incrementar el valor de la competición en el largo plazo". Para LaLiga "resulta sorprendente que los impulsores de la Superliga, la cual resultaba letal para las ligas nacionales, exhiban preocupación por un proyecto que aprueba la mayoría de los clubes de LaLiga y que no les afecta económicamente". OK Diario publica este jueves que "en las próximas horas los 42 clubes de Primera y Segunda División tendrán encima de la mesa una oferta formal procedente de tres grandes bancos, Merrill Lynch, JP Morgan y HSBC, que mejora las condiciones del acuerdo cerrado entre la Liga y el fondo de inversión CVC. La propuesta se trata de un crédito de pago inmediato en su totalidad y que se devolvería en un plazo de 25 años con un interés de entre el 2,5% y el 3%". El Confidencial publica por su parte que "el presidente del Real Madrid", Florentino Pérez, "prepara una contrapropuesta con el banco estadounidense (JP Morgan), su principal aliado, para que los clubes de Primera y Segunda no firmen el acuerdo inicial" con CVC.
+
+
+El Confidencial-188 
+T�tulo: 
+LaLiga responde a la propuesta de Florentino para tumbar el acuerdo con CVC: "Quieren descarrilar el proyecto"
+Fecha: 
+2021-12-02T22:08:00+01:00
+Autor: El Confidencial
+Contenido:   Dos días después de que la comisión delegada de la Liga de Fútbol Profesional (LFP) aprobara el acuerdo por el que CVC Capital Partners inyectará 2.000 millones de euros al fútbol español (quedándose con el 10% de los ingresos televisivos de los próximos 50 años), la tensión vuelve a estallar entre la entidad presidida por Javier Tebas y los clubes opositores, Real Madrid, Fútbol Club Barcelona y Athletic Club de Bilbao. Estos maniobran para convencer al resto de equipos participantes del acuerdo de un cambio de opinión con una oferta mejorada junto a JP Morgan. “Presentar una oferta la noche del día 2 de diciembre sabiendo que la Asamblea va a ser el día 10 de diciembre, y conociendo la operación desde el día 12 de agosto, demuestra que la intención es hacer descarrilar un proyecto que pone en peligro sus objetivos individuales aunque para ello tengan que destruir el futuro colectivo de la competición y sus clubes”, ha asegurado LaLiga en un duro comunicado.          Florentino ultima una oferta con JP Morgan por LaLiga para tumbar el pacto Tebas-CVC    Agustín Marco    La patronal responde así a la información publicada por El Confidencial en la que se avisaba de la intención de Florentino Pérez de reventar a última hora el acuerdo con el fondo CVC con una oferta mejorada y financiada por JP Morgan, pero con una hipoteca por la mitad del periodo. Una contraoferta que, según LaLiga, “es de imposible cumplimiento para la mayoría de los clubes participantes en la competición, incluido el FC Barcelona”.  La operación de CVC es una operación de inversión con un socio industrial, no de financiación,FP lo sabe (Abertis/CVC). Ahora FP se "acuerda" de los clubes de @LaLiga,(los de los partidos poco interesantes) y que ignoraba cuando preparaba la SUPERLIGA🤥🤥https://t.co/JSgoLQaplV— Javier Tebas Medrano (@Tebasjavier) December 2, 2021   La entidad presidida por Tebas insiste además en que “la operación presentada en esta carta se basa en propuesta improvisada elaborada sin el rigor mínimo exigible”, mientras que defienden el proyecto de LaLiga Impulso como “el resultado de muchos meses de trabajo intenso en el que se han resuelto todas las complejidades estructurales”. “Las compañías en las que invierte CVC tienen un historial inigualable de mejora operativa y comercial, como es el caso de MotoGP, F1, Rugby, Voleibol o Cricket. CVC es un socio con experiencia en el sector y amplia presencia internacional que ayudará en el proceso de mejora”, señalan desde el comunicado: “CVC ayudará a LaLiga y los clubes -incluidos los no adheridos al proyecto- a optimizar el uso de esos fondos, con el objetivo de incrementar el valor de la competición en el largo plazo”.         Florentino y el muro de Mbappé: "Das 200 millones y no te lo venden"    Ulises Sánchez-Flor    Para finalizar, LaLiga hace hincapié en Real Madrid y Fútbol Club Barcelona, socios fundadores de la Superliga Europea y dos de los tres clubes que continúan su apuesta por el campeonato, a pesar de la negativa de ligas, UEFA o Unión Europea. “Resulta sorprendente que los impulsores de la Superliga, la cual resultaba letal para las ligas nacionales, exhiban preocupación por un proyecto que aprueba la mayoría de los clubes de LaLiga y que no les afecta económicamente”, apuntan.   El proyecto de la Liga Impulso fue aprobado en una Asamblea Extraordinaria de la patronal el pasado verano, cuando 38 clubes del fútbol español votaron a favor del acuerdo con CVC, mientras que cuatro se opusieron. El próximo 10 de diciembre los equipos adheridos están convocados a la firma definitiva del acuerdo.  
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-302
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-312 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-302 es el mismo art�culo que la noticia EL MUNDO-312
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/01/61a768ed21efa0ab478b4587.html
+        - https://www.elmundo.es/madrid/2021/12/02/61a88ecbe4d4d8b9258b45ba.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-312'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-312'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-302': {'EL MUNDO-312'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-312
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-302 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-312 es el mismo art�culo que la noticia EL MUNDO-302
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/madrid/2021/12/02/61a88ecbe4d4d8b9258b45ba.html
+        - https://www.elmundo.es/madrid/2021/12/01/61a768ed21efa0ab478b4587.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-302'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-302': {'EL MUNDO-312'}, 'EL MUNDO-312': {'EL MUNDO-302'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-302', 'EL MUNDO-312'}
+{'EL MUNDO-302': {'EL MUNDO-312'}, 'EL MUNDO-312': {'EL MUNDO-302'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-302
+1: EL MUNDO-312
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.        0.5349076]
+ [0.615     0.       ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-302 -> EL MUNDO-312: 0.5349075975359343. Cantidad de informaci�n extra�da de la noticia EL MUNDO-302 para a�adirla a la noticia EL MUNDO-312 :441
+         EL MUNDO-312 -> EL MUNDO-302: 0.615. Cantidad de informaci�n extra�da de la noticia EL MUNDO-302 para a�adirla a la noticia EL MUNDO-312 :450
+
+         EL MUNDO-312 -> EL MUNDO-302: 0.615. Cantidad de informaci�n extra�da de la noticia EL MUNDO-312 para a�adirla a la noticia EL MUNDO-302 :450
+         EL MUNDO-302 -> EL MUNDO-312: 0.5349075975359343. Cantidad de informaci�n extra�da de la noticia EL MUNDO-312 para a�adirla a la noticia EL MUNDO-302 :441
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-302 
+T�tulo: 
+Cu�ndo se pueden solicitar los test de ant�genos gratuitos en las farmacias de Madrid | Madrid
+Fecha: 
+2021-12-02T11:14:10Z
+Autor: M. S�NCHEZ
+Contenido: El incremento de los contagios por coronavirus y la irrupción de la variante Ómicron han llevado a la Comunidad de Madrid a poner en marcha su Plan covid-19 para la Navidad. Entre las medidas, presentadas por la presidenta Isabel Díaz Ayuso el pasado miércoles durante la celebración del primer aniversario del hospital Enfermera Isabel Zendal, la entrega a cada madrileño de un test de antígenos en las farmacias.Descartados los "cierres masivos" de cara a las próximas semanas, el Gobierno regional ha trazado una estrategia similar a la de la primera ola con las mascarillas FFP2 gratuitas. En esa ocasión, Madrid comprará cuatro millones de test de autodiagnóstico, que serán repartidas en las casi 3.000 farmacias de la región. El objetivo es que los madrileños puedan realizarse la prueba y así celebrar las reuniones sociales "de forma segura". Con el fin de evitar la imposición de medidas más restrictivas, también se insta a las empresas a hacer test a sus empleados.Del nuevo plan covid-19 también destacan otras medidas como la inversión de 40 millones de euros extraordinarios para "mantener a todos los profesionales sanitarios que se necesiten, como mínimo, hasta que pase el invierno", señaló Ayuso, o la intensificación de la campaña de vacunación. Desde este jueves, los madrileños de entre 60 y 69 años pueden solicitar cita para la tercera dosis, que se inoculará en los más de 300 puntos de la región desde este viernes. Y a partir del 15 de diciembre está previsto que comience la administración de la primera dosis a niños de entre 5 y 11 años.Las pruebas gratuitas estarán disponibles a partir del 15 de diciembre en las oficinas de farmacia. Para conseguir el test basta con presentar la tarjeta sanitaria. Para los 600.000 madrileños mutualistas o que no tengan dicho documento podrán obtener el producto presentando el DNI o NIF."La previsión en estos momento no es preocupante", señaló Isabel Díaz Ayuso durante la presentación de plan, pero si seguimos colaborando Madrid no perderá un ápice de su libertad". Y añadió: "Nosotros como siempre hemos tratado a las personas como adultos convirtiendo los lugares públicos en nuestros mejores aliados para combatir el virus y evitar males mayores, la ruina o más depresiones".
+
+
+EL MUNDO-312 
+T�tulo: 
+La vacunaci�n de ni�os de entre cinco y 11 a�os comenzar� en Madrid el 15 de diciembre y se repartir�n test de ant�genos gratis antes de Navidad | Madrid
+Fecha: 
+2021-12-01T17:32:34Z
+Autor: MARTA BELVER
+Contenido: La vacunación frente al Covid-19 de los niños de entre cinco y 11 años comenzará en la Comunidad de Madrid el próximo 15 de diciembre. Además, se repartirán un test de antígenos gratuito a cada ciudadano antes de la Navidad para que "en caso de reuniones sociales lo haga de manera segura".Éstas son de las medidas incluidas en el nuevo plan frente al coronavirus puesto en marcha por el Gobierno de Isabel Díaz Ayuso ante el crecimiento en el número de contagios y de hospitalizaciones. "Lo que vamos a hacer es no generar confusión y actuar", ha señalado la presidenta regional, que en todo caso ha incidido en que la situación "no es alarmante".Los test de antígenos se podrán recoger en las farmacias como las mascarillas que se repartieron durante la primera ola de la pandemia. Además, desde la Comunidad de Madrid vuelven a instar a las empresas a que hagan pruebas Covid a sus trabajadores antes de las cenas o las comidas de Navidad.También se van a invertir otros 40 millones de euros para prorrogar los contratos de los sanitarios contratados con motivo de la pandemia para que sigan trabajando "como mínimo hasta que pase el invierno".En cuanto a la vacunación, además del inicio de la inmunización de los niños de entre cinco y 11 años a partir del 15 de diciembre, esta semana comenzará la administración de la tercera dosis a las personas de entre 60 y 69 años. En este caso las citas previas podrán pedirse a partir de el jueves, 2 de diciembre."La previsión en estos momento no es preocupante, pero si seguimos colaborando Madrid no perderá un ápice de su libertad", ha dicho Ayuso. "Nosotros como siempre hemos tratado a las personas como adultos convirtiendo los lugares públicos en nuestros mejores aliados para combatir el virus y evitar males mayores, la ruina o más depresiones", ha remarcado.
+
+

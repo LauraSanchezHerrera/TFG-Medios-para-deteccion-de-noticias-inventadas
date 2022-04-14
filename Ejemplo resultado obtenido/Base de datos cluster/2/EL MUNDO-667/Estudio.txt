@@ -1,0 +1,137 @@
+Estudio de la noticia EL MUNDO-667
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-715 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-667 es el mismo art�culo que la noticia EL MUNDO-715
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/24/619ea06c21efa0b35e8b460e.html
+        - https://www.elmundo.es/andalucia/2021/11/26/61a0d2c9fc6c8333188b4588.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/11/24
+        - 2021/11/26
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-675 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-667 es el mismo art�culo que la noticia EL MUNDO-675
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/24/619ea06c21efa0b35e8b460e.html
+        - https://www.elmundo.es/andalucia/2021/11/26/61a0d2c9fc6c8333188b4588.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/11/24
+        - 2021/11/26
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-715', 'EL MUNDO-675'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-715 y EL MUNDO-675:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-675 y EL MUNDO-715:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'EL MUNDO-715'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-667': {'EL MUNDO-715'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-715
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-667 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-715 es el mismo art�culo que la noticia EL MUNDO-667
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/26/61a0d2c9fc6c8333188b4588.html
+        - https://www.elmundo.es/andalucia/2021/11/24/619ea06c21efa0b35e8b460e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/11/26
+        - 2021/11/24
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-675 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-715 es el mismo art�culo que la noticia EL MUNDO-675
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/andalucia/2021/11/24/619ea06c21efa0b35e8b460e.html
+        - https://www.elmundo.es/andalucia/2021/11/24/619ea06c21efa0b35e8b460e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/11/24
+        - 2021/11/24
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-667'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-667': {'EL MUNDO-715'}, 'EL MUNDO-715': {'EL MUNDO-667'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-667', 'EL MUNDO-715'}
+{'EL MUNDO-667': {'EL MUNDO-715'}, 'EL MUNDO-715': {'EL MUNDO-667'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-667
+1: EL MUNDO-715
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.80101523]
+ [0.76357057 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-667 -> EL MUNDO-715: 0.8010152284263959. Cantidad de informaci�n extra�da de la noticia EL MUNDO-667 para a�adirla a la noticia EL MUNDO-715 :380
+         EL MUNDO-715 -> EL MUNDO-667: 0.7635705669481303. Cantidad de informaci�n extra�da de la noticia EL MUNDO-667 para a�adirla a la noticia EL MUNDO-715 :380
+
+         EL MUNDO-715 -> EL MUNDO-667: 0.7635705669481303. Cantidad de informaci�n extra�da de la noticia EL MUNDO-715 para a�adirla a la noticia EL MUNDO-667 :380
+         EL MUNDO-667 -> EL MUNDO-715: 0.8010152284263959. Cantidad de informaci�n extra�da de la noticia EL MUNDO-715 para a�adirla a la noticia EL MUNDO-667 :380
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-667 
+T�tulo: 
+As� se resolvi� la huelga del metal de C�diz: 52 horas (y cuarto) de reuniones y la inflaci�n, omnipresente | Andaluc�a
+Fecha: 
+2021-11-26T16:26:12Z
+Autor: CHEMA RODR�GUEZ
+Contenido: La huelga del metal en la provincia de Cádiz va camino de convertirse en un mal recuerdo de manifestaciones, barricadas y carreteras cortadas. Con la aprobación, el jueves, por parte de las asambleas de trabajadores del acuerdo alcanzado el día anterior por los sindicatos y la patronal terminaron diez días de paro indefinido en un sector que emplea a aproximadamente 20.000 personas y que hizo saltar por los aires la paz social en una provincia muy castigada.Pero el camino hasta el acuerdo -que contempla una subida salarial anual del 2% y revisiones del IPC- ha sido largo y tortuoso, con riesgo cierto de encallar en los momentos más complicados. EL MUNDO ha tenido acceso a los detalles de esa negociación entre la Federación de Empresas del Metal de la Provincia de Cádiz (Femca) y los sindicatos CCOO y UGT y bajo la mediación del Consejo Andaluz de Relaciones Laborales, adscrito a la Consejería de Empleo de la Junta de Andalucía y que ha jugado un papel clave para resolver un conflicto que amenazaba con incendiar algo más que unas cuantas barricadas. Para llegar a un entendimiento han sido necesarias algo más de 52 horas de negociación, exactamente 52 horas y quince minutos, a lo largo de cinco reuniones, algunas de ellas literalmente interminables y en todas, absolutamente en todas, el escollo más grande se llamaba inflación. La descontrolada subida de los precios que se está registrando en España -y en el resto del mundo- por la crisis de suministros y de transporte y el aumento de la demanda ha tenido un papel principal en el conflicto laboral gaditano, según se desprende de un informe interno sobre la negociación en poder de este periódico. La inflación, superior al 5% global durante el mes de octubre, y la «incertidumbre» que ha generado ha estado en el origen de la huelga y ha sido un constante nubarrón que ha amenazado las conversaciones. Tanto es así que el mecanismo para compensar la diferencia entre la subida salarial pactada y el incremento real del coste de la vida ha sido el último fleco pendiente en acordarse. Antes de que se iniciase la huelga, el Servicio Extrajudicial de Resolución de Conflictos Laborales de Andalucía (Sercla), dependiente del CARL, ya intentó desactivarla con una reunión telemática de cuatro horas que terminó, sin embargo, en fracaso. Con la huelga indefinida ya en marcha fue la Consejería de Empleo que dirige Rocío Blanco la que encomendó al CARL un nuevo proceso de mediación, que las partes aceptan con la condición de que las reuniones fuesen presenciales y que se celebrasen en Sevilla. A partir de ese momento, los negociadores fueron citados en la sede del CARL en la capital andaluza en otras cuatro ocasiones, en cuatro reuniones, algunas de ellas casi maratonianas. De todas ellas hubo una, la que comenzó el dia 17 -y terminó al día siguiente- la que, de acuerdo con los datos recabados, sirvió para desatascar la negociación. Fueron 22 horas de diálogo -en dos sesiones- en las que los negociadores ya constataron «acercamiento y convergencia» en determinadas cuestiones secundarias. No había acuerdo sobre lo principal, pero era un comienzo. Después de ésa hubo una tercera reunión de transición, en la que primaron las sesiones privadas, antes de llegar a la cuarta y definitiva, la del 24, que comenzó bien -acordando la duración del nuevo convenio- y terminó mejor.
+
+
+EL MUNDO-715 
+T�tulo: 
+Preacuerdo para poner fin a la huelga del metal en C�diz | Andaluc�a
+Fecha: 
+2021-11-24T20:28:33Z
+Autor: CHEMA RODR�GUEZ
+Contenido: Diez días de huelga y diez horas de negociación interrumpidas después, los sindicatos UGT y CCOO y los empresarios agrupados en la Federación de Empresas del Metal de la Provincia de Cádiz (Femca) han alcanzado este miércoles un principio de acuerdo que abre la puerta a que la calma vuelva al sector y a las calles de la capital gaditana y de otros grandes enclaves industriales de la provincia, como Puerto Real y Algeciras. Los 20.000 trabajadores afectados tendrán que dar su visto bueno -algo que se prevé que suceda este jueves- antes de que la actividad vuelva a las factorías de multinacionales como Airbus o Acerinox y al resto de las empresas metalúrgicas. El preacuerdo alcanzado, según fuentes próximas a la negociación, incluye una revisión salarial durante la vigencia del nuevo convenio de un 2% anual, además de mecanismos de compensación para la diferencia entre ese incremento y la subida real del IPC, algo que exigían los sindicatos y que la patronal sólo estaba dispuesta hasta cierto punto y con condiciones. La letra pequeña no ha trascendido, a la espera de que los delegados sindicales sean informados directamente por los negociadores y éstos trasladen los términos del pacto a los trabajadores empresa a empresa. El otro punto de fricción que se había convertido en un escollo casi insalvable en estos diez días, la duración del convenio, se ha sorteado, en principio, como pretendían los empresarios. El nuevo marco laboral para el sector del metal gaditano tendrá una vigencia, según las fuentes consultadas, de tres años, desde este 2021 -entrará en vigor con carácter retroactivo- hasta 2023, lo que garantiza que habrá que sentarse de nuevo a negociar -y no habrá riesgo de otra huelga-a corto plazo. En este punto habían insistido mucho desde Femca, que defendía la necesidad de estabilidad y seguridad para poder afianzar la recuperación en el sector tras estos últimos años de crisis. La última, y parece que definitiva, reunión entre las dos partes comenzó este miércoles en torno a las once de la mañana y ha finalizado pasadas las 21 horas en la sede del Consejo Andaluz de Relaciones Laborales, en Sevilla. En la mesa se han sentado los 27 negociadores que desde la semana pasada se han reunido en varias ocasiones bajo la mediación de la Consejería de Empleo de la Junta de Andalucía y ya al comienzo del encuentro las expectativas eran positivas y se veía cerca el final del conflicto. De hecho, aunque en las reuniones previas no fue posible llegar a un entendimiento, sí sirvieron, como destacaron los sindicatos, para acercar posturas y para que a un lado y al otro se hablase "el mismo idioma", en palabras de un representante sindical. No obstante, según fuentes sindicales, la reunión no ha estado exenta de tensión y ha punto ha estado la negociación de saltar por los aires al negarse los representantes de los trabajadores a aceptar una propuesta de última hora de los empresarios. "Ha sido durísimo", ha comentado uno de los negociadores, que ha calificado el preacuerdo como "un éxito". Está previsto que hoy mismo se reúnan los negociadores de UGT y CCOO con los delegados de las empresas en huelga y éstos tendrán que convocar mañana mismo a sus plantillas para analizar el preacuerdo, votarlo y convertirlo, si obtiene el visto bueno mayoritario, en un acuerdo definitivo que permitirá dejar atrás los paros, manifestaciones y, también, los altercados que han provocado algo más que molestias a los gaditanos y que han llegado a cerrar accesos a hospitales. La patronal, según ha señalado el presidente de Femca, Diego Sánchez, a EL MUNDO espera que el acuerdo sea ratificado durante la mañana, de forma que el turno de tarde de las plantillas pueda ya reincorporarse con normalidad a las factorías. Será entonces el momento, ha dicho Sánchez, de evaluar el impacto que ha tenido la huelga en las cuentas de las empresas que, en cualquier caso, ha añadido, será notable. Por poner un ejemplo, dijo, los astilleros han perdido hoy mismo un contrato de reparación de un crucero que ha abandonado Cádiz por efecto de los paros. 
+
+

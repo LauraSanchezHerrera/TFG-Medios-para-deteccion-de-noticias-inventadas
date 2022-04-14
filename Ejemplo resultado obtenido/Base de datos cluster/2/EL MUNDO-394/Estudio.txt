@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-394
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-444 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-394 es el mismo art�culo que la noticia EL MUNDO-444
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/11/27/61a2243dfdddff46a58b458b.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/02/61a8d99ffc6c834b2b8b45bd.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/11/27
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-444'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-444'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-394': {'EL MUNDO-444'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-444
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-394 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-444 es el mismo art�culo que la noticia EL MUNDO-394
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/02/61a8d99ffc6c834b2b8b45bd.html
+        - https://www.elmundo.es/comunidad-valenciana/2021/11/27/61a2243dfdddff46a58b458b.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 5 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/11/27
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-394'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-394': {'EL MUNDO-444'}, 'EL MUNDO-444': {'EL MUNDO-394'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-394', 'EL MUNDO-444'}
+{'EL MUNDO-394': {'EL MUNDO-444'}, 'EL MUNDO-444': {'EL MUNDO-394'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-394
+1: EL MUNDO-444
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.78824546]
+ [0.73516949 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-394 -> EL MUNDO-444: 0.7882454624027658. Cantidad de informaci�n extra�da de la noticia EL MUNDO-394 para a�adirla a la noticia EL MUNDO-444 :233
+         EL MUNDO-444 -> EL MUNDO-394: 0.7351694915254238. Cantidad de informaci�n extra�da de la noticia EL MUNDO-394 para a�adirla a la noticia EL MUNDO-444 :238
+
+         EL MUNDO-444 -> EL MUNDO-394: 0.7351694915254238. Cantidad de informaci�n extra�da de la noticia EL MUNDO-444 para a�adirla a la noticia EL MUNDO-394 :238
+         EL MUNDO-394 -> EL MUNDO-444: 0.7882454624027658. Cantidad de informaci�n extra�da de la noticia EL MUNDO-444 para a�adirla a la noticia EL MUNDO-394 :233
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-394 
+T�tulo: 
+Multas de 60 a 30.000 euros por saltarse la exigencia del pasaporte Covid en la Comunidad Valenciana | Comunidad Valenciana
+Fecha: 
+2021-12-02T14:39:38Z
+Autor: INMA LID�N
+Contenido: La exigencia de presentar el pasaporte Covid para entrar en locales de ocio y restauración de más de 50 personas de la Comunidad Valenciana entrará en vigor la madrugada de próximo sábado y su no cumplimiento llevará aparejadas multas que van de los 60 a los 30.000 euros. Así lo aprobará el Gobierno valenciano en su reunión de este viernes, según fuentes de la Generalitat.El régimen sancionador que se aplicará por el incumplimiento de esta restricción contempla dos tipos de infracciones. Se considerará como leve que los particulares se cuelen sin presentar pasaporte, PCR o test e antígenos reciente, así como que los locales no tenga expuestos los carteles informativos sobre la obligatoriedad de presentar el certificado o las pruebas diagnósticas. En estos casos, la multa oscilará entre 60 y 600 euros.Por infracciones graves se entenderá permitir el acceso de clientes sin la documentación obligatoria y las sanciones irán de entre 601 y 30.000 euros, dependiendo del grado de incumplimiento por falta de rigor en el control del acceso. El certificado Covid se deberá presentar a partir del sábado junto a DNI o pasaporte para acceder a locales con aforos de más de 50 personas de ocio y restauración, dedicados a actividades recreativas y de azar con comida; eventos y celebraciones de más de 500 personas donde no siempre se pueda llevar la mascarilla; y visitas a hospitales y a residencias de mayores y servicios sociales. También se exigirá en las sedes festeras como casales falleros cuando se hagan actividades como almuerzos, comidas y cenas que requieran quitarse la mascarilla en interiores.Los locales están obligados a solicitar la documentación y comprobar su validez en una app libre para teléfonos y tablets que ha puesto a disposición de los sectores afectados la Conselleria de Sanidad.
+
+
+EL MUNDO-444 
+T�tulo: 
+Incidencia del pasaporte Covid: m�s de 1.700 personas se vacunan en los espacios puestos por el Black Friday | Comunidad Valenciana
+Fecha: 
+2021-11-27T12:27:45Z
+Autor: EL MUNDO
+Contenido: Los puntos de vacunación sin cita desplegados este viernes con motivo del Black Friday en distintas localidades de la Comunidad Valenciana administraron un total de 1.719 dosis de la vacuna contra la covid-19. Según ha informado la Conselleria de Sanidad, el espacio habilitado en la plaza de toros de Valencia inoculó 556 dosis; el instalado en Ikea Alfafar puso 288; el del centro comercial La Salera de Castellón, 637; el del centro comercial Plaza Mar 2, de Alicante, 216, y el del centro comercial La Marina, de Finestrat, 22. Ante el éxito de la convocatoria y la elevada afluencia de personas que se acercaron a vacunarse a puntos como el situado en la plaza de toros de Valencia, el equipo de vacunación de la Conselleria mantuvo el dispositivo activado hasta que se acabó de inmunizar a todas las personas que había en la cola. De esta manera, la vacunación en este punto terminó a las 23.20 horas, a pesar de que el horario previsto de finalización eran las 21.00 horas, han destacado las mismas fuentes. Desde Sanidad, han recordado que este sábado se vuelve a vacunar sin cita en el centro comercial Plaza Mar 2 de Alicante de 10.00 a 20.00 horas. Además, con ocasión del maratón de Valencia se instalarán puntos de vacunación sin cita en la feria del corredor (Ciudad de las Artes y las Ciencias) el viernes 3 y el sábado 4 de diciembre de 10.00 a 14.00 horas. También se vacunará en La Salera (Castellón) el viernes 3 de 16.00 a 21.00 horas, y en el centro comercial de L'Aljub (Elche), de 17.00 a 21.00 horas.El certificado Covid será una realidad en la Comunidad Valenciana a partir del 3 de diciembre. Esta es la idea inicial de la Generalitat, que está a la espera de lograr el aval jurídico a la medida por parte del Tribunal Superior de Justicia valenciano, pero ya cuenta con el visto bueno de la Fiscalía, que no se ha opuesto a la meduda. El objetivo es que esté en vigor durante 30 días.Este pasaporte será obligatorio para acceder a establecimientos de hostelería y restauración, siempre y cuando superen el aforo de 50 personas. También habrá que presentarlo para acceder a locales de ocio o casinos, así como para el acceso a festivales de música o eventos multitudinarios como bodas.Además, el documento se exigirá a las visitas que quieran entrar en hospitales y residencias de mayores
+
+

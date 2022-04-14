@@ -1,0 +1,131 @@
+Estudio de la noticia EL MUNDO-1000
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia El Confidencial-191 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1000 es el mismo art�culo que la noticia El Confidencial-191
+     Se trata de noticias distintas: 
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/barca-espai-batalla-laporta-gestion-barcelona_3334573/
+        - https://www.elmundo.es/deportes/futbol/primera-division/2021/12/01/61a78d0ce4d4d8061b8b4590.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-1035 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-1000 es el mismo art�culo que la noticia EL MUNDO-1035
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/deportes/futbol/primera-division/2021/12/01/61a78d0ce4d4d8061b8b4590.html
+        - https://www.elmundo.es/deportes/futbol/primera-division/2021/12/01/61a78d0ce4d4d8061b8b4590.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/01
+        - 2021/12/01
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Se han encontrado las siguientes noticias parecidas:
+{'El Confidencial-191'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'El Confidencial-191'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1000': {'El Confidencial-191'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia El Confidencial-191
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-1035 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-191 es el mismo art�culo que la noticia EL MUNDO-1035
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/primera-division/2021/12/01/61a78d0ce4d4d8061b8b4590.html
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/barca-espai-batalla-laporta-gestion-barcelona_3334573/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+La noticia es similar a la noticia EL MUNDO-1000 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia El Confidencial-191 es el mismo art�culo que la noticia EL MUNDO-1000
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/deportes/futbol/primera-division/2021/12/01/61a78d0ce4d4d8061b8b4590.html
+        - https://www.elconfidencial.com/deportes/futbol/2021-12-02/barca-espai-batalla-laporta-gestion-barcelona_3334573/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-1000'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-1000': {'El Confidencial-191'}, 'El Confidencial-191': {'EL MUNDO-1000'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'El Confidencial-191', 'EL MUNDO-1000'}
+{'EL MUNDO-1000': {'El Confidencial-191'}, 'El Confidencial-191': {'EL MUNDO-1000'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: El Confidencial-191
+1: EL MUNDO-1000
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.79129421]
+ [0.76010101 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         El Confidencial-191 -> EL MUNDO-1000: 0.7912942090944423. Cantidad de informaci�n extra�da de la noticia El Confidencial-191 para a�adirla a la noticia EL MUNDO-1000 :525
+         EL MUNDO-1000 -> El Confidencial-191: 0.76010101010101. Cantidad de informaci�n extra�da de la noticia El Confidencial-191 para a�adirla a la noticia EL MUNDO-1000 :558
+
+         EL MUNDO-1000 -> El Confidencial-191: 0.76010101010101. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1000 para a�adirla a la noticia El Confidencial-191 :558
+         El Confidencial-191 -> EL MUNDO-1000: 0.7912942090944423. Cantidad de informaci�n extra�da de la noticia EL MUNDO-1000 para a�adirla a la noticia El Confidencial-191 :525
+
+
+***********      Informaci�n de las noticias     ***********
+
+El Confidencial-191 
+T�tulo: 
+A falta de Haaland, bueno es el Bar�a Espai: la batalla que Laporta necesita ganar
+Fecha: 
+2021-12-02T05:00:00+01:00
+Autor: Alberto Ram�rez
+Contenido:   “Vamos más de quince años tarde”. No existe momento de respiro en el Fútbol Club Barcelona. Si la próxima semana se juegan la continuidad en Champions League frente al Bayern de Múnich, el 19 de diciembre tendrán una cita igual de importante: el futuro del Espai Barça. Un proyecto cuya financiación ascenderá a los 1.500 millones de euros y que tendrá que ser aprobado por los socios. Batalla fundamental para la gestión del club, como aseguró su CEO, Ferran Reverter, “7 de los 9 estadios con capacidad para más de 40.000 espectadores se han reformado, sólo falta el Valencia y el Barça. Todo el mundo ha hecho los deberes”.          Guardiola acerca a Ferran Torres al Barcelona y Dembélé da la callada por respuesta    Ulises Sánchez-Flor    Joan Laporta presenta este referéndum como "una gran oportunidad" para que el equipo "siga creciendo y compitiendo a un alto nivel". "El Espai Barça no es un gasto, es una inversión que puede generar unos grandes beneficios al FC Barcelona", añadió. Cuando los posibles fichajes del club copan las informaciones del club, la reforma del Camp Nou se antoja más necesaria para la directiva que la firma de un crack como Erling Haaland, sueño húmedo del presidente blaugrana desde su regreso.   Hay que remontarse al 2014 para ver el inicio del Espai Barça, aprobado por el socio en una votación impulsada por la Junta Directiva de Sandro Rosell y abandonada por Josep Maria Bartomeu en su particular huida hacia delante debido a la situación económica del club. "Desde entonces solo se han invertido en él 145 millones. Ahora, nuestra obligación es culminar el proyecto después de haber hecho todas las modificaciones necesarias", señaló Laporta durante la presentación.   El referéndum se celebrará exclusivamente vía telemática, "la primera votación así en la historia del club". Reverter avisó de la calamidad que supondría una negativa por parte del socio, aunque los informes que maneja la directiva hablan de un apoyo masivo, “Si sale 'NO' en el referéndum, sería una noticia muy mala. Tendríamos que replantear el tema financiero y de créditos”. “Igualmente, se tendría que remodelar el estadio, que está en malas condiciones. El día del partido frente al Benfica había aficionados bajo cascadas de agua”, comentó el CEO, “Esto es intolerable”.           La afición blaugrana en el Camp Nou durante el partido frente al Benfica. (EFE/Alberto Estévez).     Reverter señaló a Goldman Sachs como fuente de la financiación salvo cambio de última hora, “prácticamente seguro”. 1.500 millones de euros de los cuales 900 irán a parar a la remodelación del Camp Nou, 420 al Palay Blaugrana y el Petit Palau (con pista de hielo incluida), dividiéndose el resto entre las obras del Estadi Johan Cruyff y diversas inversiones. El nuevo Espai Barça contempla la reforma integral del Camp Nou, que tendrá una capacidad para 105.000 espectadores, y la construcción de un nuevo Palau Blaugrana con 15.000 asientos y otro pequeño Palau con una pista de hielo.  Mudanza del Camp Nou y nombre publicitario como inversión  "Las obras no constarán dinero al socio, no pondrán en riesgo la gestión deportiva y nunca se hipotecará el patrimonio del club como garantía". Esa “gestión deportiva” se refiere, efectivamente, a los fichajes. “Por supuesto que el Barça puede fichar y fichará en enero, pero tenemos que analizar cada detalle muy bien por nuestra situación”, se limitó a señalar el CEO del club. Una vía de financiación serán los ‘naming rights’ del Camp Nou. Es decir, la presencia publicitaria en el nombre oficial del estadio: “Estamos barajando distintas ofertas, que van de 10 a 20 años. Será de, aproximadamente, 400 millones de euros”.           El Wanda Metropolitano, ejemplo de 'naming rights' en el fútbol español. (EFE/Rodrigo Jiménez)    La hoja de ruta que maneja la directiva habla de comenzar las obras en el 2022, extendiéndolas durante cuatro años y adoptando el modelo del Athletic de Bilbao en San Mamés. Solo durante la segunda temporada de obras, en el 2023, será necesaria una mudanza en otro estadio, “está la opción de Montjuïc, siempre ha estado ahí como probable destino. Lo que es seguro es que no saldremos del núcleo urbano de Barcelona". Una situación que recuerda a la remodelación del Santiago Bernabéu, obra que obligó al Real Madrid a jugar durante más de 500 días en el estadio Di Stefano, de su ciudad deportiva.    El referéndum blaugrana llamará al voto a los mayores de 18 años que tengan, como mínimo, un año de antigüedad. Se hará a través de la web del club. La organización de esta votación telemática correrá a cargo de Minsait, empresa del grupo Indra especializada en procesos electorales.  
+
+
+EL MUNDO-1000 
+T�tulo: 
+El Bar�a no jugar�a la campa�a 2023/24 en el Camp Nou por el 'Espai Bar�a' | LaLiga Santander 2021 - 2022
+Fecha: 
+2021-12-01T14:56:48Z
+Autor: EUROPA PRESS
+Contenido: El FC Barcelona debería jugar la temporada 2023/24 lejos de su estadio, un Camp Nou que en caso de aprobarse el referéndum del 'Espai Barça' (19 de diciembre de forma telemática) estaría en obras desde 2022 hasta 2025 y, en ese periodo de cuatro años, obligaría a reducir el aforo máximo y jugar esa campaña en otro estadio dentro del área de Barcelona."El plan actual es jugar en el estadio en la primera temporada, con el campo parcialmente cerrado. En la segunda temporada el plan es ir fuera y las otras dos volver al Camp Nou con el plan más perfilado. El ir a jugar fuera, al ser en la segunda temporada, aún tenemos tiempo para decidir dónde", aportó el director general del club, Ferran Reverter, en rueda de prensa del referéndum del 'Espai Barça'. Reverter explicó que sería algo similar a lo que hizo el Athletic Club con el nuevo San Mamés, con el campo parcialmente cerrado. "La asistencia del socio sería rotativa, para ese primer año. En el segundo año, hasta ahora teníamos más presión para decidir dónde ir pero todavía estamos valorando. Lo decidiremos en meses", manifestó. "No saldremos del círculo urbano de la ciudad, no iremos a jugar a Girona, por ejemplo. Una opción es Montjuïc pero hay otras soluciones internas. La alternativa de Montjuïc siempre está ahí", reconoció Reverter. El CEO dio más detalles del 'Espai Barça' y de ese referéndum telemático del próximo 19 de diciembre en el que más de 100.000 socios y socias del club aprobarán, o no, dar luz verde al 'Espai Barça', cuyo calendario previsto es iniciar las obras del Camp Nou en 2022 y terminar el nuevo estadio en 2025, con el nuevo Palau Blaugrana previsto para 2026 y, el Campus Barça, en 2027. ¿Cómo se financiará este 'Espai Barça'? Se pedirá un crédito a Goldman Sachs --"su oferta es la mejor y no creo que lleguemos a cambiar"-- de un máximo de 1.500 millones de euros, para financiar un proyecto desglosado de la siguiente forma: futuro Camp Nou (900 millones), nuevo Palau Blaugrana (420 millones --incluye Petit Palau, pista de hielo y parking de autobuses--), Estadi Johan Cruyff (20 millones), inversiones urbanísticas (60 millones) y Campus (100 millones). Un crédito y unos gastos que se pagarán gracias, en parte, a unos 200 millones de ingresos adicionales anuales que generará el propio estadio y 'Espai Barça', a través de eventos (15%), entradas y restauración (22%), museo (15%), 'hospitality' (24%) y patrocinio y 'naming y title rights' (24%). "De todo esto esperamos sacar unos 200 millones de euros de ingresos, una cifra conservadora", valoró. Entre varias cifras, Reverter comentó que esperan recibir un mínimo de 400 millones de euros (en 30 años) de los 'title rights' del nuevo feudo blaugrana, el doble de lo presupuestado en 2014 por la Junta Directiva de Sandro Rosell, cuando se aprobó un primer 'Espai Barça' en referéndum valorado en 600 millones de euros. Un proyecto inicial desfasado. "¿Por qué revisar el proyecto de 2014? Porque está desfasado, y porque estaba infravalorado en importe y en tiempo cuando lo presentaron. El ejemplo perfecto es el Estadi Johan Cruyff, porque en siete años sólo se ha construido este estadio, que dijeron que costaría 4 millones de euros y ha costado 20 millones", comentó. Eso sí, es un proyecto faraónico necesario para el club. "Si sale 'NO' en el referéndum, sería una noticia muy, muy mala. Tendríamos que replantear el tema financiero y de créditos. E igualmente se tendría que remodelar el estadio, que está en muy malas condiciones. El día del Benfica había aficionados bajo cascadas de agua. Esto es intolerable", se sinceró el director general blaugrana. Por su parte, el presidente del FC Barcelona, Joan Laporta, aseguró que la culminación de este 'Espai Barça' si se aprueba el referéndum dejará un "legado importantísimo". "Queremos que el veredicto sea positivo, que salga el sí, y lo deseamos por el bien del Barça. Y que sea telemático nos hará más fuertes porque habrá más participación. La culminación de este proyecto será un legado importantísimo para nuestros hijos y nietos. Si todos votamos, ganaremos", aseguró. Después de que los socios aprobaran autorizar a la Junta para conseguir la financiación para el 'Espai Barça', Laporta aseguró con "orgullo" que los socios estuvieron "a la altura de un gran calaje institucional e histórico". "Se trata de una gran oportunidad, no es un gasto sino una inversión que puede generar grandes beneficios para poder seguir creciendo y competir a un gran nivel", valoró. El presidente explicó que, desde el primer referéndum de 2014 en el 'Espai Barça' original de la Junta del entonces presidente Sandro Rosell, se han invertido 145 millones de euros y sólo se ha ejecutado el 5 por ciento de la obra, presupuestada entonces en 600 millones de euros, con el Estadi Johan Cruyff. "Queremos culminar el proyecto, necesario para la entidad, pero hemos exigido unas mejoras y modificaciones que son necesarias. Es una redefinición para adaptar el proyecto a las nuevas circunstancias, y para evitar entre otras cosas tener que mover abonados. Se han incorporado mejoras tecnológicas y medioambientales", comentó sobre las reformas en aquel proyecto inicial y un nuevo 'Espai Barça' que deberá ser ratificado este 19 de diciembre en el nuevo referéndum. "El día 19 se pasará de la decisión de autorizar a conseguir la financiación a ratificar esta decisión, en un referéndum telemático. Fieles a la tradición democrática del club, esta Junta entendió que se tenía que decidir todos juntos. Y será pionero, por vía telemática, para intentar favorecer la participación y abrirlo a socios y socias de todo el mundo", aportó el presidente.
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-652
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-669 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-652 es el mismo art�culo que la noticia EL MUNDO-669
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/11/26/61a0c683fdddff5c9f8b45cb.html
+        - https://www.elmundo.es/andalucia/2021/12/02/61a8b1fafdddff3d718b456e.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/11/26
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-669'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-669'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-652': {'EL MUNDO-669'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-669
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-652 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-669 es el mismo art�culo que la noticia EL MUNDO-652
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/andalucia/2021/12/02/61a8b1fafdddff3d718b456e.html
+        - https://www.elmundo.es/andalucia/2021/11/26/61a0c683fdddff5c9f8b45cb.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/11/26
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-652'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-652': {'EL MUNDO-669'}, 'EL MUNDO-669': {'EL MUNDO-652'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-652', 'EL MUNDO-669'}
+{'EL MUNDO-652': {'EL MUNDO-669'}, 'EL MUNDO-669': {'EL MUNDO-652'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-652
+1: EL MUNDO-669
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75160051]
+ [0.74806535 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-652 -> EL MUNDO-669: 0.7516005121638925. Cantidad de informaci�n extra�da de la noticia EL MUNDO-652 para a�adirla a la noticia EL MUNDO-669 :570
+         EL MUNDO-669 -> EL MUNDO-652: 0.7480653482373173. Cantidad de informaci�n extra�da de la noticia EL MUNDO-652 para a�adirla a la noticia EL MUNDO-669 :574
+
+         EL MUNDO-669 -> EL MUNDO-652: 0.7480653482373173. Cantidad de informaci�n extra�da de la noticia EL MUNDO-669 para a�adirla a la noticia EL MUNDO-652 :574
+         EL MUNDO-652 -> EL MUNDO-669: 0.7516005121638925. Cantidad de informaci�n extra�da de la noticia EL MUNDO-669 para a�adirla a la noticia EL MUNDO-652 :570
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-652 
+T�tulo: 
+El TSJA rechaza la orden de la Junta de exigir 'pasaporte Covid' en residencias y hospitales y pide que se limite en el tiempo | Andaluc�a
+Fecha: 
+2021-12-02T12:29:42Z
+Autor: CHEMA RODR�GUEZ
+Contenido: La comunidad andaluza no exigirá, por ahora, el llamado pasaporte Covid para acceder a hospitales y residencias de mayores, como pretendía el Gobierno del PP y Cs. El Tribunal Superior de Justicia de Ándalucía (TSJA) acaba de tumbar la medida que había anunciado el pasado viernes el presidente, Juanma Moreno, y con la que el Gobierno del PP y Cs pretendía poner freno a la ola ascendente de contagios y, sobre todo, proteger a los personas más vulnerables ante el Covid-19, enfermos y ancianos.Por segunda vez, el Alto Tribunal andaluz ha desbaratado los planes del ejecutivo autonómico para imponer la obligatoriedad del certificado de vacunación -o test PCR o antígenos-, en esta ocasión para acceder a los centros hospitalarios y sociosanitarios. El pasado agosto, la Junta intentó poner en marcha esta medida para los establecimientos nocturnos y tuvo que olvidarse de ello ante la falta de respaldo judicial.Los dos varapalos, no obstante, no son comparables. El del verano no admitía réplica, puesto que los magistrados consideraron entonces que el pasaporte Covid no cumplía el juicio de idoneidad ni necesidad para implantar una medida que afecta al derecho a la intimidad y al derecho a la no discriminación. No veían que la medida fuese "idónea ni necesaria" y advirtieron de que arrojaba "serias dudas".La situación ahora es diferente y, de hecho, el propio TSJA le indica el camino al Gobierno andaluz para sortear el escollo judicial y le anima a presentar, de forma inmediata, una nueva orden para que pueda ser ratificada.La Junta ha anunciado ya que seguirá el consejo del Tribunal y que va a presentar una nueva solicitud para su convalidación judicial, esta vez con límite temporal. La idea es que el pasaporte Covid se exija, al menos, hasta después de la fiesta de Reyes. Existía, han señalado fuentes del ejecutivo, la opción de recurrir al Tribunal Supremo, pero se opta por esta opción porque es más rápida.A diferencia de lo que ocurrió en verano, los magistrados de la Sala de lo Contencioso Administrativa del TSJA sí consideran que la medida de exigir el pasaporte Covid -o prueba diagnóstica oficial negativa- es proporcionada, necesaria e idónea.Es proporcionada, argumentan en el auto que se ha conocido este jueves, porque la limitación de derechos fundamentales que, evidentemente, implica es "tenue" o "liviana", teniendo en cuenta que el derecho que se trata de proteger es el derecho a la vida "y es evidente su carácter preminente por constituir un presupuesto básico y necesario para el ejercicio de los demás derechos fundamentales".Es necesaria, continúan, porque de lo que se trata con esta medida es de reducir la tasa ascendente de contagios que, a la vista está, no cesa de subir en las últimas semanas. De hecho, en las últimas 24 horas, según los datos facilitados por la Consejería de Salud, se han registrado 1.226 nuevos contagios y la tasa de incidencia a catorce días ha subido hasta los 111,84 casos por cada 100.000 habitantes.Y, por último, es idónea porque tiene como objeto, dice el auto, limitar el acceso a hospitales y residencias de mayores de las personas que comportan un mayor riesgo de transmitir la enfermedad.Incluso da por bueno la Sala que el ámbito de aplicación geográfica de la exigencia del pasaporte Covid sea toda la comunidad autónoma, sin mayor concreción ni limitación. Pero lo que no admite es que no se limite en el tiempo y ése es el gran escollo.Argumentan los magistrados del TSJA que la orden de la Junta de Andalucía debe incluir una motivación suficiente acerca de la vigencia temporal de la medida y que la legislación actual permite restricciones de derechos pero siempre "puntuales" y eso incluye el marco temporal.Es, apuntan, lo que ha sucedido en otras comunidades en las que sí se ha implantado con éxito y con aval judicial el pasaporte Covid porque las autorizaciones se han solicitado con un plazo definido y posibilidad de prórroga.Si se aprobara en los términos en los que ha sido planteada por el ejecutivo de Moreno, la duración de esta restricción, razonan los jueces, sería indefinida "y se sustraería al control de la proporcionalidad, necesidad e idoneidad". Dicho en términos más coloquiales, ahora mismo y con los datos de contagios y la evolución ascendente de la pandemia está más que justificado imponer el pasaporte Covid en hospitales y residencias, pero en el futuro la situación podría mejorar y en ese caso podría no estar justificado ya.Por todo ello es por lo que, hace hincapié el auto, el TSJA rechaza la ratificación de esta medida, pero señala el camino a la Junta de lo que debe hacer a continuación: presentar una nueva orden para el pasaporte Covid con limitación temporal para su "inmediata" ratificación.Cabe recordar que la Fiscalía Superior de Andalucía mostró este miércoles su respaldo a la implantación del certificado covidpropuesto por la Junta de Andalucía para acceder a centros sanitarios y sociosanitarios alegando que esta medida "debe ser ratificada", ya que cuenta con "habilitación legal suficiente y resulta proporcionada ante la compleja situación de riesgo sanitario en la que aún nos encontramos".
+
+
+EL MUNDO-669 
+T�tulo: 
+Andaluc�a se apunta tambi�n al pasaporte Covid: lo pedir� en hospitales y residencias de mayores | Andaluc�a
+Fecha: 
+2021-11-26T14:53:03Z
+Autor: CHEMA RODR�GUEZ
+Contenido: El pasaporte Covid, o certificado oficial de vacunación o de haber superado la enfermedad. será indispensable en Andalucía para acceder a hospitales y residencias de mayores de forma inmediata, aunque podría extenderse a hostelería y ocio nocturno. En su defecto, se exigirá una PCR realizada en las 72 horas anteriores un o test de antígenos en 48 horas realizados en un centro autorizado. El Gobierno andaluz va a pedir autorización al Tribunal Superior de Justicia de Andalucía (TSJA) para implantar esta medida, después de llevarla a la reunión del comité de expertos que se ha convocado hoy.El anuncio lo ha hecho el presidente de la Junta, Juanma Moreno, durante su visita a las obras de ampliación del Hospital de la Costa del Sol, donde ha adelantado el propósito de la Junta de sumarse a las comunidades que ya exigen este certificado. En un primer momento, ha dicho, para entrar en centros hospitalarios y sociosanitarios y con los mayores en el objetivo, "el bien fundamental a proteger". "Espero que el TSJA autorice esta medida, que es razonable", ha recalcado Moreno, que ha señalado que se implantará "lo antes posible", en cuanto tengan el visto bueno de los magistrados.Con esta medida, además, la finalidad que se persigue es evitar nuevas restricciones para el conjunto de la población, ha especificado el presidente andaluz, que ha insistido en que la voluntad del ejecutivo es que "los andaluces sigan gozando de su libertad".Moreno ha advertido de que la pandemia no ha desaparecido y pidió "máxima prudencia", al tiempo que destacó los buenos datos de vacunación en un día en el que Andalucía ha puesto ya un millón de la tercera dosis.Por su parte, el consejero de Salud, Jesús Aguirre, ha asegurado que "si bien la situación actual en Andalucía sigue estando dentro de un nivel de riesgo bajo, la tendencia de los indicadores y las proyecciones realizadas hacen necesario mantener las medidas preventivas básicas vigentes en la actualidad, pero también establecer herramientas que nos ayuden a reforzar la protección de la población más vulnerable".No es la primera vez que la Junta de Andalucía trata de imponer esta medida, destinada sobre todo a persuadir a los no vacunados de que se inmunicen. El pasado agosto, ya pidió el visto bueno del TSJA para exigir el certificado de vacunación para el ocio nocturno, pero los magistrados tumbaron la propuesta.El Alto Tribunal andaluz consideró entonces que el pasaporte Covid no cumplía el juicio de idoneidad ni necesidad para implantar una medida que afecta al derecho a la intimidad y al derecho a la no discriminación.No veían los jueces que esta medida fuese "idónea ni necesaria" y advirtieron de que arrojaba "serias dudas".En esta ocasión, como dijo el martes el consejero de Salud y Familias, Jesús Aguirre, se espera que la decisión sea otra y que el TSJA dé su visto bueno porque la situación ha cambiado. Entre otras cosas, y era una de las pegas que puso el Tribunal Superior, ahora el 90% de la población diana está vacunada.Además, el comité de expertos incide en la necesidad de que se mantengan las medidas necesarias para evitar aglomeraciones de personas, la distancia interpersonal y las medidas preventivas de higiene de forma que se reduzca la posibilidad de contagios. El Comité también insiste en el mantenimiento del uso de la mascarilla en aquellos espectáculos públicos considerados eventos multitudinarios, aunque sean en exterior, estableciendo medidas de sectorización de público y de los servicios que se ofrezcan.De forma especial, se recomienda el mantenimiento de una adecuada ventilación en los espacios interiores de establecimientos públicos. Para facilitar este hecho, la Consejería de Salud y Familias, a través de la Dirección General de Salud Pública y Ordenación Farmacéutica, elaborará una "Guía de buenas prácticas de ventilación en establecimientos de hostelería y ocio nocturno".La situación de la pandemia en la comunidad, aunque sigue siendo mejor que la que se registra en otras autonomías como Navarra o País Vasco, empeora cada día. Este jueves, según los últimos datos que ofrece el Instituto de Estadística de Andalucía (IECA), la incidencia ha escalado algo más de siete puntos en solo 24 horas, de manera que se sitúa ya en 90,1 casos por cada 100.000 habitantes y muy cerca del centenar, el límite para que Andalucía pase de un nivel de riesgo bajo, en el que todavía se encuentra, a riesgo alto de contagio.En una sola jornada se han registrado 1.045 nuevos casos de Covid-19, una cifra que hacía tiempo que no se contabilizaba en la región y que supone un incremento de 327 casos respecto a los registrados hace una semana, 52 más que el jueves, 262 más que el miércoles o 620 más que el martes.Asimismo, cinco personas han fallecido a causa del SARS-CoV-2, dos en Sevilla, una en Córdoba, otra en Cádiz y otra en Granada. La cifra de fallecimientos también es mayor que las de los últimos días, puesto que el jueves fueron tres los muertos y hace una semana, dos.
+
+

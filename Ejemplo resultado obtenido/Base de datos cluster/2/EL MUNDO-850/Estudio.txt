@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-850
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-851 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-850 es el mismo art�culo que la noticia EL MUNDO-851
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/television/medios/2021/07/06/60e3f40121efa0e91b8b4579.html
+        - https://www.elmundo.es/television/medios/2021/07/06/60e480a9e4d4d85e388b45c2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/07/06
+        - 2021/07/07
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-851'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-851'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-850': {'EL MUNDO-851'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-851
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-850 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-851 es el mismo art�culo que la noticia EL MUNDO-850
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/television/medios/2021/07/06/60e480a9e4d4d85e388b45c2.html
+        - https://www.elmundo.es/television/medios/2021/07/06/60e3f40121efa0e91b8b4579.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 1 d�as de diferencia: 
+        - 2021/07/07
+        - 2021/07/06
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-850'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-850': {'EL MUNDO-851'}, 'EL MUNDO-851': {'EL MUNDO-850'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-851', 'EL MUNDO-850'}
+{'EL MUNDO-850': {'EL MUNDO-851'}, 'EL MUNDO-851': {'EL MUNDO-850'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-851
+1: EL MUNDO-850
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.64992312]
+ [0.63322368 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-851 -> EL MUNDO-850: 0.6499231163505894. Cantidad de informaci�n extra�da de la noticia EL MUNDO-851 para a�adirla a la noticia EL MUNDO-850 :671
+         EL MUNDO-850 -> EL MUNDO-851: 0.6332236842105263. Cantidad de informaci�n extra�da de la noticia EL MUNDO-851 para a�adirla a la noticia EL MUNDO-850 :657
+
+         EL MUNDO-850 -> EL MUNDO-851: 0.6332236842105263. Cantidad de informaci�n extra�da de la noticia EL MUNDO-850 para a�adirla a la noticia EL MUNDO-851 :657
+         EL MUNDO-851 -> EL MUNDO-850: 0.6499231163505894. Cantidad de informaci�n extra�da de la noticia EL MUNDO-850 para a�adirla a la noticia EL MUNDO-851 :671
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-851 
+T�tulo: 
+EGM: Herrera y los deportes impulsan a la Cope y la sit�an a menos de un mill�n de la Cadena Ser | Medios
+Fecha: 
+2021-07-06T08:05:22Z
+Autor: PABLO R. ROCES
+Contenido: Las diferencias entre la Cadena Ser y Cope continúan estrechándose y ya son inferiores al millón de oyentes. Según la segunda oleada del Estudio General de Medios (EGM), la radio de la Conferencia Episcopal vuelve a subir este mes de julio y adquiere 60.000 nuevos fieles mientras el resto de sus rivales se desploman.Una subida que viene impulsada por un nuevo aumento de audiencia de Carlos Herrera, Ángel Expósito y, sobre todo, la franja deportiva, que permiten a Cope situarse con 3.427.000 y colocarse ya a menos de un millón de la Ser que se mantiene líder pese a perder 150.000 oyentes. También en el capítulo de pérdidas está Onda Cero, que se deja unos 90.000 fieles con respecto a la pasada oleada y certifica 1.851.000. Por su parte, Es Radio gana 135.000 oyentes que la impulsan hasta los 757.000 y Radio Nacional de España se sitúa en 1.113.000 tras ganar 15.000 seguidores.De este modo, tres récords históricos para Herrera en Cope (2,6 millones), La Linterna (890.000)y El Partidazo, que presenta Juanma Castaño, (825.000) son los que permiten a la cadena clerical volver a reducir la ventaja con una Cadena Ser, que firma la mayor caída de las tres radios principales y se sitúa en los 4.220.000 oyentes, estableciendo la diferencia con su perseguidora por debajo del millón que ostentaba en el último EGM.En la batalla matinal, Hoy por Hoy sigue siendo líder pese a perder casi 50.000 espectadores en apenas tres meses. El programa que dirige Ángels Barceló firmaba en la primera oleada 3.055.000 oyentes frente a los 3.011.000 actuales, que sitúan a Carlos Herrera a apenas 400.000 del liderazgo. En tercera posición se mantiene Carlos Alsina con Más de uno (1,3 millones).En la franja vespertina, La Ventana con Carles Francino refleja una pequeña caída de 20.000 seguidores hasta los 908.000 que aún así le permiten mantenerse en cabeza. En ese mismo horario, 472.000 oyentes apuestan por La Tarde con Fernando de Haro y Pilar Cisneros en Cope, que es el único programa de este horario que aumenta en oyentes. La baja por enfermedad de Julia Otero, que había marcado un récord histórico en marzo, hace que Julia en la Onda se mantenga en segunda posición con 506.000 seguidores, pero perdiendo 133.000 fieles.Pepa Bueno y su Hora 25 recuperan casi 100.000 oyentes con respecto a la pasada oleada hasta alcanzar 1.051.000 y aumentan la distancia con su perseguidor: La Linterna. El programa de Ángel Expósito crece apenas 2.000 tras ser el espacio con una mayor subida en el mes de marzo en este horario. Por su parte, La Brújula llega a los 316.000 seguidores tras una subida de 57.000.Pero el acercamiento de Cope a la Ser en esta segunda oleada del EGM viene dado por los deportes principalmente. Los fines de semana Tiempo de juego crece hasta un 1.538.000 oyentes y en la noche del lunes a viernes El Partidazo alcanza los 825.000. El espacio que dirige Juanma Castaño registra su mejor marca histórica superando en más de 150.000 fieles a El Larguero de Manu Carreño 671.000, que se deja unos 70.000 en los últimos tres meses. El Transistor, del que la pasada semana se despidió José Ramón de la Morena, pierde 27.000 fieles y se queda en 201.000También en los fines de semana Carrusel Deportivo, dirigido por Dani Garrido, registra una caída desde los 1.404.000 seguidores del arranque de año a los actuales 1.352.000. Una tendencia contraria a la que lleva Tiempo de juego, que tras la bajada de la primera oleada, recupera ahora 134.000 que le permiten subir hasta 1.538.000 y ampliar la distancia con su perseguidor como líder del fin de semana deportivo en España. En tercer lugar se sitúan Antonio Esteva y Javier Ruiz Taboada en Onda Cero con 400.000 oyentes.En el ámbito deportivo, Radio Marca, la emisora de Unidad Editorial, también crece en seguidores pasando de los 363.000 fieles del mes de marzo a los 388.000 actuales, casi un 7% más en apenas un trimestre.
+
+
+EL MUNDO-850 
+T�tulo: 
+Unidad Editorial, l�der absoluto de la prensa espa�ola | Medios
+Fecha: 
+2021-07-07T08:34:55Z
+Autor: EL MUNDO
+Contenido: La segunda oleada de 2021 del Estudio General de Medios (EGM) sigue la tendencia del inicio del año y vuelve a coronar a Unidad Editorial como líder indiscutible de la prensa diaria española. El grupo editor de, entre otras cabeceras, EL MUNDO, Expansión y Marca acumula un total de 1.486.000 lectores, que le distancian en 9.000 de su más inmediato perseguidor, Vocento, que registra 1.477.000.En el tercer lugar se sitúa el Prensa Ibérica con 1.223.000 fieles, a quien Unidad Editorial supera en 263.000; el cuarto grupo sería Prisa con 1.214.000, a 272.000, y, por último, estaría el Grupo Godó, que cosecha 660.000, menos de la mitad de seguidores que el grupo líder.El liderazgo de Unidad Editorial se sustenta en que EL MUNDO se mantiene como el segundo periódico generalista más leído de España, sólo superado por El País (795.000), con 511.000 lectores. Por detrás se mantienen La Vanguardia (426.000), ABC (384.000) o La Razón (149.000). De hecho, la suma de estos dos últimos apenas supera en 20.000 ejemplares a este diario.En el ámbito económico, Expansión domina sin fisuras el sector de la prensa escrita y aumenta aún más su ventaja respecto a sus dos inmediatos perseguidores. El Economista, con 45.000, y Cinco Días, con 41.000. El diario salmón de Unidad Editorial reafirma su liderazgo con una cuota de mercado de casi el 60% en su sector.Un escenario similar al que se abre en la prensa deportiva, donde Marca se mantiene en cabeza con 849.000 fieles que acuden a diario al quiosco para acercarse a la actualidad. El conjunto de sus tres principales competidores ni siquiera llega al total de lectores del diario de Unidad Editorial ya que As acumula un total de 378.000; Mundo Deportivo, 234.000, y Sport, 174.000.Son estos datos de audiencia los que consolidan a Unidad Editorial un cuatrimestre más como líder indiscutible de la prensa de este país. Y, no sólo eso, sino que le permite ampliar la distancia con el Grupo Prisa un 22% en este segunda oleada del año.Este EGM se traduce además en datos positivos para la única radio puramente deportiva en España y propiedad de Unidad Editorial, Radio Marca, que ha visto como sus oyentes crecen en este trimestre de los 363.000 a los 388.000, un 7% más en los días laborales.En el panorama radiofónico es la Cadena Ser quien sigue dominando el ránking con 4.220.000 personas al otro lado de las ondas, pero su pérdida de 150.000 fieles permite que Cope reduzca esa ventaja por debajo del millón que establecía la primera oleada del año. El impulso de Carlos Herrera, Ángel Expósito y, sobre todo, la parcela deportiva permiten a la emisora de la Conferencia Episcopal cerrar su mejor temporada con récord histórico en gran parte de su parrilla y con un total de 3.427.000 oyentes, 60.000 más que al inicio de 2021.Por detrás, en tercera posición, se mantiene Onda Cero pese a dejarse 90.000 oyentes en este último EGM y quedarse en 1.851.000 seguidores. El cuarto escalón lo ostenta Radio Nacional de España con 1.113.000 fieles gracias a un ligero crecimiento del 1% en estos tres meses. Pero ese crecimiento ha sido aún mayor en el caso de Es Radio con un aumento del 21,7%, que le permite pasar de los 622.000 oyentes del mes de abril a los 757.000 actuales.En la batalla matinal, Hoy por Hoy sigue siendo líder pese a perder casi 50.000 espectadores en estos últimos meses. El programa que dirige Ángels Barceló firmaba en la primera oleada 3.055.000 oyentes frente a los 3.011.000 actuales, que sitúan a Carlos Herrera a apenas 400.000 del liderazgo con 2.579.000. En tercera posición se mantiene Carlos Alsina con Más de uno (1,3 millones) seguido de Íñigo Alfonso en Las mañanas de RNE (840.000).En la franja deportiva del fin de semana, Tiempo de juego crece hasta un 1.538.000 oyentes y en la noche del lunes a viernes El Partidazo alcanza los 825.000. El espacio que dirige Juanma Castaño registra su mejor marca histórica superando en más de 150.000 fieles a El Larguero de Manu Carreño.
+
+

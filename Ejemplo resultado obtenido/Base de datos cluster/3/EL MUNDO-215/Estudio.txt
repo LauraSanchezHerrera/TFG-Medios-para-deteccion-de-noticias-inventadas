@@ -1,0 +1,162 @@
+Estudio de la noticia EL MUNDO-215
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-236 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-215 es el mismo art�culo que la noticia EL MUNDO-236
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/metropoli/series/2021/12/01/61a67cf5fdddfffe6a8b458c.html
+        - https://www.elmundo.es/metropoli/series/2021/12/04/61aaa052fc6c83380a8b456d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-256 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-215 es el mismo art�culo que la noticia EL MUNDO-256
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/metropoli/series/2021/11/28/61a23c8221efa01e768b457c.html
+        - https://www.elmundo.es/metropoli/series/2021/12/04/61aaa052fc6c83380a8b456d.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/11/28
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-236', 'EL MUNDO-256'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-236 y EL MUNDO-256:
+     No son la misma noticia.
+
+ - Comparo las noticias EL MUNDO-256 y EL MUNDO-236:
+     No son la misma noticia.
+
+Hay 2 noticias similares:
+{'EL MUNDO-236', 'EL MUNDO-256'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-215': {'EL MUNDO-236', 'EL MUNDO-256'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-236
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-215 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-236 es el mismo art�culo que la noticia EL MUNDO-215
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/metropoli/series/2021/12/04/61aaa052fc6c83380a8b456d.html
+        - https://www.elmundo.es/metropoli/series/2021/12/01/61a67cf5fdddfffe6a8b458c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-215'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-215': {'EL MUNDO-236', 'EL MUNDO-256'}, 'EL MUNDO-236': {'EL MUNDO-215'}}
+
+Estudio de la noticia EL MUNDO-256
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-215 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-256 es el mismo art�culo que la noticia EL MUNDO-215
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/metropoli/series/2021/12/04/61aaa052fc6c83380a8b456d.html
+        - https://www.elmundo.es/metropoli/series/2021/11/28/61a23c8221efa01e768b457c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 6 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/11/28
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-215'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-215': {'EL MUNDO-236', 'EL MUNDO-256'}, 'EL MUNDO-236': {'EL MUNDO-215'}, 'EL MUNDO-256': {'EL MUNDO-215'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 2 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-215', 'EL MUNDO-236', 'EL MUNDO-256'}
+{'EL MUNDO-215': {'EL MUNDO-236', 'EL MUNDO-256'}, 'EL MUNDO-236': {'EL MUNDO-215'}, 'EL MUNDO-256': {'EL MUNDO-215'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-215
+1: EL MUNDO-236
+2: EL MUNDO-256
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75051653 0.76837806]
+ [0.68639053 0.         0.79404901]
+ [0.75213675 0.813147   0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-215 -> EL MUNDO-236: 0.7505165289256198. Cantidad de informaci�n extra�da de la noticia EL MUNDO-215 para a�adirla a la noticia EL MUNDO-236 :471
+         EL MUNDO-236 -> EL MUNDO-215: 0.6863905325443787. Cantidad de informaci�n extra�da de la noticia EL MUNDO-215 para a�adirla a la noticia EL MUNDO-236 :465
+
+         EL MUNDO-215 -> EL MUNDO-256: 0.7683780630105017. Cantidad de informaci�n extra�da de la noticia EL MUNDO-215 para a�adirla a la noticia EL MUNDO-256 :385
+         EL MUNDO-256 -> EL MUNDO-215: 0.7521367521367521. Cantidad de informaci�n extra�da de la noticia EL MUNDO-215 para a�adirla a la noticia EL MUNDO-256 :365
+
+         EL MUNDO-236 -> EL MUNDO-215: 0.6863905325443787. Cantidad de informaci�n extra�da de la noticia EL MUNDO-236 para a�adirla a la noticia EL MUNDO-215 :465
+         EL MUNDO-215 -> EL MUNDO-236: 0.7505165289256198. Cantidad de informaci�n extra�da de la noticia EL MUNDO-236 para a�adirla a la noticia EL MUNDO-215 :471
+
+         EL MUNDO-256 -> EL MUNDO-215: 0.7521367521367521. Cantidad de informaci�n extra�da de la noticia EL MUNDO-256 para a�adirla a la noticia EL MUNDO-215 :365
+         EL MUNDO-215 -> EL MUNDO-256: 0.7683780630105017. Cantidad de informaci�n extra�da de la noticia EL MUNDO-256 para a�adirla a la noticia EL MUNDO-215 :385
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-215 
+T�tulo: 
+Cinco series que te van a alegrar el puente | Series
+Fecha: 
+2021-12-04T09:36:54Z
+Autor: JAVIER ESTRADA
+Contenido: Llega un largo puente y es momento de recomendar series que puedan alegrarte el día en plataformas como Apple TV+, Netflix, Amazon Prime Video, HBO MAX España y Disney+.TED LASSO (APPLE TV+)Jason Sudeikis lo borda en esta serie que va de fútbol pero no está destinada sólo a los muy futboleros. Y que es comedia pero tiene sus momentos dramáticos en los que es fácil que a quien los ve le salgan las lágrimas. Así de especial es una serie que estrenó hace poco tiempo su segunda temporada y en la que el Ted Lasso del título es un entrenador de fútbol tan especial que todos querríamos tenerle a nuestro lado.HARLEM (AMAZON PRIME VIDEO)Recién llegada a Amazon Prime Video, esta comedia refleja la vida de cuatro mujeres afroamericanas y recuerda en ocasiones a Sexo en Nueva York. Con diálogos punzantes, glamour e historias de superación, Harlem cuenta cómo les va a una profesora, una empresaria, una cantante y una diseñadora de moda. Cuatro personajes que se combinan a la perfección y que interactúan con otro, secundario, que corre a cargo de Whoopi Goldberg. La suscripción a Amazon Prime Video está disponible aquí.RICK Y MORTY (NETFLIX)A poco que a alguien le guste la animación y el humor negro ésta debería ser la recomendación perfecta. Sus alocadas tramas están protagonizadas por un joven y su abuelo inventor. Dos tipos que recorren la galaxia, descubren multiversos y se juegan la vida para enfrentarse a extraterrestres todavía más locos que ellos.SOLO ASESINATOS EN EL EDIFICIO (DISNEY+)Steve Martin, Selena Gomez y Martin Short conforman el trío protagonista de una producción ambientada en un lujoso edificio de Nueva York. Los tres viven allí y descubren, a raíz de una extraña muerte, que pueden jugar a ser detectives... debido a su pasión por un podcast de misterio. Todo ello configura una peculiar investigación con giros sorprendentes. Para suscribirse a Disney+ se puede acceder aquí.VENGA JUAN (HBO MAX ESPAÑA)Javier Cámara es Juan Carrasco. Un tipo vulgar, mediocre, machista, deslenguado... y político. En la tercera temporada de una de las mejores comedias españolas de los últimos años, el personaje protagonista vivirá un calvario a raíz de un caso de corrupción que sucedió en el pasado. Y que se parece mucho a casos reales que todos hemos visto en las noticias. Suscríbete aquí a HBO MAX España.En calidad de Afiliado, METRÓPOLI obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables. La inclusión de enlaces no influye en la independencia editorial de este medio: los redactores seleccionan y analizan los productos libremente, según su criterio y conocimiento especializado.
+
+
+EL MUNDO-236 
+T�tulo: 
+Las 7 mejores series que llegan en diciembre a Netflix, HBO Max, Amazon Prime Video y Movistar+ | Series
+Fecha: 
+2021-12-01T00:42:58Z
+Autor: JAVIER ESTRADA
+Contenido: Series como La casa de papel, Cobra Kai, El libro de Boba Fett, El pueblo o Dan Brown: El símbolo perdido son las grandes apuestas para diciembre de plataformas como Movistar+, Amazon Prime Video, HBO MAX España, Netflix o Disney+.EL PUEBLO (Amazon Prime Video, 2 diciembre)Tras el éxito de La que se avecina (y, antes, de Aquí no hay quien viva), sus creadores se lanzaron al reto de ambientar una comedia en un pequeño pueblo casi abandonado en Soria. El resultado es una de las mejores comedias españolas de los últimos años, en la que las miserias de sus personajes configuran tramas muy locas que retratan nuestra sociedad sin medias tintas. La suscripción a Amazon Prime Video está disponible aquí.LA CASA DE PAPEL (Netflix, 3 diciembre)Tras haber hecho historia y arrasar en todo el mundo, se acerca el fin para La casa de papel. Si los ladrones consiguen hacerse con el botín, si El profesor saldrá con vida o si la policía al final no será tan torpe como siempre se ha mostrado son algunas de las incógnitas que despejará esta segunda tanda de episodios de una temporada final que ha venido cargada de explosiones, peleas y traiciones.AND JUST LIKE THAT (HBO MAX España, 9 diciembre)Aunque no esté la icónica Samantha, la nueva serie que viene a sustituir a Sexo en Nueva York promete. Cómo no si en ella vuelven a aparecer Carrie (Sarah Jessica Parker), Miranda (Cynthia Nixon) y Charlotte (Kristin Davis), con Nueva York como telón de fondo y hombres deseando acercarse a estas chicas que son estilosas, independientes y muy enamoradizas. Suscríbete aquí a HBO MAX España.DAN BROWN: EL SÍMBOLO PERDIDO (Movistar+, 19 diciembre)Si en la gran pantalla Tom Hanks triunfó dando vida a Robert Langdon, en esta serie lleva el rostro (y el cuerpo) de Ashley Zukerman. Suya es la responsabilidad de engancharnos con una historia 'made in Dan Brown' con giros inesperados, conspiraciones y malos malísimos. Una producción cuya trama está ambientada antes de los hechos que sucedían en la ultrafamosa película (antes libro) El código Da Vinci.EMILY EN PARÍS (Netflix, 22 diciembre)Lily Collins ataca de nuevo, para alegría de sus fans... y desesperación de quienes han encontrado en esta serie una diana para sus críticas. En esta segunda temporada, el combo moda-amores-sitios cuquis de París está más que engrasado, ofreciendo nuevas tramas en las que esta joven busca el amor desesperadamente.EL LIBRO DE BOBA FETT (Disney+, 29 diciembre)Los seguidores de The Mandalarian descubrieron al final de la segunda temporada que Boba Fett se hacía cargo del trono de Jabba the Hutt. Una sorpresa mayúscula que no era más que la presentación de esta nueva serie basada en el universo Star Wars. Acción, villanos que prometen dar mucha guerra y muchos guiños a la saga galáctica hacen pensar que esta serie puede tener éxito. Para suscribirse a Disney+ se puede acceder aquí.COBRA KAI (Netflix, 31 diciembre)La serie que continúa la saga (en cines) Karate Kid tiene vida propia. Con el kárate como excusa, esta comedia con toques dramáticos es una de las producciones que mejor han evolucionado, consiguiendo que cada uno de sus personajes resulte interesante. Y que nos demuestran que, cuando uno se cae, hay que levantarse... y mejor si es con la ayuda de otros.En calidad de Afiliado, METRÓPOLI obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables. La inclusión de enlaces no influye en la independencia editorial de este medio: los redactores seleccionan y analizan los productos libremente, según su criterio y conocimiento especializado.
+
+
+EL MUNDO-256 
+T�tulo: 
+Venga Juan, la serie de Javier C�mara que se r�e (con mucha mala leche) de los pol�ticos corruptos | Series
+Fecha: 
+2021-11-28T01:12:33Z
+Autor: JAVIER ESTRADA
+Contenido: Bailando Eloise, de Tino Casal; haciendo el amor de noche en la piscina de su chaletazo, con su pelo recién implantado y hablándole de tú a tú a su famoso vecino (¿de verdad que es Chayanne?) a la mañana siguiente. Así de triunfador aparece en los primeros minutos Juan Carrasco, el personaje que borda Javier Cámara en Venga Juan.Esta comedia, que llega a su tercera temporada, se estrena en HBO Max el 28 de noviembre. Ácida, corrosiva, políticamente incorrecta y con un punto muy realista, la serie destapa las miserias de la política y las altas esferas utilizando para ello a un tipo despreciable, incapaz de reconocer su mediocridad y que igual engaña a su familia (o eso cree él) que a los miembros de su propio partido. Suscríbete aquí a HBO MAX.UNA SERIE CON DISTINTOS NOMBRESEn los ocho episodios que componen esta tercera entrega (como curiosidad, las anteriores se llamaban Vota Juan y Vamos Juan) descubrimos a un Juan Carrasco en la cumbre del éxito. Tras su paso por el Ministerio de Agricultura y la vicepresidencia del Gobierno de España, Carrasco regresó a su Logroño natal. El lugar donde llegó a ser el alcalde y en el que nadie guarda buen recuerdo de él. Ahora, tiempo después, le vemos trabajando en una empresa privada y todo parece irle bien... hasta que un caso de corrupción recién descubierto le salpica de lleno. Cuando él mandaba en Logroño no tuvo reparos en aceptar todo tipo de regalos y sobornos. Y ahora, alguien se ha preocupado de contarlo todo. VIVA LA CORRUPCIÓNLa España que muestra esta serie está llena de políticos, empresarios y personalidades tan (o más) corruptas como Carrasco. No hace falta saber mucho de política para encontrar similitudes entre lo que cuentan Diego San José (el creador de Venga Juan) y su equipo de guionistas -entre ellos, Víctor García León y Pilar Palomero- y cualquier caso de corrupción real sucedido en las últimas décadas en España.Ordenadores formateados de una manera chapucera, referencias a la detención de Julián Muñoz o a las siempre cuestionadas puertas giratorias aparecen en una historia llena de golpes de humor muy negro. Y en los que Javier Cámara se mueve como pez en el agua poniendo al servicio de la trama toda su vis cómica. Memorables las ocasiones en las que utilizan sus manos para hacer hincapié en lo que cuenta. Además, habría que destacar la labor de María Pujalte, como su exsecretaria de prensa; de Adam Jezierski, como su fiel y poco inteligente ayudante; Esty Quesada como su hija; y Ramón Barea como su exsuegro. Entre otros asuntos, estos episodios hablan de personas de género fluido, de moralidad y de relaciones amorosas. Todas ellas, por supuesto, bajo el prisma de un Juan Carrasco que es machista, amoral y un bocazas de primera categoría. En calidad de Afiliado, METRÓPOLI obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables. La inclusión de enlaces no influye en la independencia editorial de este medio: los redactores seleccionan y analizan los productos libremente, según su criterio y conocimiento especializado.
+
+

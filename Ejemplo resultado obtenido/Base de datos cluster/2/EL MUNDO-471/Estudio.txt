@@ -1,0 +1,144 @@
+Estudio de la noticia EL MUNDO-471
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-472 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-471 es el mismo artÌculo que la noticia EL MUNDO-472
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/29/617c0eb521efa04a7e8b45cf.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/10/28
+        - 2021/10/29
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-472'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-472'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-471': {'EL MUNDO-472'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-472
+
+Pertenece a la carpeta de dependencias: 2
+
+La noticia es similar a la noticia EL MUNDO-473 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-472 es el mismo artÌculo que la noticia EL MUNDO-473
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/17/616c09b8e4d4d8b14e8b457b.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 11 dÌas de diferencia: 
+        - 2021/10/17
+        - 2021/10/28
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-393 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-472 es el mismo artÌculo que la noticia EL MUNDO-393
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/2021/12/04/61ab5f86fc6c83f3438b459e.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 37 dÌas de diferencia: 
+        - 2021/12/04
+        - 2021/10/28
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-471 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-472 es el mismo artÌculo que la noticia EL MUNDO-471
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/29/617c0eb521efa04a7e8b45cf.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 1 dÌas de diferencia: 
+        - 2021/10/29
+        - 2021/10/28
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-482 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-472 es el mismo artÌculo que la noticia EL MUNDO-482
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/09/13/613f9cf2fc6c83e2518b4674.html
+        - https://www.elmundo.es/comunidad-valenciana/alicante/2021/10/28/617b0d94e4d4d8496e8b45c2.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 45 dÌas de diferencia: 
+        - 2021/09/13
+        - 2021/10/28
+
+Demasiados dÌas de diferencia o se trata del mismo artÌculo.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-471'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-471': {'EL MUNDO-472'}, 'EL MUNDO-472': {'EL MUNDO-471'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-472', 'EL MUNDO-471'}
+{'EL MUNDO-471': {'EL MUNDO-472'}, 'EL MUNDO-472': {'EL MUNDO-471'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-472
+1: EL MUNDO-471
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.79394387]
+ [0.71910112 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-472 -> EL MUNDO-471: 0.7939438700147711. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-472 para aÒadirla a la noticia EL MUNDO-471 :267
+         EL MUNDO-471 -> EL MUNDO-472: 0.7191011235955056. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-472 para aÒadirla a la noticia EL MUNDO-471 :263
+
+         EL MUNDO-471 -> EL MUNDO-472: 0.7191011235955056. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-471 para aÒadirla a la noticia EL MUNDO-472 :263
+         EL MUNDO-472 -> EL MUNDO-471: 0.7939438700147711. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-471 para aÒadirla a la noticia EL MUNDO-472 :267
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-472 
+TÌtulo: 
+Detenido un hombre de 70 aÒos por descuartizar a su pareja en Torrevieja | Alicante
+Fecha: 
+2021-10-28T20:52:41Z
+Autor: EFE
+Contenido: Un hombre de 70 a√±os de nacionalidad finlandesa ha sido detenido como presunto autor del descuartizamiento de su pareja sentimental, una mujer compatriota de 68, parte de cuyos restos mortales han sido hallados esta ma√±ana en un contenedor del casco urbano de Torrevieja (Alicante).Fuentes de la investigaci√≥n han informado a EFE de que la detenci√≥n por este supuesto crimen machista se ha producido a √∫ltima hora de la noche y que no constan denuncias previas entre ambos. Im√°genes grabadas por c√°maras de vigilancia cercanas al contenedor donde se encontraron los primeros restos han facilitado la identificaci√≥n y localizaci√≥n del supuesto homicida, en cuyo domicilio de la ciudad torrevejense se ha realizado un registro que sigue a √∫ltima hora de la noche. El arresto se produce solo unas horas despu√©s de que un indigente se encontrara en torno a las 13.45 horas dentro de un contenedor de la calle Luis C√°novas Mart√≠nez, muy cerca de un supermercado y del instituto Libertas, las dos piernas y un brazo de la v√≠ctima. La polic√≠a judicial de la Guardia Civil se hizo cargo de la investigaci√≥n con un amplio dispositivo para tratar de localizar m√°s restos en contenedores de basuras de las calles cercanas, como en la calle Silvia Mart√≠nez Santiago. En uno de los contenedores situados en esta √∫ltima calle y junto a la urbanizaci√≥n 'Arco' los agentes han trabajado durante varias horas y han extra√≠do hasta cerca de las 22 horas varias bolsas con restos, algunos de los cuales podr√≠an ser de la v√≠ctima. Tambi√©n se ha efectuado el registro de una de las viviendas de dicha urbanizaci√≥n, donde presumiblemente resid√≠a la pareja. Adem√°s de esta b√∫squeda, se ha paralizado provisionalmente la recogida de basuras en Torrevieja para hallar m√°s restos y tambi√©n se indaga en los vertederos donde se han podido depositar las basuras, tras su recogida y transporte por los camiones.
+
+
+EL MUNDO-471 
+TÌtulo: 
+El detenido en Torrevieja por descuartizar y arrojar a un contenedor a su pareja admite el crimen | Alicante
+Fecha: 
+2021-10-29T15:21:58Z
+Autor: EFE
+Contenido: El finland√©s de 70 a√±os detenido en Torrevieja (Alicante) por descuartizar y arrojar a un contenedor a su pareja, compatriota de 68, contaba con antecedentes por maltrato de una relaci√≥n anterior y ha confesado a los agentes que le detuvieron ser el autor del crimen.Fuentes del caso han desvelado a Efe que este individuo fue reconocido este jueves, horas despu√©s de hallarse las piernas y un brazo de la v√≠ctima dentro de un contenedor, porque merodeaba por los alrededores con la misma vestimenta con la que supuestamente hab√≠a sido grabado por la c√°mara de un supermercado donde se echaron los restos.Este individuo iba montado en una bicicleta y con un sombrero en la cabeza y al darle el alto y ser preguntado por si sab√≠a algo de lo ocurrido, respondi√≥ con incoherencias antes de acabar reconociendo la autor√≠a del asesinato.Adem√°s, despu√©s condujo a los agentes de la Polic√≠a Judicial de la Guardia Civil a la vivienda donde conviv√≠a con su pareja y all√≠ se encontr√≥ la parte superior del tronco de la mujer.Seg√∫n la investigaci√≥n, la pareja conviv√≠a en el mismo domicilio de alquiler de Torrevieja desde febrero de 2021, mes en el que ella hab√≠a denunciado a su anterior pareja por violencia machista.En esa denuncia, que coincidi√≥ con el inicio de la convivencia, actu√≥ como testigo el ahora detenido, que, a su vez, figura en la base de datos de Viogen desde 2018 por malos tratos a la que entonces era su pareja sentimental. Una vecina de la pareja ha manifestado a los investigadores que varios d√≠as antes del crimen tanto la v√≠ctima como el arrestado tuvieron una pelea y que posteriormente la mujer le indic√≥ que el hombre estaba loco. Coordinado por el Juzgado de Instrucci√≥n n√∫mero 3 de Torrevieja, este viernes contin√∫a la b√∫squeda del resto de partes del cad√°ver de la v√≠ctima en contenedores de la localidad y tambi√©n en el vertedero de Piedra Negra de Jijona, donde acaban las basuras de Torrevieja. El asesinato ha causado una honda conmoci√≥n en la localidad, donde a las 11:00 horas ha habido una concentraci√≥n silenciosa de repulsa a las puertas del ayuntamiento en la que ha participado la subdelegada del Gobierno en Alicante, Araceli Poblador, y el alcalde de Torrevieja, Eduardo Dol√≥n, entre otros.Poblador, que ha evitado entrar en profundidad en los detalles "escabrosos" del asesinato, ha hecho un llamamiento para que el silencio de la sociedad no sea c√≥mplice de la violencia machista y para evitar "normalizar" este tipo de violaci√≥n de los derechos humanos. Por su parte, Dol√≥n ha manifestado la "consternaci√≥n" de los vecinos por unos hechos "que no son habituales, y menos en la comunidad finlandesa" ya que "el comportamiento habitual de los finlandeses es ejemplar".
+
+

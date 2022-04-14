@@ -1,0 +1,110 @@
+Estudio de la noticia La Informacion-3
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia La Informacion-40 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia La Informacion-3 es el mismo art�culo que la noticia La Informacion-40
+     Se trata de noticias distintas: 
+        - https://www.lainformacion.com/empresas/podcast-inditex-gran-transicion-amancio-maceiras-pasando-por-isla/2854733/
+        - https://www.lainformacion.com/empresas/podcast-con-maceiras-el-ambiente-de-los-directivos-de-inditex-sera-mas-dulce/2855074/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'La Informacion-40'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'La Informacion-40'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'La Informacion-3': {'La Informacion-40'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia La Informacion-40
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia La Informacion-3 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia La Informacion-40 es el mismo art�culo que la noticia La Informacion-3
+     Se trata de noticias distintas: 
+        - https://www.lainformacion.com/empresas/podcast-con-maceiras-el-ambiente-de-los-directivos-de-inditex-sera-mas-dulce/2855074/
+        - https://www.lainformacion.com/empresas/podcast-inditex-gran-transicion-amancio-maceiras-pasando-por-isla/2854733/
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 3 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'La Informacion-3'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'La Informacion-3': {'La Informacion-40'}, 'La Informacion-40': {'La Informacion-3'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'La Informacion-40', 'La Informacion-3'}
+{'La Informacion-3': {'La Informacion-40'}, 'La Informacion-40': {'La Informacion-3'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: La Informacion-40
+1: La Informacion-3
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.73219116]
+ [0.78912564 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         La Informacion-40 -> La Informacion-3: 0.7321911632100991. Cantidad de informaci�n extra�da de la noticia La Informacion-40 para a�adirla a la noticia La Informacion-3 :285
+         La Informacion-3 -> La Informacion-40: 0.7891256429096253. Cantidad de informaci�n extra�da de la noticia La Informacion-40 para a�adirla a la noticia La Informacion-3 :275
+
+         La Informacion-3 -> La Informacion-40: 0.7891256429096253. Cantidad de informaci�n extra�da de la noticia La Informacion-3 para a�adirla a la noticia La Informacion-40 :275
+         La Informacion-40 -> La Informacion-3: 0.7321911632100991. Cantidad de informaci�n extra�da de la noticia La Informacion-3 para a�adirla a la noticia La Informacion-40 :285
+
+
+***********      Informaci�n de las noticias     ***********
+
+La Informacion-40 
+T�tulo: 
+Podcast | La gran transici�n en Inditex: de Amancio a Maceiras pasando por Isla
+Fecha: 
+2021-12-01T04:30:00+01:00
+Autor: 
+
+Ingrid Guti�rrez
+�
+                
+Contenido: El relevo se anuncia después de que la firma haya superado las cifras precovid y cuando la dueña de Zara, Massimo Dutti o Bershka ha registrado el mejor segundo trimestre de su historia en ventas La gran transición llega al mayor grupo textil del mundo, a Inditex, la compañía más capitalizada de la bolsa española. El encargado de detallar el secreto mejor guardado –puesto que el relevo se ha ido gestando a lo largo de meses desde la más absoluta discreción- ha sido su actual presidente. Pablo Isla renunciará al cargo el próximo 31 de marzo. El 1 de abril de 2022 Marta Ortega, asumirá la presidencia no ejecutiva de un grupo que la ha visto nacer y en el que ha venido desarrollando su actividad profesional durante quince años. Los últimos, llegando a supervisar el día a día del producto, de la propuesta de moda de Zara, buque insignia del grupo.Pablo Isla dejará su puesto como presidente y miembro del consejo de administración y de su comisión ejecutiva diecisiete años después de incorporarse a Inditex procedente de Altadis (llevó la batuta de la antigua Tabacalera entre 2000 y 2005). Fue ese año, en pleno 'boom' económico en España, cuando Isla se incorporó a la firma textil como vicepresidente y CEO en sustitución de José María Castellano. Seis años después él mismo relevaría al fundador, Amancio Ortega, en la presidencia. Un balance positivo que Pablo Isla atribuye al equipo. Esa ha sido una de las dos ideas que han marcado su intervención ante los medios: Inditex es una empresa de equipos... y lo que el grupo alumbra ahora es una transición.Durante el periodo de Isla al frente de Inditex la compañía ha multiplicado prácticamente por siete su valor en bolsa para convertirse en la firma más valiosa del Ibex 35 y se ha impulsado la internacionalización del grupo y su proceso de digitalización hasta situar el negocio online como una de las palancas del grupo. Cuando acabe este ejercicio, la venta por Internet superará el 25% de los ingresos totales. Transición implica continuidad, implica que Amancio Ortega y Pablo Isla han blindado este proceso –del todo consensuado entre ambos- y que tratan de garantizan la continuidad del modelo de negocio.Inditex da, además, un paso al frente en su modernización al adoptar un esquema corporativo más parecido al de las compañías anglosajonas, separando la labor del presidente no ejecutivo de la del CEO, en este caso, la de Marta Ortega de la de Óscar García Maceiras. En su primera intervención García Maceiras ha dejado claro que los cambios en la cúpula no supondrán un cambio en el modelo de negocio de la firma con sede en Arteixo, Coruña.
+
+
+La Informacion-3 
+T�tulo: 
+Podcast | "Con Maceiras el ambiente de los directivos de Inditex ser� m�s dulce"
+Fecha: 
+2021-12-04T04:30:00+01:00
+Autor: 
+
+Ingrid Guti�rrez
+�
+                
+Contenido: Xabier R. Blanco, periodista y coautor de 'Amancio Ortega: de cero a Zara' analiza el relevo en la cúpula de la multinacional textil, las implicaciones del nuevo modelo y la salida de Pablo Isla del grupoEl mayor grupo textil a nivel mundial y la compañía más capitalizada de toda la bolsa española, Inditex, se ha embarcado en una revolución con los cambios anunciados en su cúpula, que pasan por que Marta Ortega asuma la presidencia no ejecutiva del grupo a partir del próximo mes de abril. Óscar García Maceiras es desde esta semana nuevo Consejero Delegado y ambos se verán respaldados por un comité de dirección que ha visto la luz en medio del gran relevo y al que se incorpora también Carlos Crespo, el hasta ahora CEO. El movimiento, que se fraguó en la más absoluta discreción y ha ido acompañado de la inesperada salida de Pablo Isla de la firma. El presidente ejecutivo de Inditex dejará los mandos el próximo 31 de marzo. Xabier R. Blanco es periodista y coautor del libro 'Amancio Ortega: de cero a Zara', un trabajo de investigación que escribió en 2003 junto a Jesús Salgado cuando el público general conocía muy poco sobre Amancio Ortega, "alérgico a salir en las fotografías" y "era muy difícil que te contasen algo" de Inditex, explica. Blanco cree que el hecho de que García Maceiras asuma las riendas del grupo puede servir para que "el ambiente de trabajo en los niveles superiores (del grupo) se más dulce", puesto que disipará tensiones entre la parte de la ejecutiva y la familia Ortega. De Pablo Isla, que ha conseguido unos números apabullantes, ha impulsado la internacionalización y ha acometido todo el proceso de digitalización -cuando concluya este año alrededor del 25% de la facturación de la multinacional provendrá de las ventas por Internet- asegura que "nunca llegó a enraizar en la sociedad ni con el empresariado gallego" y que tuvo que "bregar" con la cultura empresarial de Inditex. Entiende que la nueva estructura arropa bien a Marta Ortega y a García Maceiras y considera que la futura presidenta ejercerá un papel importante como embajadora del grupo.
+
+

@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-29
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-71 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-29 es el mismo artÌculo que la noticia EL MUNDO-71
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/01/61a77300e4d4d851278b45b7.html
+        - https://www.elmundo.es/espana/2021/12/03/61aa0143fdddff965d8b45b8.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/01
+        - 2021/12/03
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-71'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo artÌculo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-71'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-29': {'EL MUNDO-71'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-71
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-29 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-71 es el mismo artÌculo que la noticia EL MUNDO-29
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/03/61aa0143fdddff965d8b45b8.html
+        - https://www.elmundo.es/espana/2021/12/01/61a77300e4d4d851278b45b7.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m·ximo 7 dÌas de diferencia
+     Tienen 2 dÌas de diferencia: 
+        - 2021/12/03
+        - 2021/12/01
+
+Cumple todos los aspectos, sÌ se trata de una noticia similar.
+
+Comprobando si el mismo artÌculo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-29'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-29': {'EL MUNDO-71'}, 'EL MUNDO-71': {'EL MUNDO-29'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-29', 'EL MUNDO-71'}
+{'EL MUNDO-29': {'EL MUNDO-71'}, 'EL MUNDO-71': {'EL MUNDO-29'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********RelaciÛn n˙mero noticia cluster - noticia***********
+
+0: EL MUNDO-29
+1: EL MUNDO-71
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.76559715]
+ [0.67331671 0.        ]]
+
+***********Cantidad de informaciÛn de una noticia a otra***********
+
+         EL MUNDO-29 -> EL MUNDO-71: 0.7655971479500892. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-29 para aÒadirla a la noticia EL MUNDO-71 :251
+         EL MUNDO-71 -> EL MUNDO-29: 0.6733167082294265. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-29 para aÒadirla a la noticia EL MUNDO-71 :250
+
+         EL MUNDO-71 -> EL MUNDO-29: 0.6733167082294265. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-71 para aÒadirla a la noticia EL MUNDO-29 :250
+         EL MUNDO-29 -> EL MUNDO-71: 0.7655971479500892. Cantidad de informaciÛn extraÌda de la noticia EL MUNDO-71 para aÒadirla a la noticia EL MUNDO-29 :251
+
+
+***********      InformaciÛn de las noticias     ***********
+
+EL MUNDO-29 
+TÌtulo: 
+Meritxell Batet deja en manos de la DirecciÛn de ComunicaciÛn del Congreso la queja de los jefes de prensa contra algunos medios | EspaÒa
+Fecha: 
+2021-12-03T12:39:19Z
+Autor: MARISA CRUZ
+Contenido: La presidenta del Congreso de los Diputados, Meritxell Batet, defiende el respeto a la libertad de prensa y de expresi√≥n en la la C√°mara Baja y deja en manos de la Direcci√≥n de Comunicaci√≥n del Congreso y de la Secretar√≠a General de la que depende la respuesta al escrito firmado por los jefes de prensa de 12 formaciones parlamentarias quej√°ndose de "faltas de respeto" por parte de "algunas personas acreditadas" que "generan tensi√≥n" en las ruedas de prensa y en los encuentros entre periodistas y portavoces parlamentarios.Batet se ha manifestado en estos t√©rminos, este viernes, en una entrevista en RNE realizada con motivo de las jornadas de puertas abiertas del Congreso previas a la celebraci√≥n del D√≠a de la Constituci√≥n.El escrito de los jefes de comunicaci√≥n del PSOE, Unidas Podemos, ERC, Junts, PDeCAT, Bildu, PNV,M√°s Pa√≠s-Equo, Comprom√≠s, Nueva Canarias, CUP y BNG fue remitido, como corresponde, a la Secretar√≠a General del Congreso de la que depende la Direcci√≥n de Comunicaci√≥n y cuyas competencias son independientes de las que ejercen Batet y la Mesa de la C√°mara.El escrito ya ha sido objeto de un contacto entre la directora del servicio de Comunicaci√≥n de la C√°mara y el secretario general del Congreso, pero, de momento, no ha habido respuesta oficial al mismo.La presidenta del Congreso se ha mostrado convencida de que la Direcci√≥n de Comunicaci√≥n y la Secretar√≠a General tomar√°n en su caso las decisiones oportunas actuando con "independencia y profesionalidad", y ha hecho hincapi√© en que en la C√°mara seguir√° respet√°ndose la libertad de prensa y la libertad de todos los diputados.
+
+
+EL MUNDO-71 
+TÌtulo: 
+El PSOE y sus socios piden vetar en el Congreso a los medios que "rompen el clima de cordialidad" | EspaÒa
+Fecha: 
+2021-12-01T13:55:52Z
+Autor: EL MUNDO
+Contenido: El PSOE y sus socios parlamentarios, a trav√©s de sus respectivos equipos de comunicaci√≥n, han registrado un escrito dirigido a la Secretar√≠a General del Congreso de los Diputados reclamando a la C√°mara "tomar medidas para restablecer el buen funcionamiento de las ruedas de prensa sin poner en riesgo la libertad de informaci√≥n y el buen clima que siempre ha existido".La demanda de PSOE, ERC, Unidas Podemos, PNV, Bildu, JxCat, PDeCAT, M√°s Pa√≠s-Equo, CUP,Comprom√≠s, BNG y Nueva Canarias argumentan su "preocupaci√≥n" ante las "intolerables faltas de respeto" hacia los representantes de algunos grupos parlamentarios por parte de "personas acreditadas en la sala" de prensa que "rompen el clima de cordialidad y decoro entre periodistas y personal de los grupos pol√≠ticos".Con esta reclamaci√≥n hacen referencia a las preguntas e interpelaciones que medios como Estado de Alarma o 7NN destinan a los portavoces, preferentemente de la izquierda, en el √°mbito parlamentario y que, casi invariablemente, se les responde con el argumento de que son "burbujas de la extrema derecha" en la que no desean participar.En opini√≥n de los grupos firmantes del escrito, los citados medios exhiben un comportamiento que "desvirt√∫a las ruedas de prensa y genera un clima de tensi√≥n que dificulta el trabajo del resto de periodistas que realizan su labor con profesionalidad". Y a ello a√±aden: "Lo que deber√≠an ser comparecencias de actualidad parlamentaria se est√°n convirtiendo en careos ideol√≥gicos".Esta situaci√≥n, en opini√≥n de los firmantes, se traduce en "intolerables faltas de respeto hacia el personal de algunos grupos parlamentarios que rompen el clima de cordialidad y decoro entre periodistas, pol√≠ticos y personal de los grupos". En este sentido, el PSOE y sus aliados aseguran que esta situaci√≥n "no se corresponde con el c√≥digo deontol√≥gico ni con los principios de actuaci√≥n acordados por los y las profesionales del ramo".Es por esto, que los servicios de prensa de las fuerzas que firman esta declaraci√≥n urgen a la C√°mara a "tomar medidas con el objetivo de restablecer el buen funcionamiento de las ruedas de prensa en el Congreso, sin poner en riesgo la libertad de informaci√≥n y el buen clima en la sala de prensa".Fuentes pr√≥ximas a la secretar√≠a general del Congreso advierten de que no es posible denegar acreditaci√≥n a personas que confirman su pertenencia a medios de comunicaci√≥n.
+
+

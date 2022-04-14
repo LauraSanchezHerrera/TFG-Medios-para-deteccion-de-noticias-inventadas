@@ -1,0 +1,137 @@
+Estudio de la noticia EL MUNDO-40
+
+Pertenece a la carpeta de dependencias: 0
+
+La noticia es similar a la noticia EL MUNDO-748 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-40 es el mismo art�culo que la noticia EL MUNDO-748
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/02/61a882b321efa0f63a8b45e6.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab432afdddffc9448b4585.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+La noticia es similar a la noticia EL MUNDO-57 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-40 es el mismo art�culo que la noticia EL MUNDO-57
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/02/61a882b321efa0f63a8b45e6.html
+        - https://www.elmundo.es/espana/2021/12/04/61ab432afdddffc9448b4585.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/02
+        - 2021/12/04
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-748', 'EL MUNDO-57'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+ - Comparo las noticias EL MUNDO-748 y EL MUNDO-57:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+ - Comparo las noticias EL MUNDO-57 y EL MUNDO-748:
+     Son la misma noticia, por lo tanto solo tendr� en cuenta una de ellas.
+
+Hay 1 noticias similares:
+{'EL MUNDO-748'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-40': {'EL MUNDO-748'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-748
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-40 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-748 es el mismo art�culo que la noticia EL MUNDO-40
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/espana/2021/12/04/61ab432afdddffc9448b4585.html
+        - https://www.elmundo.es/espana/2021/12/02/61a882b321efa0f63a8b45e6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/04
+        - 2021/12/02
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+La noticia es similar a la noticia EL MUNDO-57 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-748 es el mismo art�culo que la noticia EL MUNDO-57
+     Se trata de la misma noticia: 
+        - https://www.elmundo.es/espana/2021/12/02/61a882b321efa0f63a8b45e6.html
+        - https://www.elmundo.es/espana/2021/12/02/61a882b321efa0f63a8b45e6.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Se trata de la misma fecha: 
+        - 2021/12/02
+        - 2021/12/02
+
+Demasiados d�as de diferencia o se trata del mismo art�culo.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Este articulo ya se ha tenido en cuenta.
+
+Hay 1 noticias similares:
+{'EL MUNDO-40'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-40': {'EL MUNDO-748'}, 'EL MUNDO-748': {'EL MUNDO-40'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-40', 'EL MUNDO-748'}
+{'EL MUNDO-40': {'EL MUNDO-748'}, 'EL MUNDO-748': {'EL MUNDO-40'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-40
+1: EL MUNDO-748
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75644444]
+ [0.80627923 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-40 -> EL MUNDO-748: 0.7564444444444445. Cantidad de informaci�n extra�da de la noticia EL MUNDO-40 para a�adirla a la noticia EL MUNDO-748 :262
+         EL MUNDO-748 -> EL MUNDO-40: 0.8062792251169004. Cantidad de informaci�n extra�da de la noticia EL MUNDO-40 para a�adirla a la noticia EL MUNDO-748 :278
+
+         EL MUNDO-748 -> EL MUNDO-40: 0.8062792251169004. Cantidad de informaci�n extra�da de la noticia EL MUNDO-748 para a�adirla a la noticia EL MUNDO-40 :278
+         EL MUNDO-40 -> EL MUNDO-748: 0.7564444444444445. Cantidad de informaci�n extra�da de la noticia EL MUNDO-748 para a�adirla a la noticia EL MUNDO-40 :262
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-40 
+T�tulo: 
+Una ciclog�nesis explosiva amenaza Galicia y otras 12 provincias est�n en alerta hoy por nevadas y fuertes vientos | Espa�a
+Fecha: 
+2021-12-04T10:33:28Z
+Autor: EUROPA PRESS
+Contenido: La Agencia Estatal de Meteorología (AEMET) pronostica que hoy sábado se registrarán precipitaciones localmente fuertes en Galicia y localmente fuertes o persistentes en el área cantábrica y que soplará viento fuerte o con intervalos de fuerte en el Cantábrico, Alborán, Galicia, Ampurdán y Baleares.En total, trece provincias del norte y del este tienen hoy riesgo (aviso amarillo) o riesgo importante (aviso naranja) por fenómenos meteorológicos adversos como nevadas, fuerte oleaje y vientos que podrán alcanzar los 80 kilómetros por hora. En concreto, Huesca, Zaragoza y Lérida tendrán aviso naranja porque podrán acumular de cinco a 20 centímetros de nieve a partir de 700 metros y la nevada seguirá al día siguiente. Además, en otras zonas de Lérida también tendrán aviso amarillo, por acumulación de 15 centímetros a partir de la misma cota. Mientras que el aviso por fenómenos costeros afectará, con riesgo importante a Gerona, donde se espera viento del norte y del noroeste con fuerza 8 y olas de 3 a 4 metros. Con nivel amarillo por vientos de norte o de oeste con fuerza 7 u 8 y mar combinada de 4 a 5 metros estarán las provincias de La Coruña, Lugo, Asturias, Cantabria, Vizcaya, Guipúzcoa, mientras que el viento del oeste con fuerza 7 y olas de 2 a 3 metros tendrá en riesgo a Mallorca y Menorca.La situación de riesgo está motivada por la llegada de un frente que atravesará la Península y Baleares de noroeste a sureste a lo largo de este día, aunque se irá debilitando. En el tercio norte este será un sábado de cielos nubosos o cubierto con precipitaciones que podrían ser localmente fuertes al principio en el oeste de Galicia y fuertes o persistentes en la segunda mitad del día en el área cantábrica. Con menos intensidad se desplazarán a los sistemas Central e Ibérico y, con menor probabilidad, a áreas de la meseta Norte, Ebro medio y montañas del sureste, así como al noreste de Baleares. Mientras, en el entorno de Alborán y, al principio de la jornada, en todo el sur y en el este de la Península, la nubosidad tenderá a aumentar a lo largo del día. En cuanto a Canarias, se esperan intervalos nubosos que irán despejándose aunque existe una baja probabilidad de precipitaciones débiles en las islas más occidentales. La cota de nieve se situará al principio del día en Pirineos en unos 2.000 metros pero después descenderá hasta los 800 o 900 metros; en la cordillera Cantábrica y norte del sistema Ibérico también comenzará en 2.000 metros para caer al final del día a unos 1.000 a 1.200 metros.La AEMET no descarta bancos de niebla matinales en las depresiones del noreste peninsular y prevé que las temperaturas máximas suban en el sistema Central, tercio oriental peninsular y Baleares. En cuanto a las temperaturas mínimas, informa de que subirán en Baleares, en el este de Cataluña, Pirineos y oeste de la Meseta, con heladas débiles en los sistemas montañosos y áreas dispersas de Castilla-La Mancha. En el resto del país se esperan pocos cambios térmicos. Por último, respecto a los vientos, espera que soplen fuertes o con intervalos de fuerte en el oeste en el Cantábrico y Alborán, del suroeste en el litoral norte de Galicia y del noroeste en Ampurdán y Baleares. En el resto de la Península predominarán del oeste o del noreste y habrá alisios en Canarias.
+
+
+EL MUNDO-748 
+T�tulo: 
+Llega el f�o polar con alerta en varias comunidades por nevadas de hasta 30 cent�metros y vientos de 100 kil�metros por hora | Espa�a
+Fecha: 
+2021-12-02T08:24:27Z
+Autor: EFE
+Contenido: Doce comunidades y la ciudad autónoma de Melilla están este jueves en alerta, seis de ellas -Aragón, Asturias, Baleares, Cantabria, Castilla y León y Cataluña- en nivel naranja (riesgo importante) por nevadas de hasta 30 centímetros, viento con rachas de 100 kilómetros por hora y olas de 4 a 5 metros.Según informa la Agencia Estatal de Meteorología (Aemet) en su página web, la alerta naranja por nevadas afecta a las cordilleras asturiana y castellano-leonesa y a Cantabria, donde en esta jornada se esperan acumulaciones de nieve de entre 25 y 30 centímetros de espesor por encima de los 700-800 a 1.000 metros en 24 horas. En cuanto al viento, hay alerta naranja en Cataluña por rachas de hasta 100 kilómetros por hora, sobre todo en el Pirineo catalán y también en la provincia de Huesca, en la comunidad de Aragón. En la costa de Girona y en la isla de Menorca la alerta naranja es por viento de fuerza 8 a 9 y olas de 4 a 5 metros, que en el caso de la isla balear podrían alcanzar puntualmente los 10 metros de altura. Respecto a la alerta amarilla (riesgo), en Andalucía está activada por nieve de dos centímetros de espesor en Sierra Nevada y viento de 70 kilómetros por hora en las costas de Granada y Almería, donde están previstas además olas de hasta 3 metros, al igual que en el litoral de Málaga y en la ciudad autónoma de Melilla.Aragón, Cataluña, Navarra y La Rioja tienen activada la alerta amarilla por nevadas de entre 8 y 10 centímetros de espesor y en cuanto a la lluvia, están en alerta amarilla en Asturias, Baleares, Cantabria, Navarra y País Vasco por acumulaciones de hasta 40 litros por metro cuadrado en 12 horas, más intensas y abundantes en la cornisa Cantábrica.Por su parte, el viento pone en aviso amarillo a Andalucía, Baleares, Valencia y a la ciudad autónoma de Melilla por rachas que oscilarán entre los 70 y los 90 kilómetros por hora y que serán especialmente intensas en el litoral catalán, costa valenciana y en la provincia aragonesa de Teruel. El mal estado de la mar activa la alerta amarilla en las costas de Galicia, Comunidad Valenciana, buena parte del litoral de Cataluña y de las islas Baleares y en la ciudad autónoma de Melilla por mar combinada, viento de fuerza 7 y olas que pueden alcanzar los 4 metros de altura. Meteorología avisa de que con la alerta naranja existe riesgo meteorológico importante, con cierto grado de peligro para las actividades usuales, y con la amarilla no existe riesgo meteorológico para la población en general, aunque sí para alguna actividad concreta.
+
+

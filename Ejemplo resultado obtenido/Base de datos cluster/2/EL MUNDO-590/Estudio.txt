@@ -1,0 +1,102 @@
+Estudio de la noticia EL MUNDO-590
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-593 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-590 es el mismo art�culo que la noticia EL MUNDO-593
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/11/29/61a52e35fdddff9c658b459c.html
+        - https://www.elmundo.es/pais-vasco/2021/12/01/61a66902fdddffa0688b4587.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/11/29
+        - 2021/12/01
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Se han encontrado las siguientes noticias parecidas:
+{'EL MUNDO-593'}
+Pero en el caso de haber varias es posible que entre ellas sean el mismo art�culo.
+
+Comprobando si es el caso...
+Hay 1 noticias similares:
+{'EL MUNDO-593'}
+
+Tras buscar las noticias similares de la noticia buscada, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-590': {'EL MUNDO-593'}}
+
+Bucle recursivo para encontrar las dependencias de cada noticia que salga similar:
+Estudio de la noticia EL MUNDO-593
+
+Pertenece a la carpeta de dependencias: 1
+
+La noticia es similar a la noticia EL MUNDO-590 teniendo en cuenta la NCD. Pero hay que realizar las siguientes comprobaciones:
+ - Comprobando si la noticia EL MUNDO-593 es el mismo art�culo que la noticia EL MUNDO-590
+     Se trata de noticias distintas: 
+        - https://www.elmundo.es/pais-vasco/2021/12/01/61a66902fdddffa0688b4587.html
+        - https://www.elmundo.es/pais-vasco/2021/11/29/61a52e35fdddff9c658b459c.html
+
+ - Comprobando si las fechas son relativamente del mismo tiempo, m�ximo 7 d�as de diferencia
+     Tienen 2 d�as de diferencia: 
+        - 2021/12/01
+        - 2021/11/29
+
+Cumple todos los aspectos, s� se trata de una noticia similar.
+
+Comprobando si el mismo art�culo ya se ha tenido en cuenta...
+Hay 1 noticias similares:
+{'EL MUNDO-590'}
+
+Hasta el momento, hemos obtenido las siguientes dependencias:
+{'EL MUNDO-590': {'EL MUNDO-593'}, 'EL MUNDO-593': {'EL MUNDO-590'}}
+
+Tras el estudio se han encontrado 0 noticias nuevas similares.
+No hay noticias nuevas que estudiar.
+
+Hay 1 noticias que tienen que ver con la noticia buscada:
+{'EL MUNDO-593', 'EL MUNDO-590'}
+{'EL MUNDO-590': {'EL MUNDO-593'}, 'EL MUNDO-593': {'EL MUNDO-590'}}
+
+Paso a calcular la matriz de distancias del conjunto de noticias que he obtenido.
+Y a crear el cluster a partir de la matriz de distancias calculada.
+
+***********Relaci�n n�mero noticia cluster - noticia***********
+
+0: EL MUNDO-593
+1: EL MUNDO-590
+
+***********    Matriz de distancias calculada    ***********
+
+[[0.         0.75312314]
+ [0.78518908 0.        ]]
+
+***********Cantidad de informaci�n de una noticia a otra***********
+
+         EL MUNDO-593 -> EL MUNDO-590: 0.7531231409875074. Cantidad de informaci�n extra�da de la noticia EL MUNDO-593 para a�adirla a la noticia EL MUNDO-590 :403
+         EL MUNDO-590 -> EL MUNDO-593: 0.7851890756302521. Cantidad de informaci�n extra�da de la noticia EL MUNDO-593 para a�adirla a la noticia EL MUNDO-590 :397
+
+         EL MUNDO-590 -> EL MUNDO-593: 0.7851890756302521. Cantidad de informaci�n extra�da de la noticia EL MUNDO-590 para a�adirla a la noticia EL MUNDO-593 :397
+         EL MUNDO-593 -> EL MUNDO-590: 0.7531231409875074. Cantidad de informaci�n extra�da de la noticia EL MUNDO-590 para a�adirla a la noticia EL MUNDO-593 :403
+
+
+***********      Informaci�n de las noticias     ***********
+
+EL MUNDO-593 
+T�tulo: 
+Los presos de ETA anuncian el fin de los homenajes p�blicos pero seguir�n con recibimientos "discretos" | Pa�s Vasco
+Fecha: 
+2021-11-29T21:32:45Z
+Autor: JOSEAN IZARRA
+Contenido: Las calles y plazas del País Vasco y de Navarra no volverán a ser escenarios para los ongi etorris organizados para homenajear a los presos de ETA cuando cumplen sus penas de cárcel. El colectivo que agrupa a los miembros de la banda encarcelados ha solicitado este lunes, en un comunicado, a sus familiares que les organicen actos "privados y discretos" en su retorno.Casi 200 presos de la banda cumplen sus condenas en cárceles españolas y, como aseguró el líder de EH Bildu, Arnaldo Otegi, el 18 de octubre en Eibar, su puesta en libertad constituye la prioridad de la coalición abertzale que apoya al Gobierno dePedro Sánchez.El autodenominado Colectivo de Presas y Presos Políticos Vascos (EPPK) ha hecho público un comunicado en los medios Naiz y Berria en el que pone fin a loscientos de homenajes públicos realizados por miles de simpatizantes de la izquierda abertzale a condenados por terrorismo.Otegi ha afirmado que la petición es una aportación "indudable" para la convivencia democrática. "Construir puentes y no trincheras es una condición indispensable para la convivencia democrática. La decisión política hecha pública hoy por EPPK es una aportación de indudable significado y valor en esa dirección", ha dicho Otegi en redes sociales.Sólo en2021, y según los datos del Colectivo de Víctimas del Terrorismo (Covite), se realizaron30 de estos homenajes rechazados, expresamente, por las asociaciones de víctimas y por todos los partidos vascos excepto Sortu, las siglas de la izquierda abertzale lideradas por Otegi.Hasta este lunes, Otegi y sus simpatizantes defendían que los homenajes a etarras formaban parte de un proceso por la "convivencia y la paz" y no contra las víctimas del terrorismo. Sortu, tras la denuncia realizada por Covite en agosto de 2021 por el acto de apoyo al etarra Agustín Almaraz, acusó a quienes se oponen a estos homenajes de utilizar un relato de "vencedores y vencidos".Los presos de ETA que ahora renuncian expresamente a sus homenajes comparten las mismas palabras que los dirigentes de Sortu, pero reconocen que los actos que les convertían en protagonistasprovocan "dolor" entre los familiares de las víctimas causadas por sus atentados."Aun aceptando que la persona presa que sale a la calle tras largos años y condiciones durísimas en prisión tiene derecho a recibir el abrazo de sus allegados, [esas víctimas] han expresado que los actos públicos de recibimientoles provocan dolor", señalan en su comunicado público los miembros de la banda que anunció en octubre de 2011el final de sus actos terroristas. Los presos de la banda reconocen que ese "dolor" se ha producido por "las acciones de nuestra militancia del pasado".Entonces permanecían encarcelados 595 presos en las prisiones españolas y otros 140 en cárceles francesas. A lo largo de la última década, 373 miembros de ETA han cumplido sus condenas y, en su gran mayoría, han sido recibido en sus pueblos con celebraciones callejeras que incluían el ondear las ikurriñas, las bengalas, las flores y hasta los aurreskus (baile tradicional vasco) de honor protagonizados por jóvenes.La petición de los presos de ETA se produce mes y medio después del acto celebrado en los jardines de Aiete por Arnaldo Otegi y Arkaitz Rodríguez, en el que los dos dirigentes de EH Bildu y Sortu, respectivamente, manifestaron que "sentían el dolor" producido a las víctimas de ETA y que "nunca" debía de haberse producido.Siete horas más tarde, Otegi en un acto con sus militantes en Eibar, establecía como prioridad de su estrategia política la puesta en libertad de los 200 presos de ETA y vinculaba la permanencia de Pedro Sánchez como presidente a este objetivo que incluía una reforma legal del Código Penal en la próxima legislatura.Desde 2018, el Gobierno de Pedro Sánchez ha facilitado el traslado a cárceles vascas de casi 80 presos de ETA, mientras que el resto cumplen sus condenas en las comunidades limítrofes. Hasta julio de 2017, los miembros de la banda no aceptaban el régimen penitenciario ni los beneficios penitenciarios que ahora reclaman para acelerar su salida de la cárcel.
+
+
+EL MUNDO-590 
+T�tulo: 
+EH Bildu ha votado a favor de los 'ongi etorri' en al menos cinco ayuntamientos vascos durante 2021 | Pa�s Vasco
+Fecha: 
+2021-12-01T01:08:41Z
+Autor: JOSEAN IZARRA
+Contenido: Sortu, el partido de la izquierda abertzale comandado por Arnaldo Otegi, reclamó este martes "expectativas de libertad" para los presos de ETA 24 horas después de que se hiciera público un comunicado en el que renunciaban a ser recibidos con homenajes públicos cuando cumplen sus condenas. La reclamación cursada por Arkaitz Rodríguez, el delfín de Arnaldo Otegi, se produce apenas dos semanas después de que EH Bildu votara en contra de la suspensión de los ongi etorri. Durante años, pero especialmente a lo largo de 2021, la coalición abertzale ha apoyado estos recibimientos y sólo en los últimos meses los ha respaldado en al menos cinco ayuntamientos y en los parlamentos del País Vasco y Navarra.La reclamación de una "reciprocidad" por el fin de los actos de exaltación también fue utilizada por los portavoces de Sare, la plataforma que reclama el traslado de todos los etarras al País Vasco y Navarra como paso previo a su puesta en libertad. El fin de los ongi etorri se produce después de que la izquierda abertzale avalara estos actos en ayuntamientos y parlamentos porque facilitaban la "reintegración" de los terroristas.El secretario general de Sortu, Arkaitz Rodríguez, fue el encargado este martes de reclamar como contrapartida al fin de los ongi etorri unas "expectativas de libertad" para el conjunto de los casi 200 miembros de ETA que cumplen sus condenas en las cárceles españolas. Rodríguez, mano derecha de Otegi en la coalición EH Bildu, quiso subrayar el "ejercicio cualitativo importante de empatía con las víctimas" realizado por el colectivo de presos que siguió las directrices de la banda hasta su desaparición en 2018 y que continúa articulado como un grupo homogéneo.Rodríguez, al igual que colectivos cercanos a los presos de ETA como Sare y Etxerat, reclama una "solución integral" para que los etarras salgan de la cárcel antes de los periodos estipulados en sus condenas y, como reconoció Arnaldo Otegi en Eibar el 18 de octubre, pretenden conseguir cambios legales para acelerar la libertad de los etarras con condenas de hasta 40 años de cumplimiento efectivo tras la modificación del Código Penal de 2003.El anuncio realizado por los presos de ETA de reconvertir los ongi etorri públicos en recibimientos "discretos y privados" responde, según el Colectivo de Víctimas del Terrorismo (Covite), a un "cálculo estratégico". El colectivo presidido por Consuelo Ordóñez ha denunciado todos y cada uno de los homenajes realizados a miembros de ETA y puso en marcha un observatorio para el seguimiento de las actividades de exaltación del terrorismo.Además, la Fundación Fernando Buesa, Gogoan-Memoria Digna y Elkarbizi propusieron en septiembre de 2020 una declaración tituladaLos victimarios en el espacio público,que incluía entre sus peticiones la supresión de los ongi etorri. El texto convertido en moción política ha sido debatido durante 2021 en los ayuntamientos de San Sebastián, Vitoria, Pamplona, Zarautz y Urnieta, donde recibió el respaldo de todos los partidos políticos excepto EH Bildu, que respaldó los homenajes. Arkaitz Rodríguez, en un debate en el Parlamento vasco el pasado 11 de noviembre, calificó los ongi etorri de "actos de recibimiento, celebración y expresión de alegría por la excarcelación de personas queridas".EH Bildu fijó un argumentario para defender los ongi etorri en cada uno de los debates políticos descartando que los organizara directamente y aludiendo a que eran una expresión de alegría y no una exaltación de la violencia. Dos argumentos rechazados por el resto de partidos y por las víctimas.
+
+
